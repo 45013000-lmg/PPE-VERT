@@ -1,0 +1,1770 @@
+   #[1]编辑本页 [2]Wikipedia (zh) [3]alternate [4]alternate [5]alternate
+   [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
+   [11]alternate [12]alternate [13]Wikipedia的Atom订阅
+
+   [14]跳转到内容
+
+   [ ] 主菜单
+   主菜单
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   导航
+     * [15]首页
+     * [16]分类索引
+     * [17]特色内容
+     * [18]新闻动态
+     * [19]最近更改
+     * [20]随机条目
+
+   帮助
+     * [21]帮助
+     * [22]维基社群
+     * [23]方针与指引
+     * [24]互助客栈
+     * [25]知识问答
+     * [26]字词转换
+     * [27]IRC即时聊天
+     * [28]联络我们
+     * [29]关于维基百科
+     * [30]特殊页面
+
+   [31]维基百科 自由的百科全书
+   [32]搜索
+   ____________________
+   (BUTTON) 搜索
+
+   [ ] 外观
+
+     * [33]资助维基百科
+     * [34]创建账号
+     * [35]登录
+
+   [ ] 个人工具
+     * [36]资助维基百科
+     * [37]创建账号
+     * [38]登录
+
+目录
+
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+     * [39]序言
+     * [40]1 相加原色
+     * [41]2 选择红绿蓝的生理原因
+     * [42]3 RGB颜色模型理论与应用的历史
+       (BUTTON) 开关RGB颜色模型理论与应用的历史子章节
+          + [43]3.1 摄影
+          + [44]3.2 彩色電視
+               o [45]3.2.1 彩色显示屏（近距離觀看）
+               o [46]3.2.2 大型彩色显示屏（遠距觀看）
+     * [47]4 RGB设备
+       (BUTTON) 开关RGB设备子章节
+          + [48]4.1 三原色光模仿真彩色显示
+          + [49]4.2 RGBW 模仿真彩色
+          + [50]4.3 光線遇上螢幕時
+     * [51]5 非线性
+     * [52]6 数值表示
+     * [53]7 几何表示
+     * [54]8 RGB颜色列表
+     * [55]9 计算机显示模式
+       (BUTTON) 开关计算机显示模式子章节
+          + [56]9.1 24比特模式
+          + [57]9.2 16色
+          + [58]9.3 16比特模式
+          + [59]9.4 32比特模式
+     * [60]10 网页安全颜色
+     * [61]11 参见
+     * [62]12 引用
+     * [63]13 外部链接
+
+   [ ] 开关目录
+
+三原色光模式
+
+   [ ] 66种语言
+     * [64]Afrikaans
+     * [65]العربية
+     * [66]Azərbaycanca
+     * [67]Беларуская
+     * [68]Български
+     * [69]বাংলা
+     * [70]Bosanski
+     * [71]Català
+     * [72]Čeština
+     * [73]Dansk
+     * [74]Ελληνικά
+     * [75]English
+     * [76]Esperanto
+     * [77]Español
+     * [78]Eesti
+     * [79]Euskara
+     * [80]فارسی
+     * [81]Suomi
+     * [82]Français
+     * [83]Frysk
+     * [84]Gàidhlig
+     * [85]Galego
+     * [86]עברית
+     * [87]हिन्दी
+     * [88]Hrvatski
+     * [89]Magyar
+     * [90]Հայերեն
+     * [91]Bahasa Indonesia
+     * [92]Ido
+     * [93]Íslenska
+     * [94]Italiano
+     * [95]日本語
+     * [96]한국어
+     * [97]Kurdî
+     * [98]Lietuvių
+     * [99]Latviešu
+     * [100]Олык марий
+     * [101]Македонски
+     * [102]മലയാളം
+     * [103]Nederlands
+     * [104]Norsk bokmål
+     * [105]Livvinkarjala
+     * [106]Polski
+     * [107]Português
+     * [108]Română
+     * [109]Русский
+     * [110]سنڌي
+     * [111]Srpskohrvatski / српскохрватски
+     * [112]සිංහල
+     * [113]Simple English
+     * [114]Slovenčina
+     * [115]سرائیکی
+     * [116]Slovenščina
+     * [117]Shqip
+     * [118]Српски / srpski
+     * [119]Svenska
+     * [120]Тоҷикӣ
+     * [121]ไทย
+     * [122]Türkçe
+     * [123]Татарча / tatarça
+     * [124]Українська
+     * [125]اردو
+     * [126]Tiếng Việt
+     * [127]吴语
+     * [128]文言
+     * [129]粵語
+
+   [130]编辑链接
+
+     * [131]条目
+     * [132]讨论
+
+   [ ] 不转换
+     * [133]不转换
+     * [134]简体
+     * [135]繁體
+     * [136]大陆简体
+     * [137]香港繁體
+     * [138]澳門繁體
+     * [139]大马简体
+     * [140]新加坡简体
+     * [141]臺灣正體
+
+     * [142]阅读
+     * [143]编辑
+     * [144]查看历史
+
+   [ ] 工具
+   工具
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   操作
+     * [145]阅读
+     * [146]编辑
+     * [147]查看历史
+
+   常规
+     * [148]链入页面
+     * [149]相关更改
+     * [150]上传文件
+     * [151]固定链接
+     * [152]页面信息
+     * [153]引用此页
+     * [154]获取短链接
+     * [155]下载二维码
+
+   打印/导出
+     * [156]下载为PDF
+     * [157]打印页面
+
+   在其他项目中
+     * [158]维基共享资源
+     * [159]维基数据项目
+
+   外观
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   本页使用了标题或全文手工转换
+   维基百科，自由的百科全书
+   [160][60px-Tango-nosources.svg.png]
+   此條目需要补充更多[161]来源。 (2017年5月19日)
+   请协助補充多方面[162]可靠来源以[163]改善这篇条目，[164]无法查证的内容可能會因為[165]异议提出而被移除。
+   致使用者：请搜索一下条目的标题（来源搜索：[166]"三原色光模式" —
+   [167]网页、[168]新闻、[169]书籍、[170]学术、[171]图像），以检查网络上是否存在该主题的更多可靠来源（[172]判定指引
+   ）。
+   [173][60px-Antistub.svg.png]
+   此條目需要擴充关于數值表示的内容。 (2013年6月9日)
+   请協助[174]改善这篇條目，更進一步的信息可能會在[175]討論頁或[176]扩充请求中找到。请在擴充條目後將此模板移除。
+   [177][250px-RGB_illumination.jpg]
+   相加色混合的表现。原色光投射到屏幕上，在相互重叠的地方显示出新的颜色；红色、绿色和蓝色以适当的强度组合可以产生白色。
+
+   三原色光模式（RGB color
+   model，又称RGB表色系统^[178][1]、RGB颜色模型、红绿蓝颜色模型，是一种[179]加色模型，将[180]红（Red）、[181
+   ]绿（Green）、[182]蓝（Blue）三[183]原色的色光以不同的比例相加混色，以合成產生各種色彩光。
+
+   RGB颜色模型的主要目的是在电子系统中检测，表示和显示图像，比如电视和电脑，利用大腦強制視覺生理模糊化（失焦），將紅綠藍三原色子像素合成為一色
+   彩像素，產生感知色彩（其實此[184]真彩色並非加色法所產生的合成色彩，原因為該三原色光從來沒有重疊在一起，衹是人類為了「想」看到色彩，大腦強
+   制眼睛失焦而形成。情況其實就有點像看那些 autostereograms
+   的[185]立體圖時，大腦與眼睛扭曲才能看到「想」看的立體影像的情況）。
+   紅綠藍三色模型在传统[186]摄影中也有应用。在电子时代之前，基于人类对颜色的感知，RGB颜色模型已经有了坚实的理论支撑。
+
+   RGB是一种依赖于设备的颜色空间：不同设备对特定RGB值的检测和重现都不一样，因为颜色物质（荧光剂或者染料）和它们对红、绿和蓝的单独响应水平随
+   着制造商的不同而不同，甚至是同样的设备不同的时间也不同。
+
+相加原色
+
+   [[187]编辑]
+   参见：[188]CMYK
+   [189][250px-%E9%A1%8F%E8%89%B2%E5%8A%A0%E6%B3%95.svg.png] 三原色光的相加：
+   红光加绿光为黄光
+   黄光加藍光为白光
+
+   光的三原色是[190]红色、[191]绿色和[192]蓝色，三种光相加会成为[193]白色光。這是由於人類有三種[194]視錐細胞分別對红、绿
+   和蓝光最敏感。
+
+   三原色光和[195]绘画中的“三原色”不同。绘画时用三种颜色[196]青色（Cyan）、[197]洋红色（Magenta）和[198]黄色（Y
+   ellow）以不同的比例配合，会产生许多种颜色。如果三种原色中最深的色料相加，理论上会成为[199]黑色，但实际上是深[200]灰色，因此需要
+   獨立的黑色顏料。三色顏料加上黑色（blacK）便是「CMYK色彩空間」。
+
+选择红绿蓝的生理原因
+
+   [[201]编辑]
+   参见：[202]原色
+
+   三原色的原理不是出于[203]物理原因，而是由于生理原因造成的。人的眼睛内有几种辨别颜色的锥形感光细胞，分别对[204]黄绿色、[205]绿色
+   和[206]蓝紫色（或称[207]靛色）的光最敏感（[208]波长分别为564、534和420纳米），如果辨别黄绿色的细胞受到的刺激略大于辨别
+   绿色的细胞，人的感觉是[209]黄色；如果辨别黃綠色的细胞受到的刺激大大高于辨别綠色的细胞，人的感觉是[210]红色。虽然三种细胞并不是分别对
+   红色、绿色和藍色最敏感，但这三种光可以分别对三种锥形细胞产生刺激。
+
+   不同的[211]生物眼中辨别颜色的细胞并不相同，例如[212]鸟类眼中有四种分别对不同波长光线敏感的细胞，而一般[213]哺乳动物只有两种，所
+   以对它们来说只有两种原色光。
+
+   既然“三原色的原理不是出于物理原因，而是由于生理原因造成的”，那么前段所说的“用三种原色的光以不同的比例加和到一起，形成各种颜色的光”显然就不
+   大合适。使用三原色并不足以重现所有的色彩，准确地说法应该是“将三原色光以不同的比例复合后，对人的眼睛可以形成与各种频率的可见光等效的色觉。”只
+   有那些在三原色的[214]色度所定义的[215]颜色三角内的颜色，才可以利用三原色的光以非负量相加混合得到。
+
+   例如，红光与绿光按某种比例复合，对三种锥状细胞刺激后产生的色觉可与眼睛对单纯的黄光的色觉等效。但决不能认为红光与绿光按某种比例复合后生成黄光，
+   或黄光是由红光和绿光复合而成的。
+
+RGB颜色模型理论与应用的历史
+
+   [[216]编辑]
+
+摄影
+
+   [[217]编辑]
+
+   早期的攝影都是以沖曬照片為主，所以是以減色法來達成。 到近代數碼攝影的流行，感光元件都以感受三原色的光來組成相片，到後來的[218]YUV。
+
+[219]彩色電視
+
+   [[220]编辑]
+
+彩色显示屏（近距離觀看）
+
+   [[221]编辑]
+
+   至今為止，所有的彩色显示屏都是應用三原色光加色技術，以RGB
+   三原色作為子像素構成一像素，由多個像素構成整個畫面。早期的彩色显示屏主要是以[222]陰極射線管（Cathode ray tube，CRT)
+   為主，其後是[223]液晶顯示器（英語：liquid-crystal display，LCD）都是。
+
+大型彩色显示屏（遠距觀看）
+
+   [[224]编辑]
+
+   大型彩色显示屏主要也應用三原色光加色技術，以 RGB 三原色 的LED構成一像素，由多個像素構成整個畫面。
+
+RGB设备
+
+   [[225]编辑]
+
+三原色光模仿真彩色显示
+
+   [[226]编辑]
+
+   紅綠藍的三原色光显示技術廣泛用于[227]电视和[228]计算机的显示器，利用紅、綠、藍三原色作為子像素組成的真色彩[229]像素，透過眼睛及
+   大腦的模糊化,「人類看到」不存在於顯示器上的感知色彩。最常見的有阴极射线管显示屏、LED显示屏、[230]液晶显示屏和[231]等离子显示屏等
+   。三种原色光在每一象素中以0-255
+   (2^8)強度组合成从全[232]黑色到全[233]白色之间各种不同的颜色光，目前在计算机硬件中采取每一象素用24bit（[234]位元）表示
+   的方法，所以三种原色光各分到8比特，每一种原色的[235]强度依照8比特的最高值2^8分为256个值。用这种方法可以组合16777216种颜色
+   。最新的顯示卡、显示屏及軟件，已可支援到 2^30 , 即可以產生出 1073741824種顏色。
+
+RGBW 模仿真彩色
+
+   [[236]编辑]
+
+   近年，有鑑於傳統RGB技術呈現純白色時不夠光亮及較為耗電，不少公司紛紛研發出沒有顏色過濾物料的子像素，形成純白色，並把有關技術稱為RGBW，如
+   [237]三星的[238]PenTile和[239]索尼的[240]WhiteMagic。
+
+光線遇上螢幕時
+
+   [[241]编辑]
+
+   近距離使用手機螢幕，在室內無光線干擾下，將不完全是白色的照明燈光投射在手機螢幕上，螢幕先形成最明顯的藍光，將照明燈靠近螢幕，再次形成範圍較廣的
+   淺綠加上邊緣小範圍紅光，把照明燈拉遠後，將這三種顏色混合一起變成白光，也能正確發覺RGB出現在使用的手機例子之一。
+
+非线性
+
+   [[242]编辑]
+
+   由于[243]gamma校正，在计算机显示设备上的颜色输出的强度通常不是直接正比于在图象文件中R,
+   G和B值。就是说，即使值0.5非常接近于0到1.0（完全强度）的一半，计算机显示器在显示 (0.5, 0.5,
+   0.5)时候的光强度通常（在标准2.2-gamma CRT/LCD上）是在显示 (1.0, 1.0,
+   1.0)时候的大约22%，而不是50%^[244][2]。
+
+数值表示
+
+   [[245]编辑]
+
+   一个颜色显示的描述是由三个[246]数值控制的，他分别为[247]R、[248]G、[249]B。但三个数值位为最大时，显示为白色，当三个数值
+   最小时，显示为黑色。
+
+   数值表示可以使用以下几种不同的方式：
+     * [250]浮点：从0到1之间可用的数来表示。
+     * [251]百分比：从0%到100%。
+     * [252]整数：使用0到255之间的一[253]字节（8比特）表示，通常表示为[254]十进制和[255]十六进制的数值。高端数字图像
+       设备通常会使用更大的整数以区分更精细的阶级来表示，比如0~1023（10bit）、0~65535（16bit），或更大。
+
+   例如红色在不同方式下的表示：
+
+   方式 RGB 表示
+   浮点 (1.0, 0.0, 0.0)
+   百分比 (100%, 0%, 0%)
+   八位数字 (255, 0, 0) 或
+   #FF0000 (十六进制)
+   十六位数字 (65535, 0, 0)
+
+   [256]RGB与[257]YUV转换公式 (RGB取值范围均为0~255)
+     * Y=0.299R＋0.587G＋0.114B ⁄ R=Y＋1.14V
+     * U=－0.147R－0.289G＋0.436B ⁄ G=Y－0.39U－0.58V
+     * V=0.615R－0.515G－0.100B ⁄ B=Y＋2.03U
+
+几何表示
+
+   [[258]编辑]
+   [259][250px-RGB_color_solid_cube.png]
+   RGB颜色模型映射到一个立方体上。水平的x轴代表红色，向左增加。y轴代表蓝色，向右下方向增加。竖直的z轴代表绿色，向上增加。原点代表黑色，遮挡
+   在立方体背面。
+
+   颜色通常都是用三种成分来定义的，不仅RGB颜色模型是这样，其它比如[260]CIELAB和[261]YUV也是如此。于是便采用三维空间来进行描
+   述，把三种成分的数值当做[262]欧几里得空间中普通[263]笛卡尔坐标系的坐标值。在RGB模型中使用0到1之间的非负数作为立方体的坐标值，将
+   原点（0,0,0）作为黑色，强度值沿坐标轴方向递增到达位于对角线（1,1,1）处的白色。
+
+   一个RGB组合（r,g,b）表示代表一个给定颜色的点在立方体内部、表面或者边上的三维坐标。这种表示方法使得在计算两个颜色相近程度时只需简单计算
+   它们之间的距离：距离越短颜色越接近。
+
+RGB颜色列表
+
+   [[264]编辑]
+   #FFCCCC #FFC0C0 #FF9999 #FF8080 #FF6666 #FF4040 #FF3333 #FF0000
+   #FFE5CC #FFE0C0 #FFCC99 #FFC080 #FFB266 #FFA040 #FF9933 #FF8000
+   #FFFFCC #FFFFC0 #FFFF99 #FFFF80 #FFFF66 #FFFF40 #FFFF33 #FFFF00
+   #FFFFE5 #FFFFE0 #FFFFCC #FFFFC0 #FFFFB2 #FFFFA0 #FFFF99 #FFFF80
+   #E5FFCC #E0FFC0 #CCFF99 #C0FFA0 #B2FF66 #A0FF40 #99FF33 #80FF00
+   #CCFFCC #C0FFC0 #99FF99 #80FF80 #66FF66 #40FF40 #33FF33 #00FF00
+   #E5FFE5 #E0FFE0 #CCFFCC #C0FFC0 #B2FFB2 #A0FFA0 #99FF99 #80FF80
+   #CCE5CC #C0E0C0 #99CC99 #80C080 #66B266 #40A040 #339933 #008000
+   #CCFFE5 #C0FFE0 #99FFCC #80FFC0 #66FFB2 #40FFA0 #33FF99 #00FF80
+   #CCFFFF #C0FFFF #99FFFF #80FFFF #66FFFF #40FFFF #33FFFF #00FFFF
+   #E5FFFF #E0FFFF #CCFFFF #C0FFFF #B2FFFF #A0FFFF #99FFFF #80FFFF
+   #CCE5E5 #C0E0E0 #99CCCC #80C0C0 #66B2B2 #40A0A0 #339999 #008080
+   #CCE5FF #C0E0FF #99CCFF #80C0FF #66B2FF #40A0FF #3399FF #0080FF
+   #CCCCFF #C0C0FF #9999FF #8080FF #6666FF #4040FF #3333FF #0000FF
+   #CCCCE5 #C0C0E0 #9999CC #8080C0 #6666B2 #4040A0 #333399 #000080
+   #E5E5FF #E0E0FF #CCCCFF #C0C0FF #B2B2FF #A0A0FF #9999FF #8080FF
+   #E5CCFF #E0C0FF #CC99FF #C080FF #B266FF #A040FF #9933FF #8000FF
+   #E5CCE5 #E0C0E0 #CC99CC #C080C0 #B266B2 #A040A0 #993399 #800080
+   #FFCCFF #FFC0FF #FF99FF #FF80FF #FF66FF #FF40FF #FF33FF #FF00FF
+   #FFE5FF #FFE0FF #FFCCFF #FFC0FF #FFB2FF #FFA0FF #FF99FF #FF80FF
+   #FFCCE5 #FFC0E0 #FF99CC #FF80C0 #FF66B2 #FF40A0 #FF3399 #FF0080
+   #FFE5E5 #FFE0E0 #FFCCCC #FFC0C0 #FFB2B2 #FFA0A0 #FF9999 #FF8080
+   #E5CCCC #E0C0C0 #CC9999 #C08080 #B26666 #A04040 #993333 #800000
+   #E5E5CC #E0E0C0 #CCCC99 #C0C080 #B2B266 #A0A040 #999933 #808000
+   #E5E5E5 #E0E0E0 #CCCCCC #C0C0C0 #B2B2B2 #A0A0A0 #999999 #808080
+   #FF0000 #CC0000 #C00000 #990000 #800000 #660000 #400000 #330000
+   #FF8000 #CC6600 #C06000 #994C00 #804000 #663300 #402000 #331900
+   #FFFF00 #CCCC00 #C0C000 #999900 #808000 #666600 #404000 #333300
+   #FFFF80 #CCCC66 #C0C060 #99994C #808040 #666633 #404020 #333319
+   #80FF00 #66CC00 #60C000 #4C9900 #408000 #336600 #204000 #193300
+   #00FF00 #00CC00 #00C000 #009900 #008000 #006600 #004000 #003300
+   #80FF80 #66CC66 #60C060 #4C994C #408040 #336633 #204020 #193319
+   #008000 #006600 #006000 #004C00 #004000 #003300 #002000 #001900
+   #00FF80 #00CC66 #00C060 #00994C #008040 #006633 #004020 #003319
+   #00FFFF #00CCCC #00C0C0 #009999 #008080 #006666 #004040 #003333
+   #80FFFF #66CCCC #60C0C0 #4C9999 #408080 #336666 #204040 #193333
+   #008080 #006666 #006060 #004C4C #004040 #003333 #002020 #001919
+   #0080FF #0066CC #0060C0 #004C99 #004080 #003366 #002040 #001933
+   #0000FF #0000CC #0000C0 #000099 #000080 #000066 #000040 #000033
+   #000080 #000066 #000060 #00004C #000040 #000033 #000020 #000019
+   #8080FF #6666CC #6060C0 #4C4C99 #404080 #333366 #202040 #191933
+   #8000FF #6600CC #6000C0 #4C0099 #400080 #330066 #200040 #190033
+   #800080 #660066 #600060 #4C004C #400040 #330033 #200020 #190019
+   #FF00FF #CC00CC #C000C0 #990099 #800080 #660066 #400040 #330033
+   #FF80FF #CC66CC #C060C0 #994C99 #804080 #663366 #402040 #331933
+   #FF0080 #CC0066 #C00060 #99004C #800040 #660033 #400020 #330019
+   #FF8080 #CC6666 #C06060 #994C4C #804040 #663333 #402020 #331919
+   #800000 #660000 #600000 #4C0000 #400000 #330000 #200000 #190000
+   #808000 #666600 #606000 #4C4C00 #404000 #333300 #202000 #191900
+   #808080 #666666 #606060 #4C4C4C #404040 #333333 #202020 #191919
+
+计算机显示模式
+
+   [[265]编辑]
+
+24比特模式
+
+   [[266]编辑]
+
+   每像素24位（bits per
+   pixel，bpp）编码的RGB值：使用三个8位无符号整数（0到255）表示红色、绿色和蓝色的强度。这是当前主流的标准表示方法，用于[267]
+   真彩色和[268]JPEG或者[269]TIFF等图像文件格式里的通用颜色交换。它可以产生一千六百万种颜色组合，对人類的眼睛来说，其中有許多顏
+   色已经是無法確切的分辨。
+
+   下图展示了24 bpp的RGB立方体的三个“完全饱和”面，它们被展开到平面上：
+     * (0, 0, 0)是[270]黑色
+     * (255, 255, 255)是[271]白色
+     * (255, 0, 0)是[272]红色
+     * (0, 255, 0)是[273]绿色
+     * (0, 0, 255)是[274]蓝色
+     * (255, 255, 0)是[275]黄色
+     * (0, 255, 255)是[276]青色或[277]水色
+     * (255, 0, 255)是[278]洋紅色
+
+   [279]黄色
+   （255,255,0） [280]绿色
+   (0,255,0) [281]青色或[282]水色
+   (0,255,255)
+   [283]红色
+   (255,0,0) [284][330px-RGBR.png] [285]蓝色
+   (0,0,255)
+   [286]红色
+   (255,0,0) [287]洋紅色
+   (255,0,255)
+
+   上述定义使用名為“全值域” RGB的约定。颜色值也经常被认为是取值于0到255之间，这可以被映射到其他数字编码。
+     * RGB 值使用0、255，三个“完全饱和”面离散化，可显示8种颜色
+
+   #FFFF00 #00FF00 #00FFFF
+   #FF0000 #000000 #0000FF
+   #FFFFFF #FF0000 #FF00FF
+     * RGB 值使用0、128、255，三个“完全饱和”面离散化，可显示20种颜色
+
+   #FFFF00 #80FF00 #00FF00 #00FF80 #00FFFF
+   #FF8000 #808000 #008000 #008080 #0080FF
+   #FF0000 #800000 #000000 #000080 #0000FF
+   #FFFFFF #FFFFFF #800000 #800080 #8000FF
+   #FFFFFF #FFFFFF #FF0000 #FF0080 #FF00FF
+     * RGB 值使用0、64、128、192、255，三个“完全饱和”面离散化，可显示62种颜色
+
+   #FFFF00 #C0FF00 #80FF00 #40FF00 #00FF00 #00FF40 #00FF80 #00FFC0 #00FFFF
+   #FFC000 #C0C000 #80C000 #40C000 #00C000 #00C040 #00C080 #00C0C0 #00C0FF
+   #FF8000 #C08000 #808000 #408000 #008000 #008040 #008080 #0080C0 #0080FF
+   #FF4000 #C04000 #804000 #404000 #004000 #004040 #004080 #0040C0 #0040FF
+   #FF0000 #C00000 #800000 #400000 #000000 #000040 #000080 #0000C0 #0000FF
+   #FFFFFF #FFFFFF #FFFFFF #FFFFFF #400000 #400040 #400080 #4000C0 #4000FF
+   #FFFFFF #FFFFFF #FFFFFF #FFFFFF #800000 #800040 #800080 #8000C0 #8000FF
+   #FFFFFF #FFFFFF #FFFFFF #FFFFFF #C00000 #C00040 #C00080 #C000C0 #C000FF
+   #FFFFFF #FFFFFF #FFFFFF #FFFFFF #FF0000 #FF0040 #FF0080 #FF00C0 #FF00FF
+     * RGB 值使用0、51、104、153、204、255，三个“完全饱和”面离散化，可显示92种颜色
+
+   #FFFF00 #CCFF00 #99FF00 #66FF00 #33FF00 #00FF00 #00FF33 #00FF66 #00FF99
+   #00FFCC #00FFFF
+   #FFCC00 #CCCC00 #99CC00 #66CC00 #33CC00 #00CC00 #00CC33 #00CC66 #00CC99
+   #00CCCC #00CCFF
+   #FF9900 #CC9900 #999900 #669900 #339900 #009900 #009933 #009966 #009999
+   #0099CC #0099FF
+   #FF6600 #CC6600 #996600 #666600 #336600 #006600 #006633 #006666 #006699
+   #0066CC #0066FF
+   #FF3300 #CC3300 #993300 #663300 #333300 #003300 #003333 #003366 #003399
+   #0033CC #0033FF
+   #FF0000 #CC0000 #990000 #660000 #330000 #000000 #000033 #000066 #000099
+   #0000CC #0000FF
+   #FFFFFF #FFFFFF #FFFFFF #FFFFFF #FFFFFF #330000 #330033 #330066 #330099
+   #3300CC #3300FF
+   #FFFFFF #FFFFFF #FFFFFF #FFFFFF #FFFFFF #660000 #660033 #660066 #660099
+   #6600CC #6600FF
+   #FFFFFF #FFFFFF #FFFFFF #FFFFFF #FFFFFF #990000 #990033 #990066 #990099
+   #9900CC #9900FF
+   #FFFFFF #FFFFFF #FFFFFF #FFFFFF #FFFFFF #CC0000 #CC0033 #CC0066 #CC0099
+   #CC00CC #CC00FF
+   #FFFFFF #FFFFFF #FFFFFF #FFFFFF #FFFFFF #FF0000 #FF0033 #FF0066 #FF0099
+   #FF00CC #FF00FF
+
+   使用每原色8-比特的全值域RGB可以有256级别的白-灰-黑深浅变化，255个级别的红色、绿色和蓝色（和它们的等量混合）的深浅变化，但是其他[
+   288]色相的深浅变化要少一些。由于[289]gamma校正，256级别不表示同等间隔的强度。
+
+   典型使用上，[290]数字视频的RGB不是全值域的。视频RGB是有比例和偏移量的约定，即 (16, 16, 16)是[291]黑色，(235,
+   235, 235)是[292]白色。例如，这种比例和偏移量用在了[293]CCIR 601的数字RGB定义中。
+
+16色
+
+   [[294]编辑]
+
+   在这种模式中有16种基本颜色，它们分别是：
+   [295]名称 [296]英语 [297]颜色 色光 [298]色料 [299]色相 [300]十六进制码 [301]MS-DOS
+   Ｒ Ｇ Ｂ Ｃ Ｍ Ｙ Ｋ 角度 飽和 明度
+   [302]红色 Red 255 0 0 0 100 100 0 0° 100% 100% #FF0000 12
+   [303]黄色 Yellow 255 255 0 0 0 100 0 60° 100% 100% #FFFF00 14
+   [304]蘋果綠 Lime 0 255 0 100 0 100 0 120° 100% 100% #00FF00 10
+   [305]水蓝或[306]青色 Aqua / Cyan 0 255 255 100 0 0 0 180° 100% 100% #00FFFF
+   11
+   [307]藍色 Blue 0 0 255 100 100 0 0 240° 100% 100% #0000FF 9
+   [308]品紅或[309]洋紅色 Fuchsia / Magenta 255 0 255 0 100 0 0 300° 100% 100%
+   #FF00FF 13
+   [310]栗色 Maroon 128 0 0 0 100 100 50 0° 100% 50% #800000 4
+   [311]橄榄绿 Olive 128 128 0 0 0 100 50 60° 100% 50% #808000 6
+   [312]綠色 Green 0 128 0 100 0 100 50 120° 100% 50% #008000 2
+   [313]鴨綠色 Teal 0 128 128 100 0 0 50 180° 100% 50% #008080 3
+   [314]藏青色 Navy 0 0 128 100 100 0 50 240° 100% 50% #000080 1
+   [315]紫色 Purple 128 0 128 0 100 0 50 300° 100% 50% #800080 5
+   [316]白色 White 255 255 255 0 0 0 0 0° 0% 100% #FFFFFF 15
+   [317]銀色 Silver 192 192 192 0 0 0 25 0° 0% 75% #C0C0C0 7
+   [318]灰色 Gray / Grey 128 128 128 0 0 0 50 0° 0% 50% #808080 8
+   [319]黑色 Black 0 0 0 0 0 0 100 0° 0% 0% #000000 0
+
+16比特模式
+
+   [[320]编辑]
+
+   16比特模式分配给每种原色各为5比特，其中绿色为6比特，因为人眼对绿色分辨的色调更敏感。但某些情況下每種原色各佔5比特，餘下的1比特不使用。
+
+32比特模式
+
+   [[321]编辑]
+
+   实际就是24比特模式，餘下的8比特不分配到像素中，这种模式是为了提高数据输送的速度（32比特為一個[322]DWORD，DWORD全稱為Dou
+   ble
+   Word，一般而言一個Word為16比特或2個字節，處理器可直接對其運算而不需額外的轉換）。同樣在一些特殊情況下，如[323]DirectX、
+   [324]OpenGL等環境，餘下的8比特用來表示象素的[325]透明度（Alpha）。
+
+网页安全颜色
+
+   [[326]编辑]
+   主条目：[327]网页颜色
+
+   网页安全颜色应用的也是三原色光24比特模式，但网景色谱（[328]Netscape Color
+   Cube）将其确定为216种，用6种数码#00, #33, #66, #99, #CC, #FF(RGB 值分別是
+   0、51、102、153、204 和 255)
+   组合成216种排列方法表示颜色。一般使用者就不会被1670万种颜色所迷惑。这种表示颜色的方式被互联网在[329]HTML
+   3.2（[330]页面存档备份，存于[331]互联网档案馆）采纳为标准方法。此色譜又被稱為网站设计颜色。
+
+   CAPTION: 216种网页安全颜色
+
+   #000000 #330000 #660000 #990000 #CC0000 #FF0000
+   #000033 #330033 #660033 #990033 #CC0033 #FF0033
+   #000066 #330066 #660066 #990066 #CC0066 #FF0066
+   #000099 #330099 #660099 #990099 #CC0099 #FF0099
+   #0000CC #3300CC #6600CC #9900CC #CC00CC #FF00CC
+   #0000FF #3300FF #6600FF #9900FF #CC00FF #FF00FF
+   #003300 #333300 #663300 #993300 #CC3300 #FF3300
+   #003333 #333333 #663333 #993333 #CC3333 #FF3333
+   #003366 #333366 #663366 #993366 #CC3366 #FF3366
+   #003399 #333399 #663399 #993399 #CC3399 #FF3399
+   #0033CC #3333CC #6633CC #9933CC #CC33CC #FF33CC
+   #0033FF #3333FF #6633FF #9933FF #CC33FF #FF33FF
+   #006600 #336600 #666600 #996600 #CC6600 #FF6600
+   #006633 #336633 #666633 #996633 #CC6633 #FF6633
+   #006666 #336666 #666666 #996666 #CC6666 #FF6666
+   #006699 #336699 #666699 #996699 #CC6699 #FF6699
+   #0066CC #3366CC #6666CC #9966CC #CC66CC #FF66CC
+   #0066FF #3366FF #6666FF #9966FF #CC66FF #FF66FF
+   #009900 #339900 #669900 #999900 #CC9900 #FF9900
+   #009933 #339933 #669933 #999933 #CC9933 #FF9933
+   #009966 #339966 #669966 #999966 #CC9966 #FF9966
+   #009999 #339999 #669999 #999999 #CC9999 #FF9999
+   #0099CC #3399CC #6699CC #9999CC #CC99CC #FF99CC
+   #0099FF #3399FF #6699FF #9999FF #CC99FF #FF99FF
+   #00CC00 #33CC00 #66CC00 #99CC00 #CCCC00 #FFCC00
+   #00CC33 #33CC33 #66CC33 #99CC33 #CCCC33 #FFCC33
+   #00CC66 #33CC66 #66CC66 #99CC66 #CCCC66 #FFCC66
+   #00CC99 #33CC99 #66CC99 #99CC99 #CCCC99 #FFCC99
+   #00CCCC #33CCCC #66CCCC #99CCCC #CCCCCC #FFCCCC
+   #00CCFF #33CCFF #66CCFF #99CCFF #CCCCFF #FFCCFF
+   #00FF00 #33FF00 #66FF00 #99FF00 #CCFF00 #FFFF00
+   #00FF33 #33FF33 #66FF33 #99FF33 #CCFF33 #FFFF33
+   #00FF66 #33FF66 #66FF66 #99FF66 #CCFF66 #FFFF66
+   #00FF99 #33FF99 #66FF99 #99FF99 #CCFF99 #FFFF99
+   #00FFCC #33FFCC #66FFCC #99FFCC #CCFFCC #FFFFCC
+   #00FFFF #33FFFF #66FFFF #99FFFF #CCFFFF #FFFFFF
+
+参见
+
+   [[332]编辑]
+     * [333]印刷四分色模式
+     * [334]颜色列表
+
+引用
+
+   [[335]编辑]
+    1. [336]^ [337]存档副本. [2024-01-27]. （原始内容[338]存档于2024-01-27）.
+    2. [339]^ Steve Wright. [340]Digital Compositing for Film and Video.
+       Focal Press. 2006 [2007-11-21]. [341]ISBN 024080760X.
+       （原始内容[342]存档于2013-06-26）.
+
+     * [343]Cowlishaw, M. F. [344]Fundamental requirements for picture
+       presentation (PDF). Proc. Society for Information Display. 1985, 26
+       (2): 101–107 [2007-11-21]. （[345]原始内容 ([346]PDF)存档于2007-09-26）.
+
+外部链接
+
+   [[347]编辑]
+     * [348]颜色迷们的网站（[349]页面存档备份，存于[350]互联网档案馆）
+     * [351]16比特模式颜色表（[352]页面存档备份，存于[353]互联网档案馆）
+     * [354]颜色模式（[355]页面存档备份，存于[356]互联网档案馆）
+     * [357]各种模式的颜色表
+
+     * [358]查
+     * [359]论
+     * [360]编
+
+   [361]色彩空間
+
+     * [362]色彩空間列表（英语：[363]List of color spaces and their uses）
+     * [364]色彩模型
+
+   [365]CAM（英语：[366]Color appearance model）
+
+     * [367]CIECAM02（英语：[368]CIECAM02）
+     * [369]iCAM（英语：[370]ICAM (color appearance model)）
+
+   [371]CIE
+
+     * [372]XYZ (1931)
+     * [373]RGB (1931)
+     * [374]CAM (2002)（英语：[375]CIECAM02）
+     * [376]YUV (1960)
+     * [377]UVW (1964)（英语：[378]CIE 1964 color space）
+     * [379]CIELAB (1976)
+     * [380]CIELUV (1976)（英语：[381]CIELUV）
+
+   RGB
+
+     * [382]RGB
+     * [383]sRGB
+     * [384]rg chromaticity（英语：[385]Rg_chromaticity）
+     * [386]Adobe
+     * [387]寬色域
+     * [388]ProPhoto
+     * [389]scRGB（英语：[390]scRGB）
+     * [391]DCI-P3
+     * [392]Rec. 709
+     * [393]Rec. 2020
+     * [394]Rec. 2100（英语：[395]Rec. 2100）
+
+   [396]YUV
+
+     * [397]YUV
+          + [398]PAL
+     * [399]YDbDr
+          + [400]SECAM
+          + [401]PAL
+     * [402]YIQ
+          + [403]NTSC
+     * [404]YCbCr
+          + [405]BT.601
+          + [406]Rec. 709
+          + [407]Rec. 2020
+          + [408]Rec. 2100（英语：[409]Rec. 2100）
+     * [410]ICtCp（英语：[411]ICtCp）
+          + [412]Rec. 2100（英语：[413]Rec. 2100）
+     * [414]色差端子
+     * [415]XvYCC
+     * [416]YCoCg（英语：[417]YCoCg）
+
+   其他
+
+     * [418]CcMmYK（英语：[419]CcMmYK color model）
+     * [420]CMYK
+     * [421]Coloroid（英语：[422]Coloroid）
+     * [423]LMS（英语：[424]LMS color space）
+     * [425]Hexachrome（英语：[426]Hexachrome）
+     * [427]HSL和HSV
+     * [428]LAB
+     * [429]HCL（英语：[430]HCL color space）
+     * [431]不可能的顏色
+     * [432]OSA-UCS（英语：[433]OSA-UCS）
+     * [434]PCCS（英语：[435]Practical Color Coordinate System）
+     * [436]RG（英语：[437]RG color space）
+     * [438]RYB（英语：[439]RYB color model）
+     * [440]HWB
+
+   色彩系統及標準
+
+     * [441]ACES（英语：[442]Academy Color Encoding System）
+     * [443]ANPA（英语：[444]News Media Alliance）
+     * [445]国际颜料索引
+          + [446]CI list of dyes（英语：[447]List of dyes）
+     * [448]DIC（英语：[449]DIC Corporation）
+     * [450]聯邦標準595（英语：[451]Federal Standard 595）
+     * [452]HKS（英语：[453]HKS (colour system)）
+     * [454]ICC色彩特性文件
+     * [455]ISCC–NBS（英语：[456]ISCC–NBS system）
+     * [457]Munsell
+     * [458]NCS（英语：[459]Natural Color System）
+     * [460]Ostwald
+     * [461]彩通
+     * [462]RAL（英语：[463]RAL colour standard）
+          + [464]列表（英语：[465]List of RAL colors）
+     * [466]日本產業標準Z8102
+
+   有關生物或機器的視覺能力，請參閱[467]彩色视觉 。
+
+     * [468]查
+     * [469]论
+     * [470]编
+
+   [471]摄影
+
+   [472]術語
+
+     * [473]像片
+     * [474]底片格式
+     * [475]焦距
+     * [476]視角
+     * [477]35mm等效焦距
+     * [478]光圈
+     * [479]焦比
+     * [480]景深（[481]超焦距、[482]模糊圈）
+     * [483]焦深
+     * [484]快門
+     * [485]連拍
+     * [486]快門速度
+     * [487]倒易律
+     * [488]感光度
+     * [489]阳光16法则
+     * [490]平場校正
+     * [491]曝光
+     * [492]曝光值
+     * [493]曝光补偿
+     * [494]宽容度
+     * [495]區域曝光法（英语：[496]Zone System）
+     * [497]測光模式
+     * [498]閃光指數
+     * [499]閃光同步（英语：[500]Flash synchronization）
+     * [501]閃燈同步速度
+     * [502]色温
+     * [503]色差
+     * [504]紅眼現象
+     * [505]黑白
+     * [506]透視變形
+     * [507]透视校正
+     * [508]攝影流程
+     * [509]攝影處理
+     * [510]攝影印刷（英语：[511]Photographic printing）
+     * [512]攝影科學（英语：[513]Science of photography）
+
+   [514]類型
+
+     * [515]空中攝影
+     * [516]建筑摄影
+     * [517]纪实摄影
+     * [518]新聞攝影
+     * [519]藝術攝影
+     * [520]靜物攝影
+     * [521]自然攝影（英语：[522]Nature photography）
+     * [523]人物摄影
+     * [524]魅力摄影
+     * [525]裸体摄影
+     * [526]裸体艺术摄影
+     * [527]情色攝影
+     * [528]街頭攝影（英语：[529]Street photography）
+     * [530]天文攝影
+     * [531]雲海攝影（英语：[532]Cloudscape photography）
+     * [533]飞机摄影
+     * [534]鐵道攝影（日语：[535]鉄道撮影）
+     * [536]法醫攝影
+     * [537]廣告攝影
+     * [538]商業攝影
+     * [539]時裝攝影
+     * [540]婚紗攝影
+     * [541]图库摄影（英语：[542]Stock photography）
+     * [543]公關攝影
+     * [544]業餘攝影
+     * [545]廢墟攝影
+
+   [546]技術
+
+     * [547]Afocal攝影
+     * [548]散景
+     * [549]剪影
+     * [550]青寫真
+     * [551]向右曝光
+     * [552]閃燈補光
+     * [553]煙花攝影
+     * [554]哈里斯快門
+     * [555]HDRI
+     * [556]高速攝影
+     * [557]全像攝影
+     * [558]紅外線攝影
+     * [559]柯利安攝影
+     * [560]風箏攝影（英语：[561]Kite aerial photography）
+     * [562]長時間曝光攝影
+     * [563]微距攝影
+     * [564]Mordançage（英语：[565]Mordançage）
+     * [566]多重曝光
+     * [567]夜間攝影
+     * [568]追蹤攝影/[569]攝影平移
+     * [570]全景攝影
+     * [571]黑影照片
+     * [572]印刷調色
+     * [573]反轉底片
+     * [574]重新拍攝
+     * [575]Rollout攝影
+     * [576]色調反轉/[577]薩巴蒂效應
+     * [578]立體攝影（[579]3D眼鏡）
+     * [580]光圈收縮
+     * [581]日光顯影
+     * [582]移轴摄影
+          + [583]仿微缩模型（英语：[584]Miniature faking）
+     * [585]縮時攝影
+     * [586]慢動作攝影
+     * [587]紫外線攝影
+     * [588]暈影
+     * [589]水中攝影
+     * [590]微型攝影術
+     * [591]相機陷阱
+     * [592]BeetleCam
+     * [593]鴿子攝影
+
+   [594]構圖
+
+     * [595]对角线构图法
+     * [596]框架构图法（英语：[597]Framing (visual arts)）
+     * [598]Headroom（英语：[599]Headroom (photographic framing)）
+     * [600]Lead room（英语：[601]Lead room）
+     * [602]三分法
+     * [603]Simplicity（英语：[604]Simplicity (photography)）
+
+   [605]器材
+
+     * [606]相機（[607]光場相機
+     * [608]单反相机
+     * [609]无反相机
+     * [610]双反相机
+     * [611]旁轴相机
+     * [612]直接觀景式相機
+     * [613]高速攝影機
+     * [614]玩具相機（英语：[615]Toy camera）
+     * [616]針孔相機
+     * [617]傻瓜相机
+     * [618]即时成像相机
+     * [619]大畫幅相機
+     * [620]全景相机
+     * [621]空拍機）
+     * [622]放大機
+     * [623]底片
+     * [624]片基
+          + [625]底片格式
+          + [626]電影膠片
+     * [627]鏡頭
+          + [628]變焦鏡頭
+          + [629]定焦鏡頭
+          + [630]廣角鏡頭
+          + [631]標準鏡頭
+          + [632]遠攝鏡頭
+     * [633]接環鏡頭
+     * [634]攝影濾光鏡
+     * [635]遮光罩
+     * [636]測光表
+     * [637]閃光燈
+     * [638]波帶板
+     * [639]云台
+     * [640]單腳架
+     * [641]三腳架
+     * [642]自拍棒
+     * [643]相機穩定器
+     * [644]暗房
+     * [645]暗房安全燈
+     * [646]幻燈機
+     * [647]電影放映機
+
+   [648]歷史
+
+     * [649]暗箱
+     * [650]奧托克羅姆
+     * [651]卡羅法
+     * [652]银版摄影法
+     * [653]杜菲彩版（英语：[654]Dufaycolor）
+     * [655]照相底板（英语：[656]Photographic plate）
+     * [657]視覺藝術
+     * [658]摄影技术发展史（英语：[659]Timeline of photography technology）
+
+   [660]数码摄影
+
+     * [661]數碼相機
+          + [662]数码单反相机
+          + [663]单电相机
+          + [664]数码后背（英语：[665]Digital camera back）
+     * [666]感光元件
+          + [667]有源像素传感器（英语：[668]Active-pixel sensor）
+          + [669]互補式金屬氧化物半導體（CMOS）
+          + [670]感光耦合元件（CCD）
+          + [671]3CCD照相机（英语：[672]Three-CCD camera）
+          + [673]Foveon X3
+     * [674]像素
+     * [675]底片扫描仪（英语：[676]Film scanner）
+     * [677]与胶片摄影对比（英语：[678]Comparison of digital and film photography）
+     * [679]先進攝影系統C型（APS-C）
+     * [680]望远镜摄影（英语：[681]Digiscoping）
+     * [682]图片共享（英语：[683]Image sharing）
+
+   [684]彩色攝影
+
+     * [685]色彩
+     * [686]彩色底片（[687]印刷
+     * [688]正片）
+     * [689]色彩管理（[690]色域
+     * [691]原色
+     * 三原色光模式
+     * [692]印刷四分色模式）
+
+   [693]沖洗
+
+     * [694]C-41沖印處理
+     * [695]交叉沖印（英语：[696]Cross processing）
+     * [697]照相顯影劑
+     * [698]數碼圖像處理（英语：[699]Digital image processing）
+     * [700]偶染體（英语：[701]Dye coupler）
+     * [702]E-6沖印處理
+     * [703]定影劑（英语：[704]Photographic fixer）
+     * [705]明膠銀處理（英语：[706]Gelatin silver process）
+     * [707]胶印（英语：[708]Gum printing）
+     * [709]即时成像胶片
+     * [710]K-14沖印處理（英语：[711]K-14 process）
+     * [712]印刷耐久性（英语：[713]Print permanence）
+     * [714]增感显影處理（英语：[715]Push processing）
+     * [716]止顯劑（英语：[717]Stop bath）
+
+   其他議題
+
+     * [718]全息拍攝術
+     * [719]Lomo攝影
+     * [720]攝影和法律
+     * [721]攝影博物館和畫廊
+     * [722]周邊暗角
+     * [723]照片庫
+
+   列表
+
+     * [724]最昂贵的摄影作品
+     * [725]攝影器材製造商名單
+     * [726]摄影师（英语：[727]List of photographers）
+          + [728]街头摄影（英语：[729]List of street photographers）
+          + [730]女性（英语：[731]List of women photographers）
+
+     * 分类  [732]摄影分类的所有相关条目
+
+   检索自“[733]https://zh.wikipedia.org/w/index.php?title=三原色光模式&oldid=906668
+   96”
+
+   [734]分类：​
+     * [735]色彩空间
+
+   隐藏分类：​
+     * [736]自2017年5月需补充来源的条目
+     * [737]拒绝当选首页新条目推荐栏目的条目
+     * [738]自2013年6月扩充中的条目
+     * [739]含有英語的條目
+
+     * 本页面最后修订于2025年12月13日 (星期六) 11:56。
+     * 本站的全部文字在[740]知识共享 署名-相同方式共享 4.0协议之条款下提供，附加条款亦可能应用。（请参阅[741]使用条款）
+       Wikipedia®和维基百科标志是[742]维基媒体基金会的注册商标；维基™是维基媒体基金会的商标。
+       维基媒体基金会是按美国国內稅收法501(c)(3)登记的[743]非营利慈善机构。
+
+     * [744]隐私政策
+     * [745]关于维基百科
+     * [746]免责声明
+     * [747]行为准则
+     * [748]开发者
+     * [749]统计
+     * [750]Cookie声明
+     * [751]手机版视图
+
+     * [752]Wikimedia Foundation
+     * [753]Powered by MediaWiki
+
+   (BUTTON) 搜索
+   ____________________
+   (BUTTON) 搜索
+
+   [ ] 开关目录
+   三原色光模式
+   (BUTTON) 66种语言 [754]添加话题
+
+References
+
+   Visible links:
+   1. file:///w/index.php?title=三原色光模式&action=edit
+   2. file:///w/rest.php/v1/search
+   3. https://zh.wikipedia.org/wiki/三原色光模式
+   4. https://zh.wikipedia.org/zh-hans/三原色光模式
+   5. https://zh.wikipedia.org/zh-cn/三原色光模式
+   6. https://zh.wikipedia.org/zh-my/三原色光模式
+   7. https://zh.wikipedia.org/zh-sg/三原色光模式
+   8. https://zh.wikipedia.org/zh-hant/三原色光模式
+   9. https://zh.wikipedia.org/zh-hk/三原色光模式
+  10. https://zh.wikipedia.org/zh-mo/三原色光模式
+  11. https://zh.wikipedia.org/zh-tw/三原色光模式
+  12. https://zh.wikipedia.org/wiki/三原色光模式
+  13. file:///w/index.php?title=Special:RecentChanges&feed=atom
+  14. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#bodyContent
+  15. file:///wiki/Wikipedia:首页
+  16. file:///wiki/Wikipedia:分类索引
+  17. file:///wiki/Portal:特色內容
+  18. file:///wiki/Portal:新聞動態
+  19. file:///wiki/Special:RecentChanges
+  20. file:///wiki/Special:Random
+  21. file:///wiki/Help:首页
+  22. file:///wiki/Wikipedia:社群首页
+  23. file:///wiki/Wikipedia:方針與指引
+  24. file:///wiki/Wikipedia:互助客栈
+  25. file:///wiki/Wikipedia:知识问答
+  26. file:///wiki/Wikipedia:字词转换
+  27. file:///wiki/Wikipedia:IRC聊天频道
+  28. file:///wiki/Wikipedia:联络我们
+  29. file:///wiki/Wikipedia:关于
+  30. file:///wiki/Special:SpecialPages
+  31. file:///wiki/Wikipedia:首页
+  32. file:///wiki/Special:Search
+  33. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=zh.wikipedia.org&uselang=zh
+  34. file:///w/index.php?title=Special:CreateAccount&returnto=三原色光模式
+  35. file:///w/index.php?title=Special:UserLogin&returnto=三原色光模式
+  36. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=zh.wikipedia.org&uselang=zh
+  37. file:///w/index.php?title=Special:CreateAccount&returnto=三原色光模式
+  38. file:///w/index.php?title=Special:UserLogin&returnto=三原色光模式
+  39. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html
+  40. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#相加原色
+  41. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#选择红绿蓝的生理原因
+  42. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#RGB颜色模型理论与应用的历史
+  43. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#摄影
+  44. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#彩色電視
+  45. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#彩色显示屏（近距離觀看）
+  46. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#大型彩色显示屏（遠距觀看）
+  47. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#RGB设备
+  48. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#三原色光模仿真彩色显示
+  49. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#RGBW_模仿真彩色
+  50. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#光線遇上螢幕時
+  51. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#非线性
+  52. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#数值表示
+  53. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#几何表示
+  54. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#RGB颜色列表
+  55. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#计算机显示模式
+  56. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#24比特模式
+  57. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#16色
+  58. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#16比特模式
+  59. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#32比特模式
+  60. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#网页安全颜色
+  61. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#参见
+  62. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#引用
+  63. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#外部链接
+  64. https://af.wikipedia.org/wiki/RGB-kleurmodel
+  65. https://ar.wikipedia.org/wiki/النموذج_اللوني_أحمر_أخضر_أزرق
+  66. https://az.wikipedia.org/wiki/RGB
+  67. https://be.wikipedia.org/wiki/RGB
+  68. https://bg.wikipedia.org/wiki/RGB_цветови_модел
+  69. https://bn.wikipedia.org/wiki/আরজিবি_রং_মডেল
+  70. https://bs.wikipedia.org/wiki/RGB
+  71. https://ca.wikipedia.org/wiki/Model_de_color_RGB
+  72. https://cs.wikipedia.org/wiki/RGB
+  73. https://da.wikipedia.org/wiki/RGB-farver
+  74. https://el.wikipedia.org/wiki/RGB
+  75. https://en.wikipedia.org/wiki/RGB_color_model
+  76. https://eo.wikipedia.org/wiki/RVB_(kolormodelo)
+  77. https://es.wikipedia.org/wiki/RGB
+  78. https://et.wikipedia.org/wiki/RGB-mudel
+  79. https://eu.wikipedia.org/wiki/RGB_kolore-eredua
+  80. https://fa.wikipedia.org/wiki/مدل_رنگی_آرجی‌بی
+  81. https://fi.wikipedia.org/wiki/RGB-värimalli
+  82. https://fr.wikipedia.org/wiki/Rouge-vert-bleu
+  83. https://fy.wikipedia.org/wiki/RGB-kleursysteem
+  84. https://gd.wikipedia.org/wiki/Siostam_RGB
+  85. https://gl.wikipedia.org/wiki/RGB
+  86. https://he.wikipedia.org/wiki/ייצוג_צבע_במחשב
+  87. https://hi.wikipedia.org/wiki/लाल_हरा_नीला_रंग_प्रतिरूप
+  88. https://hr.wikipedia.org/wiki/RGB
+  89. https://hu.wikipedia.org/wiki/RGB
+  90. https://hy.wikipedia.org/wiki/RGB
+  91. https://id.wikipedia.org/wiki/RGB
+  92. https://io.wikipedia.org/wiki/RGB_(kolor-modelo)
+  93. https://is.wikipedia.org/wiki/RGB
+  94. https://it.wikipedia.org/wiki/RGB
+  95. https://ja.wikipedia.org/wiki/RGB
+  96. https://ko.wikipedia.org/wiki/RGB
+  97. https://ku.wikipedia.org/wiki/Modela_RGB_ya_rengan
+  98. https://lt.wikipedia.org/wiki/RGB
+  99. https://lv.wikipedia.org/wiki/Sarkanzaļzilais_krāsu_modelis
+ 100. https://mhr.wikipedia.org/wiki/RGB
+ 101. https://mk.wikipedia.org/wiki/RGB
+ 102. https://ml.wikipedia.org/wiki/ചുവപ്പുപച്ചനീല_നിറവ്യവസ്ഥ
+ 103. https://nl.wikipedia.org/wiki/RGB-kleursysteem
+ 104. https://no.wikipedia.org/wiki/RGB
+ 105. https://olo.wikipedia.org/wiki/RGB
+ 106. https://pl.wikipedia.org/wiki/RGB
+ 107. https://pt.wikipedia.org/wiki/RGB
+ 108. https://ro.wikipedia.org/wiki/Modelul_de_culoare_RGB
+ 109. https://ru.wikipedia.org/wiki/RGB
+ 110. https://sd.wikipedia.org/wiki/آر_جي_بي_رنگ_ماڊل
+ 111. https://sh.wikipedia.org/wiki/RGB
+ 112. https://si.wikipedia.org/wiki/RGB_වර්ණ_ආකෘතිය
+ 113. https://simple.wikipedia.org/wiki/RGB_color_model
+ 114. https://sk.wikipedia.org/wiki/RGB
+ 115. https://skr.wikipedia.org/wiki/آر_جی_بی_کلر_ماڈل
+ 116. https://sl.wikipedia.org/wiki/Barvni_model_RGB
+ 117. https://sq.wikipedia.org/wiki/Vlerat_KGJK
+ 118. https://sr.wikipedia.org/wiki/RGB
+ 119. https://sv.wikipedia.org/wiki/RGB
+ 120. https://tg.wikipedia.org/wiki/RGB
+ 121. https://th.wikipedia.org/wiki/ระบบสี_RGB
+ 122. https://tr.wikipedia.org/wiki/RGB_renk_modeli
+ 123. https://tt.wikipedia.org/wiki/RGB
+ 124. https://uk.wikipedia.org/wiki/RGB
+ 125. https://ur.wikipedia.org/wiki/آر_جی_بی_رنگ_ماڈل
+ 126. https://vi.wikipedia.org/wiki/Mô_hình_màu_RGB
+ 127. https://wuu.wikipedia.org/wiki/三原色光模式
+ 128. https://zh-classical.wikipedia.org/wiki/三原色
+ 129. https://zh-yue.wikipedia.org/wiki/RGB_色彩模式
+ 130. https://www.wikidata.org/wiki/Special:EntityPage/Q166194#sitelinks-wikipedia
+ 131. file:///wiki/三原色光模式
+ 132. file:///wiki/Talk:三原色光模式
+ 133. file:///zh/三原色光模式
+ 134. file:///zh-hans/三原色光模式
+ 135. file:///zh-hant/三原色光模式
+ 136. file:///zh-cn/三原色光模式
+ 137. file:///zh-hk/三原色光模式
+ 138. file:///zh-mo/三原色光模式
+ 139. file:///zh-my/三原色光模式
+ 140. file:///zh-sg/三原色光模式
+ 141. file:///zh-tw/三原色光模式
+ 142. file:///wiki/三原色光模式
+ 143. file:///w/index.php?title=三原色光模式&action=edit
+ 144. file:///w/index.php?title=三原色光模式&action=history
+ 145. file:///wiki/三原色光模式
+ 146. file:///w/index.php?title=三原色光模式&action=edit
+ 147. file:///w/index.php?title=三原色光模式&action=history
+ 148. file:///wiki/Special:WhatLinksHere/三原色光模式
+ 149. file:///wiki/Special:RecentChangesLinked/三原色光模式
+ 150. file://zh.wikipedia.org/wiki/Project:上传
+ 151. file:///w/index.php?title=三原色光模式&oldid=90666896
+ 152. file:///w/index.php?title=三原色光模式&action=info
+ 153. file:///w/index.php?title=Special:CiteThisPage&page=三原色光模式&id=90666896&wpFormIdentifier=titleform
+ 154. file:///w/index.php?title=Special:UrlShortener&url=https://zh.wikipedia.org/wiki/%E4%B8%89%E5%8E%9F%E8%89%B2%E5%85%89%E6%A8%A1%E5%BC%8F
+ 155. file:///w/index.php?title=Special:QrCode&url=https://zh.wikipedia.org/wiki/%E4%B8%89%E5%8E%9F%E8%89%B2%E5%85%89%E6%A8%A1%E5%BC%8F
+ 156. file:///w/index.php?title=Special:DownloadAsPdf&page=三原色光模式&action=show-download-screen
+ 157. javascript:print();
+ 158. https://commons.wikimedia.org/wiki/Category:RGB
+ 159. https://www.wikidata.org/wiki/Special:EntityPage/Q166194
+ 160. file:///wiki/File:Tango-nosources.svg
+ 161. file:///wiki/Wikipedia:列明来源
+ 162. file:///wiki/Wikipedia:可靠来源
+ 163. https://zh.wikipedia.org/w/index.php?title=三原色光模式&action=edit
+ 164. file:///wiki/Wikipedia:可供查证
+ 165. file:///wiki/Template:Fact
+ 166. file://www.google.com/search?&as_eq=wikipedia&q="三原色光模式"
+ 167. file://www.google.com/search?q="三原色光模式"
+ 168. file://www.google.com/search?tbm=nws&q=&as_src=-newswire+-wire+-presswire+-PR+-press+-release+-wikipedia&q="三原色光模式"
+ 169. file://books.google.com/books?&as_brr=0&as_pub=-icon&q="三原色光模式"
+ 170. file://scholar.google.com/scholar?&q="三原色光模式"
+ 171. file://www.google.com/search?tbm=isch&safe=off&q="三原色光模式"
+ 172. file:///wiki/Wikipedia:可靠来源
+ 173. file:///wiki/File:Antistub.svg
+ 174. https://zh.wikipedia.org/w/index.php?title=三原色光模式&action=edit
+ 175. file:///wiki/Talk:三原色光模式
+ 176. file:///wiki/Wikipedia:扩充请求
+ 177. file:///wiki/File:RGB_illumination.jpg
+ 178. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#cite_note-1
+ 179. file:///wiki/加色法
+ 180. file:///wiki/红
+ 181. file:///wiki/绿色
+ 182. file:///wiki/蓝
+ 183. file:///wiki/原色
+ 184. file:///wiki/真彩色
+ 185. file:///wiki/立體圖
+ 186. file:///wiki/摄影
+ 187. file:///w/index.php?title=三原色光模式&action=edit&section=1
+ 188. file:///wiki/CMYK
+ 189. file:///wiki/File:顏色加法.svg
+ 190. file:///wiki/红色
+ 191. file:///wiki/绿色
+ 192. file:///wiki/蓝色
+ 193. file:///wiki/白色
+ 194. file:///wiki/视锥细胞
+ 195. file:///wiki/绘画
+ 196. file:///wiki/青色
+ 197. file:///wiki/洋紅色
+ 198. file:///wiki/黄色
+ 199. file:///wiki/黑色
+ 200. file:///wiki/灰色
+ 201. file:///w/index.php?title=三原色光模式&action=edit&section=2
+ 202. file:///wiki/原色
+ 203. file:///wiki/物理
+ 204. file:///w/index.php?title=黄绿色&action=edit&redlink=1
+ 205. file:///wiki/绿色
+ 206. file:///wiki/蓝紫色
+ 207. file:///wiki/靛色
+ 208. file:///wiki/波长
+ 209. file:///wiki/黄色
+ 210. file:///wiki/红色
+ 211. file:///wiki/生物
+ 212. file:///wiki/鸟
+ 213. file:///wiki/哺乳动物
+ 214. file:///wiki/色度_(色彩学)
+ 215. file:///w/index.php?title=颜色三角&action=edit&redlink=1
+ 216. file:///w/index.php?title=三原色光模式&action=edit&section=3
+ 217. file:///w/index.php?title=三原色光模式&action=edit&section=4
+ 218. file:///wiki/YUV
+ 219. file:///wiki/彩色電視
+ 220. file:///w/index.php?title=三原色光模式&action=edit&section=5
+ 221. file:///w/index.php?title=三原色光模式&action=edit&section=6
+ 222. file:///wiki/陰極射線管
+ 223. file:///wiki/液晶顯示器
+ 224. file:///w/index.php?title=三原色光模式&action=edit&section=7
+ 225. file:///w/index.php?title=三原色光模式&action=edit&section=8
+ 226. file:///w/index.php?title=三原色光模式&action=edit&section=9
+ 227. file:///wiki/电视
+ 228. file:///wiki/电子计算机
+ 229. file:///wiki/像素
+ 230. file:///wiki/液晶
+ 231. file:///wiki/等離子
+ 232. file:///wiki/黑色
+ 233. file:///wiki/白色
+ 234. file:///wiki/位元
+ 235. file:///wiki/亮度
+ 236. file:///w/index.php?title=三原色光模式&action=edit&section=10
+ 237. file:///wiki/三星集團
+ 238. file:///wiki/PenTile
+ 239. file:///wiki/索尼
+ 240. file:///wiki/WhiteMagic
+ 241. file:///w/index.php?title=三原色光模式&action=edit&section=11
+ 242. file:///w/index.php?title=三原色光模式&action=edit&section=12
+ 243. file:///wiki/Gamma校正
+ 244. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#cite_note-2
+ 245. file:///w/index.php?title=三原色光模式&action=edit&section=13
+ 246. file:///wiki/数值
+ 247. file:///wiki/R
+ 248. file:///wiki/G
+ 249. file:///wiki/B
+ 250. file:///wiki/浮点
+ 251. file:///wiki/百分比
+ 252. file:///wiki/整数
+ 253. file:///wiki/字节
+ 254. file:///wiki/十进制
+ 255. file:///wiki/十六进制
+ 256. file:///wiki/RGB
+ 257. file:///wiki/YUV
+ 258. file:///w/index.php?title=三原色光模式&action=edit&section=14
+ 259. file:///wiki/File:RGB_color_solid_cube.png
+ 260. file:///wiki/CIELAB
+ 261. file:///wiki/YUV
+ 262. file:///wiki/欧几里得空间
+ 263. file:///wiki/笛卡尔坐标系
+ 264. file:///w/index.php?title=三原色光模式&action=edit&section=15
+ 265. file:///w/index.php?title=三原色光模式&action=edit&section=16
+ 266. file:///w/index.php?title=三原色光模式&action=edit&section=17
+ 267. file:///wiki/真彩色
+ 268. file:///wiki/JPEG
+ 269. file:///wiki/TIFF
+ 270. file:///wiki/黑色
+ 271. file:///wiki/白色
+ 272. file:///wiki/红色
+ 273. file:///wiki/绿色
+ 274. file:///wiki/蓝色
+ 275. file:///wiki/黄色
+ 276. file:///wiki/青色
+ 277. file:///wiki/水色
+ 278. file:///wiki/洋紅色
+ 279. file:///wiki/黄色
+ 280. file:///wiki/绿色
+ 281. file:///wiki/青色
+ 282. file:///wiki/水色
+ 283. file:///wiki/红色
+ 284. file:///wiki/File:RGBR.png
+ 285. file:///wiki/蓝色
+ 286. file:///wiki/红色
+ 287. file:///wiki/洋紅色
+ 288. file:///wiki/色相
+ 289. file:///wiki/Gamma校正
+ 290. file:///wiki/数字视频
+ 291. file:///wiki/黑色
+ 292. file:///wiki/白色
+ 293. file:///wiki/CCIR_601
+ 294. file:///w/index.php?title=三原色光模式&action=edit&section=18
+ 295. file:///wiki/颜色
+ 296. file:///wiki/网页颜色
+ 297. file:///wiki/颜色
+ 298. file:///wiki/印刷四分色模式
+ 299. file:///wiki/HSL和HSV色彩空间
+ 300. file:///wiki/十六进制
+ 301. file:///wiki/MS-DOS
+ 302. file:///wiki/红色
+ 303. file:///wiki/黄色
+ 304. file:///wiki/蘋果綠
+ 305. file:///wiki/水蓝
+ 306. file:///wiki/青色
+ 307. file:///wiki/藍色
+ 308. file:///wiki/品紅
+ 309. file:///wiki/洋紅色
+ 310. file:///wiki/栗色
+ 311. file:///wiki/橄榄绿色
+ 312. file:///wiki/綠色
+ 313. file:///wiki/鴨綠
+ 314. file:///wiki/藏青色
+ 315. file:///wiki/紫色
+ 316. file:///wiki/白色
+ 317. file:///wiki/銀色
+ 318. file:///wiki/灰色
+ 319. file:///wiki/黑色
+ 320. file:///w/index.php?title=三原色光模式&action=edit&section=19
+ 321. file:///w/index.php?title=三原色光模式&action=edit&section=20
+ 322. file:///wiki/字
+ 323. file:///wiki/DirectX
+ 324. file:///wiki/OpenGL
+ 325. file:///wiki/透明度
+ 326. file:///w/index.php?title=三原色光模式&action=edit&section=21
+ 327. file:///wiki/网页颜色
+ 328. file:///wiki/Netscape
+ 329. https://www.w3.org/TR/REC-html32
+ 330. file://web.archive.org/web/20100619054311/https://www.w3.org/TR/REC-html32
+ 331. file:///wiki/互联网档案馆
+ 332. file:///w/index.php?title=三原色光模式&action=edit&section=22
+ 333. file:///wiki/印刷四分色模式
+ 334. file:///wiki/颜色列表
+ 335. file:///w/index.php?title=三原色光模式&action=edit&section=23
+ 336. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#cite_ref-1
+ 337. https://www.termonline.cn/search?searchText=RGB+color+model
+ 338. https://web.archive.org/web/20240127122841/https://www.termonline.cn/search?searchText=RGB+color+model
+ 339. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html#cite_ref-2
+ 340. http://books.google.com/books?id=IpSRykrRamgC&pg=PA265&ots=psmPVWAJtK&dq=display+gamma+2.2+0.5&sig=eVscoBjp0EZoGsLSVtMNkZtuRyI#PPA265,M1
+ 341. file:///wiki/Special:BookSources/024080760X
+ 342. https://web.archive.org/web/20130626124948/http://books.google.com/books?id=IpSRykrRamgC&pg=PA265&ots=psmPVWAJtK&dq=display+gamma+2.2+0.5&sig=eVscoBjp0EZoGsLSVtMNkZtuRyI#PPA265,M1
+ 343. file:///w/index.php?title=Mike_Cowlishaw&action=edit&redlink=1
+ 344. https://web.archive.org/web/20070926201822/http://www.cary.demon.co.uk/buss/cowlishaw1985-fundamental.pdf
+ 345. http://www.cary.demon.co.uk/buss/cowlishaw1985-fundamental.pdf
+ 346. file:///wiki/PDF
+ 347. file:///w/index.php?title=三原色光模式&action=edit&section=24
+ 348. http://www.colourlovers.com/
+ 349. file://web.archive.org/web/20200926043247/http://www.colourlovers.com/
+ 350. file:///wiki/互联网档案馆
+ 351. https://www.wackerart.de/rgbfarben.html
+ 352. file://web.archive.org/web/20050829161053/https://www.wackerart.de/rgbfarben.html
+ 353. file:///wiki/互联网档案馆
+ 354. http://www.vias.org/simulations/simusoft_rgbcolors.html
+ 355. file://web.archive.org/web/20050903032449/http://www.vias.org/simulations/simusoft_rgbcolors.html
+ 356. file:///wiki/互联网档案馆
+ 357. https://web.archive.org/web/20050831030821/http://tx4.us/moacolor.htm
+ 358. file:///wiki/Template:色彩空間
+ 359. file:///wiki/Template_talk:色彩空間
+ 360. file:///wiki/Special:EditPage/Template:色彩空間
+ 361. file:///wiki/色彩空間
+ 362. file:///w/index.php?title=色彩空間列表&action=edit&redlink=1
+ 363. https://en.wikipedia.org/wiki/List_of_color_spaces_and_their_uses
+ 364. file:///wiki/色彩空間
+ 365. file:///w/index.php?title=Color_appearance_model&action=edit&redlink=1
+ 366. https://en.wikipedia.org/wiki/Color_appearance_model
+ 367. file:///w/index.php?title=CIECAM02&action=edit&redlink=1
+ 368. https://en.wikipedia.org/wiki/CIECAM02
+ 369. file:///w/index.php?title=ICAM_(color_appearance_model)&action=edit&redlink=1
+ 370. https://en.wikipedia.org/wiki/ICAM_(color_appearance_model)
+ 371. file:///wiki/国际照明委员会
+ 372. file:///wiki/CIE_1931色彩空间
+ 373. file:///wiki/CIE_1931色彩空间
+ 374. file:///w/index.php?title=CIECAM02&action=edit&redlink=1
+ 375. https://en.wikipedia.org/wiki/CIECAM02
+ 376. file:///wiki/CIE1960色度空间
+ 377. file:///w/index.php?title=CIE1964色彩空間&action=edit&redlink=1
+ 378. https://en.wikipedia.org/wiki/CIE_1964_color_space
+ 379. file:///wiki/CIELAB色彩空间
+ 380. file:///w/index.php?title=CIELUV&action=edit&redlink=1
+ 381. https://en.wikipedia.org/wiki/CIELUV
+ 382. file:///wiki/RGB色彩空間
+ 383. file:///wiki/SRGB色彩空间
+ 384. file:///w/index.php?title=Rg_chromaticity&action=edit&redlink=1
+ 385. https://en.wikipedia.org/wiki/Rg_chromaticity
+ 386. file:///wiki/Adobe_RGB色彩空间
+ 387. file:///wiki/寬色域RGB色彩空間
+ 388. file:///wiki/ProPhoto_RGB
+ 389. file:///w/index.php?title=ScRGB&action=edit&redlink=1
+ 390. https://en.wikipedia.org/wiki/scRGB
+ 391. file:///wiki/DCI-P3
+ 392. file:///wiki/Rec._709
+ 393. file:///wiki/Rec._2020
+ 394. file:///w/index.php?title=Rec._2100&action=edit&redlink=1
+ 395. https://en.wikipedia.org/wiki/Rec._2100
+ 396. file:///wiki/YUV
+ 397. file:///wiki/YUV
+ 398. file:///wiki/PAL制式
+ 399. file:///wiki/YDbDr
+ 400. file:///wiki/SECAM制式
+ 401. file:///wiki/PAL制式
+ 402. file:///wiki/YIQ
+ 403. file:///wiki/NTSC制式
+ 404. file:///wiki/YCbCr
+ 405. file:///wiki/BT.601
+ 406. file:///wiki/Rec._709
+ 407. file:///wiki/Rec._2020
+ 408. file:///w/index.php?title=Rec._2100&action=edit&redlink=1
+ 409. https://en.wikipedia.org/wiki/Rec._2100
+ 410. file:///w/index.php?title=ICtCp&action=edit&redlink=1
+ 411. https://en.wikipedia.org/wiki/ICtCp
+ 412. file:///w/index.php?title=Rec._2100&action=edit&redlink=1
+ 413. https://en.wikipedia.org/wiki/Rec._2100
+ 414. file:///wiki/色差端子
+ 415. file:///wiki/XvYCC
+ 416. file:///w/index.php?title=YCoCg&action=edit&redlink=1
+ 417. https://en.wikipedia.org/wiki/YCoCg
+ 418. file:///w/index.php?title=CcMmYK色彩模型&action=edit&redlink=1
+ 419. https://en.wikipedia.org/wiki/CcMmYK_color_model
+ 420. file:///wiki/印刷四分色模式
+ 421. file:///w/index.php?title=Coloroid&action=edit&redlink=1
+ 422. https://en.wikipedia.org/wiki/Coloroid
+ 423. file:///w/index.php?title=LMS_color_space&action=edit&redlink=1
+ 424. https://en.wikipedia.org/wiki/LMS_color_space
+ 425. file:///w/index.php?title=Hexachrome&action=edit&redlink=1
+ 426. https://en.wikipedia.org/wiki/Hexachrome
+ 427. file:///wiki/HSL和HSV色彩空间
+ 428. file:///wiki/CIELAB色彩空间
+ 429. file:///w/index.php?title=HCL色彩空間&action=edit&redlink=1
+ 430. https://en.wikipedia.org/wiki/HCL_color_space
+ 431. file:///wiki/不可能的顏色
+ 432. file:///w/index.php?title=OSA-UCS&action=edit&redlink=1
+ 433. https://en.wikipedia.org/wiki/OSA-UCS
+ 434. file:///w/index.php?title=Practical_Color_Coordinate_System&action=edit&redlink=1
+ 435. https://en.wikipedia.org/wiki/Practical_Color_Coordinate_System
+ 436. file:///w/index.php?title=RG色彩空間&action=edit&redlink=1
+ 437. https://en.wikipedia.org/wiki/RG_color_space
+ 438. file:///w/index.php?title=RYB_color_model&action=edit&redlink=1
+ 439. https://en.wikipedia.org/wiki/RYB_color_model
+ 440. file:///wiki/HWB色彩空间
+ 441. file:///w/index.php?title=Academy_Color_Encoding_System&action=edit&redlink=1
+ 442. https://en.wikipedia.org/wiki/Academy_Color_Encoding_System
+ 443. file:///w/index.php?title=News_Media_Alliance&action=edit&redlink=1
+ 444. https://en.wikipedia.org/wiki/News_Media_Alliance
+ 445. file:///wiki/国际颜料索引
+ 446. file:///w/index.php?title=List_of_dyes&action=edit&redlink=1
+ 447. https://en.wikipedia.org/wiki/List_of_dyes
+ 448. file:///w/index.php?title=DIC公司&action=edit&redlink=1
+ 449. https://en.wikipedia.org/wiki/DIC_Corporation
+ 450. file:///w/index.php?title=聯邦標準595&action=edit&redlink=1
+ 451. https://en.wikipedia.org/wiki/Federal_Standard_595
+ 452. file:///w/index.php?title=HKS色彩系統&action=edit&redlink=1
+ 453. https://en.wikipedia.org/wiki/HKS_(colour_system)
+ 454. file:///wiki/ICC色彩特性文件
+ 455. file:///w/index.php?title=ISCC–NBS系統&action=edit&redlink=1
+ 456. https://en.wikipedia.org/wiki/ISCC–NBS_system
+ 457. file:///wiki/孟塞尔颜色系统
+ 458. file:///w/index.php?title=Natural_Color_System&action=edit&redlink=1
+ 459. https://en.wikipedia.org/wiki/Natural_Color_System
+ 460. file:///wiki/奥斯特瓦尔德色彩系统
+ 461. file:///wiki/彩通
+ 462. file:///w/index.php?title=RAL色彩標準&action=edit&redlink=1
+ 463. https://en.wikipedia.org/wiki/RAL_colour_standard
+ 464. file:///w/index.php?title=RAL色彩列表&action=edit&redlink=1
+ 465. https://en.wikipedia.org/wiki/List_of_RAL_colors
+ 466. file:///wiki/JIS慣用色名
+ 467. file:///wiki/彩色视觉
+ 468. file:///wiki/Template:Photography
+ 469. file:///wiki/Template_talk:Photography
+ 470. file:///wiki/Special:EditPage/Template:Photography
+ 471. file:///wiki/摄影
+ 472. file:///w/index.php?title=攝影術語&action=edit&redlink=1
+ 473. file:///wiki/像片
+ 474. file:///wiki/底片格式
+ 475. file:///wiki/焦距
+ 476. file:///wiki/視角
+ 477. file:///wiki/35mm等效焦距
+ 478. file:///wiki/光圈
+ 479. file:///wiki/焦比
+ 480. file:///wiki/景深
+ 481. file:///wiki/超焦距
+ 482. file:///wiki/模糊圈
+ 483. file:///wiki/焦深
+ 484. file:///wiki/快門
+ 485. file:///wiki/連拍
+ 486. file:///wiki/快門速度
+ 487. file:///wiki/倒易律
+ 488. file:///wiki/感光度
+ 489. file:///wiki/阳光16法则
+ 490. file:///wiki/平場校正
+ 491. file:///wiki/曝光
+ 492. file:///wiki/曝光值
+ 493. file:///wiki/曝光补偿
+ 494. file:///wiki/曝光宽容度
+ 495. file:///w/index.php?title=區域曝光法&action=edit&redlink=1
+ 496. https://en.wikipedia.org/wiki/Zone_System
+ 497. file:///wiki/测光模式
+ 498. file:///wiki/闪光指数
+ 499. file:///w/index.php?title=閃光同步&action=edit&redlink=1
+ 500. https://en.wikipedia.org/wiki/Flash_synchronization
+ 501. file:///wiki/閃燈同步速度
+ 502. file:///wiki/色温
+ 503. file:///wiki/色差
+ 504. file:///wiki/紅眼現象
+ 505. file:///wiki/黑白
+ 506. file:///wiki/透视变形
+ 507. file:///wiki/透视校正
+ 508. file:///w/index.php?title=攝影流程&action=edit&redlink=1
+ 509. file:///wiki/沖洗
+ 510. file:///w/index.php?title=攝影印刷&action=edit&redlink=1
+ 511. https://en.wikipedia.org/wiki/Photographic_printing
+ 512. file:///w/index.php?title=攝影科學&action=edit&redlink=1
+ 513. https://en.wikipedia.org/wiki/Science_of_photography
+ 514. file:///w/index.php?title=攝影類型&action=edit&redlink=1
+ 515. file:///wiki/空拍
+ 516. file:///wiki/建筑摄影
+ 517. file:///wiki/纪实摄影
+ 518. file:///wiki/攝影記者
+ 519. file:///w/index.php?title=藝術攝影&action=edit&redlink=1
+ 520. file:///wiki/静物摄影
+ 521. file:///w/index.php?title=自然攝影&action=edit&redlink=1
+ 522. https://en.wikipedia.org/wiki/Nature_photography
+ 523. file:///wiki/人物摄影
+ 524. file:///wiki/魅力摄影
+ 525. file:///wiki/裸体摄影
+ 526. file:///wiki/裸体艺术摄影
+ 527. file:///wiki/情色攝影
+ 528. file:///w/index.php?title=街頭攝影&action=edit&redlink=1
+ 529. https://en.wikipedia.org/wiki/Street_photography
+ 530. file:///wiki/天文攝影
+ 531. file:///w/index.php?title=雲海攝影&action=edit&redlink=1
+ 532. https://en.wikipedia.org/wiki/Cloudscape_photography
+ 533. file:///wiki/飞机摄影
+ 534. file:///w/index.php?title=鐵道攝影&action=edit&redlink=1
+ 535. https://ja.wikipedia.org/wiki/鉄道撮影
+ 536. file:///wiki/法医摄影
+ 537. file:///w/index.php?title=廣告攝影&action=edit&redlink=1
+ 538. file:///wiki/商業攝影
+ 539. file:///wiki/時裝攝影
+ 540. file:///wiki/婚紗攝影
+ 541. file:///w/index.php?title=图库摄影&action=edit&redlink=1
+ 542. https://en.wikipedia.org/wiki/Stock_photography
+ 543. file:///wiki/公关摄影
+ 544. file:///w/index.php?title=業餘攝影&action=edit&redlink=1
+ 545. file:///wiki/廢墟攝影
+ 546. file:///wiki/攝影技術
+ 547. file:///w/index.php?title=Afocal攝影&action=edit&redlink=1
+ 548. file:///wiki/散景
+ 549. file:///wiki/剪影_(攝影)
+ 550. file:///w/index.php?title=青寫真&action=edit&redlink=1
+ 551. file:///wiki/向右曝光
+ 552. file:///w/index.php?title=閃燈補光&action=edit&redlink=1
+ 553. file:///w/index.php?title=煙花攝影&action=edit&redlink=1
+ 554. file:///w/index.php?title=哈里斯快門&action=edit&redlink=1
+ 555. file:///wiki/高动态范围成像
+ 556. file:///wiki/高速摄影
+ 557. file:///wiki/全息摄影
+ 558. file:///w/index.php?title=紅外線攝影&action=edit&redlink=1
+ 559. file:///wiki/克里安照相術
+ 560. file:///w/index.php?title=風箏攝影&action=edit&redlink=1
+ 561. https://en.wikipedia.org/wiki/Kite_aerial_photography
+ 562. file:///wiki/長時間曝光攝影
+ 563. file:///wiki/微距攝影
+ 564. file:///w/index.php?title=Mordançage&action=edit&redlink=1
+ 565. https://en.wikipedia.org/wiki/Mordançage
+ 566. file:///wiki/多重曝光
+ 567. file:///w/index.php?title=夜間攝影&action=edit&redlink=1
+ 568. file:///w/index.php?title=追蹤攝影&action=edit&redlink=1
+ 569. file:///w/index.php?title=攝影平移&action=edit&redlink=1
+ 570. file:///wiki/全景图
+ 571. file:///w/index.php?title=黑影照片&action=edit&redlink=1
+ 572. file:///w/index.php?title=印刷調色&action=edit&redlink=1
+ 573. file:///w/index.php?title=反轉底片&action=edit&redlink=1
+ 574. file:///w/index.php?title=重新拍攝&action=edit&redlink=1
+ 575. file:///w/index.php?title=Rollout攝影&action=edit&redlink=1
+ 576. file:///w/index.php?title=色調反轉&action=edit&redlink=1
+ 577. file:///w/index.php?title=薩巴蒂效應&action=edit&redlink=1
+ 578. file:///wiki/立體攝影
+ 579. file:///wiki/3D眼鏡
+ 580. file:///wiki/光圈收縮
+ 581. file:///w/index.php?title=日光顯影&action=edit&redlink=1
+ 582. file:///wiki/移轴摄影
+ 583. file:///w/index.php?title=仿微缩模型&action=edit&redlink=1
+ 584. https://en.wikipedia.org/wiki/Miniature_faking
+ 585. file:///wiki/縮時攝影
+ 586. file:///wiki/慢动作
+ 587. file:///w/index.php?title=紫外線攝影&action=edit&redlink=1
+ 588. file:///wiki/暈影
+ 589. file:///wiki/水中攝影
+ 590. file:///wiki/微型摄影术
+ 591. file:///wiki/相機陷阱
+ 592. file:///wiki/BeetleCam
+ 593. file:///wiki/鴿子攝影
+ 594. file:///wiki/構圖
+ 595. file:///wiki/对角线构图法
+ 596. file:///w/index.php?title=框架构图法&action=edit&redlink=1
+ 597. https://en.wikipedia.org/wiki/Framing_(visual_arts)
+ 598. file:///w/index.php?title=Headroom&action=edit&redlink=1
+ 599. https://en.wikipedia.org/wiki/Headroom_(photographic_framing)
+ 600. file:///w/index.php?title=Lead_room&action=edit&redlink=1
+ 601. https://en.wikipedia.org/wiki/Lead_room
+ 602. file:///wiki/三分法_(構圖)
+ 603. file:///w/index.php?title=Simplicity&action=edit&redlink=1
+ 604. https://en.wikipedia.org/wiki/Simplicity_(photography)
+ 605. file:///wiki/摄影器材
+ 606. file:///wiki/照相機
+ 607. file:///wiki/光場相機
+ 608. file:///wiki/单镜反光相机
+ 609. file:///wiki/無反光鏡可換鏡頭相機
+ 610. file:///wiki/双反相机
+ 611. file:///wiki/旁轴相机
+ 612. file:///w/index.php?title=直接觀景式相機&action=edit&redlink=1
+ 613. file:///wiki/高速攝影機
+ 614. file:///w/index.php?title=玩具相機_(器材)&action=edit&redlink=1
+ 615. https://en.wikipedia.org/wiki/Toy_camera
+ 616. file:///wiki/針孔相機
+ 617. file:///wiki/傻瓜相机
+ 618. file:///wiki/即时成像相机
+ 619. file:///wiki/大画幅相机
+ 620. file:///wiki/全景相机
+ 621. file:///wiki/空拍機
+ 622. file:///wiki/放大機
+ 623. file:///wiki/底片
+ 624. file:///w/index.php?title=底片片基&action=edit&redlink=1
+ 625. file:///wiki/底片格式
+ 626. file:///wiki/电影胶片
+ 627. file:///wiki/鏡頭
+ 628. file:///wiki/变焦镜头
+ 629. file:///wiki/定焦镜头
+ 630. file:///wiki/广角镜
+ 631. file:///wiki/標準鏡頭
+ 632. file:///wiki/遠攝鏡頭
+ 633. file:///wiki/镜头接口
+ 634. file:///wiki/摄影滤光镜
+ 635. file:///wiki/遮光罩
+ 636. file:///wiki/测光表
+ 637. file:///wiki/闪光灯
+ 638. file:///w/index.php?title=波帶板&action=edit&redlink=1
+ 639. file:///wiki/云台
+ 640. file:///wiki/單腳架
+ 641. file:///wiki/三腳架
+ 642. file:///wiki/自拍杆
+ 643. file:///wiki/相機穩定器
+ 644. file:///wiki/暗房
+ 645. file:///wiki/暗房安全燈
+ 646. file:///wiki/幻燈機
+ 647. file:///wiki/电影放映机
+ 648. file:///wiki/摄影#历史
+ 649. file:///wiki/暗箱
+ 650. file:///wiki/奥托克罗姆
+ 651. file:///wiki/卡罗法
+ 652. file:///wiki/银版摄影法
+ 653. file:///w/index.php?title=杜菲彩版&action=edit&redlink=1
+ 654. https://en.wikipedia.org/wiki/Dufaycolor
+ 655. file:///w/index.php?title=照相底板&action=edit&redlink=1
+ 656. https://en.wikipedia.org/wiki/Photographic_plate
+ 657. file:///wiki/視覺藝術
+ 658. file:///w/index.php?title=摄影技术发展史&action=edit&redlink=1
+ 659. https://en.wikipedia.org/wiki/Timeline_of_photography_technology
+ 660. file:///wiki/数码摄影
+ 661. file:///wiki/数码相机
+ 662. file:///wiki/數位單眼相機
+ 663. file:///wiki/無反光鏡可換鏡頭相機
+ 664. file:///w/index.php?title=数字相机后背&action=edit&redlink=1
+ 665. https://en.wikipedia.org/wiki/Digital_camera_back
+ 666. file:///wiki/图像传感器
+ 667. file:///w/index.php?title=有源像素传感器&action=edit&redlink=1
+ 668. https://en.wikipedia.org/wiki/Active-pixel_sensor
+ 669. file:///wiki/互補式金屬氧化物半導體
+ 670. file:///wiki/感光耦合元件
+ 671. file:///w/index.php?title=3CCD照相机&action=edit&redlink=1
+ 672. https://en.wikipedia.org/wiki/Three-CCD_camera
+ 673. file:///wiki/Foveon_X3感光元件
+ 674. file:///wiki/像素
+ 675. file:///w/index.php?title=底片扫描仪&action=edit&redlink=1
+ 676. https://en.wikipedia.org/wiki/Film_scanner
+ 677. file:///w/index.php?title=数码摄影与胶片摄影的对比&action=edit&redlink=1
+ 678. https://en.wikipedia.org/wiki/Comparison_of_digital_and_film_photography
+ 679. file:///wiki/先進攝影系統C型
+ 680. file:///w/index.php?title=望远镜摄影&action=edit&redlink=1
+ 681. https://en.wikipedia.org/wiki/Digiscoping
+ 682. file:///w/index.php?title=图片共享&action=edit&redlink=1
+ 683. https://en.wikipedia.org/wiki/Image_sharing
+ 684. file:///wiki/彩色攝影
+ 685. file:///wiki/颜色
+ 686. file:///wiki/彩色攝影
+ 687. file:///w/index.php?title=彩色像片&action=edit&redlink=1
+ 688. file:///wiki/正片
+ 689. file:///wiki/色彩管理
+ 690. file:///wiki/色域
+ 691. file:///wiki/原色
+ 692. file:///wiki/印刷四分色模式
+ 693. file:///wiki/沖洗
+ 694. file:///wiki/C-41沖印處理
+ 695. file:///w/index.php?title=交叉沖印&action=edit&redlink=1
+ 696. https://en.wikipedia.org/wiki/Cross_processing
+ 697. file:///wiki/顯影劑
+ 698. file:///w/index.php?title=數碼圖像處理&action=edit&redlink=1
+ 699. https://en.wikipedia.org/wiki/Digital_image_processing
+ 700. file:///w/index.php?title=偶染體&action=edit&redlink=1
+ 701. https://en.wikipedia.org/wiki/Dye_coupler
+ 702. file:///wiki/E-6沖印處理
+ 703. file:///w/index.php?title=Photographic_fixer&action=edit&redlink=1
+ 704. https://en.wikipedia.org/wiki/Photographic_fixer
+ 705. file:///w/index.php?title=明膠銀處理&action=edit&redlink=1
+ 706. https://en.wikipedia.org/wiki/Gelatin_silver_process
+ 707. file:///w/index.php?title=胶印_(摄影加工)&action=edit&redlink=1
+ 708. https://en.wikipedia.org/wiki/Gum_printing
+ 709. file:///wiki/即时成像胶片
+ 710. file:///w/index.php?title=K-14沖印處理&action=edit&redlink=1
+ 711. https://en.wikipedia.org/wiki/K-14_process
+ 712. file:///w/index.php?title=印刷耐久性&action=edit&redlink=1
+ 713. https://en.wikipedia.org/wiki/Print_permanence
+ 714. file:///w/index.php?title=增感显影處理&action=edit&redlink=1
+ 715. https://en.wikipedia.org/wiki/Push_processing
+ 716. file:///w/index.php?title=止顯劑&action=edit&redlink=1
+ 717. https://en.wikipedia.org/wiki/Stop_bath
+ 718. file:///wiki/全息摄影
+ 719. file:///wiki/玩具相機攝影
+ 720. file:///w/index.php?title=攝影和法律&action=edit&redlink=1
+ 721. file:///w/index.php?title=攝影博物館和畫廊&action=edit&redlink=1
+ 722. file:///wiki/周邊暗角
+ 723. file:///w/index.php?title=照片庫&action=edit&redlink=1
+ 724. file:///wiki/最昂貴的攝影作品列表
+ 725. file:///w/index.php?title=攝影器材製造商名單&action=edit&redlink=1
+ 726. file:///w/index.php?title=摄影师列表&action=edit&redlink=1
+ 727. https://en.wikipedia.org/wiki/List_of_photographers
+ 728. file:///w/index.php?title=街头摄影师列表&action=edit&redlink=1
+ 729. https://en.wikipedia.org/wiki/List_of_street_photographers
+ 730. file:///w/index.php?title=女性摄影师列表&action=edit&redlink=1
+ 731. https://en.wikipedia.org/wiki/List_of_women_photographers
+ 732. file:///wiki/Category:摄影
+ 733. https://zh.wikipedia.org/w/index.php?title=三原色光模式&oldid=90666896
+ 734. file:///wiki/Special:Categories
+ 735. file:///wiki/Category:色彩空间
+ 736. file:///wiki/Category:自2017年5月需补充来源的条目
+ 737. file:///wiki/Category:拒绝当选首页新条目推荐栏目的条目
+ 738. file:///wiki/Category:自2013年6月扩充中的条目
+ 739. file:///wiki/Category:含有英語的條目
+ 740. file:///wiki/Wikipedia:CC_BY-SA_4.0协议文本
+ 741. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 742. https://wikimediafoundation.org/
+ 743. https://donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility
+ 744. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 745. file:///wiki/Wikipedia:关于
+ 746. file:///wiki/Wikipedia:免责声明
+ 747. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 748. https://developer.wikimedia.org/
+ 749. https://stats.wikimedia.org/#/zh.wikipedia.org
+ 750. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 751. file://zh.wikipedia.org/w/index.php?title=三原色光模式&mobileaction=toggle_view_mobile
+ 752. https://www.wikimedia.org/
+ 753. https://www.mediawiki.org/
+ 754. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html
+
+   Hidden links:
+ 756. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html
+ 757. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html
+ 758. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html
+ 759. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html
+ 760. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html
+ 761. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html
+ 762. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-40.html

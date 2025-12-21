@@ -1,0 +1,43 @@
+5:绿洲
+9:   绿洲
+21:   绿洲是[19]桑迪经营的一所位于[20]沙漠的商店。商店中会出售在游戏中其他地方无法获得的种子，也会出售一些可从其他商店购买的物品，有时价格会
+26:   [24]小镇钥匙对绿洲无效。不过，绿洲仍会在除[25]沙漠节外的其他[26]节日营业。
+39:   绿洲每天都销售这些商品。随机衬衫是玩家在[32]创建角色时可选择的上衣之一。
+77:   下列物品中，绿洲商店每天随机选择至少2个进行销售。
+104:   [89]大号绿色地毯 这件家具不能布置在户外。 周五 Gold.png 2,500金
+129:     * [102]1.5：将壁掛仙人掌加入到固定商品中。椰子限购10个。秋季15日下午1点之后，桑迪会离开绿洲商店。在绿洲门口加了一把长椅，玩
+138:   • [118]玛妮的牧场 • 绿洲 • [119]皮埃尔的杂货店 • [120]齐先生的核桃房 • [121]星之果实酒吧 •
+149:   取自“[166]https://zh.stardewvalleywiki.com/mediawiki/index.php?title=绿洲&o
+253:   2. file:///mediawiki/index.php?title=绿洲&variant=zh
+254:   3. file:///mediawiki/index.php?title=绿洲&variant=zh-hans
+255:   4. file:///mediawiki/index.php?title=绿洲&variant=zh-hant
+256:   5. file:///mediawiki/index.php?title=绿洲&variant=zh-cn
+257:   6. file:///mediawiki/index.php?title=绿洲&variant=zh-hk
+258:   7. file:///mediawiki/index.php?title=绿洲&variant=zh-mo
+259:   8. file:///mediawiki/index.php?title=绿洲&variant=zh-my
+260:   9. file:///mediawiki/index.php?title=绿洲&variant=zh-sg
+261:  10. file:///mediawiki/index.php?title=绿洲&variant=zh-tw
+262:  11. file:///绿洲
+340:  89. file:///大号绿色地毯
+417: 166. https://zh.stardewvalleywiki.com/mediawiki/index.php?title=绿洲&oldid=54076
+423: 172. file:///mediawiki/index.php?title=Special:创建账户&returnto=绿洲&returntoquery=variant=zh
+424: 173. file:///mediawiki/index.php?title=Special:用户登录&returnto=绿洲&returntoquery=variant=zh
+425: 174. file:///绿洲
+426: 175. file:///mediawiki/index.php?title=Talk:绿洲&action=edit&redlink=1
+427: 176. file:///mediawiki/index.php?title=绿洲&variant=zh
+428: 177. file:///mediawiki/index.php?title=绿洲&variant=zh-hans
+429: 178. file:///mediawiki/index.php?title=绿洲&variant=zh-hant
+430: 179. file:///mediawiki/index.php?title=绿洲&variant=zh-cn
+431: 180. file:///mediawiki/index.php?title=绿洲&variant=zh-hk
+432: 181. file:///mediawiki/index.php?title=绿洲&variant=zh-mo
+433: 182. file:///mediawiki/index.php?title=绿洲&variant=zh-my
+434: 183. file:///mediawiki/index.php?title=绿洲&variant=zh-sg
+435: 184. file:///mediawiki/index.php?title=绿洲&variant=zh-tw
+436: 185. file:///绿洲
+437: 186. file:///mediawiki/index.php?title=绿洲&action=edit
+438: 187. file:///mediawiki/index.php?title=绿洲&action=history
+450: 199. file:///Special:链入页面/绿洲
+451: 200. file:///Special:最近链出更改/绿洲
+455: 204. file:///mediawiki/index.php?title=绿洲&oldid=54076
+456: 205. file:///mediawiki/index.php?title=绿洲&action=info
+472: 221. file://zh.stardewvalleywiki.com/mediawiki/index.php?title=绿洲&variant=zh&mobileaction=toggle_view_mobile

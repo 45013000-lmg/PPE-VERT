@@ -1,0 +1,478 @@
+   #[1]Stardew Valley Wiki (zh) [2]alternate [3]alternate [4]alternate
+   [5]alternate [6]alternate [7]alternate [8]alternate [9]alternate
+   [10]alternate [11]alternate [12]Stardew Valley Wiki的Atom feed
+
+绿洲
+
+   来自Stardew Valley Wiki
+   [13]跳到导航 [14]跳到搜索
+   绿洲
+   [15]Oasis ZH.png
+   Maplocation.png
+   Map.png
+   开放时间 上午9:00至晚上11:50
+   非营业时间 [16]沙漠节期间、
+   秋季15日下午1点之后
+   地址 [17]沙漠
+   居民
+
+   Sandy Icon.png [18]桑迪
+
+   绿洲是[19]桑迪经营的一所位于[20]沙漠的商店。商店中会出售在游戏中其他地方无法获得的种子，也会出售一些可从其他商店购买的物品，有时价格会
+   更便宜一些。
+
+   店内后方有一条小路通往由[21]齐先生经营的[22]赌场，在完成[23]任务“神秘的齐”之后就可以进入。
+
+   [24]小镇钥匙对绿洲无效。不过，绿洲仍会在除[25]沙漠节外的其他[26]节日营业。
+   [ ]
+
+目录
+
+     * [27]1 固定商品
+     * [28]2 不固定商品
+     * [29]3 注意
+     * [30]4 画廊
+     * [31]5 历史
+
+固定商品
+
+   绿洲每天都销售这些商品。随机衬衫是玩家在[32]创建角色时可选择的上衣之一。
+   图片 名字 描述 价格
+   [33]Cactus Seeds.png
+   [34]仙人掌种子 只能在室内种植。需要 12 天才能成熟，然后每 3 天结一次果。 Gold.png 150金
+   [35]Rhubarb Seeds.png
+   [36]大黄种子 春天播种。13 天成熟。 Gold.png 100金
+   [37]Starfruit Seeds.png
+   [38]杨桃种子 夏天播种。13 天成熟。 Gold.png 400金
+   [39]Beet Seeds.png
+   [40]甜菜种子 秋天播种。6 天成熟。 Gold.png 20金
+   [41]Seasonal Plant 4 Spring.png
+   [42]季节性植物 随着季节变化的观赏性植物。不需要浇水。 Gold.png 100金
+   根据情况变化 [43]随机衬衫 根据情况变化 Gold.png 1,000金
+   [44]Wall Cactus.png
+   [45]壁掛仙人掌 这件家具不能布置在户外。 Gold.png 700金
+   [46]Mannequin (M).png
+   [47]假人模特(男) 可以随意打扮它。
+   你可以随心所欲地打扮它。 Gold.png 12,000金
+   [48]Mannequin (F).png
+   [49]假人模特(女) 可以随意打扮它。
+   你可以随心所欲地打扮它。 Gold.png 12,000金
+   [50]Coat Stand.png
+   [51]衣帽架 这件家具不能布置在户外。 Gold.png 2,000金
+   [52]Clothesline.png
+   [53]晾衣绳 这件家具不能布置在户外。 Gold.png 5,000金
+   [54]Farmer Pants.png
+   [55]农夫裤 舒适耐用，适合长时间田间劳作。 Gold.png 1,000金
+   [56]Shorts.png
+   [57]短裤 炎炎夏日的绝配……你的腿会很感激。 Gold.png 1,000金
+   [58]Long Dress.png
+   [59]长裙 长长的，飘逸的裙子。 Gold.png 1,000金
+   [60]Skirt.png
+   [61]短裙 漂亮的裙子。 Gold.png 1,000金
+   [62]Pleated Skirt.png
+   [63]褶裙 漂亮的褶裙。 Gold.png 1,000金
+
+不固定商品
+
+   下列物品中，绿洲商店每天随机选择至少2个进行销售。
+   图片 名称 描述 日期 价格
+   [64]Coconut.png
+   [65]椰子（10） 椰树的种子。用途广泛。 周一 Gold.png 200金
+   [66]Large Cottage Rug.png
+   [67]大号木屋地毯 这件家具不能布置在户外。 周一 Gold.png 2,000金
+   [68]Cactus Fruit.png
+   [69]仙人掌果子 尖刺仙人掌的甜美果实。 周二 Gold.png 150金
+   [70]Wall Sconce 1.png
+   [71]壁挂灯 这件家具不能布置在户外。 周二随机供应 Gold.png 500金
+   [72]Wall Sconce 2.png
+   [73]壁挂灯 这件家具不能布置在户外。 周二随机供应 Gold.png 500金
+   [74]Wall Sconce 3.png
+   [75]壁挂灯 这件家具不能布置在户外。 周二随机供应 Gold.png 500金
+   [76]Wall Sconce 4.png
+   [77]壁挂灯 这件家具不能布置在户外。 周二随机供应 Gold.png 500金
+   [78]Omni Geode.png
+   [79]万象晶球（3） 铁匠能帮你把它敲开。这种晶球包含了多种多样的矿物。 周三 Gold.png 500金
+   [80]'Jade Hills Extended'.png
+   [81]长版《翡翠山》 这件家具不能布置在户外。 周三 Gold.png 5,000金
+   [82]Deluxe Speed-Gro.png
+   [83]高级生长激素 促进叶子生长。保证能让植物的生长速度加快 25%。使用时加到犁过的土地中。 周四 Gold.png 80金
+   [84]Old World Rug.png
+   [85]古典地毯 这件家具不能布置在户外。 周四 Gold.png 2,500金
+   [86]Honey.png
+   [87]蜂蜜 蜜蜂们产出的甜汁。 周五 Gold.png 200金
+   [88]Large Green Rug.png
+   [89]大号绿色地毯 这件家具不能布置在户外。 周五 Gold.png 2,500金
+   [90]Quality Retaining Soil.png
+   [91]高级保湿土壤 这种土壤有很大几率隔夜依然保持湿润。使用时加到犁过的土地中。 周六 Gold.png 200金
+   [92]Wall Sconce 5.png
+   [93]壁挂灯 这件家具不能布置在户外。 周六 Gold.png 500金
+   [94]Wall Sconce 7.png
+   [95]壁挂灯 这件家具不能布置在户外。 周六 Gold.png 500金
+   [96]Ice Cream.png
+   [97]冰淇淋 很难找到一个不喜欢它的人。 周日 Gold.png 240金
+   [98]Large Brown Couch.png
+   [99]棕色长沙发 这件家具不能布置在户外。 周日 Gold.png 3,000金
+
+注意
+
+     * 秋季15日是桑迪的生日，这天下午1点之后，桑迪会暂停营业。
+     * 冬季25日商店不关门。
+
+画廊
+
+     * 室内
+
+历史
+
+     * [100]1.3.27：将仙人掌种子和季节性植物加入到固定商品中。
+     * [101]1.4：将随机衬衫加入到固定商品中。每周三的万象晶球限购3个。
+     * [102]1.5：将壁掛仙人掌加入到固定商品中。椰子限购10个。秋季15日下午1点之后，桑迪会离开绿洲商店。在绿洲门口加了一把长椅，玩
+       家可以坐在上面。
+     * [103]1.6：将假人模特，衣帽架和晾衣绳添加到商店库存中。如果潘姆不在，玩家可以驾驶巴士。椰子价格从400金降至200金。万象晶球
+       价格从1000金降至500金。现在桑迪的商店会在非[104]沙漠节的其他节日期间营业。
+     * [105]1.6.12：将农夫裤、短裤、长裙、短裙和褶裙加入到固定商品中。
+
+   [106]建筑物
+   商店 [107]废弃的屋子 • [108]探险家公会 • [109]铁匠铺 • [110]木匠的商店 • [111]赌场 •
+   [112]沙漠商人 • [113]鱼店 • [114]哈维的诊所 • [115]冰淇淋摊 • [116]姜岛商人 • [117]Joja超市
+   • [118]玛妮的牧场 • 绿洲 • [119]皮埃尔的杂货店 • [120]齐先生的核桃房 • [121]星之果实酒吧 •
+   [122]旅行货车 • [123]火山商店 • [124]法师塔 • [125]大树桩
+   住宅 [126]河间大道1号 • [127]河间大道2号 • [128]柳巷1号 • [129]柳巷2号 • [130]山路24号 •
+   [131]艾利欧特小屋 • [132]农舍 • [133]姜岛农舍 • [134]莉亚的农舍 • [135]镇长的庄园 • [136]帐篷 •
+   [137]拖车 • [138]树屋
+   农场建筑 农业建筑 [139]畜棚 • [140]联机小屋 • [141]鸡舍 • [142]鱼塘 • [143]温室 • [144]磨坊 •
+   [145]小屋 • [146]筒仓 • [147]史莱姆屋 • [148]马厩 • [149]水井 • [150]宠物碗
+   特殊建筑 [151]祝尼魔屋 • [152]黄金时钟 • [153]土之图腾柱 • [154]水之图腾柱 • [155]沙漠图腾柱 •
+   [156]姜岛图腾柱 • [157]农场图腾柱
+   其他建筑 [158]博物馆 • [159]狗窝 • [160]社区中心 • [161]Joja仓库 • [162]电影院 • [163]温泉
+   • [164]女巫小屋 • [165]岛屿办事处
+   取自“[166]https://zh.stardewvalleywiki.com/mediawiki/index.php?title=绿洲&o
+   ldid=54076”
+   [167]分类：
+     * [168]地点
+     * [169]建筑
+     * [170]商店
+     * [171]沙漠地点
+
+导航菜单
+
+个人工具
+
+     * [172]创建账户
+     * [173]登录
+
+命名空间
+
+     * [174]页面
+     * [175]讨论
+
+   [ ]
+
+不转换
+
+     * [176]不转换
+     * [177]简体
+     * [178]繁體
+     * [179]大陆简体
+     * [180]香港繁體
+     * [181]澳門繁體
+     * [182]大马简体
+     * [183]新加坡简体
+     * [184]台灣正體
+
+视图
+
+     * [185]阅读
+     * [186]查看源代码
+     * [187]查看历史
+
+   [ ]
+
+更多
+
+搜索
+
+   ____________________ 搜索 前往
+
+导航
+
+     * [188]首页
+     * [189]最近更改
+     * [190]管理员布告板
+     * [191]编辑入门
+     * [192]随机页面
+     * [193]交流群
+     * [194]互通站
+
+链接
+
+     * [195]官方网站
+     * [196]官方论坛
+     * [197]官方商品
+     * [198]社交媒体
+
+工具
+
+     * [199]链入页面
+     * [200]相关更改
+     * [201]上传文件
+     * [202]特殊页面
+     * [203]可打印版本
+     * [204]固定链接
+     * [205]页面信息
+
+其他语言
+
+     * [206]Deutsch
+     * [207]English
+     * [208]Español
+     * [209]Français
+     * [210]Italiano
+     * [211]日本語
+     * [212]한국어
+     * [213]Magyar
+     * [214]Português
+     * [215]Русский
+     * [216]Türkçe
+
+     * 此页面最后编辑于2025年12月13日 (星期六) 11:24。
+     * 除另有声明的部分外，本网站的文字内容采用 [217]CC BY-SA 3.0 授权。
+
+     * [218]隐私政策
+     * [219]关于Stardew Valley Wiki
+     * [220]免责声明
+     * [221]手机版视图
+
+     * [222]Creative Commons Attribution-NonCommercial-ShareAlike
+     * [223]Powered by MediaWiki
+
+References
+
+   Visible links:
+   1. file:///mediawiki/opensearch_desc.php
+   2. file:///mediawiki/index.php?title=绿洲&variant=zh
+   3. file:///mediawiki/index.php?title=绿洲&variant=zh-hans
+   4. file:///mediawiki/index.php?title=绿洲&variant=zh-hant
+   5. file:///mediawiki/index.php?title=绿洲&variant=zh-cn
+   6. file:///mediawiki/index.php?title=绿洲&variant=zh-hk
+   7. file:///mediawiki/index.php?title=绿洲&variant=zh-mo
+   8. file:///mediawiki/index.php?title=绿洲&variant=zh-my
+   9. file:///mediawiki/index.php?title=绿洲&variant=zh-sg
+  10. file:///mediawiki/index.php?title=绿洲&variant=zh-tw
+  11. file:///绿洲
+  12. file:///mediawiki/index.php?title=Special:最近更改&feed=atom
+  13. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-12.html#mw-head
+  14. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-12.html#searchInput
+  15. file:///File:Oasis_ZH.png
+  16. file:///沙漠节
+  17. file:///沙漠
+  18. file:///桑迪
+  19. file:///桑迪
+  20. file:///沙漠
+  21. file:///齐先生
+  22. file:///赌场
+  23. file:///任务#The_Mysterious_Qi
+  24. file:///小镇钥匙
+  25. file:///沙漠节
+  26. file:///节日
+  27. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-12.html#.E5.9B.BA.E5.AE.9A.E5.95.86.E5.93.81
+  28. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-12.html#.E4.B8.8D.E5.9B.BA.E5.AE.9A.E5.95.86.E5.93.81
+  29. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-12.html#.E6.B3.A8.E6.84.8F
+  30. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-12.html#.E7.94.BB.E5.BB.8A
+  31. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-12.html#.E5.8E.86.E5.8F.B2
+  32. file:///玩家角色#.E5.88.9B.E5.BB.BA.E8.A7.92.E8.89.B2
+  33. file:///File:Cactus_Seeds.png
+  34. file:///仙人掌种子
+  35. file:///File:Rhubarb_Seeds.png
+  36. file:///大黄种子
+  37. file:///File:Starfruit_Seeds.png
+  38. file:///杨桃种子
+  39. file:///File:Beet_Seeds.png
+  40. file:///甜菜种子
+  41. file:///File:Seasonal_Plant_4_Spring.png
+  42. file:///季节性植物
+  43. file:///裁缝
+  44. file:///File:Wall_Cactus.png
+  45. file:///壁挂仙人掌
+  46. file:///File:Mannequin_(M).png
+  47. file:///假人模特
+  48. file:///File:Mannequin_(F).png
+  49. file:///假人模特
+  50. file:///File:Coat_Stand.png
+  51. file:///衣帽架
+  52. file:///File:Clothesline.png
+  53. file:///晾衣绳
+  54. file:///File:Farmer_Pants.png
+  55. file:///裁缝#.E4.B8.8B.E8.A3.85
+  56. file:///File:Shorts.png
+  57. file:///裁缝#.E4.B8.8B.E8.A3.85
+  58. file:///File:Long_Dress.png
+  59. file:///裁缝#.E4.B8.8B.E8.A3.85
+  60. file:///File:Skirt.png
+  61. file:///裁缝#.E4.B8.8B.E8.A3.85
+  62. file:///File:Pleated_Skirt.png
+  63. file:///裁缝#.E4.B8.8B.E8.A3.85
+  64. file:///File:Coconut.png
+  65. file:///椰子
+  66. file:///File:Large_Cottage_Rug.png
+  67. file:///大号木屋地毯
+  68. file:///File:Cactus_Fruit.png
+  69. file:///仙人掌果子
+  70. file:///File:Wall_Sconce_1.png
+  71. file:///壁挂灯
+  72. file:///File:Wall_Sconce_2.png
+  73. file:///壁挂灯
+  74. file:///File:Wall_Sconce_3.png
+  75. file:///壁挂灯
+  76. file:///File:Wall_Sconce_4.png
+  77. file:///壁挂灯
+  78. file:///File:Omni_Geode.png
+  79. file:///万象晶球
+  80. file:///File:'Jade_Hills_Extended'.png
+  81. file:///长版《翡翠山》
+  82. file:///File:Deluxe_Speed-Gro.png
+  83. file:///高级生长激素
+  84. file:///File:Old_World_Rug.png
+  85. file:///古典地毯
+  86. file:///File:Honey.png
+  87. file:///蜂蜜
+  88. file:///File:Large_Green_Rug.png
+  89. file:///大号绿色地毯
+  90. file:///File:Quality_Retaining_Soil.png
+  91. file:///高级保湿土壤
+  92. file:///File:Wall_Sconce_5.png
+  93. file:///壁挂灯
+  94. file:///File:Wall_Sconce_7.png
+  95. file:///壁挂灯
+  96. file:///File:Ice_Cream.png
+  97. file:///冰淇淋
+  98. file:///File:Large_Brown_Couch.png
+  99. file:///棕色长沙发
+ 100. file:///版本历史#1.3.27
+ 101. file:///版本历史#1.4
+ 102. file:///版本历史#1.5
+ 103. file:///版本历史#1.6
+ 104. file:///沙漠节
+ 105. file:///版本历史#1.6.12
+ 106. file:///鹈鹕镇
+ 107. file:///废弃的屋子
+ 108. file:///探险家公会
+ 109. file:///铁匠铺
+ 110. file:///木匠的商店
+ 111. file:///赌场
+ 112. file:///沙漠商人
+ 113. file:///鱼店
+ 114. file:///哈维的诊所
+ 115. file:///冰淇淋摊
+ 116. file:///姜岛商人
+ 117. file:///Joja超市
+ 118. file:///玛妮的牧场
+ 119. file:///皮埃尔的杂货店
+ 120. file:///齐先生的核桃房
+ 121. file:///星之果实酒吧
+ 122. file:///旅行货车
+ 123. file:///火山地牢#.E5.95.86.E5.BA.97
+ 124. file:///法师塔
+ 125. file:///大树桩（地点）
+ 126. file:///河间大道1号
+ 127. file:///拖车
+ 128. file:///柳巷1号
+ 129. file:///柳巷2号
+ 130. file:///木匠的商店
+ 131. file:///艾利欧特小屋
+ 132. file:///农舍
+ 133. file:///姜岛农舍
+ 134. file:///莉亚的农舍
+ 135. file:///镇长的庄园
+ 136. file:///帐篷
+ 137. file:///拖车
+ 138. file:///树屋
+ 139. file:///畜棚
+ 140. file:///联机小屋
+ 141. file:///鸡舍
+ 142. file:///鱼塘
+ 143. file:///温室
+ 144. file:///磨坊
+ 145. file:///小屋
+ 146. file:///筒仓
+ 147. file:///史莱姆屋
+ 148. file:///马厩
+ 149. file:///水井
+ 150. file:///宠物碗
+ 151. file:///祝尼魔屋
+ 152. file:///黄金时钟
+ 153. file:///土之图腾柱
+ 154. file:///水之图腾柱
+ 155. file:///沙漠图腾柱
+ 156. file:///姜岛图腾柱
+ 157. file:///农场图腾柱
+ 158. file:///博物馆
+ 159. file:///狗窝
+ 160. file:///社区中心
+ 161. file:///Joja仓库
+ 162. file:///电影院
+ 163. file:///温泉
+ 164. file:///女巫小屋
+ 165. file:///岛屿办事处
+ 166. https://zh.stardewvalleywiki.com/mediawiki/index.php?title=绿洲&oldid=54076
+ 167. file:///Special:页面分类
+ 168. file:///Category:地点
+ 169. file:///Category:建筑
+ 170. file:///Category:商店
+ 171. file:///Category:沙漠地点
+ 172. file:///mediawiki/index.php?title=Special:创建账户&returnto=绿洲&returntoquery=variant=zh
+ 173. file:///mediawiki/index.php?title=Special:用户登录&returnto=绿洲&returntoquery=variant=zh
+ 174. file:///绿洲
+ 175. file:///mediawiki/index.php?title=Talk:绿洲&action=edit&redlink=1
+ 176. file:///mediawiki/index.php?title=绿洲&variant=zh
+ 177. file:///mediawiki/index.php?title=绿洲&variant=zh-hans
+ 178. file:///mediawiki/index.php?title=绿洲&variant=zh-hant
+ 179. file:///mediawiki/index.php?title=绿洲&variant=zh-cn
+ 180. file:///mediawiki/index.php?title=绿洲&variant=zh-hk
+ 181. file:///mediawiki/index.php?title=绿洲&variant=zh-mo
+ 182. file:///mediawiki/index.php?title=绿洲&variant=zh-my
+ 183. file:///mediawiki/index.php?title=绿洲&variant=zh-sg
+ 184. file:///mediawiki/index.php?title=绿洲&variant=zh-tw
+ 185. file:///绿洲
+ 186. file:///mediawiki/index.php?title=绿洲&action=edit
+ 187. file:///mediawiki/index.php?title=绿洲&action=history
+ 188. file:///Stardew_Valley_Wiki
+ 189. file:///Special:最近更改
+ 190. file:///Stardew_Valley_Wiki:管理员布告板
+ 191. file:///Help:编辑入门
+ 192. file:///Special:随机页面
+ 193. file:///Stardew_Valley_Wiki:交流群
+ 194. https://wiki.biligame.com/stardewvalley/
+ 195. https://www.stardewvalley.net/
+ 196. https://forums.stardewvalley.net/
+ 197. https://www.stardewvalley.net/shop/
+ 198. https://www.stardewvalley.net/links/
+ 199. file:///Special:链入页面/绿洲
+ 200. file:///Special:最近链出更改/绿洲
+ 201. file://stardewvalleywiki.com/Special:Upload
+ 202. file:///Special:特殊页面
+ 203. javascript:print();
+ 204. file:///mediawiki/index.php?title=绿洲&oldid=54076
+ 205. file:///mediawiki/index.php?title=绿洲&action=info
+ 206. https://de.stardewvalleywiki.com/Oase
+ 207. https://stardewvalleywiki.com/Oasis
+ 208. https://es.stardewvalleywiki.com/Oasis
+ 209. https://fr.stardewvalleywiki.com/Oasis
+ 210. https://it.stardewvalleywiki.com/Oasi
+ 211. https://ja.stardewvalleywiki.com/オアシス
+ 212. https://ko.stardewvalleywiki.com/오아시스
+ 213. https://hu.stardewvalleywiki.com/Oázis
+ 214. https://pt.stardewvalleywiki.com/Oásis
+ 215. https://ru.stardewvalleywiki.com/Оазис
+ 216. https://tr.stardewvalleywiki.com/Vaha
+ 217. https://creativecommons.org/licenses/by-sa/3.0/
+ 218. file:///Stardew_Valley_Wiki:隐私政策
+ 219. file:///Stardew_Valley_Wiki:关于
+ 220. file:///Stardew_Valley_Wiki:免责声明
+ 221. file://zh.stardewvalleywiki.com/mediawiki/index.php?title=绿洲&variant=zh&mobileaction=toggle_view_mobile
+ 222. https://creativecommons.org/licenses/by-nc-sa/3.0/
+ 223. https://www.mediawiki.org/
+
+   Hidden links:
+ 225. file://localhost/File:Oasis_Interior.png
+ 226. file://localhost/Stardew_Valley_Wiki

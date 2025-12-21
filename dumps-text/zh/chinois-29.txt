@@ -1,0 +1,509 @@
+   #[1]JSON [2]oEmbed (JSON) [3]oEmbed (XML) [4]alternate [5]alternate
+   [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
+   [11]alternate [12]alternate [13]alternate [14]alternate
+
+   IFRAME: [15]https://www.googletagmanager.com/ns.html?id=GTM-NLQRGMK
+
+   (BUTTON) 溯源
+     * [16]解决方案
+          + [17]摘要
+          + [18]它是如何工作的
+          + [19]服务
+          + [20]特点
+          + [21]内容解决方案
+          + [22]创作伙伴
+          + [23]礼宾服务
+          + [24]成功
+          + [25]视频制作地点
+     * [26]持续创造
+     * [27]客户成功
+          + [28]案例研究
+          + [29]为什么选择90 Seconds
+          + [30]管理您的预算
+          + [31]为您的团队
+          + [32]支持
+     * [33]我们的思考
+          + [34]博客
+          + [35]洞察力
+          + [36]产品更新
+          + [37]知识
+     * [38]灵感
+
+   (BUTTON)
+   [39]
+   [arrow-left.svg]
+   [40]
+   转到平台
+   (BUTTON) 联系我们
+
+   (BUTTON)
+
+   选择你的语言
+
+   [41]首页 箭头 [42]知识 箭头 [43]什么是 箭头 什么是绿幕？
+
+什么是绿幕？
+
+   撰写人 90 Seconds
+   ・
+   最后更新2023 年 10 月 4 日
+   [44]
+   0
+   什么是绿幕？
+
+   绿幕是一种绿色背景，视频制作团队在后期制作阶段用来放置视觉效果。
+
+   使用绿屏（或色键）的技术自19世纪以来一直存在。娱乐业和好莱坞已经成为使用这种幻觉艺术的传奇。
+
+   采用绿屏这个名字只是因为片场有一个大的绿屏背景。绿色被选为个性或用于展示的图像所穿戴的最少的颜色之一。该技术使用了图像的层次。
+
+   背景层是透明的绿色屏幕。前景是最终显示的图像。屏幕被放在要显示的图像后面。演播室的绿色背景是用来完全包围物体以创造漂浮效果的。
+
+行业组成部分
+
+   今天，这个过程在技术上被称为色度抠像或彩色抠像。
+
+   透明度是选择一种特定的颜色来使用计算机软件的结果。一般来说，电影制作者使用蓝色屏幕。
+
+   新闻和气象制作人员使用绿屏。该软件允许将任何图像放置在绿屏的背景上。今天的技术已经更新了应用程序，使其更容易再现投射到舞台和电影上的图像。
+
+主要用途
+
+天气广播
+
+   使用绿屏的主要目的是特效。我们每天都能在本地天气广播、电视节目和大片中看到它。
+
+   制片人正在使用色键特效来叠加和删除屏幕上的图像。例如，在演员穿着绿色衣服的情况下，使用色键特效可以使衣服不可见。
+
+次要用途
+
+降低成本
+
+   技术的进步和数字的引入扩大了绿色屏幕的使用。
+
+   今天，企业家和专业人士正在使用电子设备和软件创建自己的视频。空间和预算有限的项目正在使用便携式屏幕。
+
+   便携式屏幕与绿色演播室背景一样有效。使用的布料一般都是拉伸的，消除皱纹，因为它们会造成阴影。
+
+   接下来是高高兴兴的程度，这也防止了最终图像的任何阴影。一个绿色屏幕、计算机软件和一台摄像机或具有视频功能的智能手机，简直可以把你放在世界的任何
+   地方。
+
+媒体市场
+
+   蓝屏在摄影中更多地被用于其平静的效果和情绪的提升。数字技术已经发展出使用绿色屏幕的更多的追随者。原因是--绿色更容易捕捉到光线，产生更明亮的效
+   果。使用绿屏技术的场所包括会展、会议和贸易展。音乐会和体育赛事的营销活动已经创造了惊人的效果。
+
+商业机密
+
+   以下是购买或租赁绿幕时需要考虑的几个商业秘密：
+   1.较浅、较亮的绿幕比深绿色效果好。
+   2.2. 荧幕应该是不起皱的，抗皱的。
+   3.3.RGB照明在红、绿、蓝三色光谱中增加色彩。
+   [cover-knowledge-green-screen.jpg]
+
+你好、
+
+   现在就联系我们，讨论您的下一个项目。
+   [45]给我们发送一份简介
+   或
+   [46]联系我们
+   90 Seconds
+
+想要制作史诗般的视频？
+
+   现在就联系我们，讨论您的下一个项目。
+   [47]给我们发送一份简介
+   或
+   [48]联系我们
+   [49]
+   0
+   (BUTTON)
+
+   或复制链接
+   https://90seconds.com/what-is/green-screen/
+   拷贝
+
+相关文章
+
+     * [50]
+
+如何租赁绿幕？
+       当涉及到色度抠像的时候，绿屏背景是最重要的元素，这是叠加的特殊效果。
+       阅读
+
+热门文章
+
+     * [51]
+
+什么是摄影指导？
+       摄影指导 (DOP) 也称摄影师，是视频制作过程中的创意领导者。它是一个 ...
+       阅读
+     * [52]
+
+什么是服装设计师？
+       服装设计师是设计电影、舞台剧和电视中使用的服装和衣柜用品的人。...
+       阅读
+     * [53]
+
+什么是VFX（视觉效果）艺术家？
+       视觉特效师的主要职责是通过使用视觉特效技术来实现导演或制片人的创意构想。
+       阅读
+
+     * [54]简介
+     * [55]行业组成部分
+     * [56]主要用途
+     * [57]次要用途
+     * [58]媒体市场
+     *
+     * [59]商业机密
+     * [60]相关文章
+     * [61]热门文章
+
+   请与我们联系，让我们一起制作史诗般的视频。
+
+   准备好开始了吗？让我们聊聊。
+
+阅读我们关于大规模客户故事的免费白皮书
+
+   基于 14 年的经验和 8,800 多个客户故事视频，《90 Seconds
+   分享了我们在创建客户故事方面的最佳实践以及可扩展的客户故事框架。立即获取这份宝贵的资料。
+
+   We have created 50,000+ videos since 2012.
+
+   对于品牌
+     * [62]解决方案
+     * [63]持续创造
+     * [64]它是如何工作的
+     * [65]为你的团队
+     * [66]场所
+     * [67]联系我们
+
+   市场
+     * [68]内容解决方案
+     * [69]90Plan
+     * [70]90Shoot
+     * [71]90Edit
+     * [72]90 人工智能辅助
+     * [73]成功
+
+   资源
+     * [74]案例研究
+     * [75]灵感
+     * [76]博客
+     * [77]洞察力
+     * [78]创作者
+     * [79]支持
+
+   关于我们
+     * [80]我们的故事
+     * [81]团队
+     * [82]与我们一起工作
+
+   法律
+     * [83]品牌条款和条件
+     * [84]创造者的条款和条件
+     * [85]更改和退款政策
+     * [86]数据保护政策
+     * [87]可接受的使用政策
+
+   90 Seconds
+   [88]应用商店 [89]Google Play
+   © 2010-2025,90 Seconds.
+   [90]90 Seconds 由Drata监控。
+
+   [ ] 中文 (简体)
+     * [91]English
+     * [92]العربية
+     * [93]Deutsch
+     * [94]Español
+     * [95]Français
+     * [96]Italiano
+     * [97]Nederlands
+     * [98]한국어
+     * [99]日本語
+     * [100]中文 (繁體)
+
+   © 2010-2025,90 Seconds.
+
+   无障碍设施 (BUTTON)
+   无障碍模式
+   癫痫安全模式 [ ]
+   癫痫安全模式
+   减弱色彩，消除眨眼
+   这种模式使癫痫患者能够安全地使用网站，消除了因闪光或闪烁的动画和危险的颜色组合而导致的癫痫发作的风险。
+   视力障碍模式 [ ]
+   视力障碍模式
+   改善网站的视觉效果
+   这种模式可以调整网站，以方便有视觉障碍的用户，如视力下降、隧道视力、白内障、青光眼等。
+   认知障碍模式 [ ]
+   认知障碍模式
+   有助于专注于特定的内容
+   这种模式提供了不同的辅助选项，以帮助有认知障碍的用户，如阅读障碍、自闭症、CVA等，更容易地关注网站的基本元素。
+   多动症友好模式 [ ]
+   多动症友好模式
+   减少分心，提高注意力
+   这种模式可以帮助患有多动症和神经发育障碍的用户更容易地阅读、浏览和专注于网站的主要内容，同时大大减少干扰。
+   失明模式 [ ]
+   失明模式
+   允许使用读屏器使用该网站
+   这种模式将网站配置为与读屏器兼容，如JAWS、NVDA、VoiceOver和TalkBack。读屏器是为盲人用户安装的软件，安装在电脑和智能手
+   机上，网站必须与之兼容。
+   在线词典
+   ____________________ 开始输入以在维基百科中搜索
+   (BUTTON)
+
+   可读的经验
+   内容扩展
+   (BUTTON)
+   默认情况下
+   (BUTTON)
+   文本放大镜
+   可读字体
+   方便阅读障碍者
+   突出标题
+   亮点链接
+   字体大小
+   (BUTTON)
+   默认情况下
+   (BUTTON)
+   线路高度
+   (BUTTON)
+   默认情况下
+   (BUTTON)
+   字母间距
+   (BUTTON)
+   默认情况下
+   (BUTTON)
+   左对齐
+   中心对齐
+   右对齐
+   视觉上的愉悦体验
+   暗色的对比
+   光的对比度
+   单色的
+   高对比度
+   高饱和度
+   低饱和度
+   调整文本颜色
+   调整标题颜色
+   调整背景颜色
+   轻松定位
+   声音静音
+   隐藏图片
+   隐藏表情符号
+   阅读指南
+   停止动画
+   阅读面具
+   突出显示悬停
+   突出重点
+   大黑暗光标
+   大光标
+   认知阅读
+   虚拟键盘
+   导航键
+   语音导航
+   链接导航器
+   [选择一个选项一个选项]
+   (BUTTON) 重置设置
+
+   90 Seconds (BUTTON) 可访问性声明
+   (BUTTON)
+
+可访问性声明
+
+     * 90seconds.com
+     * December 21, 2025
+
+合规状况
+
+   我们坚信，任何人都可以使用和访问互联网，并致力于为尽可能多的受众提供一个可以访问的网站、
+   我们致力于为尽可能多的受众提供一个可以访问的网站，无论他们的条件和能力如何。
+
+   为此，我们尽可能严格遵守万维网联盟 (W3C) 的《网页内容无障碍导则 2.1》(WCAG 2.1) AA 级标准。
+   这些指南解释了如何使各种残疾人士都能访问网页内容。遵守这些指南有助于我们确保网站的无障碍访问
+   所有人：盲人、运动障碍者、视力障碍者、认知障碍者等。
+
+   本网站采用了各种技术，旨在使其在任何时候都尽可能无障碍。我们利用无障碍界面，让有特殊残疾的人 残疾人士调整网站的
+   UI（用户界面），并根据他们的个人需求进行设计。
+
+   此外，网站还使用了一个基于人工智能的应用程序，该程序在后台运行，并不断优化网站的可访问性水平。该应用程序可修复网站的 HTML、
+   针对盲人用户使用的屏幕阅读器和运动障碍人士使用的键盘功能，调整其功能和行为。
+
+   如果你发现了一个故障或有改进的想法，我们将很高兴听到你的意见。你可以通过以下电子邮件与网站的运营者联系
+
+读屏器和键盘导航
+
+   我们的网站采用了 ARIA 属性（可访问的富互联网应用）技术以及各种不同的行为变化，以确保使用读屏软件访问网站的盲人用户能
+   屏幕阅读器的盲人用户能够阅读、理解并享受网站的功能。使用屏幕阅读器的用户一进入网站，就会立即收到以下提示
+   提示输入屏幕阅读器配置文件，这样他们就可以有效地浏览和操作网站。以下是我们的网站如何涵盖一些最重要的屏幕阅读器要求、 以及控制台代码示例截图：
+    1. 屏幕阅读器优化： 我们运行一个后台程序，从上到下学习网站组件，以确保即使在更新网站时也能持续符合要求。 在此过程中，我们使用 ARIA
+       属性集为屏幕阅读器提供有意义的数据。例如，我们提供准确的表单标签；
+       可操作图标（社交媒体图标、搜索图标、购物车图标等）的描述；表单输入的验证指导；按钮、菜单、模式对话框（弹出窗口）等元素的作用、
+       等元素角色。此外，后台程序会扫描网站的所有图像，并提供准确、有意义的基于图像对象识别的描述，作为 ALT（替代文本）标签 作为
+       ALT（替代文本）标签。它还会使用 OCR（光学字符识别）技术提取图像中嵌入的文本。 要随时开启屏幕阅读器调整功能，用户只需按下
+       Alt+1 键盘组合键即可。屏幕阅读器用户在进入网站后还会收到自动通知，要求开启屏幕阅读器模式。
+       屏幕阅读器用户在进入网站时也会收到自动提示，以开启屏幕阅读器模式。
+       这些调整与所有流行的屏幕阅读器兼容，包括JAWS和NVDA。
+    2. 键盘导航优化：
+       后台程序还调整了网站的HTML，并使用JavaScript代码添加了各种行为，使网站可以通过键盘操作。这包括使用Tab和Shift+T
+       ab键导航网站，用箭头键操作下拉菜单，用Esc关闭它们，用Enter键触发按钮和链接，用箭头键在单选和复选框元素之间导航，用空格键或E
+       nter键填入它们。此外，键盘用户会发现快速导航和内容跳转菜单，通过点击Alt+1随时可用，或在用键盘导航时作为网站的第一个元素。后台
+       程序还可以处理触发的弹出窗口，在它们出现时立即将键盘焦点移向它们，而不允许焦点漂移到它之外。
+       用户还可以使用 "M"（菜单）、"H"（标题）、"F"（表格）、"B"（按钮）和 "G"（图形）等快捷键来跳转到特定元素。
+
+在我们的网站上支持残疾简介
+
+     * 癫痫安全模式：这个配置文件使癫痫患者能够安全地使用网站，因为它消除了因闪光或闪烁的动画和危险的颜色组合而导致的癫痫发作的风险。
+     * 视力障碍模式：该模式对网站进行调整，以方便有视力障碍的用户，如视力下降、隧道视野、白内障、青光眼等。
+     * 认知障碍模式：该模式提供不同的辅助选项，以帮助有认知障碍的用户，如阅读障碍、自闭症、CVA等，更容易地关注网站的基本元素。
+     * 多动症友好模式：该模式帮助患有多动症和神经发育障碍的用户更容易阅读、浏览和专注于网站的主要内容，同时大大减少干扰。
+     * 盲人模式：该模式将网站配置为与读屏器兼容，如JAWS、NVDA、VoiceOver和TalkBack。读屏器是为盲人用户提供的软件，安
+       装在电脑和智能手机上，网站必须与之兼容。
+     * 键盘导航配置文件（运动障碍者）：该配置文件使运动障碍者能够使用键盘的Tab、Shift+Tab和Enter键来操作网站。用户还可以使用
+       "M"（菜单）、"H"（标题）、"F"（表格）、"B"（按钮）和 "G"（图形）等快捷键来跳转到特定元素。
+
+额外的用户界面、设计和可读性调整
+
+    1. 字体调整 -用户，可以增加和减少其大小，改变其家族（类型），调整间距，对齐，行高，以及更多。
+    2. 色彩调整--用户可以选择各种色彩对比配置文件，如浅色、深色、反色和单色。此外，用户可以调换标题、文本和背景的颜色方案，有超过7种不同的
+       着色选项。
+    3. 动画 -癫痫病人可以通过点击一个按钮停止所有正在运行的动画。由界面控制的动画包括视频、GIF和CSS闪烁过渡。
+    4. 内容突出 -用户可以选择强调重要元素，如链接和标题。他们还可以选择只突出重点或悬停的元素。
+    5. 音频静音 -有听力设备的用户可能会因为自动播放音频而感到头痛或其他问题。这个选项可以让用户立即对整个网站进行静音。
+    6. 认知障碍--我们利用与维基百科和维基词典相连接的搜索引擎，使认知障碍患者能够破译短语、首字母、俚语等的含义。
+    7. 额外功能--我们为用户提供了改变光标颜色和大小、使用打印模式、启用虚拟键盘和许多其他功能的选项。
+
+浏览器和辅助技术的兼容性
+
+   我们的目标是尽可能地支持最广泛的浏览器和辅助技术，因此我们的用户可以选择最适合他们的工具，并尽可能地减少限制。因此，我们非常努力地支持占用户市
+   场份额95%以上的所有主要系统，包括谷歌浏览器、Mozilla
+   Firefox、苹果Safari、Opera和微软Edge、JAWS和NVDA（屏幕阅读器），无论是Windows用户还是MAC用户。
+
+注释、评论和反馈
+
+   尽管我们尽最大努力使任何人都能根据自己的需要调整网站，但仍可能有一些页面或部分没有完全实现无障碍，或正在实现无障碍的过程中，或缺乏足够的技术解
+   决方案来实现其无障碍。尽管如此，我们仍在不断提高我们的可访问性，增加、更新和改进其选项和功能，并开发和采用新技术。所有这些都是为了在技术进步之
+   后，达到最佳的无障碍水平。如有任何协助，请联系
+
+   (BUTTON)
+
+References
+
+   Visible links:
+   1. https://90seconds.com/wp-json/wp/v2/what_is/2390
+   2. https://90seconds.com/wp-json/oembed/1.0/embed?url=https://90seconds.com/what-is/green-screen/
+   3. https://90seconds.com/wp-json/oembed/1.0/embed?url=https://90seconds.com/what-is/green-screen/&format=xml
+   4. https://90seconds.com/what-is/green-screen/
+   5. https://90seconds.com/ar/what-is/green-screen/
+   6. https://90seconds.com/de/what-is/green-screen/
+   7. https://90seconds.com/es/what-is/green-screen/
+   8. https://90seconds.com/fr/what-is/green-screen/
+   9. https://90seconds.com/it/what-is/green-screen/
+  10. https://90seconds.com/nl/what-is/green-screen/
+  11. https://90seconds.com/ko/what-is/green-screen/
+  12. https://90seconds.com/ja/what-is/green-screen/
+  13. https://90seconds.com/zh/what-is/green-screen/
+  14. https://90seconds.com/tw/what-is/green-screen/
+  15. https://www.googletagmanager.com/ns.html?id=GTM-NLQRGMK
+  16. file:///zh/solution/
+  17. https://90seconds.com/zh/solution/
+  18. https://90seconds.com/zh/solution/how-it-works/
+  19. https://90seconds.com/zh/solution/services/
+  20. https://90seconds.com/zh/solution/features/
+  21. https://90seconds.com/zh/solution/video-content-solutions/
+  22. https://90seconds.com/zh/solution/creator-partners/
+  23. https://90seconds.com/zh/solution/concierge/
+  24. https://90seconds.com/zh/solution/success/
+  25. https://90seconds.com/zh/solution/locations/
+  26. file:///zh/continuous-creation/
+  27. file:///zh/case-studies/
+  28. file:///zh/case-studies/
+  29. https://90seconds.com/zh/why-choose-90/
+  30. https://90seconds.com/zh/solution/features/account/manage-your-budget-efficiently-with-wallets/
+  31. https://90seconds.com/zh/for-teams/
+  32. file:///zh/support/
+  33. file:///zh/blog/
+  34. file:///zh/blog/
+  35. file:///zh/insight/
+  36. file:///zh/blog/category/product-updates/
+  37. file:///zh/learn/
+  38. file:///zh/inspiration/
+  39. https://app.90seconds.com/
+  40. https://app.90seconds.com/human/sign_in
+  41. file:///zh/
+  42. file:///zh/learn/
+  43. file:///zh/what-is/
+  44. javascript:void(0)
+  45. file:///zh/send-us-a-brief/
+  46. javascript:void(0)
+  47. file:///zh/send-us-a-brief/
+  48. javascript:void(0)
+  49. javascript:void(0)
+  50. https://90seconds.com/zh/how-to-rent/green-screen/
+  51. https://90seconds.com/zh/what-is/director-of-photography/
+  52. https://90seconds.com/zh/what-is/costume-designer/
+  53. https://90seconds.com/zh/what-is/vfx-visual-effects-artist/
+  54. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-29.html#heading0
+  55. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-29.html#heading1
+  56. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-29.html#heading2
+  57. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-29.html#heading3
+  58. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-29.html#heading4
+  59. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-29.html#heading6
+  60. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-29.html#related
+  61. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-29.html#popular
+  62. file:///zh/solution/
+  63. file:///zh/continuous-creation/
+  64. file:///zh/solution/how-it-works/
+  65. file:///zh/for-teams/
+  66. file:///zh/solution/locations/
+  67. javascript:void(0)
+  68. file:///zh/solution/video-content-solutions/
+  69. file:///zh/solution/services/plan/
+  70. file:///zh/solution/services/shoot/
+  71. file:///zh/solution/services/edit/
+  72. file:///zh/solution/services/ai-assisted/
+  73. file:///zh/solution/success/
+  74. file:///zh/case-studies/
+  75. file:///zh/inspiration/
+  76. file:///zh/blog/
+  77. file:///zh/insight/
+  78. file:///zh/for-creators/
+  79. file:///zh/support/
+  80. file:///zh/about/
+  81. file:///zh/about/team/
+  82. file:///zh/about/careers/
+  83. file:///zh/brand-terms/
+  84. file:///zh/creator-terms/
+  85. file:///zh/changes-refunds-policy/
+  86. file:///zh/privacy/
+  87. file:///zh/acceptable-use-policy/
+  88. https://apps.apple.com/us/app/90-seconds/id729925714
+  89. https://play.google.com/store/apps/details?id=com.ninetyseconds.auckland.creators
+  90. https://90seconds.com/zh/privacy/
+  91. https://90seconds.com/what-is/green-screen/?wg-choose-original=true
+  92. https://90seconds.com/ar/what-is/green-screen/?wg-choose-original=false
+  93. https://90seconds.com/de/what-is/green-screen/?wg-choose-original=false
+  94. https://90seconds.com/es/what-is/green-screen/?wg-choose-original=false
+  95. https://90seconds.com/fr/what-is/green-screen/?wg-choose-original=false
+  96. https://90seconds.com/it/what-is/green-screen/?wg-choose-original=false
+  97. https://90seconds.com/nl/what-is/green-screen/?wg-choose-original=false
+  98. https://90seconds.com/ko/what-is/green-screen/?wg-choose-original=false
+  99. https://90seconds.com/ja/what-is/green-screen/?wg-choose-original=false
+ 100. https://90seconds.com/tw/what-is/green-screen/?wg-choose-original=false
+
+   Hidden links:
+ 102. file://localhost/zh/
+ 103. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-29.html
+ 104. http://www.facebook.com/share.php?u=https%3A%2F%2F90seconds.com%2Fwhat-is%2Fgreen-screen%2F
+ 105. https://twitter.com/intent/tweet?url=https%3A%2F%2F90seconds.com%2Fwhat-is%2Fgreen-screen%2F&text=What%20is%20a%20Green%20Screen?
+ 106. http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2F90seconds.com%2Fwhat-is%2Fgreen-screen%2F&title=What%20is%20a%20Green%20Screen?&source=https%3A%2F%2F90seconds.com%2Fwhat-is%2Fgreen-screen%2F
+ 107. file://www.pinterest.com/pin/create/button/?url=https://90seconds.com/what-is/green-screen/&media=https://90seconds.com/wp-content/uploads/2023/09/cover-knowledge-green-screen.jpg&description=What%20is%20a%20Green%20Screen?
+ 108. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-29.html#heading5
+ 109. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-29.html
+ 110. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-29.html
+ 111. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-29.html
+ 112. https://www.linkedin.com/company/90-seconds
+ 113. https://twitter.com/90secondstv
+ 114. https://www.youtube.com/channel/UCGu3ZzSJU36GrjfpwGfpa_g
+ 115. https://www.facebook.com/90Seconds.tv
+ 116. https://instagram.com/90secondstv

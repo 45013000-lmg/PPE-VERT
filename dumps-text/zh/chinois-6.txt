@@ -1,0 +1,748 @@
+   [1]集团网站 [2]选择区域/语言
+   [3]返回主菜单
+   华为门户网站群
+
+   集团网站
+          公司介绍、新闻动态、展会活动等信息
+
+   [4]消费者业务网站
+          手机，PC和平板等智慧生活产品
+
+   [5]企业业务网站
+          企业商用产品、解决方案和服务
+
+   [6]运营商业务网站
+          运营商网络解决方案、产品及服务
+
+   [7]华为云网站
+          华为云服务及解决方案
+
+选择区域/语言
+
+     * Australia - [8]English
+     * Brazil - [9]Português
+     * China - [10]简体中文
+     * Europe - [11]English
+     * France - [12]Français
+     * Germany - [13]Deutsch
+     * Ireland - [14]English
+     * Italy - [15]Italiano
+     * Japan - [16]日本語
+     * Kazakhstan - [17]Қазақ тілі
+     * Kazakhstan - [18]Pусский
+     * Kenya - [19]English
+     * Korea - [20]한국어
+     * Malaysia - [21]English
+     * Mexico - [22]Español
+     * Mongolia - [23]Mонгол
+     * New Zealand - [24]English
+     * Netherlands - [25]Nederlands
+     * Poland - [26]Polski
+     * Romania - [27]Română
+     * Russia - [28]Pусский
+     * Singapore - [29]English
+     * South Africa - [30]English
+     * Spain - [31]Español
+     * Switzerland - [32]Deutsch
+     * Switzerland - [33]Français
+     * Switzerland - [34]Italiano
+     * Switzerland - [35]English
+     * Tanzania - [36]English
+     * Thailand - [37]ภาษาไทย
+     * Turkiye - [38]Türkçe
+     * Ukraine - [39]Українська
+     * United Kingdom - [40]English
+     * Uzbekistan - [41]Pусский
+     * Uzbekistan - [42]O’zbek
+     * Vietnam - [43]Tiếng Việt
+     * Global - [44]English
+
+   (BUTTON) Toggle Navigation [45]huawei logo
+     * [46]个人及家庭产品
+       [47]返回主菜单
+       个人及家庭产品
+          + [48]手机
+          + [49]电脑
+          + [50]平板
+          + [51]智慧屏
+          + [52]穿戴
+          + [53]耳机音箱
+          + [54]全屋智能
+          + [55]路由器
+          + [56]HarmonyOS 6
+          + [57]全部产品
+       [58]HUAWEI Mate 80 Pro
+       [59]消费者业务网站
+       [60]华为商城
+       [61]华为商城
+     * [62]商用产品及方案
+       [63]返回主菜单
+       商用产品及方案
+
+产品
+
+联接
+          + [64]运营商网络
+          + [65]企业网络
+          + [66]企业光网络
+          + [67]企业无线
+
+计算
+          + [68]鲲鹏计算
+          + [69]昇腾AI计算
+          + [70]数据存储
+
+云
+          + [71]华为云
+
+服务
+          + [72]运营商服务
+          + [73]政企服务
+          + [74]上云服务
+
+行业解决方案
+          + [75]电信
+          + [76]金融
+          + [77]电力
+          + [78]油气
+          + [79]制造
+          + [80]教育
+          + [81]更多行业方案
+
+热点话题
+          + [82]共铸能源产业高质量发展
+          + [83]数字城市
+          + [84]加速行业智能化
+       [85]企业业务网站
+       [86]运营商业务网站
+       [87]华为云网站
+       [88]数字能源网站
+       [89]商用产品及方案 智能汽车解决方案网站
+     * [90]服务支持
+       [91]返回主菜单
+       服务支持
+
+个人及家庭产品支持
+          + [92]维修申请
+          + [93]上门安装
+          + [94]华为服务日
+          + [95]服务店查询
+          + [96]备件价格查询
+          + [97]在线客服
+          + [98]查看更多
+
+华为云服务支持
+          + [99]智能客服
+          + [100]新手入门
+          + [101]支持计划
+          + [102]自助服务
+          + [103]云社区
+          + [104]云资源管理App
+          + [105]查看更多
+
+企业业务支持
+          + [106]智能客服
+          + [107]产品支持
+          + [108]软件下载
+          + [109]互动社区
+          + [110]工具
+          + [111]查看更多
+
+运营商网络支持
+          + [112]产品支持
+          + [113]Group Space
+          + [114]公告
+          + [115]华为资料直通车
+          + [116]查看更多
+     * [117]合作伙伴与开发者
+       [118]返回主菜单
+       合作伙伴与开发者
+
+合作伙伴
+          + [119]企业业务伙伴
+          + [120]华为云伙伴
+          + [121]数字能源伙伴
+          + [122]终端业务伙伴
+
+开发者
+          + [123]鸿蒙开发者
+          + [124]华为云开发者
+          + [125]鲲鹏开发者
+          + [126]昇腾开发者
+          + [127]查看更多
+
+学习与认证
+          + [128]ICT公开课程
+          + [129]华为ICT学院
+          + [130]华为认证
+     * [131]关于华为
+       [132]返回主菜单
+       关于华为
+
+关于华为
+          + [133]公司简介
+          + [134]公司年报
+          + [135]公司治理
+          + [136]管理层信息
+          + [137]联系我们
+          + [138]可持续发展
+          + [139]信任中心
+          + [140]华为开源
+          + [141]创新与知识产权
+          + [142]合规与诚信
+          + [143]招贤纳士
+          + [144]债券投资者
+          + [145]供应商
+          + [146]公共政策
+
+新闻与活动
+          + [147]新闻
+          + [148]展会活动
+          + [149]多媒体
+
+发现华为
+          + [150]华为技术专栏
+          + [151]探索智能世界
+          + [152]出版物
+     * [153]在线购买
+       [154]返回主菜单
+       在线购买
+          + [155]华为商城
+          + [156]华为商城
+          + [157]华为云
+
+   ____________________
+   搜索历史 [trash.svg] 清空
+
+   热门链接
+     * [158]消费者产品保修查询
+     * [159]HarmonyOS 6
+     * [160]HiSuite华为手机助手
+     * [161]华为电脑管家
+     * [162]ENSP
+     * [163]华为视频
+     * [164]手机产品
+     * [165]驱动程序下载
+
+     * [166]华为商城
+     * [167]华为商城
+     * [168]华为云
+
+   搜索历史 [trash.svg] 清空
+
+   热门链接
+     * [169]消费者产品保修查询
+     * [170]HarmonyOS 6
+     * [171]HiSuite华为手机助手
+     * [172]华为电脑管家
+     * [173]ENSP
+     * [174]华为视频
+     * [175]手机产品
+     * [176]驱动程序下载
+
+   green-ict-mb green-ict-pc
+
+绿色发展 2030
+
+   数字化与低碳化相互驱动、相互促进，共同推动人类迈向绿色发展新时代。华为将携手客户与伙伴，通过持续创新，实现绿色ICT使能绿色发展，共同构建更美
+   好的绿色智能世界。
+     * [177]PDF报告下载
+     * [178]观看视频
+
+展望
+
+   绿色发展将在能源、工业、交通、建筑、数字基础设施等各个方面改变人类的工作与生活
+   digitalpower-01
+
+   可再生能源成为主流
+
+   全球可再生能源发电占比超65%，储能累计装机容量增加20倍
+   giv2030-robot
+
+   工业走向绿色生产
+
+   每万名制造业员工将与1,000个机器人共同工作
+   digitalpower-03
+
+   交通全面电气化
+
+   全球新能源汽车达1.45亿辆，全球私人充电桩1亿台
+   giv2030-green-building
+
+   未来建筑进入零碳运行
+
+   新建建筑进入零碳运行时代
+   digitalpower-04
+
+   绿色数字基础设施成为基本要求
+
+   数字基础设施能效提升100倍
+   giv2030-green-lifestyle
+
+   零碳生活成为新时尚
+
+   全球在线医疗空间增长超10倍，中国在线教育增长约23倍，数字旅游的用户数达到10亿
+
+双引擎
+
+   数字化和低碳化是驱动绿色发展的双引擎
+   communication cubic broadband 1
+
+数字化以10倍杠杆效应使能低碳化
+
+低碳化激发数字化潜能
+
+两者相辅相成，共同驱动绿色发展
+
+   [179]展开更多
+   [180]收起
+
+创新方向
+
+   华为将围绕打造绿色ICT基础设施、加速可再生能源发展、以及使能千行百业节能减排等几个方面，持续进行ICT技术创新，使能人类社会的可持续发展
+   green-ict-server-1
+
+提升数字基础设施能效
+
+     * 通过理论、材料、器件、架构的创新，打造绿色站点
+     * 通过系统架构，软件节能创新，构建极简网络
+     * 通过L1到L3多维创新，打造绿色数据中心
+     * 通过指标体系评估、低碳自智网络，实现智慧运营
+
+   [181]展开更多
+   [182]收起
+   green-ict-clean-energy
+
+加大可再生能源占比
+
+   在能源供给侧：
+     * 融合数字技术和电力电子技术，提升光伏发电效率
+     * 光储融合，加速光伏成为主力能源
+
+   在能源消费侧：
+     * 数字技术重新定义电动汽车体验，加速超越传统燃油汽车
+     * 发展综合智慧能源，推动建筑走向“光储直柔”
+
+   [183]展开更多
+   [184]收起
+   green-ict-industrial
+
+使能行业绿色发展
+
+     * 电力：数字技术助力构建以新能源为主体的新型电力系统
+     * 工业：数字技术助力工业实现绿色智造
+     * 交通：数字技术加速交通工具电气化和交通体系智慧化
+     * 建筑：数字技术使能建筑绿色零碳运行
+
+   [185]展开更多
+   [186]收起
+
+更多产业报告
+
+     * [187]global outlook 2024 cn
+
+宏观展望 2030
+       了解更多
+     * [188]communication-networks-2030-cn
+
+通信网络 2030
+       了解更多
+     * [189]communications cn
+
+计算 2030
+       了解更多
+     * [190]data-storage-2030-cn
+
+数据存储2030
+       了解更多
+     * [191]ict-services-software-2030-cn
+
+ICT服务与软件 2030
+       了解更多
+     * [192]cloud-computing-2030-cn
+
+云计算 2030
+       了解更多
+     * [193]digital-power-2030-cn
+
+数字能源 2030
+       了解更多
+     * [194]adn-2030-cn
+
+智能汽车解决方案 2030
+       了解更多
+     * [195]intelligent-campus-2030-cn
+
+智慧园区 2030
+       了解更多
+     * [196]Data Center 2030
+
+数据中心 2030
+       了解更多
+     * [197]Electric Power Digitalization 2030
+
+电力数字化 2030
+       了解更多
+     * [198]digital-intelligent-urban-transformation-2030-cn
+
+城市数智化 2030
+       了解更多
+     * [199]industrial-digitalization-cover
+
+工业数字化/智能化 2030
+       了解更多
+
+   在线客服
+   [maskpop.png]
+
+在线客服
+
+   [maskpop.png]
+
+个人及家庭产品
+
+   热线：950800（7*24小时）
+   [200]查找零售店
+   [201]咨询客服
+   [maskpop.png]
+
+华为云服务
+
+   热线：4000-955-988|950808
+   [202]预约售前专属顾问
+   [203]智能客服
+   [maskpop.png]
+
+企业服务
+
+   热线：400-822-9999
+   [204]查找经销商
+   [205]咨询客服
+   [maskpop.png]
+
+运营商网络服务
+
+   热线：4008302118
+   [206]技术支持中心
+   [207]查看全部联系方式
+
+   ____________________
+
+关于华为
+
+     * [208]公司简介
+     * [209]可持续发展
+     * [210]信任中心
+     * [211]管理层信息
+     * [212]招贤纳士
+     * [213]供应商
+     * [214]查看更多
+
+新闻与活动
+
+     * [215]新闻
+     * [216]展会活动
+     * [217]多媒体
+
+发现华为
+
+     * [218]华为技术专栏
+     * [219]探索智能世界
+     * [220]出版物
+
+我们的产品
+
+     * [221]个人及家庭产品
+     * [222]企业业务产品
+     * [223]运营商网络产品
+     * [224]华为云服务
+
+技术支持
+
+     * [225]消费者技术支持
+     * [226]华为云技术支持
+     * [227]企业技术支持
+     * [228]运营商技术支持
+     * [229]安全应急响应
+
+     * [230]华为商城
+     * [231]华为云
+     * [232]华为JDC社区
+     * [233]华为心声社区
+
+     *
+     * [234](BUTTON) ×
+
+     *
+     *
+
+   华为技术有限公司 [235]粤A2-20044005号 [236]粤公网安备44030702002388号
+     * [237]联系我们
+     * [238]法律声明
+     * [239]隐私政策
+     * [240]除名查询
+
+References
+
+   Visible links:
+   1. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-6.html
+   2. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-6.html
+   3. javascript:;
+   4. https://consumer.huawei.com/cn
+   5. https://e.huawei.com/cn/
+   6. https://carrier.huawei.com/cn/
+   7. https://www.huaweicloud.com/
+   8. file:///au/
+   9. file:///br/
+  10. file:///cn/
+  11. file:///eu/
+  12. file:///fr/
+  13. file:///de/
+  14. file:///ie/
+  15. file:///it/
+  16. file:///jp/
+  17. file:///kz/
+  18. file:///kz-ru/
+  19. file:///ke/
+  20. file:///kr/
+  21. file:///my/
+  22. file:///mx/
+  23. file:///mn/
+  24. file:///nz/
+  25. file:///nl/
+  26. file:///pl/
+  27. file:///ro/
+  28. https://www.huawei.ru/
+  29. file:///sg/
+  30. file:///za/
+  31. file:///es/
+  32. file:///ch/
+  33. file:///ch-fr/
+  34. file:///ch-it/
+  35. file:///ch-en/
+  36. file:///tz/
+  37. file:///th/
+  38. file:///tr/
+  39. file:///ua/
+  40. file:///uk/
+  41. file:///uz/
+  42. file:///uz-uz/
+  43. file:///vn/
+  44. file:///en/
+  45. file:///cn
+  46. javascript:;
+  47. javascript:;
+  48. https://consumer.huawei.com/cn/phones/?utm_medium=hwdc&utm_source=corp_header_consumer
+  49. https://consumer.huawei.com/cn/laptops/?utm_medium=hwdc&utm_source=corp_header_consumer
+  50. https://consumer.huawei.com/cn/tablets/?utm_medium=hwdc&utm_source=corp_header_consumer
+  51. https://consumer.huawei.com/cn/visions/?utm_medium=hwdc&utm_source=corp_header_consumer
+  52. https://consumer.huawei.com/cn/wearables/?utm_medium=hwdc&utm_source=corp_header_consumer
+  53. https://consumer.huawei.com/cn/audio/?utm_medium=hwdc&utm_source=corp_header_consumer
+  54. https://consumer.huawei.com/cn/wholehome/?utm_medium=hwdc&utm_source=corp_header_consumer
+  55. https://consumer.huawei.com/cn/routers/?utm_medium=hwdc&utm_source=corp_header_consumer
+  56. https://consumer.huawei.com/cn/harmonyos-6/?utm_medium=hwdc&utm_source=corp_header_consumer
+  57. https://consumer.huawei.com/cn/?utm_medium=hwdc&utm_source=corp_header_consumer
+  58. https://consumer.huawei.com/cn/?utm_medium=hwdc&utm_source=corp_header_consumer
+  59. https://consumer.huawei.com/cn/?utm_medium=hwdc&utm_source=corp_header_consumer
+  60. https://www.vmall.com/?cid=119884
+  61. https://m.vmall.com/?cid=119884
+  62. javascript:;
+  63. javascript:;
+  64. https://carrier.huawei.com/cn/
+  65. https://e.huawei.com/cn/solutions/enterprise-network
+  66. https://e.huawei.com/cn/solutions/enterprise-optical-network
+  67. https://e.huawei.com/cn/solutions/enterprise-wireless
+  68. https://e.huawei.com/cn/products/computing/kunpeng
+  69. https://e.huawei.com/cn/products/computing/ascend
+  70. https://e.huawei.com/cn/products/storage
+  71. https://www.huaweicloud.com/
+  72. https://carrier.huawei.com/cn/products/service-and-software
+  73. https://e.huawei.com/cn/solutions/services
+  74. https://www.huaweicloud.com/service/professionalservices.html
+  75. https://carrier.huawei.com/cn/
+  76. https://e.huawei.com/cn/industries/finance
+  77. https://e.huawei.com/cn/industries/grid
+  78. https://e.huawei.com/cn/industries/oil-gas
+  79. https://e.huawei.com/cn/industries/manufacturing
+  80. https://e.huawei.com/cn/industries/education
+  81. https://e.huawei.com/cn/products-and-solutions
+  82. https://digitalpower.huawei.com/cn/high-quality-development
+  83. https://e.huawei.com/cn/special_topic/digital-cities/main
+  84. https://e.huawei.com/cn/events/branding/accelerate-industrial-intelligence
+  85. https://e.huawei.com/cn/
+  86. https://carrier.huawei.com/cn/
+  87. https://www.huaweicloud.com/
+  88. https://digitalpower.huawei.com/cn/
+  89. https://auto.huawei.com/cn/
+  90. javascript:;
+  91. javascript:;
+  92. https://consumer.huawei.com/cn/support/break-fix/
+  93. https://consumer.huawei.com/cn/support/install/
+  94. https://consumer.huawei.com/cn/support/service-day/
+  95. https://consumer.huawei.com/cn/support/service-center/
+  96. https://consumer.huawei.com/cn/support/sparepart-price/
+  97. https://celia.consumer.huawei.com/official/#/?businessUUID=fe8192189f0a40e8a883ab8bdf1ba8ea
+  98. https://consumer.huawei.com/cn/support/
+  99. https://www.huaweicloud.com/ai-assistant/index.html
+ 100. https://support.huaweicloud.com/help-novice.html
+ 101. https://www.huaweicloud.com/service/supportplans.html
+ 102. https://support.huaweicloud.com/help-tools.html
+ 103. https://bbs.huaweicloud.com/
+ 104. https://www.huaweicloud.com/mobile_app/hwapp.html?channel=navigation_right
+ 105. https://support.huaweicloud.com/
+ 106. https://weiknow.gts.huawei.com/weiknow/#/question?locale=zh_CN&lang=zh
+ 107. https://support.huawei.com/enterprise/zh/doc/index.html
+ 108. https://support.huawei.com/enterprise/zh/software/index.html
+ 109. https://forum.huawei.com/enterprise/cn/zh/index
+ 110. https://support.huawei.com/enterprise/zh/tool
+ 111. https://support.huawei.com/enterprise/zh/index.html
+ 112. https://support.huawei.com/carrierindex/zh/hwe/index.html#click=main1
+ 113. https://support.huawei.com/groupspace/
+ 114. https://support.huawei.com/carrier/navi?coltype=news#col=bulletin
+ 115. https://support.huawei.com/carrier/navi?coltype=other#col=other/pigeon
+ 116. https://support.huawei.com/carrierindex/index
+ 117. javascript:;
+ 118. javascript:;
+ 119. https://partner.huawei.com/eplusmeta/cn/web/china.html
+ 120. https://www.huaweicloud.com/partners/
+ 121. https://digitalpower.huawei.com/partner/#/cn/main
+ 122. https://pmall.huawei.com/
+ 123. https://developer.huawei.com/consumer/cn/
+ 124. https://developer.huaweicloud.com/
+ 125. https://www.hikunpeng.com/zh/developer
+ 126. https://www.hiascend.com/zh/developer
+ 127. https://developer.huawei.com/cn/
+ 128. https://e.huawei.com/cn/talent/learning/#/home
+ 129. https://e.huawei.com/cn/talent/ict-academy/#/home
+ 130. https://e.huawei.com/cn/talent/cert/#/careerCert
+ 131. javascript:;
+ 132. javascript:;
+ 133. file:///cn/corporate-information
+ 134. file:///cn/annual-report
+ 135. file:///cn/corporate-governance
+ 136. file:///cn/executives
+ 137. file:///cn/contact-us
+ 138. file:///cn/sustainability
+ 139. file:///cn/trust-center
+ 140. file:///cn/open-source
+ 141. file:///cn/ipr
+ 142. file:///cn/compliance
+ 143. https://career.huawei.com/reccampportal/portal5/index.html
+ 144. file:///cn/bond-investor-relations
+ 145. https://supplier.huawei.com/supplier/
+ 146. file:///cn/public-policy
+ 147. file:///cn/news
+ 148. file:///cn/events
+ 149. file:///cn/gallery
+ 150. file:///cn/huaweitech
+ 151. file:///cn/intelligent-world
+ 152. file:///cn/publications
+ 153. javascript:;
+ 154. javascript:;
+ 155. https://www.vmall.com/?cid=10074
+ 156. https://m.vmall.com/?cid=10074
+ 157. https://www.huaweicloud.com/?utm_medium=menu&utm_source=corp_huawei&utm_campaign=allwayson
+ 158. https://consumer.huawei.com/cn/support/warranty-query/
+ 159. https://consumer.huawei.com/cn/harmonyos-6/
+ 160. https://consumer.huawei.com/cn/support/hisuite/
+ 161. https://consumer.huawei.com/cn/support/pc-manager/
+ 162. https://support.huawei.com/enterprise/zh/network-rollout-and-integration-service/ensp-pro-pid-260215817
+ 163. https://consumer.huawei.com/cn/mobileservices/video/
+ 164. https://consumer.huawei.com/cn/phones/
+ 165. https://consumer.huawei.com/cn/support/driver-list/
+ 166. https://www.vmall.com/?cid=10074
+ 167. https://m.vmall.com/?cid=10074
+ 168. https://www.huaweicloud.com/?utm_medium=menu&utm_source=corp_huawei&utm_campaign=allwayson
+ 169. https://consumer.huawei.com/cn/support/warranty-query/
+ 170. https://consumer.huawei.com/cn/harmonyos-6/
+ 171. https://consumer.huawei.com/cn/support/hisuite/
+ 172. https://consumer.huawei.com/cn/support/pc-manager/
+ 173. https://support.huawei.com/enterprise/zh/network-rollout-and-integration-service/ensp-pro-pid-260215817
+ 174. https://consumer.huawei.com/cn/mobileservices/video/
+ 175. https://consumer.huawei.com/cn/phones/
+ 176. https://consumer.huawei.com/cn/support/driver-list/
+ 177. https://www-file.huawei.com/admin/asset/v1/pro/view/dba1e47a773341439990d0ed662e23b3.pdf
+ 178. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-6.html
+ 179. javascript:;
+ 180. javascript:;
+ 181. javascript:;
+ 182. javascript:;
+ 183. javascript:;
+ 184. javascript:;
+ 185. javascript:;
+ 186. javascript:;
+ 187. file:///cn/giv/global-outlook
+ 188. file:///cn/giv/communications-network-2030
+ 189. file:///cn/giv/computing-2030
+ 190. file:///cn/giv/data-storage-2030
+ 191. file:///cn/giv/ict-services-software-2030
+ 192. file:///cn/giv/cloud-computing-2030
+ 193. file:///cn/giv/digital-power-2030
+ 194. file:///cn/giv/intelligent-automotive-solution-2030
+ 195. file:///cn/giv/intelligent-campus-2030
+ 196. file:///cn/giv/data-center-2030
+ 197. file:///cn/giv/electric-power-digitalization-2030
+ 198. file:///home/menggeliu/PPE-VERT/aspirations/zh/digital-intelligent-urban-transformation-2030
+ 199. file:///cn/giv/industrial-digitalization-2030
+ 200. https://consumer.huawei.com/cn/stores/
+ 201. https://celia.consumer.huawei.com/official/#/?businessUUID=fe8192189f0a40e8a883ab8bdf1ba8ea
+ 202. https://www.huaweicloud.com/service/contact.html
+ 203. https://console.huaweicloud.com/smartadvisor/
+ 204. https://partner.huawei.com/web/china/channel-find-partner
+ 205. https://support.huawei.com/livechat/cn
+ 206. https://support.huawei.com/carrierindex/index
+ 207. file:///cn/contact-us
+ 208. file:///cn/corporate-information
+ 209. file:///cn/sustainability
+ 210. file:///cn/trust-center
+ 211. file:///cn/executives
+ 212. https://career.huawei.com/
+ 213. https://supplier.huawei.com/supplier/
+ 214. file:///cn/about-huawei
+ 215. file:///cn/news
+ 216. file:///cn/events
+ 217. file:///cn/gallery
+ 218. file:///cn/huaweitech
+ 219. file:///cn/intelligent-world
+ 220. file:///cn/publications
+ 221. https://consumer.huawei.com/cn/
+ 222. https://e.huawei.com/cn/
+ 223. https://carrier.huawei.com/cn/
+ 224. https://www.huaweicloud.com/product/
+ 225. https://consumer.huawei.com/cn/support/
+ 226. https://support.huaweicloud.com/
+ 227. https://support.huawei.com/enterprise/zh/index.html
+ 228. https://support.huawei.com/carrier
+ 229. file:///cn/psirt
+ 230. https://www.vmall.com/?cid=122288
+ 231. https://www.huaweicloud.com/
+ 232. https://jdc.huawei.com/
+ 233. https://xinsheng.huawei.com/
+ 234. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-6.html
+ 235. https://beian.miit.gov.cn/
+ 236. https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030702002388
+ 237. file:///cn/contact-us
+ 238. file:///cn/legal
+ 239. file:///cn/privacy-policy
+ 240. file:///cn/terminations
+
+   Hidden links:
+ 242. javascript:;
+ 243. javascript:;
+ 244. javascript:;
+ 245. javascript:;
+ 246. javascript:;
+ 247. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-6.html
+ 248. javascript:;
+ 249. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-6.html
+ 250. javascript:;
+ 251. javascript:;
+ 252. javascript:;
+ 253. javascript:;
+ 254. javascript:;
+ 255. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-6.html
+ 256. javascript:;
+ 257. javascript:;
+ 258. file://weibo.com/huaweiweibo
+ 259. file://www.toutiao.com/c/user/74089686926/#mid=1582935816546318
+ 260. file://www.zhihu.com/org/hua-wei-62-16

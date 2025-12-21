@@ -1,0 +1,848 @@
+ <!DOCTYPE html> <html lang="zh" > <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> <title>
+	绿色城市网络 | 绿色城市倡议 | 联合国粮食及农业组织 
+</title> <script src="/ScriptResource.axd?d=6DQe8ARl7A9TiuWej5ttCsl0UxczkFZDbeL5SW9kKwZezKThjMd6CKk80af9FalSKa-iav7TTDncR2lY8pDjm3GfAJE4PtQDLQKTHvlXubFpiBl5L2i8chWLcfOXJghIDWVmV7HDcMgBha1sHF1HkvsG2gh96v6WMgcTICorlXSyCWKJN2ZyaRZDDb4Aqzqr0&amp;t=5dc176bf" type="text/javascript"></script><script src="/ScriptResource.axd?d=74FHISOx3fOPKwLxL0RMYh70ezZ-ORxFxHKxtz0UOPg9EUQxTPN8-UKE4lkI6c_x7Y5_KWlWwAWxLFKVT-LYvCs8ogtaZX_8Ldu_Ha6fqNvKUYz-iwsAD98noLncrVt8xXRvxvQvI8C6OeG6ayptPlJ8Jhe1U-cIG8z7urOA6SjD5WDdFtJKQYNppo3NHS220&amp;t=5dc176bf" type="text/javascript"></script><script src="https://cse.google.com/cse.js?cx=018170620143701104933%3Aqq82jsfba7w" type="text/javascript"></script><link href="/ResourcePackages/Bootstrap5/assets/dist/css/main.min.css?v=5.3.3&amp;package=FAO" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/FAO/assets/dist/css/leaflet/leaflet.css" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/FAO/assets/dist/css/leaflet/MarkerCluster.css" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/FAO/assets/dist/css/leaflet/MarkerCluster.Default.css" rel="stylesheet" type="text/css" /> <script src="/ResourcePackages/FAO/assets/dist/js/leaflet/leaflet.js" type="text/javascript"></script><script src="/ResourcePackages/FAO/assets/dist/js/leaflet/esri-leaflet.js" type="text/javascript"></script><script src="/ResourcePackages/FAO/assets/dist/js/leaflet/leaflet.markercluster.js" type="text/javascript"></script><script src="/ResourcePackages/FAO/assets/dist/js/fao-leafletmap.js?v=1.2.9" type="text/javascript"></script><link href="/ResourcePackages/FAO/assets/dist/css/fao-theme.min.css?v=3.6.5&amp;package=FAO" rel="stylesheet" type="text/css" /> <meta property="og:title" content="绿色城市网络 | 绿色城市倡议 | 联合国粮食及农业组织 " /><meta property="og:description" content="FAO绿色城市网络是一个致力于通过综合方式改造城市空间的社区，旨在同时实现经济、社会和环境效益。" /><meta property="og:url" content="https://www.fao.org/green-cities-initiative/city-network/zh" /><meta property="twitter:url" content="https://www.fao.org/green-cities-initiative/city-network/zh" /><meta property="og:type" content="website" /><meta property="og:site_name" content="GreenCities" /><script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function () {
+    document.body.classList.add('template-subsite');
+});
+
+</script><link rel="shortcut icon" href="/docs/corporatelibraries/default-document-library/favicon/favicon.ico" /><script type="text/javascript">
+// <!-- Google Tag Manager -->
+// <!-- Google Tag Manager Source Identification start -->
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+'event': 'pageType',
+'cmsType': 'SITEFINITY'
+});
+// <!-- Google Tag Manager Source Identification end -->
+  
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NHPTQQS');
+// <!-- End Google Tag Manager -->
+  
+</script><style type="text/css" media="all">.fao-header .header-icons {
+    align-items: center;
+}
+ 
+.fao-header .header-icons #fao-theme-toggle .bi {
+    margin-left: 0;
+}
+ 
+.fao-header .dark-mode-toggle {
+    padding-right: 0;
+}</style><style type="text/css" media="all">#swiperHero-1 {
+  margin-bottom:2rem;
+}</style><link rel="canonical" href="https://www.fao.org/green-cities-initiative/city-network/zh" /><meta property="twitter:title" content="绿色城市网络 | 绿色城市倡议 | 联合国粮食及农业组织 " /><meta property="description" content="FAO绿色城市网络是一个致力于通过综合方式改造城市空间的社区，旨在同时实现经济、社会和环境效益。" /><meta property="og:description" content="FAO绿色城市网络是一个致力于通过综合方式改造城市空间的社区，旨在同时实现经济、社会和环境效益。" /><meta property="twitter:description" content="FAO绿色城市网络是一个致力于通过综合方式改造城市空间的社区，旨在同时实现经济、社会和环境效益。" /><meta property="og:image" content="https://www.fao.org/images/greencitieslibraries/default-album/gci_logo_600x400px_network---negative.png?sfvrsn=b7914f2f_11" /><meta property="twitter:image:src" content="https://www.fao.org/images/greencitieslibraries/default-album/gci_logo_600x400px_network---negative.png?sfvrsn=b7914f2f_11" /><meta property="twitter:image" content="https://www.fao.org/images/greencitieslibraries/default-album/gci_logo_600x400px_network---negative.png?sfvrsn=b7914f2f_11" /><meta property="og:image:type" content="image/png" /><meta property="og:image:width" content="1862" /><meta property="og:image:height" content="992" /><meta property="og:image:secure_url" content="https://www.fao.org/images/greencitieslibraries/default-album/gci_logo_600x400px_network---negative.png?sfvrsn=b7914f2f_11" /><meta property="og:image:url" content="https://www.fao.org/images/greencitieslibraries/default-album/gci_logo_600x400px_network---negative.png?sfvrsn=b7914f2f_11" /><meta property="twitter:card" content="summary_large_image" /><meta property="twitter:site" content="@FAO" /><meta property="twitter:creator" content="@FAO" /><meta property="twitter:account_id" content="19649135" /><link rel="alternate" href="https://www.fao.org/green-cities-initiative/en" hreflang="en" /><link rel="alternate" href="https://www.fao.org/green-cities-initiative/ar" hreflang="ar" /><link rel="alternate" href="https://www.fao.org/green-cities-initiative/zh" hreflang="zh" /><link rel="alternate" href="https://www.fao.org/green-cities-initiative/fr" hreflang="fr" /><link rel="alternate" href="https://www.fao.org/green-cities-initiative/ru" hreflang="ru" /><link rel="alternate" href="https://www.fao.org/green-cities-initiative/es" hreflang="es" /><meta name="description" content="FAO绿色城市网络是一个致力于通过综合方式改造城市空间的社区，旨在同时实现经济、社会和环境效益。" /></head> <body>  <div> 
+
+
+
+
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHPTQQS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="fao-header subsite-header" data-page-edit-prevent="true">
+    <div class="container">
+        <div class="row">
+            <div class="header-wrapper col-12">
+                <div id="Contentplaceholder1_T198B1AC4001_Col00" class="sf_colsIn fao-header-left" data-sf-element="Header Left" data-placeholder-label="Header Left">
+<div >
+    <div class="sfContentBlock sf-Long-text" ><a href="https://www.fao.org/home/zh"><img src="/images/corporatelibraries/logos/fao-logo-zh.svg?sfvrsn=f64522b4_36" title="Food and Agriculture Organization of the United Nations" class="header-fao-logo" data-displaymode="Original" alt="Food and Agriculture Organization of the United Nations"></a></div>
+</div>
+                </div>
+                <div id="Contentplaceholder1_T198B1AC4001_Col01" class="sf_colsIn fao-header-right" data-sf-element="Header Right" data-placeholder-label="Header Right">
+<div class="dropdown discover-dropdown">
+    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownDiscoverMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        发现
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownDiscoverMenu">
+            <a class="dropdown-item" href="https://www.fao.org/about/zh/" target="_self">关于粮农组织</a>
+            <a class="dropdown-item" href="https://www.fao.org/news/zh/" target="_self">新闻</a>
+            <a class="dropdown-item" href="https://www.fao.org/news/video-at-fao/zh/" target="_self">媒体</a>
+            <a class="dropdown-item" href="https://www.fao.org/themes/zh/" target="_self">主要议题</a>
+            <a class="dropdown-item" href="https://www.fao.org/statistics/zh/" target="_self">统计资料</a>
+            <a class="dropdown-item" href="https://www.fao.org/countryprofiles/zh/" target="_self">成员</a>
+            <a class="dropdown-item" href="https://www.fao.org/publications/zh/" target="_self">出版物</a>
+    </div>
+</div>
+
+
+<div class="dropdown language-switch" aria-label="Change Language" role="menu">
+        <button role="menuitem" class="btn btn-secondary dropdown-toggle" type="button" id="dropdownLanguageMenu" data-bs-toggle="dropdown" aria-label="中文" aria-haspopup="true" aria-expanded="false">
+            中文
+        </button>
+        <div class="dropdown-menu" id="faoLanguageSelector" aria-labelledby="dropdownLanguageMenu">
+                    <a role="menuitem" class="dropdown-item" data-sf-culture="en" href=""  aria-label="English" onclick="openLink('en'); return false;">English</a>
+                    <a role="menuitem" class="dropdown-item" data-sf-culture="ar" href=""  aria-label="العربية" onclick="openLink('ar'); return false;">العربية</a>
+                    <a role="menuitem" class="dropdown-item" data-sf-culture="fr" href=""  aria-label="Fran&#231;ais" onclick="openLink('fr'); return false;">Fran&#231;ais</a>
+                    <a role="menuitem" class="dropdown-item" data-sf-culture="ru" href=""  aria-label="Русский" onclick="openLink('ru'); return false;">Русский</a>
+                    <a role="menuitem" class="dropdown-item" data-sf-culture="es" href=""  aria-label="Espa&#241;ol" onclick="openLink('es'); return false;">Espa&#241;ol</a>
+        </div>
+</div>
+
+
+
+<script type="text/javascript">
+
+    document.onreadystatechange = function () {
+        if (document.readyState == "interactive") {
+            initializeLanguageSelector();
+        }
+    }
+
+</script>
+<div >
+    <div class="sfContentBlock sf-Long-text" ><div class="header-icons"><a type="button" id="fao-theme-toggle" class="btn btn-sm dark-mode-toggle" data-sf-ec-immutable=""><em class="bi bi-moon-stars"></em></a>
+ <a href="#" data-bs-toggle="modal" data-bs-target="#shareModal" data-sf-ec-immutable="" aria-label="Share"><em class="bi bi-share-fill"></em></a>
+ <a data-bs-toggle="collapse" href="#collapseSearchBox" data-sf-ec-immutable="" aria-label="Search"><em class="bi bi-search"></em></a>
+</div></div>
+</div>
+
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div id="Contentplaceholder1_T198B1AC4001_Col02" class="sf_colsIn col-12" data-sf-element="Header Bottom" data-placeholder-label="Header Bottom">
+
+
+
+<div class="collapse" id="collapseSearchBox">
+    <div class="search-container search-results-container">
+        <div class="gcse-searchbox-only" data-resultsUrl="https://www.fao.org/home/search/zh/"></div>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="container" data-page-edit-prevent="true">
+    <div class="row">
+        <div id="Contentplaceholder1_T198B1AC4001_Col03" class="sf_colsIn col-md-12" data-sf-element="Navigation" data-placeholder-label="Navigation"><div class="row" data-sf-element="Row">
+    <div id="Contentplaceholder1_T198B1AC4033_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+<nav aria-label="breadcrumb" class="content-icons">
+    <ol class="breadcrumb">
+
+                    <li class="breadcrumb-item"><a href="/green-cities-initiative/zh">主页</a></li>
+                <li class="breadcrumb-item active" aria-current="page">绿色城市网络</li>
+    </ol>
+</nav>
+
+
+    </div>
+</div>
+
+<div class="modal modal-share fade" id="shareModal" tabindex="-1" aria-labelledby="shareModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="shareModalLabel">
+                    分享
+                </h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="关闭"></button>
+            </div>
+            <div class="modal-body">
+                <ul class="list-inline social-icons">
+                        <li class="list-inline-item">
+                            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.fao.org/green-cities-initiative/city-network/zh" alt="facebook" title="facebook" target="_blank">
+                                <img src="/ResourcePackages/FAO/assets/dist/img/social-icons/social-icon-facebook.svg" alt="facebook">
+                            </a>
+                        </li>
+                                            <li class="list-inline-item">
+                            <a href="https://www.linkedin.com/shareArticle?mini=true&amp;title=绿色城市网络&amp;url=https://www.fao.org/green-cities-initiative/city-network/zh" alt="linkedin" title="linkedin" target="_blank">
+                                <img src="/ResourcePackages/FAO/assets/dist/img/social-icons/social-icon-linkedin.svg" alt="linkedin">
+                            </a>
+                        </li>
+                                                                <li class="list-inline-item">
+                            <a href="https://twitter.com/intent/tweet?text=https://www.fao.org/green-cities-initiative/city-network/zh" alt="twitter X" title="twitter X" target="_blank">
+                                <img src="/ResourcePackages/FAO/assets/dist/img/social-icons/social-icon-twitter-x.svg" alt="twitter">
+                            </a>
+                        </li>
+                                            <li class="list-inline-item">
+                            <a href="https://service.weibo.com/share/share.php?title=绿色城市网络&amp;url=https://www.fao.org/green-cities-initiative/city-network/zh" alt="weibo" title="weibo" target="_blank">
+                                <img src="/ResourcePackages/FAO/assets/dist/img/social-icons/social-icon-weibo.svg" alt="weibo">
+                            </a>
+                        </li>
+
+                        <li class="list-inline-item">
+
+                            <a href="#" alt="wechat" title="wechat" data-bs-toggle="modal" data-bs-target="#WeChatModal">
+                                <img src="/images/corporatelibraries/social-icons/social-icon-wechat.svg" title="social-icon-wechat" data-displaymode="Original" alt="icon-wechat">
+                            </a>
+
+                        </li>
+                </ul>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-bs-dismiss="modal">关闭</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div >
+    <div class="sfContentBlock sf-Long-text" ><h2 class="page-title">“绿色城市”倡议</h2></div>
+</div>
+ 
+
+<nav class="navbar-subsite navbar navbar-expand-lg navbar-light bg-white">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent-1" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent-1">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="https://www.fao.org/green-cities-initiative/home/zh"><i class="bi bi-house-fill"></i></a>
+            </li>
+
+        <li class="nav-item ">
+            <a class="nav-link" href="/green-cities-initiative/our-work/zh" target="_self">我们的工作</a>
+        </li>
+        <li class="nav-item active">
+            <a class="nav-link" href="/green-cities-initiative/city-network/zh" target="_self">绿色城市网络</a>
+        </li>
+        <li class="nav-item ">
+            <a class="nav-link" href="/green-cities-initiative/cgi-africa/zh" target="_self">非洲绿色城市行动</a>
+        </li>
+        <li class="nav-item ">
+            <a class="nav-link" href="/green-cities-initiative/forum/zh" target="_self">论坛</a>
+        </li>
+        <li class="nav-item ">
+            <a class="nav-link" href="/green-cities-initiative/resources/zh" target="_self">资源</a>
+        </li>
+        <li class="nav-item ">
+            <a class="nav-link" href="/green-cities-initiative/news/zh" target="_self">新闻</a>
+        </li>
+        </ul>
+    </div>
+</nav>
+
+
+
+
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+{"@type": "ListItem","position": 1,"name": "主页","item": "https://www.fao.org/green-cities-initiative/zh"},{"@type": "ListItem","position": 2,"name": "绿色城市网络","item": "https://www.fao.org/green-cities-initiative/city-network/zh"}        ]
+    }
+</script>
+        </div>
+    </div>
+</div><main>
+    <div id="Contentplaceholder1_T54DC235E003_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Main"><div class="row" data-sf-element="Row">
+    <div id="Contentplaceholder1_C024_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Column 1"><img class='image-widget ' src='/images/greencitieslibraries/default-album/gci_logo_600x400px_network---negative110003390b2148c745dd89bac29a44484d17.png?sfvrsn=9184bce4_0' title='Green Cities Network' alt='Green Cities Network'
+                        
+                         />
+
+
+<div >
+    <div class="sfContentBlock sf-Long-text" ><h4 class="title-highlight">FAO绿色城市网络</h4></div>
+</div>
+<div >
+    <div class="sfContentBlock sf-Long-text" >FAO绿色城市网络是一个致力于通过综合方式改造城市空间的社区，旨在同时实现经济、社会和环境效益。</div>
+</div><div class="row" data-sf-element="Row">
+    <div id="Contentplaceholder1_C144_Col00" class="sf_colsIn col-md-9" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div >
+    <div class="sfContentBlock sf-Long-text" >FAO绿色城市网络是一个致力于通过综合方式改造城市空间的社区，旨在同时实现经济、社会和环境效益。
+该网络在以下三个核心领域推广综合解决方案和战略：
+<ul><li>城市和城郊林业</li><li>城市和城郊农业</li><li>可持续生物经济</li></ul><p>FAO绿色城市网络是绿色城市倡议（GCI）的核心。GCI始于2020年，旨在到2030年在1000个城市中显著改善人们的健康和福祉以及周边环境。</p></div>
+</div>
+<div >
+    <div class="sfContentBlock sf-Long-text" >该网络直接助力实现可持续发展目标（SDGs），特别是SDG 2（零饥饿）、SDG 3（健康与福祉）、SDG 11（可持续城市与社区）、SDG 13（气候行动）和SDG 15（陆地生命）。它加强城市之间的协作，促进知识交流，并表彰在实施创新和成功的绿色举措方面领先的城市。</div>
+</div>
+    </div>
+    <div id="Contentplaceholder1_C144_Col01" class="sf_colsIn col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="Contentplaceholder1_C136_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="Contentplaceholder1_C136_Col01" class="sf_colsIn col-md-9" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="Contentplaceholder1_C138_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div >
+    <div class="sfContentBlock sf-Long-text" ><h4 class="title-highlight">联合国粮农组织绿色城市网络成员</h4></div>
+</div>
+
+
+
+
+    <style>
+        .leaflet-tile-container img {
+            max-width: none;
+        }
+    </style>
+
+
+<!-- Title -->
+
+
+
+
+
+
+
+
+<div>
+    <div id="map_events_2b094f4229ea424a861c1da63a28bb9a" class="google__map google__map--ratio-0"></div>
+</div>
+
+<!-- More View -->
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+	const items = [{"title":"Yaoundé VII District Municipality","startDate":"01/01/2024","endDate":"","url":"https://www.fao.org/green-cities-initiative/what-we-do/project-detail/yaoundé-vii-district-municipality/en","openInSamePage":true,"locations":[{"coord":{"lat":3.86168528,"lng":11.5202293},"locality":"Yaoundé","country":"Cameroon","iso3":"CM"}]},{"title":"Yaoundé VI District Municipality","startDate":"10/02/2024","endDate":"","url":"https://www.fao.org/green-cities-initiative/what-we-do/project-detail/yaoundé-vi-district-municipality/en","openInSamePage":true,"locations":[{"coord":{"lat":3.86168528,"lng":11.5202293},"locality":"Yaoundé","country":"Cameroon","iso3":"CM"}]},{"title":"Yaoundé V District Municipality","startDate":"01/01/2024","endDate":"","url":"https://www.fao.org/green-cities-initiative/what-we-do/project-detail/yaoundé-v-district-municipality/en","openInSamePage":true,"locations":[{"coord":{"lat":3.86168528,"lng":11.5202293},"locality":"Yaoundé","country":"Cameroon","iso3":"CM"}]},{"title":"Urban Community of Douala","startDate":"01/01/2024","endDate":"","url":"https://www.fao.org/green-cities-initiative/what-we-do/project-detail/urban-community-of-douala/en","openInSamePage":true,"locations":[{"coord":{"lat":4.05105639,"lng":9.767869},"locality":"Douala","country":"Cameroon","iso3":"CM"}]},{"title":"Courbevoie","startDate":"10/02/2024","endDate":"","url":"https://www.fao.org/green-cities-initiative/what-we-do/project-detail/courbevoie/en","openInSamePage":true,"locations":[{"coord":{"lat":48.90055,"lng":2.25929},"locality":"Courbevoie","country":"France","iso3":"FR"}]},{"title":"Mfou","startDate":"01/01/2024","endDate":"","url":"https://www.fao.org/green-cities-initiative/what-we-do/project-detail/city-of-mfou/en","openInSamePage":true,"locations":[{"coord":{"lat":3.965674,"lng":11.9305277},"locality":"Mfou","country":"Cameroon","iso3":"CM"}]},{"title":"San Jose de Campos","startDate":"10/02/2022","endDate":"","url":"https://www.fao.org/green-cities-initiative/what-we-do/project-detail/san-jose-de-campos/en","openInSamePage":true,"locations":[{"coord":{"lat":-23.21984,"lng":-45.8915672},"locality":"São José dos Campos","country":"Brazil","iso3":"BR"}]},{"title":"Colombo","startDate":"10/02/2021","endDate":"","url":"https://www.fao.org/green-cities-initiative/what-we-do/project-detail/colombo/en","openInSamePage":true,"locations":[{"coord":{"lat":6.92707872,"lng":79.8612442},"locality":"Colombo","country":"Sri Lanka","iso3":"LK"}]},{"title":"Bulawayo","startDate":"10/02/2022","endDate":"","url":"https://www.fao.org/green-cities-initiative/what-we-do/project-detail/bulawayo/en","openInSamePage":true,"locations":[{"coord":{"lat":-20.1457119,"lng":28.58734},"locality":"Bulawayo","country":"Zimbabwe","iso3":"ZW"}]},{"title":"Nairobi","startDate":"01/01/2021","endDate":"","url":"https://www.fao.org/green-cities-initiative/what-we-do/project-detail/nairobi/en","openInSamePage":true,"locations":[{"coord":{"lat":-1.29206586,"lng":36.8219452},"locality":"Nairobi","country":"Kenya","iso3":"KE"}]},{"title":"Kisumu","startDate":"01/01/2021","endDate":"","url":"https://www.fao.org/green-cities-initiative/what-we-do/project-detail/kisumu/en","openInSamePage":true,"locations":[{"coord":{"lat":-0.0917016,"lng":34.7679558},"locality":"Kisumu","country":"Kenya","iso3":"KE"}]},{"title":"Kigali","startDate":"01/01/2021","endDate":"","url":"https://www.fao.org/green-cities-initiative/what-we-do/project-detail/kigali/en","openInSamePage":true,"locations":[{"coord":{"lat":-1.94407272,"lng":30.0618858},"locality":"Kigali","country":"Rwanda","iso3":"RW"}]},{"title":"Antananarivo","startDate":"01/01/2021","endDate":"","url":"https://www.fao.org/green-cities-initiative/what-we-do/project-detail/antananarivo/en","openInSamePage":true,"locations":[{"coord":{"lat":-18.91846,"lng":47.52113},"locality":"Antananarivo","country":"Madagascar","iso3":"MG"}]},{"title":"Urban Community of Yaoundé","startDate":"28/10/2024","endDate":"","url":"https://www.fao.org/green-cities-initiative/what-we-do/project-detail/yaoundé-cameroon/en","openInSamePage":true,"locations":[{"coord":{"lat":3.84803247,"lng":11.5020752},"locality":"Yaoundé","country":"Cameroon","iso3":"CM"}]},{"title":"Quelimane","startDate":"28/01/2021","endDate":"","url":"https://www.fao.org/green-cities-initiative/what-we-do/project-detail/quelimane-mozambique/en","openInSamePage":true,"locations":[{"coord":{"lat":-17.8502636,"lng":36.92186},"locality":"Quelimane","country":"Mozambique","iso3":"MZ"}]},{"title":"Praia","startDate":"21/10/2021","endDate":"","url":"https://www.fao.org/green-cities-initiative/what-we-do/project-detail/praia-cabo-verde/en","openInSamePage":true,"locations":[{"coord":{"lat":14.93305,"lng":-23.5133266},"locality":"Praia","country":"Cape Verde","iso3":"CV"}]}];
+
+    faoLeafletMap.generateMapProjectMarkers('map_events_2b094f4229ea424a861c1da63a28bb9a', items, true);
+
+</script>
+
+<div >
+    <div class="sfContentBlock sf-Long-text" ><hr></div>
+</div>
+<div >
+    <div class="sfContentBlock sf-Long-text" ><h2>按区域浏览：</h2></div>
+</div>
+
+<div class="accordion" id="accordion-1">
+            <div class="accordion-item">
+                <div class="accordion-header" id="heading1-1">
+                    <h2 class="mb-0">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-panel1-1" aria-expanded="true" aria-controls="accordion-collapse-panel1-1">
+非洲                        </button>
+                    </h2>
+                </div>
+                <div id="accordion-collapse-panel1-1" class="accordion-collapse collapse " aria-labelledby="heading1-1" data-bs-parent="#accordion-1">
+                    <div class="accordion-body">
+                        <table cellpadding="6">
+    <tbody>
+        <tr style="height: 25%">
+            <td style="width: 33.3333333333333%">
+                <p><img sf-image-responsive="true" src="/images/greencitieslibraries/default-album/flickr-kaisaje.jpg?sfvrsn=eef5f68_3" height="520" style="max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto" title="©Flickr/Kaisaje" width="800" alt="©Flickr/Kaisaje" sf-size="193231"></p>
+                <p><strong style="background-color: rgba(0, 0, 0, 0); color: inherit; text-align: inherit; text-transform: inherit; word-spacing: normal; caret-color: auto; white-space: inherit; font-size: inherit">Antananarivo</strong><br>Country: Madagascar<br></p>
+            </td>
+            <td style="width: 33.3333333333333%">
+                <p><img sf-image-responsive="true" src="/images/greencitieslibraries/default-album/flickr-kris-griffiths.jpg?sfvrsn=9b45a856_3" height="507" style="max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto" title="©Flickr/Kris Griffiths" width="780" alt="©Flickr/Kris Griffiths" sf-size="217808"></p>
+                <p><strong>Bulawayo</strong><br>Country: Zimbabwe<br></p>
+            </td>
+            <td style="width: 33.3333333333333%">
+                <p><img sf-image-responsive="true" src="/images/greencitieslibraries/default-album/kigali-2-2.jpg?sfvrsn=2a06c1e1_3" height="839" style="max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto" title="Kigali 2-2" width="1292" alt="" sf-size="194814"></p>
+                <p><strong>Kigali</strong><br>Country: Rwanda<br></p>
+            </td>
+        </tr>
+        <tr style="height: 25%">
+            <td style="width: 33.3333333333333%">
+                <p><img sf-image-responsive="true" src="/images/greencitieslibraries/default-album/flickr-chris.jpg?sfvrsn=ba7eb9d1_3" height="520" style="max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto" title="©Flickr/Chris" width="800" alt="©Flickr/Chris" sf-size="142192"></p>
+                <p><strong>Kisumu</strong><br>Country: Kenya</p>
+            </td>
+            <td style="width: 33.3333333333333%">
+                <p><img sf-image-responsive="true" src="/images/greencitieslibraries/default-album/mfou(1).jpg?sfvrsn=e8b194c0_1" height="701" style="max-width: 100%; height: auto" title="mfou(1)" width="1080" alt="" sf-size="69553"></p>
+                <p><strong>Mfou</strong><br>Country: Cameroon</p>
+            </td>
+            <td style="width: 33.3333333333333%">
+                <p><img sf-image-responsive="true" src="/images/greencitieslibraries/default-album/fao4a3ece42-1802-48e1-92aa-a59a4ebde2f8.jpg?sfvrsn=8235895e_3" height="487" style="max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto" title="FAO" width="750" alt="FAO" sf-size="380032"></p>
+                <p><strong>Nairobi</strong><br>Country: Kenya<br></p>
+            </td>
+        </tr>
+        <tr style="height: 25%">
+            <td style="width: 33.3333333333333%">
+                <p><img sf-image-responsive="true" src="/images/greencitieslibraries/default-album/fao-simone-borelli36df41a4-1528-41da-b1eb-01f9a6ee2ace.jpg?sfvrsn=1b960b30_3" height="520" style="max-width: 100%; height: auto" title="©FAO/Simone Borelli" width="800" alt="©FAO/Simone Borelli" sf-size="165860"></p>
+                <p><strong>Praia</strong><br>Country: Cape Verde<br></p>
+            </td>
+            <td style="width: 33.3333333333333%">
+                <p><img sf-image-responsive="true" src="/images/greencitieslibraries/default-album/mangrove-nursery-quelimane.png?sfvrsn=98bbe6d0_3" height="570" style="max-width: 100%; height: auto" title="mangrove nursery Quelimane" width="876" alt="" sf-size="1196853"></p>
+                <p><strong>Quelimane</strong><br>Country: Mozambique<br></p>
+            </td>
+            <td style="width: 33.3333333333333%">
+                <p><img sf-image-responsive="true" src="/images/greencitieslibraries/default-album/urban-community-of-douala.jpeg?sfvrsn=5e6cfa9a_3" height="852" style="max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto" title="Urban Community of Douala" width="1280" alt="" sf-size="845039"></p>
+                <p><strong>Urban Community of Douala</strong><br>Country: Cameroon<br></p>
+            </td>
+        </tr>
+        <tr style="height: 25%">
+            <td style="width: 33.3333333333333%">
+                <p><img sf-image-responsive="true" src="/images/greencitieslibraries/default-album/urban-community-of-yaoundé.jpg?sfvrsn=481be820_3" height="720" style="max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto" title="Urban Community of Yaoundé" width="1080" alt="" sf-size="221361"></p>
+                <p><strong>Urban Community of Yaoundé</strong><br>Country: Cameroon</p>
+            </td>
+            <td style="width: 33.3333333333333%">
+                <p><img sf-image-responsive="true" src="/images/greencitieslibraries/default-album/yaoundé-v-district-municipality.png?sfvrsn=7512c728_3" height="403" style="max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto" title="Yaoundé V District Municipality" width="605" alt="" sf-size="380477"></p>
+                <p><strong>Yaoundé V District Municipality</strong><br>Country: Cameroon</p>
+            </td>
+            <td style="width: 33.3333333333333%">
+                <p><img sf-image-responsive="true" src="/images/greencitieslibraries/default-album/yaoundé-vi-district-municipality.jpg?sfvrsn=52fc6a1e_3" height="262" style="max-width: 100%; height: auto" title="Yaoundé VI District Municipality" width="393" alt="" sf-size="35606"></p>
+                <p><strong>Yaoundé VI District Municipality</strong><br>Country: Cameroon</p>
+            </td>
+        </tr>
+        <tr style="height: 25%">
+            <td style="width: 33.3333333333333%">
+                <p><img sf-image-responsive="true" src="/images/greencitieslibraries/default-album/yaoundé-vii-district-municipality.jpg?sfvrsn=5e25d6a_3" height="242" style="max-width: 100%; height: auto" title="Yaoundé VII District Municipality" width="363" alt="" sf-size="41246"></p>
+                <p><strong>Yaoundé VII District Municipality</strong><br>Country: Cameroon</p>
+            </td>
+            <td style="width: 33.3333333333333%"><strong>&nbsp;</strong></td>
+            <td style="width: 33.3333333333333%"><strong>&nbsp;</strong></td>
+        </tr>
+    </tbody>
+</table>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <div class="accordion-header" id="heading2-1">
+                    <h2 class="mb-0">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-panel2-1" aria-expanded="true" aria-controls="accordion-collapse-panel2-1">
+亚洲及太平洋                        </button>
+                    </h2>
+                </div>
+                <div id="accordion-collapse-panel2-1" class="accordion-collapse collapse " aria-labelledby="heading2-1" data-bs-parent="#accordion-1">
+                    <div class="accordion-body">
+                        <table cellpadding="6">
+    <tbody>
+        <tr style="height: 100%">
+            <td style="width: 33.3333333333333%">
+                <p><img sf-image-responsive="true" src="/images/greencitieslibraries/default-album/flickr-briyyz.jpg?sfvrsn=438bd00a_3" height="450" style="max-width: 100%; height: auto" title="©Flickr/BriYYZ" width="692" alt="©Flickr/BriYYZ" sf-size="168288"></p>
+                <p><strong>Colombo</strong><br>Country: Sri Lanka</p>
+            </td>
+            <td style="width: 33.3333333333333%">&nbsp;</td>
+            <td style="width: 33.3333333333333%">&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <div class="accordion-header" id="heading3-1">
+                    <h2 class="mb-0">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-panel3-1" aria-expanded="true" aria-controls="accordion-collapse-panel3-1">
+欧洲                        </button>
+                    </h2>
+                </div>
+                <div id="accordion-collapse-panel3-1" class="accordion-collapse collapse " aria-labelledby="heading3-1" data-bs-parent="#accordion-1">
+                    <div class="accordion-body">
+                        <table cellpadding="6">
+    <tbody>
+        <tr style="height: 100%">
+            <td style="width: 33.3333333333333%">
+                <p><img sf-image-responsive="true" src="/images/greencitieslibraries/default-album/aerial-view-of-courbevoie.jpg?sfvrsn=f8e3b0e3_3" height="667" style="max-width: 100%; height: auto" title="Aerial view of Courbevoie" width="1000" alt="" sf-size="294580"></p>
+                <p><strong>Courbevoie</strong><br>Country: France</p>
+            </td>
+            <td style="width: 33.3333333333333%">&nbsp;</td>
+            <td style="width: 33.3333333333333%">&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <div class="accordion-header" id="heading4-1">
+                    <h2 class="mb-0">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-panel4-1" aria-expanded="true" aria-controls="accordion-collapse-panel4-1">
+拉丁美洲及加勒比地区                        </button>
+                    </h2>
+                </div>
+                <div id="accordion-collapse-panel4-1" class="accordion-collapse collapse " aria-labelledby="heading4-1" data-bs-parent="#accordion-1">
+                    <div class="accordion-body">
+                        <table cellpadding="6"><tbody><tr style="height: 100%"><td style="width: 33.3333333333333%"><p><img sf-image-responsive="true" src="/images/greencitieslibraries/default-album/flickr-roberto-dcarvalho.jpg?sfvrsn=c037ab72_3" height="414" style="max-width: 100%; height: auto" title="©Flickr/roberto dcarvalho" width="638" alt="©Flickr/roberto dcarvalho" class="sf-immutable-selected" sf-size="93807"></p><p><strong>San Jose de Campos</strong><br>Country: Brazil</p></td><td style="width: 33.3333333333333%">&nbsp;</td><td style="width: 33.3333333333333%">&nbsp;</td></tr></tbody></table>
+                    </div>
+                </div>
+            </div>
+
+</div>
+<div >
+    <div class="sfContentBlock sf-Long-text" ><hr></div>
+</div>
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="Contentplaceholder1_C122_Col00" class="sf_colsIn col-md-6" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div >
+    <div class="sfContentBlock sf-Long-text" ><h3>加入网络</h3></div>
+</div>
+
+<div class="accordion" id="accordion-2">
+            <div class="accordion-item">
+                <div class="accordion-header" id="heading1-2">
+                    <h2 class="mb-0">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-panel1-2" aria-expanded="true" aria-controls="accordion-collapse-panel1-2">
+为什么加入？                        </button>
+                    </h2>
+                </div>
+                <div id="accordion-collapse-panel1-2" class="accordion-collapse collapse " aria-labelledby="heading1-2" data-bs-parent="#accordion-2">
+                    <div class="accordion-body">
+                        <p>联合国粮农组织绿色城市网络为城市提供了一个与志同道合城市建立联系的机会，加速迈向可持续未来的步伐，并增强城市在设计、融资和扩大绿色包容性转型方面的能力。</p><p>加入绿色城市网络的城市将获得以下益处：</p><ul><li>提升作为可持续发展导向城市的国际知名度</li><li>获得粮农组织及其合作伙伴提供的定制技术支持</li><li>获取绿色与气候融资的机会</li><li>与其他城市分享解决方案并相互学习</li><li>使用绿色规划、实施与监测的工具</li></ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <div class="accordion-header" id="heading2-2">
+                    <h2 class="mb-0">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-panel2-2" aria-expanded="true" aria-controls="accordion-collapse-panel2-2">
+谁可以加入？                        </button>
+                    </h2>
+                </div>
+                <div id="accordion-collapse-panel2-2" class="accordion-collapse collapse " aria-labelledby="heading2-2" data-bs-parent="#accordion-2">
+                    <div class="accordion-body">
+                        联合国粮农组织绿色城市网络对所有致力于以人为本推动绿色、包容和有韧性的城市转型的城市开放。
+成员城市与粮农组织的工作保持一致，推动可持续发展、增强气候韧性并减少不平等。<p>任何城市只要承诺以下内容，即可申请加入：
+</p><ul><li>实施城市林业与绿色空间、城市及城市周边农业，以及可持续生物经济，包括有机废弃物管理和生物能源</li>
+<li>在城市和区域发展中整合绿色空间、可持续生物经济和农业食品系统</li>
+<li>通过与其他城市和粮农组织的交流，持续学习与进步</li></ul>
+
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <div class="accordion-header" id="heading3-2">
+                    <h2 class="mb-0">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-panel3-2" aria-expanded="true" aria-controls="accordion-collapse-panel3-2">
+城市如何加入该网络？                        </button>
+                    </h2>
+                </div>
+                <div id="accordion-collapse-panel3-2" class="accordion-collapse collapse " aria-labelledby="heading3-2" data-bs-parent="#accordion-2">
+                    <div class="accordion-body">
+                        城市可通过下载并填写一份由市长或授权代表签署的申请表来申请加入，申请表需说明：
+<ul><li>城市的优先事项和关注领域/li&gt;
+</li><li>对城市绿化综合解决方案的承诺/li&gt;
+</li><li>官方联络人的联系方式</li></ul>
+成功申请的城市将正式获得网络成员资格，并可使用相关工具、参与活动、接受培训以及获得合作机会。加入该网络是免费的。申请城市应指定一位官方联络人，以便与粮农组织开展协调工作。
+
+                    </div>
+                </div>
+            </div>
+
+</div>
+    </div>
+    <div id="Contentplaceholder1_C122_Col01" class="sf_colsIn col-md-6" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<div class="card bg-primary-light text-color-default">
+    <div class="card-body">
+        <p><strong>联系我们</strong></p><p>联合国粮农组织绿色城市团队将协助城市加入网络的相关流程。</p><p>请通过以下邮箱与我们联系：<a href="/cdn-cgi/l/email-protection#88effaedede6ebe1fce1edfbc8eee9e7a6e7faef"><span class="__cf_email__" data-cfemail="c0a7b2a5a5aea3a9b4a9a5b380a6a1afeeafb2a7">[email&#160;protected]</span></a>. </p><p>请在邮件主题中注明：<br>FAO绿色城市网络 – [城市名称]</p>
+    </div>
+</div>
+
+
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="Contentplaceholder1_C107_Col00" class="sf_colsIn col-md-6" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="Contentplaceholder1_C107_Col01" class="sf_colsIn col-md-6" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="Contentplaceholder1_C116_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+     <div id="Contentplaceholder1_C116_Col01" class="sf_colsIn col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+     <div id="Contentplaceholder1_C116_Col02" class="sf_colsIn col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+    </div>
+     <div id="Contentplaceholder1_C116_Col03" class="sf_colsIn col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="Contentplaceholder1_C101_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+     <div id="Contentplaceholder1_C101_Col01" class="sf_colsIn col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+     <div id="Contentplaceholder1_C101_Col02" class="sf_colsIn col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+    </div>
+     <div id="Contentplaceholder1_C101_Col03" class="sf_colsIn col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+    </div>
+</div>
+
+
+
+<!-- Title -->
+
+
+
+
+
+
+
+
+<!-- More View -->
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+</div>
+
+    </div>
+</main>
+
+<footer id="Contentplaceholder1_T198B1AC4002_Col00" class="sf_colsIn footer" data-sf-element="Footer" data-placeholder-label="Footer" data-page-edit-prevent="true"><div id="Contentplaceholder1_T198B1AC4003_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div id="Contentplaceholder1_T198B1AC4005_Col00" class="sf_colsIn row" data-sf-element="Row" data-placeholder-label="Row">
+<div id="WeChatModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" data-keyboard="true">
+          <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title">
+                    WeChat
+                </h5>
+                              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+                <div class="modal-body text-center"><img src="https://www.fao.org/images/corporatelibraries/social-icons/wechat_qr.jpg" alt=""></div>
+            </div>
+          </div>
+        </div><!-- Modal div ended here -->
+<div class="footer-logo col-md-7" >
+    <div class="sfContentBlock sf-Long-text" ><img src="/images/corporatelibraries/logos/fao-80/fao80_logo-blue_v1.svg?sfvrsn=6f47c671_1" title="Food and Agriculture Organization of the United Nations" data-displaymode="Original" alt="Food and Agriculture Organization of the United Nations" sf-size="312"></div>
+</div>
+<div class="footer-social col-md-5" >
+    <div class="sfContentBlock sf-Long-text" ><h6 class="title-category">关注我们</h6><ul class="list-inline social-icons"><li class="list-inline-item"><a href="https://bsky.app/profile/fao.org" alt="bluesky" title="bluesky" target="_blank"><img src="/images/corporatelibraries/social-icons/bluesky.svg?sfvrsn=91618a92_1" title="social-icon-bluesky" data-displaymode="Original" alt="icon-bluesky"></a>
+ </li><li class="list-inline-item"><a href="http://www.facebook.com/pages/Food-and-Agriculture-Organization-of-the-United-Nations-FAO/46370758585?ref=mf" alt="facebook" title="facebook" target="_blank"><img src="/images/corporatelibraries/social-icons/social-icon-facebook.svg?sfvrsn=b87ff153_3" title="social-icon-facebook" data-displaymode="Original" alt="icon-facebook"></a>
+ </li><li class="list-inline-item"><a href="https://instagram.com/fao" alt="instagram" title="instagram" target="_blank"><img src="/images/corporatelibraries/social-icons/social-icon-instagram.svg?sfvrsn=a778452f_3" title="social-icon-instagram" data-displaymode="Original" alt="icon-instagram"></a>
+
+ </li><li class="list-inline-item"><a href="http://www.linkedin.com/company/fao" alt="linkedin" title="linkedin" target="_blank"><img src="/images/corporatelibraries/social-icons/social-icon-linkedin.svg?sfvrsn=1025492c_3" title="social-icon-linkedin" data-displaymode="Original" alt="icon-linkedin"></a>
+ </li><li class="list-inline-item"><a href="https://soundcloud.com/unfao" alt="soundcloud" title="soundcloud" target="_blank"><img src="/images/corporatelibraries/social-icons/social-icon-soundcloud.svg?sfvrsn=26e63892_3" title="social-icon-soundcloud" data-displaymode="Original" alt="icon-soundcloud"></a>
+ </li><li class="list-inline-item"><a href="https://v.douyin.com/Cei3dEFf/" alt="douyin" title="douyin" target="_blank"><img src="/images/corporatelibraries/social-icons/social-icon-tiktok.svg?sfvrsn=b2228fd0_3" title="social-icon-douyin" data-displaymode="Original" alt="icon-douyin"></a>
+ </li><li class="list-inline-item"><a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAddfBLLYL2GZzXAetR_paFVV1-M4fdAWpUxiROxuOpl7pDGuXLCGfYg_VOogU135J/" alt="tuotiao" title="tuotiao" target="_blank"><img src="/images/corporatelibraries/social-icons/social-icon-tuotiao.svg?sfvrsn=1883ae3_3" title="social-icon-tuotiao" data-displaymode="Original" alt="icon-tuotiao"></a>
+ </li><li class="list-inline-item"><a alt="WeChat" title="WeChat" data-bs-toggle="modal" data-bs-target="#WeChatModal" style="cursor: pointer"><img src="/images/corporatelibraries/social-icons/social-icon-wechat.svg?sfvrsn=cd28c1ee_3" title="social-icon-wechat" data-displaymode="Original" alt="icon-wechat"></a>
+ </li><li class="list-inline-item"><a href="http://www.weibo.com/unfao?from=myfollow_all" alt="weibo" title="weibo" target="_blank"><img src="/images/corporatelibraries/social-icons/social-icon-weibo.svg?sfvrsn=7b5b0403_3" title="social-icon-weibo" data-displaymode="Original" alt="icon-weibo"></a>
+ </li><li class="list-inline-item"><a href="https://bit.ly/3BBpfEq" alt="whatsapp" title="whatsapp" target="_blank"><img src="/images/corporatelibraries/social-icons/whatsapp-icon.svg?sfvrsn=6cfc5647_1" title="social-icon-whatsapp" data-displaymode="Original" alt="icon-whatsapp"></a>
+ </li><li class="list-inline-item"><a href="https://x.com/FAOChinese" alt="X" title="X" target="_blank"><img src="/images/corporatelibraries/social-icons/social-icon-twitter.svg?sfvrsn=c68bb7c2_4" title="social-icon-X" data-displaymode="Original" alt="icon-X"></a>
+ </li><li class="list-inline-item"><a href="http://www.youtube.com/user/FAOoftheUN" alt="youtube" title="youtube" target="_blank"><img src="/images/corporatelibraries/social-icons/social-icon-youtube.svg?sfvrsn=94de1814_3" title="social-icon-youtube" data-displaymode="Original" alt="icon-youtube"></a>
+ </li></ul></div>
+</div>
+</div>
+<div id="Contentplaceholder1_T198B1AC4004_Col00" class="sf_colsIn row" data-sf-element="Row" data-placeholder-label="Row"><div class="footer-links col-md-7">
+    <div id="Contentplaceholder1_T198B1AC4006_Col00" class="sf_colsIn footer-links-top" data-sf-element="Footer Links Top" data-placeholder-label="Footer Links Top">
+    <div class="">
+        <a href="https://www.fao.org/about/org-chart/zh/" target="_self">粮农组织机构图</a>
+    </div>
+
+    <div class="btn-group dropup">
+        <button type="button" class="btn btn-secondary dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            全球办事处
+        </button>
+        <div class="dropdown-menu">
+                <a href="https://www.fao.org/africa/" target="_self" class="dropdown-item">非洲区域办事处</a>
+                <a href="https://www.fao.org/asiapacific/" target="_self" class="dropdown-item">亚洲及太平洋区域办事处</a>
+                <a href="https://www.fao.org/europe/" target="_self" class="dropdown-item">欧洲和中亚区域办事处</a>
+                <a href="https://www.fao.org/americas/" target="_self" class="dropdown-item">拉丁美洲和加勒比区域办事处</a>
+                <a href="https://www.fao.org/neareast/" target="_self" class="dropdown-item">近东和北非区域办事处</a>
+                <a href="https://www.fao.org/about/who-we-are/worldwide-offices/zh" target="_self" class="dropdown-item">国家办事处</a>
+        </div>
+    </div>
+
+    </div>
+    <div id="Contentplaceholder1_T198B1AC4006_Col01" class="sf_colsIn footer-links-bottom" data-sf-element="Footer Links Bottom" data-placeholder-label="Footer Links Bottom">
+<ul class="list-inline">
+        <li class="list-inline-item">
+            <a href="https://www.fao.org/employment/home/zh/" target="_self">工作</a>
+        </li>
+        <li class="list-inline-item">
+            <a href="https://fao.org/contact-us/zh/" target="_self">联系我们</a>
+        </li>
+        <li class="list-inline-item">
+            <a href="https://fao.org/contact-us/terms/zh/" target="_self">条款和条件</a>
+        </li>
+        <li class="list-inline-item">
+            <a href="https://fao.org/contact-us/scam-alert/zh/" target="_self">欺诈邮件</a>
+        </li>
+        <li class="list-inline-item">
+            <a href="https://www.fao.org/audit-and-investigations/reporting-misconduct/zh" target="_self">举报不当行为</a>
+        </li>
+        <li class="list-inline-item">
+            <a href="https://www.fao.org/transparency/en" target="_self">透明与问责</a>
+        </li>
+</ul>
+
+    </div>
+</div>
+<div class="footer-download col-md-5" >
+    <div class="sfContentBlock sf-Long-text" ><a class="copyright" href="https://www.fao.org/contact-us/terms/zh/" data-sf-ec-immutable="">© FAO&nbsp;2025</a></div>
+</div>
+</div>
+
+</div>
+
+</footer>
+
+ </div>  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/ResourcePackages/Bootstrap5/assets/dist/js/popper.min.js?v=2.11.8" type="text/javascript"></script><script src="/ResourcePackages/Bootstrap5/assets/dist/js/bootstrap.min.js?v=5.3.3" type="text/javascript"></script><script src="/Frontend-Assembly/SitefinityWebApp/Mvc/Scripts/FaoLanguageSelector/language-selector.js?package=FAO&amp;v=MTk3NDEyMzQzMw%3d%3d" type="text/javascript"></script><script src="/ResourcePackages/FAO/assets/dist/js/utility.min.js?v=1.4" type="text/javascript"></script><script type="application/json" id="PersonalizationTracker">
+	{"IsPagePersonalizationTarget":false,"IsUrlPersonalizationTarget":false,"PageId":"a06a2570-b1a7-4fde-a885-070276336d6e"}
+</script><script type="text/javascript" src="/WebResource.axd?d=NjxTqR2bqTw1rewxxlkHPoBB5CDatGYzZ3CWgf1FPNEBuDUZPbAL6EI4dDKbkSdIDdnRDsMyEI1n0bYSuQyPjOMXCNtK20UMe0VarzrEJK3kSl-dB6u-nSg0V62BML_GKgsoVZeWfO-Bb3BI27iNMkTOw9HcDWBzxMNlHZ9B2lK0g7tyFX7r8CxiFBcic142WC75xOF1g27QH0LQ_zZEqJqimpg1T2wEwSEcGdIePyI1&amp;t=638875725940000000">
+
+</script><script type="text/javascript">
+
+
+// Constants
+const THEME_STORAGE_KEY = "darkMode";
+const THEMES = {
+    LIGHT: "light",
+    DARK: "dark"
+};
+const ICONS = {
+    MOON: "bi-moon-stars",
+    SUN: "bi-sun"
+};
+const LOGO_MAPPINGS = {
+    navbar: {
+        light: "fao-logo.svg",
+        dark: "fao-logo-white-2lines.svg"
+    },
+    subheader: {
+        light: "fao-logo.svg",
+        dark: "fao-logo-white-2lines.svg"
+    }
+};
+
+// DOM elements
+const darkModeToggles = document.querySelectorAll(".dark-mode-toggle");
+const toggleIcons = document.querySelectorAll(".dark-mode-toggle em");
+const htmlElement = document.documentElement;
+
+// Check if localStorage is available before trying to use it
+function safeLocalStorage() {
+    try {
+        return localStorage;
+    } catch (e) {
+        console.warn("localStorage not available:", e.message);
+        return null;
+    }
+}
+
+// Get the stored theme from localStorage
+function getStoredTheme() {
+    const storage = safeLocalStorage();
+
+    // If localStorage is not available, return false
+    if (!storage) return false;
+
+    // Get the stored theme from localStorage
+    const stored = storage.getItem(THEME_STORAGE_KEY);
+
+    // If the stored theme is true, return true, otherwise return false
+    return stored === "true";
+}
+
+// Set the stored theme in localStorage
+function setStoredTheme(isDark) {
+    // Check if localStorage is available before trying to use it
+    const storage = safeLocalStorage();
+
+    // If not, return
+    if (!storage) {
+        console.warn("localStorage not available, cannot save theme preference");
+        return;
+    }
+
+    // Try to set the stored theme in localStorage
+    try {
+        storage.setItem(THEME_STORAGE_KEY, isDark.toString());
+    } catch (e) {
+        console.warn("Could not save theme preference:", e.message);
+    }
+}
+
+// Update the theme attribute on the html element
+function updateThemeAttribute(isDark) {
+    // If isDark is true, set the theme to dark, otherwise set it to light
+    const theme = isDark ? THEMES.DARK : THEMES.LIGHT;
+
+    // Set the theme attribute on the html element
+    htmlElement.setAttribute("data-bs-theme", theme);
+}
+
+// Update the toggle icons
+function updateToggleIcons(isDark) {
+    // If isDark is true, set the target icon to sun, otherwise set it to moon
+    const targetIcon = isDark ? ICONS.SUN : ICONS.MOON;
+
+    // Replace the entire class string with the target icon
+    toggleIcons.forEach((icon) => {
+        icon.className = `bi ${targetIcon}`;
+    });
+}
+
+// Update the logos
+function updateLogos(isDark) {
+    // If isDark is true, set the theme to dark, otherwise set it to light
+    const theme = isDark ? "dark" : "light";
+
+    // Define logo sections to update
+    const logoSections = [
+        { selector: ".navbar-brand img", mapping: LOGO_MAPPINGS.navbar },
+        { selector: ".fao-header-left img", mapping: LOGO_MAPPINGS.subheader }
+    ];
+
+    // Update the logos
+    logoSections.forEach(({ selector, mapping }) => {
+        // Get the images to update
+        const imgs = document.querySelectorAll(selector);
+        // Get the target logo
+        const targetLogo = mapping[theme];
+
+        // Update the logo
+        imgs.forEach((img) => {
+            img.src = img.src.replace(/fao-logo.*?(-[a-z]{2})?\.svg/, (match, lang) => {
+                return targetLogo.replace('.svg', `${lang || ''}.svg`);
+            });
+        });
+    });
+}
+
+// Set the dark mode
+function setDarkMode(isDark) {
+    updateThemeAttribute(isDark);
+    updateToggleIcons(isDark);
+    updateLogos(isDark);
+    setStoredTheme(isDark);
+}
+
+// Initialize the theme
+function initializeTheme() {
+    const isDark = getStoredTheme();
+    setDarkMode(isDark);
+}
+
+// Event listeners
+function initializeEventListeners() {
+    darkModeToggles.forEach((toggle) => {
+        toggle.addEventListener("click", () => {
+            // Get the current theme
+            const currentTheme = htmlElement.getAttribute("data-bs-theme");
+            // Check if the current theme is light
+            const isCurrentlyLight = currentTheme === THEMES.LIGHT;
+            // Set the dark mode
+            setDarkMode(isCurrentlyLight);
+        });
+    });
+}
+
+// This runs immediately to avoid theme change after page load
+initializeTheme();
+
+// This  runs after the content has loaded
+document.addEventListener("DOMContentLoaded", initializeEventListeners);
+
+</script><input data-sf-role='en' type='hidden' value='https://www.fao.org/green-cities-initiative/city-network/en'><input data-sf-role='ar' type='hidden' value='https://www.fao.org/green-cities-initiative/city-network/ar'><input data-sf-role='zh' type='hidden' value='https://www.fao.org/green-cities-initiative/city-network/zh'><input data-sf-role='fr' type='hidden' value='https://www.fao.org/green-cities-initiative/city-network/fr'><input data-sf-role='ru' type='hidden' value='https://www.fao.org/green-cities-initiative/city-network/ru'><input data-sf-role='es' type='hidden' value='https://www.fao.org/green-cities-initiative/city-network/es'> </body> </html>

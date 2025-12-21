@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>山东科协每日科普 | 神奇的“绿波时速”</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+    <script>
+        window.parent.postMessage({
+            event: 'headComplete',
+            time: Date.now()
+        }, '*');
+    </script>
+</head>
+<body class="font-size-1" ontouchstart>
+<!-- // 此段js务必保留 -->
+<script type="text/javascript">
+    (function () {
+        var getQueryString = function (name, type) {
+            var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+            var r = type === 1 ? window.location.search.substr(1)
+                .match(reg) : window.location.hash.substr(1).match(reg);
+            if (r != null) {
+                return unescape(r[2]);
+            }
+            return null;
+        };
+        var fsize = getQueryString('fontSize', 1) || 'font-size-1';
+        var sdkver = getQueryString('sdkver', 1);
+        var version = getQueryString('verision', 2);
+        version = version && version.slice(0, 8);
+        window.BAIDU_VERSION = sdkver || version;
+        window.BAIDU_VERSION = window.BAIDU_VERSION ? '_' + window.BAIDU_VERSION : '';
+        document.body.className = fsize;
+        var head = document.getElementsByTagName('head')[0];
+        var link = document.createElement('link');
+        link.href =
+            "https://gss0.bdstatic.com/5bd1bjqh_Q23odCf/static/thirdparty/js/wrap/third" + window.BAIDU_VERSION + ".css";
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        window.addEventListener('message', function (e) {
+            if (e.data.event === 'postFontSize') {
+                document.body.className = e.data.data.fontSize;
+                document.body.style.visibility = 'visible';
+            }
+        });
+        link.onload = function () {
+            window.parent.postMessage({
+                event: 'getFontSize',
+                time: Date.now()
+            }, '*');
+            setTimeout(function () {
+                document.body.style.visibility = 'visible';
+            }, 200);
+        };
+        link.onerror = function () {
+            document.body.style.visibility = 'visible';
+        };
+        head.appendChild(link);
+    }());
+</script>
+<div id="container" class="container">
+    <div class="header">
+        <div id="title" class="titleFont">山东科协每日科普 | 神奇的“绿波时速”</div>
+        <div class="info link" data-href="https://m.thepaper.cn">
+            <img src="https://file.thepaper.cn/wap/v6/img/logo_wap_v3.png" data-href="https://m.thepaper.cn"/>
+            <span data-href="https://m.thepaper.cn">
+                政务：科普青岛&nbsp;2022-11-02 13:33
+            </span>
+        </div>
+    </div>
+    <article>
+            <p class="contentFont">一条路上有多个红绿灯，有的驾驶员却能一路绿灯通行，这样的“绿波”，你体验到了吗？</p><p class="contentImage"><img data-index="0" src="https://imagepphcloud.thepaper.cn/pph/image/223/492/39.gif" data-width="542px" data-height="358px"></p><p class="contentFont">神奇的绿波时速</p><p class="contentFont">绿波时速也叫绿波带，是一种交通信号控制系统，主要设置于交叉路口较多的路段。</p><p class="contentFont">“绿波带”是指在特定交通线路上，通过控制绿灯亮起的时间，确保车辆以某一车速匀速行驶时，在每个路口都能正好遇到“绿灯”。</p><p class="contentFont">设置“绿波带”，一方面是为了提高路网整体通行效率；另一方面是为了优化驾驶人通行体验，在一定程度上提高驾驶的安全性。</p><p class="contentFont">城市道路中，“绿波带”的速度一般为50公里～60公里/小时，部分道路会设置绿波推荐时速标志，驾驶员在这种路段行驶时，只需控制车速在推荐时速区间内，即可安全高效地连续通过各个路口。</p><p class="contentImage"><img data-index="1" src="https://imagepphcloud.thepaper.cn/pph/image/223/492/41.gif" data-width="640px" data-height="360px"></p><p class="contentFont">反之，如果一条绿波带道路段的速度要求为50公里～60公里/小时，而驾驶员低于或超出了这个速度，那么一路势必会遇到红灯；同样，如果遇早晚交通高峰等无法保持车辆匀速前行的情况下，驾驶员也很有可能错过绿波带。</p><p class="contentFont">来源：科普中国、山东省科协</p><p class="contentFont">声明：凡本公众号转载、引用的文章、图片、音频、视频文件等资料非商业用途，仅作为科普传播素材，版权归版权所有人所有，因此产生相关后果，由版权所有人、原始发布者和内容提供者承担，如有侵权请联系删除。</p><p class="contentFont">原标题：《山东科协每日科普 | 神奇的“绿波时速”》</p>
+    </article>
+</div>
+<!-- 我是分割线－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－ -->
+<script type="text/javascript">
+    // 此段js务必保留
+    (function () {
+        var domHeight = document.body.clientHeight;
+        window.parent.postMessage({
+            event: 'iFrameComplete',
+            height: domHeight,
+            time: Date.now()
+        }, '*');
+        var thirdJs = document.createElement("script");
+        thirdJs.src =
+            "https://gss0.bdstatic.com/5bd1bjqh_Q23odCf/static/thirdparty/js/wrap/third" + window.BAIDU_VERSION + ".js";
+        document.body.appendChild(thirdJs);
+        thirdJs.onload = function () {
+            window.parent.postMessage({
+                event: 'thirdJsLoaded',
+                time: Date.now()
+            }, '*');
+        };
+    }());
+</script>
+<script>
+    // 此段js务必保留
+    window.parent.postMessage({
+        event: 'bodyComplete',
+        time: Date.now()
+    }, '*');
+</script>
+<!-- 百度统计js -->
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?d07e4d64d5cde19b5351e7032beaef1a";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+<script src="//img.thepaper.cn/thepaper/third/thepaper_log.js"></script>
+</body>
+</html>

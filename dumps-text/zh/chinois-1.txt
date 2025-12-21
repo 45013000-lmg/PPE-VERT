@@ -1,0 +1,235 @@
+   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
+   [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
+   [11]alternate [12]alternate [13]alternate
+
+   (BUTTON) (BUTTON)
+
+     * [14]特色功能
+     * [15]訂閱方案
+     * 娛樂情報
+          + [16]音樂趨勢
+          + [17]音樂排行榜
+          + [18]年度風雲榜
+     * 會員服務
+          + [19]付費及儲值
+          + [20]會員中心
+          + [21]服務中心
+          + [22]KKBOX 服務條款
+     * 關於我們
+          + [23]關於科科科技
+          + [24]關於 KKBOX
+          + [25]新聞中心
+          + [26]廣告合作
+          + [27]人才招募
+          + [28]校園大使
+          + [29]聯絡我們
+     * 搜尋
+     * [30]下載
+
+     * [31]特色功能
+     * [32]訂閱方案
+     * 娛樂情報
+          + [33]音樂趨勢
+          + [34]音樂排行榜
+          + [35]年度風雲榜
+     * 會員服務
+          + [36]付費及儲值
+          + [37]會員中心
+          + [38]服務中心
+          + [39]KKBOX 服務條款
+     * 關於我們
+          + [40]關於科科科技
+          + [41]關於 KKBOX
+          + [42]新聞中心
+          + [43]廣告合作
+          + [44]人才招募
+          + [45]校園大使
+          + [46]聯絡我們
+
+   (BUTTON) ____________________
+
+   [47]绿色
+   歌曲
+
+绿色
+
+   [48]周子渝 周子渝
+   [play-7fb5bbc884.1.svg] [pause-3b8362ca9d.1.svg] 試聽 聽全曲
+   [share-7920216b46.black.svg]
+
+   作詞：陳雪凝     作曲：陳雪凝
+
+   若不是你突然闖進我生活
+   我怎會把死守的寂寞放任了
+   愛我的話你都說 愛我的事你不做
+   我卻把甜言蜜語當作你愛我的軀殼
+   你的悲傷難過我不參破
+   我也會把曾經的且過當施捨
+   不去計較你太多 從此你在我心裡只剩綠色
+   說不痛苦那是假的
+   畢竟我的心也是肉做的
+   你離開時我心裡的彩虹
+   就變成灰色
+   說不心酸那是假的
+   如果我真的沒那麼愛過
+   愛著一個沒有靈魂的人
+   世界都是黑色
+   若不是你突然闖進我生活
+   我怎會把死守的寂寞放任了
+   愛我的話你都說 愛我的事你不做
+   我卻把甜言蜜語當作你愛我的軀殼
+   你的悲傷難過我不參破
+   我也會把曾經的且過當施捨
+   不去計較你太多 從此你在我心裡只剩綠色
+   說很快活那是假的
+   你的名字依然那麼深刻
+   每個字都刺穿我的心臟
+   那鮮明的痛是紅色
+   若不是你突然闖進我生活
+   我怎會把死守的寂寞放任了
+   愛我的話你都說 愛我的事你不做
+   我卻把甜言蜜語當作你愛我的軀殼
+   你的悲傷難過我不參破
+   我也會把曾經的且過當施捨
+   不去計較你太多 從此你在我心裡只剩綠色
+   若不是你突然闖進我生活
+   我怎會把死守的寂寞放任了
+   愛我的話你都說 愛我的事你不做
+   我卻把甜言蜜語當作你愛我的軀殼
+   你的悲傷難過我不參破
+   我也會把曾經的且過當施捨
+   不去計較你太多 從此你在我心裡只剩綠色
+
+出自專輯
+
+   [49]
+   绿色
+   绿色
+   2019/06/07
+
+專輯曲目
+
+   [50]查看完整專輯曲目
+
+這首歌也出現在...
+
+   探索 KKBOX
+   [51]特色功能
+   [52]免費聽
+   [53]支援平台
+   娛樂情報
+   [54]音樂趨勢
+   [55]音樂排行榜
+   [56]年度風雲榜
+   會員服務
+   [57]付費及儲值
+   [58]會員中心
+   [59]服務中心
+   [60]KKBOX 服務條款
+   關於我們
+   [61]關於科科科技
+   [62]關於 KKBOX
+   [63]新聞中心
+   [64]廣告合作
+   [65]人才招募
+   [66]校園大使
+   [67]聯絡我們
+
+   [繁體中文��中文]繁體中文
+   (BUTTON) 繁體中文
+   [68]English
+   [台灣______....]台灣
+   (BUTTON) 台灣
+   [69]香港[70]日本[71]新加坡[72]馬來西亞
+   © KKBOX All Rights Reserved.
+   願境網訊股份有限公司 (70399559)
+   [73]隱私權政策
+   [74]智財權說明
+
+References
+
+   Visible links:
+   1. https://www.kkbox.com/tw/en/song/8r9Sb0RU59bDTU_o2p
+   2. https://www.kkbox.com/hk/tc/song/8r9Sb0RU59bDTU_o2p
+   3. https://www.kkbox.com/hk/en/song/8r9Sb0RU59bDTU_o2p
+   4. https://www.kkbox.com/sg/en/song/8r9Sb0RU59bDTU_o2p
+   5. https://www.kkbox.com/sg/sc/song/8r9Sb0RU59bDTU_o2p
+   6. https://www.kkbox.com/my/en/song/8r9Sb0RU59bDTU_o2p
+   7. https://www.kkbox.com/my/sc/song/8r9Sb0RU59bDTU_o2p
+   8. https://www.kkbox.com/jp/ja/song/8r9Sb0RU59bDTU_o2p
+   9. https://www.kkbox.com/jp/en/song/8r9Sb0RU59bDTU_o2p
+  10. android-app://com.skysoft.kkbox.android/https/www.kkbox.com/tw/tc/song/8r9Sb0RU59bDTU_o2p
+  11. ios-app://tw.com.skysoft.iphone/https/www.kkbox.com/tw/tc/song/8r9Sb0RU59bDTU_o2p
+  12. android-app://com.skysoft.kkbox.android/kkbox/song/577237763?e=0#play
+  13. ios-app://tw.com.skysoft.iphone/kkbox/song/577237763?e=0#play
+  14. file:///tw/tc/feature
+  15. https://ssl.kkbox.com/billing/index.php
+  16. file:///tw/tc/info/
+  17. https://kma.kkbox.com/charts/?terr=tw&lang=tc
+  18. https://kma.kkbox.com/awards/
+  19. https://ssl.kkbox.com/billing.php
+  20. https://mykkid.kkbox.com/
+  21. https://help.kkbox.com/tw/zh-tw?p=kkbox
+  22. file:///about/tw/zh-tw/terms
+  23. https://www.kkcompany.com/zh-tw/about/
+  24. file:///about/tw/zh-tw/
+  25. file:///about/tw/zh-tw/news
+  26. file:///about/tw/zh-tw/ad-cooperation
+  27. https://careers.kkcompany.com/#kkbox
+  28. https://campus.kkbox.com/tw/ambassador/
+  29. file:///about/tw/zh-tw/contact
+  30. file:///tw/tc/download
+  31. file:///tw/tc/feature
+  32. https://ssl.kkbox.com/billing/index.php
+  33. file:///tw/tc/info/
+  34. https://kma.kkbox.com/charts/?terr=tw&lang=tc
+  35. https://kma.kkbox.com/awards/
+  36. https://ssl.kkbox.com/billing.php
+  37. https://mykkid.kkbox.com/
+  38. https://help.kkbox.com/tw/zh-tw?p=kkbox
+  39. file:///about/tw/zh-tw/terms
+  40. https://www.kkcompany.com/zh-tw/about/
+  41. file:///about/tw/zh-tw/
+  42. file:///about/tw/zh-tw/news
+  43. file:///about/tw/zh-tw/ad-cooperation
+  44. https://careers.kkcompany.com/#kkbox
+  45. https://campus.kkbox.com/tw/ambassador/
+  46. file:///about/tw/zh-tw/contact
+  47. https://www.kkbox.com/tw/tc/album/LZ_3fYhu2Z7b1bbOUY
+  48. https://www.kkbox.com/tw/tc/artist/0kBJUDrBCS2ArG9Lrl
+  49. https://www.kkbox.com/tw/tc/album/LZ_3fYhu2Z7b1bbOUY
+  50. https://www.kkbox.com/tw/tc/album/LZ_3fYhu2Z7b1bbOUY
+  51. file:///tw/tc/feature
+  52. file:///service/daily-free/
+  53. file:///tw/tc/download
+  54. file:///tw/tc/info/
+  55. https://kma.kkbox.com/charts/?terr=tw&lang=tc
+  56. https://kma.kkbox.com/awards/
+  57. https://ssl.kkbox.com/billing.php
+  58. https://mykkid.kkbox.com/
+  59. https://help.kkbox.com/tw/zh-tw?p=kkbox
+  60. file:///about/tw/zh-tw/terms
+  61. https://www.kkcompany.com/zh-tw/about/
+  62. file:///about/tw/zh-tw/
+  63. file:///about/tw/zh-tw/news
+  64. file:///about/tw/zh-tw/ad-cooperation
+  65. https://careers.kkcompany.com/#kkbox
+  66. https://campus.kkbox.com/tw/ambassador/
+  67. file:///about/tw/zh-tw/contact
+  68. javascript:window.location=window.location.href.replace(/\/tw\/(tc)\//,(m,p)=>m.replace(p,'en'))
+  69. file:///hk/tc/
+  70. file:///jp/ja/
+  71. file:///sg/en/
+  72. file:///my/en/
+  73. file:///about/tw/zh-tw/privacy
+  74. file:///about/tw/zh-tw/ipr
+
+   Hidden links:
+  76. file://localhost/tw/tc/
+  77. file://localhost/tw/tc/
+  78. https://www.facebook.com/KKBOXTW
+  79. https://www.youtube.com/user/KKBOX
+  80. https://instagram.com/kkbox_tw
+  81. https://www.facebook.com/KKBOXTW
+  82. https://www.youtube.com/user/KKBOX
+  83. https://instagram.com/kkbox_tw
