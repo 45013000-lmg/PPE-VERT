@@ -1,0 +1,44 @@
+/* Accueil pour différentes langues */
+
+/* --------------Mise en Page-------------- */
+@media (max-width: 900px) {
+    .hero.hero-fr {
+        flex-direction: column;
+        text-align: center;
+        gap: 40px;
+    }
+
+    .hero.hero-fr .hero-left h1 {
+        font-size: 90px;
+    }
+
+    .hero.hero-fr .hero-right {
+        font-size: 18px;
+    }
+}
+
+/* --------------WordCloud-------------- */
+.wordcloud {
+    padding: 0 ;
+    margin: 0;
+    display: block;
+}
+
+.wordcloud img {
+    display: block;
+    width: 100vw;
+    max-width: none;
+    height: auto;
+}
+
+.conclusion {
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 12vh 10vw;
+    font-size: 22px;
+    line-height: 1.8;
+}
+
+.conclusion p {
+    margin-bottom: 28px;
+}

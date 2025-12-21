@@ -1,0 +1,113 @@
+/* CSS pour les tableaux */
+
+.section {
+    min-height: 100vh;
+    padding: 12vh 8vw;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+
+    background: rgba(220, 235, 225, 0.6);
+    backdrop-filter: blur(18px);
+    -webkit-backdrop-filter: blur(14px);
+
+    border-radius: 22px;
+    padding: 48px;
+}
+
+
+/* --------------Titre-------------- */
+.title {
+    color: #2f6f5e;
+    font-size: 48px;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: 1px;
+    margin-bottom: 42px;
+}
+
+
+/* --------------Tableau-------------- */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+
+    color: #2f6f5e;
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+
+.table,
+.table th,
+.table td {
+    border: none;
+}
+
+
+/* --------------Head du tableau-------------- */
+.table th {
+    color: #2f6f5e;
+    font-size: 22px;
+    font-weight: 500;
+    text-align: left;
+
+    padding: 16px 18px;
+    border-bottom: 1px solid rgba(255,255,255,0.25);
+    white-space: nowrap;
+}
+
+
+/* --------------Contenu-------------- */
+.table td {
+    padding: 14px 18px;
+    vertical-align: top;
+}
+
+
+.table tr:nth-child(even) {
+    background: rgba(255,255,255,0.06);
+}
+
+
+.table tr:hover {
+    background: rgba(255,255,255,0.12);
+}
+
+
+/* --------------Style des liens-------------- */
+.table a {
+    color: #2f6f5e;
+    text-decoration: none;     /* ne pas le souligner */
+    word-break: break-all;
+}
+
+.table a:hover {
+    color: #2f6f5e;
+    opacity: 0.75;
+}
+
+
+/* --------------Petit écran-------------- */
+@media (max-width: 1000px) {
+
+    .container {
+        padding: 28px;
+    }
+
+    .title {
+        font-size: 34px;
+        margin-bottom: 28px;
+    }
+
+    .table {
+        font-size: 17px;
+    }
+
+    .table th {
+        font-size: 18px;
+    }
+
+}

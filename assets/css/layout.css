@@ -1,0 +1,65 @@
+/* Navigation + Section + Hero + Responsive */
+
+/* --------------Navigation-------------- */
+header {
+    position: absolute;
+    top: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 50px; /* espace */
+    font-size: 27px; /* taille */
+    letter-spacing: 2px;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    transition: opacity 0.3s ease;
+}
+
+header a:hover {
+    opacity: 0.7;
+}
+
+.section {
+    min-height: 100vh;
+    padding: 12vh 10vw;
+}
+
+/* --------------Positions-------------- */
+.hero {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+/* titre */
+.hero h1 {
+    font-size: 160px;
+    margin-bottom: 0;
+}
+
+/* sous-titre */
+.hero p {
+    font-size: 27px;
+}
+
+/* --------------Responsive-------------- */
+@media (max-width: 768px) {
+    header {
+        gap: 25px;
+        font-size: 18px;
+    }
+
+    .hero h1 {
+        font-size: 72px;
+    }
+
+    .hero p {
+        font-size: 20px;
+    }
+}

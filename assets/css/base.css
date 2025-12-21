@@ -1,0 +1,88 @@
+/* Police + Réinitialisation + Arrière-plan global + Animation */
+
+
+/* --------------Police-------------- */
+
+/* Latin + Arabe */
+@font-face {
+    font-family: "Latin-Arabe";
+    src: url("../assets/Latin-Arabe.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Chinois */
+@font-face {
+    font-family: "Chinois";
+    src: url("../assets/chinois.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* --------------Reset Global-------------- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-synthesis: none;
+}
+
+
+/* --------------Police de la Page-------------- */
+html, body {
+    height: 100%;
+    font-family:"Latin-Arabe", "Chinois",
+    serif;
+}
+
+/* ----------------Arrière-plan---------------- */
+body {
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    background-image: url("../bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    color: white;
+}
+
+/* ----------------Animation---------------- */
+@keyframes fadeUp {
+    from { opacity: 0; transform: translateY(16px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+
+header, .hero h1, .hero p {
+    opacity: 0;
+    animation: fadeUp 900ms ease forwards;
+}
+
+header      { animation-delay: 120ms; }
+.hero h1    { animation-delay: 260ms; }
+.hero p     { animation-delay: 420ms; }
+
+@media (prefers-reduced-motion: reduce) {
+    header, .hero h1, .hero p {
+        animation: none;
+        opacity: 1;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
