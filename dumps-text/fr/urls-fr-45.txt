@@ -1,0 +1,322 @@
+   #[1]alternate
+
+   [2]Aller au contenu principal
+
+   [3]Accueil
+
+   (BUTTON)
+
+   Vous êtes un professionnel du tourisme ?
+     * [4]Rejoindre le label
+     * [5]Mon espace pro
+
+Navigation principale
+
+     * [6]Le label
+          + [7]Qui sommes-nous ?
+          + [8]Notre réponse aux ODD
+          + [9]Critères
+          + [10]Témoignages
+     * [11]Établissements
+     * [12]Partenaires
+     * [13]Actualités
+
+     *
+     *
+     *
+     *
+
+   Image
+   hotel clef verte
+
+Premier label de tourisme durable engagé pour l'environnement respectueux des
+territoires acteur de la transition écologique qui valorise les bonnes
+pratiques dédié aux hébergements touristiques et aux restaurants
+
+   ____________________________________________________________
+
+   Type d’établissement
+
+   [ ] Auberges de jeunesse
+   [ ] Campings
+   [ ] Chambres d’hôtes
+   [ ] Gîtes
+   [ ] Hôtels
+   [ ] Residences de tourisme
+   [ ] Restaurants
+   [ ] Villages de vacances
+
+   Destination
+
+   [ ] Campagne
+   [ ] Mer
+   [ ] Montagne
+   [ ] Ville
+
+   Rechercher
+
+   Que trouverez vous dans un établissement Clef Verte ?
+   Image
+   gite chevaux
+   Image
+   femme vélo plage
+   Image
+   VTF domaine des puys
+
+   Le respect du territoire
+
+   Les critères du label Clef Verte imposent le respect de la nature et
+   des personnes notamment par la maîtrise des consommations en eau et en
+   énergie, par une gestion environnementale des déchets, par des loisirs
+   qui ne nuisent pas à la nature et par une valorisation des acteurs et
+   des atouts naturels du territoire.
+   [14]Tout savoir sur le label
+
+   Le plaisir de vivre un tourisme durable
+
+   Choisir un hébergement touristique écologique n'implique pas de
+   renoncer au plaisir ou au confort, bien au contraire ! Ils offrent un
+   cadre de vie plus sain et plus naturel, sensibilisent les vacanciers et
+   invitent ceux qui le souhaitent à s'investir à leur échelle pour des
+   vacances plus écologiques et des voyages plus responsables.
+   [15]Tout savoir sur le label
+
+   Au même prix
+
+   Le label Clef Verte n'implique pas des tarifs plus élevés ! Il
+   s'adresse à toutes les catégories et tous les types de restaurant et
+   d'hébergement : camping ou gîte nature, hôtel écologique, auberge de
+   jeunesse ou chambre d'hôte responsable, résidence de tourisme ou
+   village de vacances durable.
+   [16]Tout savoir sur le label
+   80+
+   pays participants sur 5 continents
+   2460
+   établissement labellisés en France
+   60
+   millions de nuitées à faible impact
+   27
+   années d’existence  du label
+
+Qui sont nos établissements labellisés ?
+
+   [17]
+   Image
+   camping Clef Verte
+
+   Campings
+   [18]
+   Image
+   Hotel
+
+   Hôtels
+   [19]
+   Image
+   Auberge de jeunesse
+
+   Auberges de jeunesse
+   [20]
+   Image
+   Gîte
+
+   Chambres d’hôtes
+   [21]
+   Image
+   restaurants
+
+   Restaurants
+   [22]
+   Image
+   gites
+
+   Gîtes
+   [23]
+   Image
+   résidences de vacances
+
+   Residences de tourisme
+   [24]
+   Image
+   Village de vacances
+
+   Villages de vacances
+
+Témoignages de labellisés
+
+   Image
+   samana beauséjour clef verte
+   Image
+   Habitation Caféière Samana Beausejour
+   Didier et Etienne Simon Gérant
+
+   Habitation Caféière Samana Beausejour
+   Chambres d’hôtes
+
+   Nous prouvons qu’il est possible de concilier le confort, l'hospitalité
+   exceptionnelle et la préservation de notre planète.
+   Image
+   cheval blanc clef verte
+   Image
+   Bratislav Vujic - le cheval blanc
+   Bratislav VUJIC Gérant
+
+   Le Cheval Blanc restaurant
+   Restaurants
+
+   Chaque petite pierre est une avancée pour la protection de notre
+   planète.
+   Image
+   Bristol Clef Verte
+   Image
+   Le Bristol
+   Evane Lamaison Responsable RSE
+
+   Le Bristol
+   Hôtels
+
+   Le Bristol est l’un des deux seuls Palaces en France à obtenir le label
+   Clef Verte, cela prouve que luxe et durabilité peuvent coexister en
+   parfaite harmonie
+   [25]Découvrez nos témoignages
+
+Notre actualité
+
+   Témoignages, décryptages, ressources... toutes l'actualité du label
+   Clef Verte !
+
+   [26]
+   Image
+   Bidhan Chandra Pal
+
+Rencontre avec Bidhan Chandra Pal
+
+   Dans le cadre du National Operator Meeting Green Key organisée �
+   Marseille, nous avons échangé avec Bidhan Chandra Pal, fondateur de
+   Probha Aurora et représentant du programme au Bangladesh.
+   En savoir plus
+
+   [27]
+   Image
+   Webinaire de présentation
+
+1er pas : Le webinaire de présentation en replay
+
+   Envie d’engager votre établissement dans une démarche environnementale
+   exigeante ? Prenez le temps de visionner notre webinaire de
+   présentation. Un format clair, rythmé, pensé pour vous donner une
+   vision d’ensemble avant de vous lancer.
+   En savoir plus
+
+   [28]
+   Image
+   gataudière ClefVerte Gîte Ecologique
+
+Témoignage - La Gataudière
+
+   Découvrez le témoignage inspirant de Corinne Devaud et Thierry Chenu,
+   gérants du gîte La Gataudière, un établissement engagé et coup de cœur
+   2025 du jury Clef Verte.
+   En savoir plus
+
+   [29]
+   Image
+   robinet
+
+Sobriété hydrique, la Clef Verte renforce son engagement💧
+
+   La gestion de l’eau fait partie des critères fondamentaux du label Clef
+   Verte. Celui-ci veille à ce que les établissements d’hébergement
+   touristique maintiennent la qualité de l’eau tout en favorisant un
+   usage sobre de cette ressource précieuse.
+
+
+   Mais l’engagement de la Clef Verte va au-delà des critères
+   d’évaluation. L’association développe et soutient de nombreux projets
+   autour de la sobriété hydrique.
+   En savoir plus
+
+   [30]
+   Image
+   touriste
+
+Journée Mondiale du Tourisme : que recherchent les touristes ?
+
+   En savoir plus
+   [31]Voir toutes les actualités
+   [32]Confidentialité
+
+   Logo Tegagir
+
+   La Clef Verte, 1er label de tourisme durable pour les hébergements
+   touristiques et les restaurants, est développé par Teragir.
+   115 rue du faubourg Poissonnière 75009 Paris
+   01 45 49 05 80
+   infos@laclefverte.org
+
+Newsletter
+
+   Inscrivez-vous pour suivre l'actualité du label !
+   Votre email
+   ____________________________________________________________
+   Inscription
+     *
+     *
+     *
+     *
+
+Footer
+
+     * [33]Contact
+     * [34]Espace presse
+     * [35]Mentions légales
+
+   © Clef Verte 2025. Tout droits réservés
+
+References
+
+   Visible links:
+   1. https://www.laclefverte.org/
+   2. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-45.html#main-content
+   3. file:///
+   4. file:///rejoindre-le-label
+   5. https://pro.laclefverte.org/
+   6. file:///
+   7. file:///le-label/teragir
+   8. file:///le-label/la-clef-verte-engagée-pour-les-objectifs-de-développement-durable
+   9. file:///le-label/les-criteres-du-label-clef-verte
+  10. file:///temoignages
+  11. file:///etablissement
+  12. file:///partenaires
+  13. file:///actualites
+  14. file:///qui-sommes-nous
+  15. file:///qui-sommes-nous
+  16. file:///qui-sommes-nous
+  17. file:///etablissement?types[0]=0
+  18. file:///etablissement?types[0]=1
+  19. file:///etablissement?types[0]=4
+  20. file:///etablissement?types[0]=3
+  21. file:///etablissement?types[0]=6
+  22. file:///etablissement?types[0]=2
+  23. file:///etablissement?types[0]=5
+  24. file:///etablissement?types[0]=7
+  25. https://www.laclefverte.org/temoignages
+  26. file:///actualites/rencontre-avec-bidhan-chandra-pal
+  27. file:///actualites/1er-pas-le-webinaire-de-presentation-en-replay
+  28. file:///actualites/temoignage-la-gataudiere
+  29. file:///actualites/sobriete-hydrique-la-clef-verte-renforce-son-engagement
+  30. file:///actualites/journee-mondiale-du-tourisme-que-recherchent-les-touristes-0
+  31. file:///actualites
+  32. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-45.html#editCookieSettings
+  33. file:///contact
+  34. file:///presse
+  35. file:///mentions-legales
+
+   Hidden links:
+  37. file://localhost/contact
+  38. https://bsky.app/profile/clefverte.bsky.social
+  39. https://www.instagram.com/clef_verte/
+  40. https://fr.linkedin.com/showcase/clef-verte-teragir/
+  41. file://localhost/contact
+  42. https://bsky.app/profile/clefverte.bsky.social
+  43. https://www.instagram.com/clef_verte/
+  44. https://fr.linkedin.com/showcase/clef-verte-teragir/

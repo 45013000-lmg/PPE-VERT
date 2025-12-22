@@ -1,0 +1,14 @@
+8:   vert, bleu) prÃ©sentes dans la nuance choisie. Si les codes Hex sont
+32:   le vert et le bleu (RVB).
+36:   nuance, le deuxiÃ¨me sa quantitÃ© de couleur verte, et le troisiÃ¨me sa
+41:       : le rouge est Ã  son maximum, et le vert et le bleu Ã  leur
+43:     * Le codage RVB dâun vert pur reviendra par exemple Ã  R0, V255, B0 :
+44:       le vert est Ã  son maximum, et le rouge et le bleu sont Ã  leur
+47:       le bleu est Ã  son maximum, et le rouge et le vert sont Ã  leur
+50:   Rouge, vert et bleu
+54:   premier statue la quantitÃ© de rouge, le deuxiÃ¨me de vert, le dernier
+74:       rouge est Ã  255, qui est son maximum, les valeurs du vert et du
+76:     * Le code hexadÃ©cimal dâun vert pur est #00FF00 : la valeur du vert
+123:     * TroisiÃ¨me valeur x 16 + quatriÃ¨me valeur = niveau de vert de 0 Ã
+148:     * Niveau de la couleur verte de 0 Ã  255 = 255 ;
+171:     * Niveau de la couleur verte de 0 Ã  255 = 32 ;

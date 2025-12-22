@@ -1,0 +1,1351 @@
+   #[1]alternate [2]alternate
+
+     * [3]Passer au contenu principal
+     * [4]Passer à « Au sujet du gouvernement »
+
+Sélection de la langue
+
+     * [5]English en
+
+   [6]Gouvernement du Canada / Government of Canada
+
+Recherche
+
+   Rechercher dans Canada.ca __________________________________
+   (BUTTON) Recherche
+     __________________________________________________________________
+
+Menu
+
+   (BUTTON) Menu principal
+     * [7]Emplois et milieu de travail
+     * [8]Immigration et citoyenneté
+     * [9]Voyage et tourisme
+     * [10]Entreprises et industrie
+     * [11]Prestations
+     * [12]Santé
+     * [13]Impôts
+     * [14]Environnement et ressources naturelles
+     * [15]Sécurité nationale et défense
+     * [16]Culture, histoire et sport
+     * [17]Services de police, justice et urgences
+     * [18]Transport et infrastructure
+     * [19]Canada et le monde
+     * [20]Argent et finances
+     * [21]Science et innovation
+     * [22]Gérer les événements de la vie
+
+Vous êtes ici :
+
+    1. [23]Canada.ca
+    2. [24]Secrétariat du Conseil du Trésor du Canada
+    3. [25]Écologiser le gouvernement
+
+Stratégie pour un gouvernement vert : Une directive du gouvernement du Canada
+
+Sur cette page
+
+     * [26]Aperçu
+     * [27]Objectif
+     * [28]Engagements
+          + [29]Biens immobiliers
+          + [30]Mobilité et parc de véhicules
+          + [31]Services et activités résilients au climat
+          + [32]Approvisionnement en biens et services et gestion du
+            matériel
+          + [33]Politiques et mobilisation
+          + [34]Surveillance et mesure du rendement
+     * [35]Avantages
+
+   (BUTTON) Développer tout (BUTTON) Réduire tout
+
+Aperçu
+
+   Au Canada et à l’étranger, les effets des changements climatiques sont
+   évidents. Le réchauffement au Canada est, en moyenne, le double de la
+   moyenne mondiale, et il est encore plus important dans les parties nord
+   du pays. Les répercussions telles que l’augmentation des vagues de
+   chaleur, des sécheresses, des incendies de forêt et des inondations,
+   les changements écosystémiques, l’érosion côtière, le dégel du
+   pergélisol et les risques pour les infrastructures essentielles ainsi
+   que les répercussions sur l’alimentation et l’eau se font déjà sentir
+   au Canada et à l’échelle mondiale. La science montre clairement que les
+   activités humaines entraînent des changements climatiques sans
+   précédent sur la Terre, posant des risques importants pour la santé
+   humaine, la sécurité, la biodiversité et la croissance économique.
+
+   Pour réagir aux changements climatiques, il faut prendre les mesures
+   suivantes :
+     * réduire les émissions de gaz à effet de serre (GES) dans
+       l’atmosphère;
+     * accroître la résilience des actifs, des services et des activités
+       en s’adaptant aux changements climatiques.
+
+   En prenant des mesures pour lutter contre les changements climatiques
+   dans le cadre de ses opérations, le gouvernement fédéral joue un rôle
+   important. La réduction des effets environnementaux et climatiques des
+   opérations du gouvernement fédéral soutiendra les objectifs de
+   durabilité du Canada déjà établis au titre :
+     * de la Convention-cadre des Nations Unies sur les changements
+       climatiques et l’Accord de Paris sur les changements climatiques
+       connexe;
+     * de la loi canadienne sur la responsabilité en matière de
+       carboneutralité;
+     * de la Stratégie nationale d’adaptation et le Plan d’action sur
+       l’adaptation du gouvernement du Canada (2023);
+     * du Plan de réduction des émissions pour 2030 (2022);
+     * du plan Un environnement sain et une économie saine (2020);
+     * du Cadre pancanadien sur la croissance propre et les changements
+       climatiques (2016);
+     * des engagements pris dans le cadre de la Charte sur les plastiques
+       dans les océans et de la Convention sur la diversité biologique.
+
+   La Stratégie pour un gouvernement vert (la Stratégie) est conforme au
+   Programme de développement durable à l’horizon 2030 des Nations Unies
+   et à la Stratégie fédérale de développement durable.
+
+Objectif
+
+   Le gouvernement du Canada passera à des opérations zéro émissions
+   nettes d’ici 2050 et plus résilientes au climat d’ici 2035, tout en
+   réduisant les impacts environnementaux au-delà du carbone, y compris
+   sur les déchets, l’eau et la biodiversité.
+
+   Pour atteindre la cible d’opérations zéro émissions nettes liées aux
+   biens immobiliers et aux parcs de véhicules conventionnels^[36]Voir la
+   note en bas de page 1, le gouvernement du Canada réduira les émissions
+   absolues de GES de la portée 1 et de la portée 2^[37]Voir la note en
+   bas de page 2 de 40 % d’ici 2025 et d’au moins 90 % par rapport aux
+   niveaux de 2005 d’ici 2050. Sur cette voie de réduction des émissions,
+   le gouvernement s’efforcera de réduire les émissions de 10 %
+   supplémentaires tous les 5 ans à compter de 2025.
+
+   Par « zéro émissions nettes », on entend la réduction des émissions de
+   GES provenant des opérations à un niveau aussi proche que possible de
+   zéro, puis la compensation de toutes les émissions résiduelles par
+   l’élimination d’une quantité équivalente de dioxyde de carbone^[38]Voir
+   la note en bas de page 3.
+
+   Par « accroître la résilience au climat »^[39]Voir la note en bas de
+   page 4, on entend réduire au minimum le risque de perturbation des
+   actifs, des services et des activités essentiels du gouvernement, ainsi
+   que les coûts liés aux effets des changements climatiques. Pour y
+   parvenir et gérer les risques financiers connexes, le gouvernement du
+   Canada réduira les risques climatiques importants pour les actifs, les
+   services et les activités essentiels d’ici 2035 et pour les autres
+   actifs, services et activités de grande valeur^[40]Voir la note en bas
+   de page 5 d’ici 2040.
+
+Rôles et responsabilités
+
+   Les entités énumérées ci-dessous ont des rôles et responsabilités dans
+   le cadre de la Stratégie.
+
+Le Centre pour un gouvernement vert du SCT
+
+   Le mandat du Centre pour un gouvernement vert du Secrétariat du Conseil
+   du Trésor du Canada (CGV-SCT) est d’assurer le leadership pour la
+   réalisation d’opérations zéro émissions nettes, résilientes au climat
+   et écologiques, au gouvernement du Canada. Le CGV-SCT sera responsable
+   des activités suivantes :
+     * diriger et coordonner les initiatives visant la réduction des
+       émissions fédérales, la résilience au climat et l’écologisation du
+       gouvernement;
+     * intégrer les connaissances d’autres organisations de premier plan
+       et communiquer de manière générale les pratiques exemplaires;
+     * centraliser le suivi et la divulgation de renseignements sur le
+       rendement environnemental du gouvernement;
+     * obtenir des résultats afin d’atteindre les objectifs
+       environnementaux liés à l’écologisation du gouvernement.
+
+Ministères techniques
+
+   Les ministères dont le mandat prévoit une expertise et une capacité
+   techniques soutiennent le CGV-SCT et les ministères dans la mise en
+   œuvre de la Stratégie. Il s’agit notamment :
+     * de Services publics et Approvisionnement Canada;
+     * de Ressources naturelles Canada;
+     * d’Environnement et Changement climatique Canada;
+     * du Conseil national de recherches du Canada;
+     * de Services partagés Canada.
+
+Organisations fédérales
+
+   Toutes les organisations fédérales sont chargées de mettre en œuvre la
+   Stratégie dans le cadre de leurs opérations. Les ministères ont désigné
+   des responsables pour l’élaboration de leur Stratégie ministérielle de
+   développement durable (qui comprend des engagements en matière
+   d’écologisation du gouvernement). Ils ont également désigné des cadres
+   supérieurs à qui il appartient de veiller à ce que les projets, les
+   biens immobiliers, l’approvisionnement et le matériel soient gérés
+   d’une manière qui permette d’atteindre les objectifs environnementaux.
+
+Champ d’application
+
+     * Les engagements pris dans le cadre de la présente Stratégie
+       s’appliquent à toutes les opérations du gouvernement du Canada,
+       notamment en ce qui a trait :
+          + aux biens immobiliers appartenant à l’État et loués;
+          + à la mobilité : parcs de véhicules, voyages d’affaires et
+            transport quotidien des employés
+          + à l’approvisionnement en biens et services;
+          + aux opérations du parc de véhicules de la sûreté et sécurité
+            nationales (PVSSN)^[41]Voir la note en bas de page 6;
+          + aux services et activités du gouvernement.
+     * La Stratégie pour un gouvernement vert est un ensemble
+       d’engagements approuvés par le gouvernement qui s’applique à tous
+       les ministères et organismes clés du gouvernement^[42]Voir la note
+       en bas de page 7.
+     * Les sociétés d’État sont censées aligner leurs opérations sur la
+       Stratégie ou adopter un ensemble équivalent d’engagements dans
+       chaque domaine important de leurs opérations, dont l’engagement
+       visant la cible d’opérations zéro émissions nettes d’ici 2050 et la
+       résilience au climat^[43]Voir la note en bas de page 8.
+
+Engagements
+
+   Dans la présente section
+     * [44]Biens immobiliers
+     * [45]Mobilité et parc de véhicules
+     * [46]Services et activités résilients au climat
+     * [47]Approvisionnement en biens et services et gestion du matériel
+     * [48]Politiques et mobilisation
+     * [49]Surveillance et mesure du rendement
+
+Biens immobiliers
+
+   Parallèlement à l’élaboration de leur stratégie de portefeuille de
+   biens immobiliers, les ministères examineront et, au besoin, mettront �
+   jour tous les 5 ans leur plan de portefeuille de biens immobiliers zéro
+   émissions nettes et résilients au climat afin de déterminer la voie la
+   plus rentable pour la réalisation d’opérations immobilières zéro
+   émissions nettes d’ici 2050. Ils devront, entre autres, tirer parti des
+   possibilités de rationalisation du portefeuille, partager les
+   installations, maximiser l’efficacité énergétique et adopter des
+   carburants à plus faible teneur en carbone. Il s’agit également de
+   veiller à ce que les risques climatiques pour les actifs essentiels
+   soient évalués dès que possible (et au plus tard en 2030), et que les
+   mesures visant à atténuer ces risques soient mises en œuvre au plus
+   tard en 2035. Des mesures seront prises dès que possible, et au plus
+   tard en 2040, pour évaluer les risques climatiques qui pèsent sur les
+   actifs de grande valeur restants et prendre des mesures pour y
+   remédier.
+   (BUTTON) Développer tout (BUTTON) Réduire tout
+
+   Nouvelles constructions et rénovations majeures à faible émission de
+   carbone
+
+   Pour les nouveaux bâtiments et les rénovations majeures, les ministères
+   s’assureront de privilégier la faible émission de carbone et la
+   résilience au climat. Les décisions d’investissement seront fondées sur
+   le coût total de possession :
+     * tous les nouveaux bâtiments fédéraux (y compris ceux construits �
+       des fins de location et dans le cadre de partenariats public-privé)
+       seront zéro émissions nettes^[50]Voir la note en bas de page 9,
+       sauf si une analyse du coût du cycle de vie des GES indique que la
+       construction est prête pour zéro émissions nettes^[51]Voir la note
+       en bas de page 10;
+     * toutes les rénovations majeures, notamment celles exécutées dans le
+       cadre d’importants contrats de performance énergétique, devront
+       faire l’objet d’une analyse du coût du cycle de vie de la réduction
+       des émissions des GES afin de déterminer les économies de GES
+       optimales (l’approche du coût du cycle de vie reposera sur une
+       période de 40 ans et un coût fictif du carbone^[52]Voir la note en
+       bas de page 11 de 300 $ la tonne, et sera appliquée à toutes les
+       étapes du projet);
+     * le Secrétariat du Conseil du Trésor du Canada exigera la
+       présentation d’une analyse de coût du cycle de vie, dont le prix
+       fictif du carbone, pour les propositions de financement de biens
+       immobiliers importants qui ne sont pas zéro émissions nettes;
+     * tous les nouveaux bâtiments et les rénovations majeures dotés
+       d’installations de stationnement pour les véhicules du parc fédéral
+       devront prévoir des dispositions pour leur état de préparation aux
+       véhicules électriques (VE)^[53]Voir la note en bas de page 12.
+
+   Nouvelles constructions et rénovations majeures résilientes au climat
+
+   Pour les nouveaux bâtiments et les rénovations majeures, les ministères
+   s’assureront de donner la priorité aux opérations à faibles émissions
+   de carbone et à la résilience climatique, notamment :
+     * tous les nouveaux bâtiments fédéraux, les infrastructures et les
+       rénovations majeures de bâtiments, dont celles exécutées dans le
+       cadre d’importants contrats de performance énergétique, doivent
+       faire l’objet d’une évaluation des risques liés aux changements
+       climatiques qui tient compte des conditions climatiques actuelles
+       et futures dans l’analyse et l’incorporation des mesures
+       d’adaptation visant à réduire les risques importants;
+     * à compter de 2025, les opérations des locataires de bureaux se
+       dérouleront dans des bâtiments (détenus ou loués par l’État) en
+       fonction des seuils de risque opérationnel définis de concert avec
+       les ministères clients;
+     * les ministères doivent évaluer les risques climatiques importants,
+       et y remédier, avant de conclure ou de renouveler des baux de
+       bureaux et des accords d’occupation de bâtiments appartenant �
+       l’État, et ce, pour les opérations essentielles.
+
+   Opérations à faible émission de carbone
+
+   Le gouvernement gérera ses portefeuilles de biens immobiliers afin de
+   réduire au minimum leurs émissions de GES. Les ministères mettront en
+   œuvre des opérations immobilières à faibles émissions de carbone au
+   moyen des mesures suivantes :
+     * utiliser 100 % d’électricité propre lorsqu’elle est disponible et,
+       au plus tard en 2025, produire ou acheter de l’électricité
+       renouvelable^[54]Voir la note en bas de page 13;
+     * remettre en service les grands bâtiments à forte consommation
+       d’énergie selon un cycle régulier et / ou mettre en œuvre de la
+       technologie des bâtiments intelligents;
+     * intégrer toutes les installations dans le logiciel de gestion des
+       énergies propres RETScreen d’ici 2025;
+     * mesurer la consommation d’énergie pour les immeubles appartenant au
+       gouvernement d’au moins 1 000 mètres carrés ayant une consommation
+       énergétique importante^[55]Voir la note en bas de page 14;
+     * convertir ou remplacer d’ici 2030 les systèmes de chauffage, de
+       ventilation, de climatisation et de réfrigération (CVC-R)^[56]Voir
+       la note en bas de page 15 existants utilisant des réfrigérants �
+       fort potentiel de réchauffement planétaire et appauvrissant la
+       couche d’ozone;
+     * faire un suivi du stock total de réfrigérants dans les grands
+       systèmes et des émissions de GES connexes provenant de rejets
+       importants d’ici 2025, et en faire rapport.
+
+   Achat de produits propres : matériaux de construction à faible teneur
+   en carbone
+
+   En ce qui concerne l’approvisionnement, le gouvernement appliquera sa
+   stratégie d’achat de produits propres en réduisant les effets
+   environnementaux des matériaux de construction et de la conception
+   grâce aux mesures suivantes :
+     * divulguer la quantité de carbone intrinsèque^[57]Voir la note en
+       bas de page 16 dans les matériaux de construction des grands
+       projets de construction, basée sur une évaluation de l’intensité
+       carbonique des matériaux ou sur une analyse du cycle de vie;
+     * réaliser des évaluations du cycle de vie de l’ensemble du bâtiment
+       (ou du bien) d’ici 2025 pour les grands bâtiments et projets
+       d’infrastructure;
+     * à compter de 2025, réduire de 30 % le carbone intrinsèque dans les
+       grands projets de construction, grâce au recours à des matériaux
+       recyclés et à faible teneur en carbone et à des normes de
+       conception axées sur l’efficacité des matériaux et le rendement.
+
+   Les projets permettront également de réduire au minimum l’utilisation
+   de matériaux nocifs dans la construction et la rénovation, y compris
+   l’utilisation des matériaux à faible teneur en composés organiques
+   volatils (COV) à l’intérieur des bâtiments.
+
+   Installations louées
+
+   Le gouvernement réduira l’empreinte carbone des bureaux qu’il loue et
+   évaluera les risques liés aux changements climatiques connexes afin de
+   parvenir à des opérations de location zéro émissions nettes et
+   résilientes au climat.
+     * À compter de 2030, 75 % de la superficie des bureaux nationaux
+       visée par les nouveaux baux et les renouvellements de baux à long
+       terme doit être louée dans des bâtiments zéro émissions nettes et
+       résilients au climat^[58]Voir la note en bas de page 17. À compter
+       de 2025, le gouvernement exigera et privilégiera des espaces zéro
+       émissions nettes dans le cadre de toutes ses transactions de
+       location^[59]Voir la note en bas de page 18. D’ici 2023, Services
+       publics et Approvisionnement Canada mettra au point un plan de
+       portefeuille de biens de location zéro émissions nettes et
+       résilients au climat pour atteindre cet objectif, notamment un
+       programme de collaboration avec les locateurs.
+     * Dans tous les nouveaux baux et les renouvellements de baux relatifs
+       à des bureaux nationaux d’une superficie de plus de 500 m2, les
+       locateurs doivent déclarer la consommation d’énergie et d’eau du
+       bâtiment, les émissions de GES et les déchets générés à l’aide du
+       gestionnaire de portefeuille ENERGY STAR®. À compter de 2023, cette
+       information sera rendue publique au niveau du bâtiment pour les
+       nouveaux baux dans les grands centres urbains.
+     * Les émissions de GES provenant de la majorité des locaux à bureaux
+       loués seront déclarées d’ici 2025.
+     * D’ici 2025, les nouveaux baux et les renouvellements de baux visant
+       d’importantes opérations liées au parc de véhicules fédéral devront
+       prévoir une capacité de recharge pour les VE.
+
+   Eau
+
+   Le gouvernement réduira sa consommation d’eau et sa charge sur les
+   réseaux municipaux en faisant ce qui suit :
+     * faire le suivi de sa consommation d’eau potable dans ses grandes
+       installations, et en rendre compte;
+     * utiliser les pratiques exemplaires d’utilisation de l’eau dans les
+       nouvelles constructions et les rénovations majeures^[60]Voir la
+       note en bas de page 19;
+     * concevoir tous les nouveaux bâtiments appartenant à l’État afin de
+       gérer efficacement les eaux pluviales.
+
+   Déchet
+
+   Le gouvernement gérera ses opérations de manière à réduire la quantité
+   de déchets produite et prendra des mesures pour réduire les effets
+   environnementaux des déchets de la manière suivante :
+     * le réacheminement d’au moins 90 % par poids de tous les déchets de
+       construction et de démolition des sites d’enfouissement. D’ici
+       2030, les ministères s’efforceront d’atteindre le réacheminement de
+       100 % de tous les déchets de construction et de démolition des
+       sites d’enfouissement^[61]Voir la note en bas de page 20 ;
+     * le réacheminement d’au moins 75 % par poids des déchets
+       opérationnels non dangereux des sites d’enfouissement d’ici 2030 ;
+     * le réacheminement d’au moins 75 % par poids des déchets de
+       plastique des sites d’enfouissement d’ici 2030;
+     * le suivi du réacheminement de ses déchets et la production de
+       rapports connexes;
+     * la réduction au minimum des matières et des produits chimiques
+       dangereux et nocifs pour l’environnement utilisés et éliminés dans
+       le cadre des opérations immobilières.
+
+   Biodiversité et solutions climatiques fondées sur la nature
+
+   Le gouvernement gérera ses propriétés foncières importantes, lorsque
+   les exigences opérationnelles le permettent, de manière à conserver et
+   restaurer la biodiversité, à atténuer les changements climatiques et �
+   s’y adapter des façons suivantes :
+     * séquestrer le carbone au moyen de la restauration des écosystèmes
+       et l’amélioration des pratiques de gestion qui augmentent le
+       carbone stocké dans les forêts, les prairies, les sols, les milieux
+       humides intérieurs et côtiers, et les environnements marins, tout
+       en maintenant les valeurs écologiques;
+     * renforcer la résilience face au climat grâce à des solutions
+       climatiques fondées sur la nature et à des infrastructures
+       naturelles qui, par exemple, réduisent les ondes de tempête,
+       améliorent la gestion des eaux de crue, rechargent les nappes
+       phréatiques et réduisent les îlots de chaleur, sans avoir de
+       conséquences néfastes sur les zones environnantes;
+     * veiller à ce que les conséquences des changements climatiques
+       soient prises en compte dans les activités de gestion des terres
+       destinées à protéger, restaurer ou faire progresser la
+       biodiversité;
+     * assurer le maintien et la restauration des zones sauvages ou quasi
+       sauvages qui contiennent des populations d’espèces indigènes saines
+       et résilientes face au climat, notamment :
+          + déterminer les terres ou les eaux de la Couronne qui
+            pourraient contribuer à l’engagement de conserver et de
+            protéger 25 % des terres et des océans du Canada (en vue
+            d’atteindre la cible de 30 % d’ici 2030) grâce à une
+            désignation de coûts faibles ou nuls ou d’autres mesures de
+            conservation efficaces,
+          + élaborer de nouvelles approches de gestion, le cas échéant,
+            pour les sites fédéraux afin de protéger la biodiversité et de
+            permettre de reconnaître les sites comme des aires protégées
+            ou d’autres mesures de conservation efficaces.
+
+   Le gouvernement gérera également ses pratiques opérationnelles lorsque
+   les exigences opérationnelles le permettent aux fins suivantes :
+     * réduire au minimum les répercussions des activités aériennes,
+       terrestres et marines sur les espèces, notamment en atténuant les
+       répercussions des émissions sonores des navires sur les espèces
+       marines et en prenant des mesures pour minimiser les collisions
+       d’oiseaux avec les bâtiments;
+     * adopter des pratiques d’utilisation des terres à faibles émissions
+       de gaz à effet de serre et respectueuses des écosystèmes dans des
+       zones de propriétés activement gérées pour les opérations;
+     * mettre en œuvre des activités d’entretien paysager résilient au
+       climat en utilisant dans la mesure du possible des espèces
+       indigènes et des pratiques comme le xéropaysagisme et les surfaces
+       perméables dans la mesure du possible;
+     * éliminer l’utilisation de pesticides à des fins esthétiques sur les
+       terrains fédéraux^[62]Voir la note en bas de page 21.
+
+Mobilité et parc de véhicules
+
+   Le gouvernement adoptera des solutions de mobilité à faibles émissions
+   de carbone, déploiera des infrastructures de soutien dans ses
+   installations et modernisera son parc de véhicules de la façon
+   suivante :
+   (BUTTON) Développer tout (BUTTON) Réduire tout
+
+   Mobilité
+     * Le gouvernement encourage les employés à utiliser des modes de
+       transport à faibles émissions de carbone pour réduire les émissions
+       provenant des déplacements quotidiens et fait un suivi de ces
+       émissions. La fonction publique fédérale dispose d’un effectif qui
+       travaille en mode hybride et offre des modalités de travail
+       flexibles, une mesure qui est possible grâce aux progrès des
+       technologies de l’information (TI) et qui permet à la plupart des
+       employés de travailler à domicile jusqu’à 3 jours par semaine.
+     * Le gouvernement fera la promotion des solutions de rechange aux
+       voyages aériens liés au travail produisant moins d’émissions de
+       carbone et encouragera le recours à ces solutions. Les ministères
+       verseront des contributions au Fonds pour un gouvernement vert en
+       fonction de leurs émissions liées aux voyages aériens^[63]Voir la
+       note en bas de page 22. Le Fonds pour un gouvernement vert vise �
+       encourager la mise en place de solutions de rechange à faible
+       émission de carbone aux opérations gouvernementales en fournissant
+       un financement de projet aux ministères fédéraux pour réduire les
+       émissions de GES liées à leurs opérations, y compris par l’adoption
+       de technologies propres.
+     * L’achat de crédits compensatoires de carbone est autorisé pour les
+       événements majeurs organisés, les déplacements liés aux opérations
+       non comprises dans les contributions du Fonds pour un gouvernement
+       vert et les déplacements ministériels^[64]Voir la note en bas de
+       page 23.
+     * L’achat de crédits compensatoires de carbone pour des événements,
+       des conférences et des voyages peut également servir de dépense
+       admissible pour les bénéficiaires des programmes de subvention et
+       de contribution^[65]Voir la note en bas de page 24.
+
+   Parc de véhicules conventionnel
+     * Le gouvernement donnera la priorité aux options zéro émission pour
+       tous les nouveaux achats de véhicules et d’équipements mobiles
+       lorsque des options appropriées sont disponibles et tiendra compte
+       de la faisabilité opérationnelle.
+     * À compter de 2025, 100 % des nouveaux véhicules légers
+       achetés^[66]Voir la note en bas de page 25 seront des VEZ^[67]Voir
+       la note en bas de page 26, l’objectif étant que le parc de
+       véhicules légers du gouvernement comprenne 100 % de VEZ d’ici
+       2030^[68]Voir la note en bas de page 27.
+     * D’ici 2030, au moins 40 % des nouveaux véhicules commerciaux moyens
+       et lourds achetés seront des VEZ^[69]Voir la note en bas de page
+       28.
+     * La gestion du parc de véhicules sera optimisée pour atteindre les
+       objectifs, notamment en tenant à jour un plan stratégique à long
+       terme d’écologisation du parc de véhicules, en établissant des
+       politiques et des contrôles internes pour donner la priorité
+       aux VEZ, en adaptant la taille des parcs de véhicules et des
+       véhicules, en favorisant l’adoption de pratiques d’exploitation
+       efficaces sur le plan énergétique et en appliquant la télématique
+       pour analyser les données d’utilisation des véhicules et orienter
+       la définition des besoins en matière de recharge des VE.
+
+   Parc de véhicules de la sûreté et sécurité nationales
+
+   Dans les efforts qu’il déploie pour atteindre zéro émissions nettes, le
+   gouvernement du Canada s’est engagé à réduire les émissions provenant
+   des opérations du PVSSN^[70]Voir la note en bas de page 29, tout en
+   offrant au Canada une capacité opérationnelle efficace. Pour le PVSSN,
+   le gouvernement utilisera des technologies plus respectueuses de
+   l’environnement et du carburant à faible teneur en carbone lorsqu’ils
+   seront disponibles, abordables, compatibles et faisables sur le plan
+   opérationnel. Grâce à ces mesures, le gouvernement pourra décarboniser
+   les opérations du PVSSN sans avoir d’incidence sur les niveaux ou les
+   exigences opérationnels, ou les paramètres des missions.
+
+   Le Canada est en train de moderniser et d’étendre les opérations du
+   PVSSN afin de protéger les intérêts canadiens sur son territoire et �
+   l’étranger. D’ici 2024, les ministères responsables des PVSSN
+   élaboreront des plans opérationnels de décarbonisation des parcs de
+   véhicules^[71]Voir la note en bas de page 30 qui décriront la manière
+   dont ils réduiront les émissions de leurs opérations pour contribuer �
+   l’atteinte de l’objectif global de 2050 et des objectifs intermédiaires
+   suivants :
+     * d’ici 2030, au moins 20 % du volume total des achats annuels de
+       carburant à l’échelle nationale pour les opérations aériennes et
+       maritimes du PVSSN seront des carburants à faible teneur en
+       carbone^[72]Voir la note en bas de page 31.
+     * d’ici 2030, les véhicules légers du PVSSN de la GRC comprendront
+       50 % de VEZ, puis 100 % de VEZ d’ici 2035^[73]Voir la note en bas
+       de page 32.
+     * d’ici 2040, l’intensité moyenne des émissions nettes^[74]Voir la
+       note en bas de page 33 de toutes les opérations du PVSSN sera
+       réduite d’au moins 50 % en vue d’atteindre zéro émissions nettes
+       d’ici 2050^[75]Voir la note en bas de page 34, un objectif qui sera
+       atteint grâce à des mesures telles que des carburants à faible
+       teneur en carbone, des plateformes à émissions faibles ou nulles et
+       l’élimination permanente du dioxyde de carbone.
+
+   En outre, les ministères chargés des PVSSN adopteront les pratiques
+   exemplaires pour améliorer l’efficacité et réduire les émissions et les
+   conséquences pour l’environnement dans les domaines suivants :
+     * l’approvisionnement en carburants, notamment de carburants à faible
+       teneur en carbone^[76]Voir la note en bas de page 35;
+     * l’approvisionnement pour le parc de véhicules, notamment l’achat de
+       plateformes écoénergétiques^[77]Voir la note en bas de page 36;
+     * l’efficacité opérationnelle, et la recherche et l’innovation liées
+       aux zéro émissions nettes.
+
+Services et activités résilients au climat
+
+   Le gouvernement du Canada s’est engagé à améliorer la résilience au
+   climat^[78]Voir la note en bas de page 37 de ses services et activités
+   essentiels d’ici 2035 au plus tard et, ce faisant, à réduire au minimum
+   les perturbations de ses services et activités et à gérer les risques
+   financiers liés aux effets des changements climatiques. Selon le Plan
+   d’action sur l’adaptation du gouvernement du Canada et la Stratégie
+   nationale d’adaptation, les ministères seront tenus :
+     * d’examiner et, au besoin, de mettre à jour leurs évaluations des
+       risques climatiques au moins tous les 5 ans et de prendre des
+       mesures pour réduire les risques importants cernés;
+     * de renforcer le soutien offert dans le cadre de l’amélioration de
+       la résilience au climat par le biais de lignes directrices,
+       d’outils et d’activités de formation à l’intention des employés de
+       la fonction publique.
+
+   Ces évaluations devraient :
+     * être alignées sur les activités ministérielles existantes
+       d’évaluation des risques ou de gestion de la continuité des
+       activités et (ou) être intégrées à celles-ci;
+     * tenir compte de l’ensemble des services et activités du ministère,
+       en mettant l’accent sur ceux qui sont jugés essentiels^[79]Voir la
+       note en bas de page 38;
+     * inclure un plan de mise en œuvre de mesures visant à réduire les
+       risques importants identifiés;
+     * aider la ministre des Finances à s’acquitter de son obligation en
+       matière de rapport prévue à l’article 23 de la loi canadienne sur
+       la responsabilité en matière de carboneutralité.
+
+Approvisionnement en biens et services et gestion du matériel
+
+   Le gouvernement facilitera la transition vers une économie zéro
+   émissions nettes, circulaire et résiliente face au climat au moyen de
+   l’approvisionnement écologique et d’une gestion du matériel intégrant
+   les principes d’évaluation du cycle de vie et l’adoption de
+   technologies propres et de biens et services à privilégier du point de
+   vue de l’environnement en prenant les mesures suivantes.
+   (BUTTON) Développer tout (BUTTON) Réduire tout
+
+   Écologisation des biens et services et collaboration avec les
+   fournisseurs
+     * Inclure des critères s’appliquant à la réduction des émissions de
+       GES (y compris les émissions intrinsèques), ainsi que des avantages
+       environnementaux plus larges tels que la réduction des déchets (y
+       compris les déchets plastiques), dans toutes les étapes^[80]Voir la
+       note en bas de page 39 de l’approvisionnement en biens et services
+       qui ont un impact environnemental élevé.
+     * Inclure des critères relatifs à la résilience face au climat dans
+       les achats de grande valeur et les services et activités essentiels
+       d’ici 2027^[81]Voir la note en bas de page 40.
+     * Promouvoir l’acquisition de biens et services avantageux pour
+       l’environnement, réduire les déchets (y compris les déchets
+       plastiques) et éliminer l’utilisation inutile de plastiques, en
+       particulier les plastiques à usage unique, dans les opérations, les
+       événements et les réunions du gouvernement.
+     * Favoriser l’adoption de pratiques de gestion du matériel et
+       d’approvisionnement conformes aux principes de l’économie
+       circulaire, à savoir la réutilisation, la réparation, la remise �
+       neuf, la réaffectation et le recyclage, comme la cession du
+       matériel excédentaire par l’intermédiaire de GCSurplus.
+     * Inciter les principaux fournisseurs à adopter un objectif de
+       réduction des émissions fondé sur des données scientifiques,
+       conformément à l’Accord de Paris, et à divulguer leurs émissions de
+       GES et des informations sur leur performance environnementale.
+     * Exiger des fournisseurs qu’ils fournissent des rapports
+       d’évaluation du cycle de vie des GES pour les achats de grande
+       valeur à compter de 2025.
+     * Inclure ou renforcer les critères environnementaux dans le
+       renouvellement ou la création d’instruments d’approvisionnement
+       partagés dirigés par Services publics et Approvisionnement Canada
+       et Services partagés Canada, tels que les offres à commandes et
+       arrangements en matière d’approvisionnement, pour les produits de
+       base qui ont le plus d’incidence sur l’environnement.
+     * Renforcer le soutien fourni dans le cadre des achats écologiques,
+       notamment au moyen de conseils, d’outils et d’activités de
+       formation pour les fonctionnaires.
+
+   Poursuivre l’intégration de l’écologisation dans les cadres
+   d’approvisionnement des ministères
+
+   Les ministères fédéraux tiendront compte des aspects liés aux achats
+   écologiques dans leur cadre de contrôle de gestion, conformément à la
+   Politique d’achats écologiques :
+     * mettre en œuvre les critères d’achats écologiques établis au niveau
+       central (compris dans la présente Stratégie, la Politique d’achats
+       écologiques et les instruments d’approvisionnement partagés),
+     * déterminer les catégories d’achats ministériels qui ont un impact
+       environnemental élevé, en mettant l’accent sur le carbone, établir
+       des critères connexes d’ici 2025 (s’il n’existe pas déjà de
+       critères établis au niveau central) et commencer l’application de
+       ces critères d’ici 2026.
+
+   Les ministères adoptent des technologies propres dans le cadre de
+   l’écologisation de leurs bâtiments, de leur électricité, de leur parc
+   de véhicules et de leur processus d’approvisionnement. Les ministères
+   adoptent également des technologies propres dans le cadre d’initiatives
+   telles que le Fonds pour un gouvernement vert, les volets Défis et Mise
+   à l’essai du programme Solutions innovatrices Canada et le programme
+   Innovation pour la défense, l’excellence et la sécurité.
+
+Politiques et mobilisation
+
+   Le gouvernement met sur pied des communautés de pratique de concert
+   avec les gouvernements provinciaux, territoriaux, municipaux et de pays
+   étrangers, les peuples autochtones, les sociétés d’État et les
+   principaux intervenants, et collabore avec celles-ci, afin d’atteindre
+   des objectifs environnementaux communs. Parmi les exemples, citons
+   Acheteurs pour l’action climatique, une coalition de grands acheteurs
+   écologiques du secteur public au Canada, et l’Initiative
+   d’écologisation des gouvernements lancée par le Canada et les
+   États-Unis.
+
+   Le gouvernement continue d’aligner les politiques pertinentes en
+   matière d’opérations gouvernementales afin d’intégrer davantage
+   l’écologisation et la résilience face au climat. Dans le cadre de sa
+   stratégie d’écologisation, le gouvernement se concentre sur le
+   bien-être de ses employés et des collectivités dans lesquelles il mène
+   ses activités en créant des lieux de travail durables, notamment par la
+   mobilisation et l’action des employés. La sensibilisation et la
+   mobilisation des employés sont un facteur clé de succès pour soutenir
+   les mesures de la présente Stratégie, et en assurer l’adoption. À cet
+   égard, les initiatives dirigées par les employés et le gouvernement
+   continueront d’avoir pour but l’approfondissement des connaissances des
+   employés sur les changements climatiques, les effets environnementaux
+   et les solutions en vue d’une mise en œuvre réussie. La mise en œuvre
+   sera soutenue par des possibilités d’intégrer le contenu zéro émissions
+   nettes, la résilience face au climat et dans la formation sur les biens
+   immobiliers, le parc de véhicules, l’approvisionnement et les
+   opérations.
+
+Surveillance et mesure du rendement
+
+   Le gouvernement du Canada veillera à rendre compte de son rendement
+   environnemental et s’est engagé à respecter les principes de
+   transparence et d’ouverture des données.
+
+   D’ici 2025, les ministères rendront compte de leur performance
+   environnementale annuelle au Centre pour un gouvernement vert du
+   Secrétariat du Conseil du Trésor du Canada à l’aide du logiciel de
+   gestion d’énergies propres RETScreen, s’il y a lieu, et de rapports sur
+   leur Stratégie ministérielle de développement durable. Afin d’assurer
+   la surveillance, le Centre publiera des informations détaillées sur la
+   performance environnementale des opérations gouvernementales, y compris
+   un inventaire complet des émissions de GES du gouvernement fédéral.
+
+   Les sociétés d’État sont censées publier dans leurs rapports annuels
+   des informations sur leurs engagements, notamment leur empreinte en
+   matière d’émissions de GES dans leurs principaux domaines
+   d’activité^[82]Voir la note en bas de page 41.
+
+   Il convient de noter que, selon le budget de 2021, les sociétés d’État
+   sont tenues d’adopter les normes du Groupe de travail sur la
+   divulgation de l’information financière relative aux changements
+   climatiques dans le cadre de leurs rapports d’entreprise.
+
+Avantages
+
+   Prendre des mesures pour lutter contre les changements climatiques
+   permettra de réduire les risques et de créer de nouvelles possibilités
+   économiques et de bons emplois pour les Canadiens. Il existe déjà un
+   marché mondial pour les biens et services à faibles émissions de
+   carbone. Ce marché vaut plus de 5,8 billions de dollars, et selon les
+   projections, il continuera de croître à un taux de 3 % par année. En
+   déployant et en promouvant des technologies novatrices qui permettent
+   de répondre aux changements climatiques, le gouvernement du Canada
+   contribuera à la compétitivité du secteur canadien des technologies
+   propres à l’échelle mondiale.
+
+   En tant que propriétaire et gestionnaire du plus grand portefeuille de
+   biens fixes au Canada, qui comprend plus de 30 000 bâtiments,
+   20 000 ouvrages techniques, tels que des ponts et des barrages, ainsi
+   que plus de 40 000 véhicules, le gouvernement du Canada apporte une
+   contribution essentielle à la réalisation des objectifs du Canada en
+   matière de climat.
+
+   L’écologisation en cours des biens appartenant à l’État soutiendra le
+   développement de l’industrie de la construction écologique. Les
+   investissements dans l’électricité propre contribueront à la fois à la
+   réduction des émissions de GES provenant des opérations du gouvernement
+   fédéral et au développement de l’énergie renouvelable au Canada.
+
+   Avec plus de 40 milliards de dollars d’achats annuels, le gouvernement
+   du Canada est également le plus grand acheteur public au Canada et il
+   est bien placé pour tirer parti de son pouvoir d’achat afin de stimuler
+   la demande du marché pour des biens à faible teneur en carbone
+   provenant du secteur émergent des technologies propres au Canada et
+   d’encourager les mesures visant à accroître la résilience du Canada
+   face au climat.
+
+   En augmentant la productivité de ses ressources et en découplant les
+   émissions de GES de ses opérations, le gouvernement contribuera à une
+   croissance à faible émission de carbone et respectueuse de
+   l’environnement, ainsi qu’à l’arrêt et à l’inversion de la perte de
+   biodiversité.
+
+   En prenant des mesures pour nous adapter aux effets des changements
+   climatiques, nous renforcerons également notre résilience face �
+   d’autres événements susceptibles de perturber les services et les
+   opérations du gouvernement. Un effectif résilient face au climat,
+   appuyé par la Stratégie pour un gouvernement vert, contribuera à faire
+   en sorte que les opérations gouvernementales se poursuivent malgré de
+   nombreux types de perturbations à grande échelle.
+
+   En se consacrant au développement durable, le gouvernement deviendra un
+   employeur de choix, et contribuer au mieux-être des employés permettra
+   d’augmenter la productivité en plus d’attirer et de maintenir en poste
+   les fonctionnaires. Intégrer des approches en matière de développement
+   durable dans la collectivité favorisera la réalisation efficace
+   d’objectifs communs.
+
+Notes en bas de page
+
+   Note en bas de page 1
+          Le parc conventionnel comprend les aéronefs, les navires et les
+          véhicules terrestres appartenant aux ministères et organismes
+          fédéraux et à d’autres organisations gouvernementales, ou loués
+          par ceux-ci, qui ne font pas partie du parc de véhicules de la
+          sûreté et sécurité nationales (PVSSN). Le PVSSN du Canada
+          comprend les aéronefs, les navires et les véhicules terrestres
+          tactiques du ministère de la Défense nationale, de la
+          Gendarmerie royale du Canada et de la Garde côtière canadienne.
+          Les objectifs de réduction des émissions absolues de 40 % et
+          90 % ne s’appliquent pas aux opérations du PVSSN.
+
+          [83]Retour à la référence de la note en bas de page 1
+
+   Note en bas de page 2
+          Les émissions de GES de la portée 1 sont les GES produits
+          directement à partir de sources qui sont détenues ou contrôlées
+          par le gouvernement du Canada (par exemple, combustion de
+          carburant dans les véhicules ou le chauffage des immeubles). Les
+          émissions de GES de la portée 2 sont celles générées
+          indirectement par la consommation d’énergie achetée
+          (électricité, chauffage et refroidissement). Les émissions de
+          GES de la portée 3 sont des émissions indirectes résultant des
+          opérations d’une organisation.
+
+          [84]Retour à la référence de la note en bas de page 2
+
+   Note en bas de page 3
+          L’élimination du dioxyde de carbone fait référence aux activités
+          humaines qui éliminent le dioxyde de carbone de l’atmosphère
+          (par exemple, capture atmosphérique directe, minéralisation
+          améliorée du carbone) et le stockent durablement dans des
+          réservoirs naturels ou dans des produits.
+
+          [85]Retour à la référence de la note en bas de page 3
+
+   Note en bas de page 4
+          Les actifs, les services et les activités résilients face au
+          climat sont ceux qui ont fait l’objet d’évaluations périodiques
+          des risques climatiques et pour lesquels des mesures
+          d’atténuation de ces risques ont été prises.
+
+          [86]Retour à la référence de la note en bas de page 4
+
+   Note en bas de page 5
+          Les actifs, les services et les activités de grande valeur
+          seront déterminés par les ministères et pourraient comprendre
+          ceux qui ont une grande valeur monétaire, culturelle ou
+          historique.
+
+          [87]Retour à la référence de la note en bas de page 5
+
+   Note en bas de page 6
+          Pour le PVSSN, la cible de 2050 tiendra compte de la
+          disponibilité, de l’abordabilité, de la compatibilité et de la
+          faisabilité opérationnelle. Une combinaison de mesures
+          permanentes d’élimination du dioxyde de carbone et de mesures
+          opérationnelles sera utilisée pour contribuer à atteindre zéro
+          émissions nettes.
+
+          [88]Retour à la référence de la note en bas de page 6
+
+   Note en bas de page 7
+          Tout au long du présent document, le terme « ministères » a la
+          signification qui lui est donnée à l’article 2 de la loi sur la
+          gestion des finances publiques et, à ce titre, il désigne les
+          ministères et organismes fédéraux et d’autres organisations du
+          gouvernement du Canada, à l’exception des sociétés d’État.
+
+          [89]Retour à la référence de la note en bas de page 7
+
+   Note en bas de page 8
+          Les sociétés d’État comprennent toutes les sociétés d’État mères
+          et leurs filiales en propriété exclusive.
+
+          [90]Retour à la référence de la note en bas de page 8
+
+   Note en bas de page 9
+          Un bâtiment zéro émissions nettes et résilient face au climat
+          est un bâtiment situé, conçu, bâti et exploité de manière �
+          réduire au minimum les effets des changements climatiques, très
+          économe en énergie et entièrement alimenté à partir de sources
+          d’énergie renouvelables sur place ou hors site. À compter de
+          2025, les principaux matériaux de construction de ces bâtiments
+          contiendront au moins 30 % moins de carbone intrinsèque.
+
+          [91]Retour à la référence de la note en bas de page 9
+
+   Note en bas de page 10
+          Un bâtiment prêt pour la carboneutralité est un bâtiment qui
+          pourrait être exploité en tant que bâtiment zéro émissions
+          nettes à l’avenir.
+
+          [92]Retour à la référence de la note en bas de page 10
+
+   Note en bas de page 11
+          La méthode d’établissement du prix fictif du carbone est une
+          méthode d’investissement ou d’analyse de décision qui prévoit
+          l’ajout d’une surtaxe pour le dioxyde de carbone qui serait
+          libéré à la valeur marchande des projets qui comportent des
+          émissions importantes de carbone. Le Secrétariat du Conseil du
+          Trésor du Canada donnera des instructions sur l’établissement du
+          prix du carbone futur en ce qui concerne les projets fédéraux de
+          construction et de rénovation.
+
+          [93]Retour à la référence de la note en bas de page 11
+
+   Note en bas de page 12
+          Les  installations prêtes pour les VEsont des installations qui
+          sont prêtes à répondre aux besoins de recharge d’un parc de
+          véhicules à émission zéro (VEZ) à 100 %, grâce à une combinaison
+          de stationnements prêts pour le parc de VE sur place et de
+          services de recharge hors site. Les stationnements prêts pour
+          les VE sont dotés d’une infrastructure de recharge permettant
+          l’installation de chargeurs de VE au fur et à mesure de
+          l’augmentation des besoins.
+
+          [94]Retour à la référence de la note en bas de page 12
+
+   Note en bas de page 13
+          Les achats d’électricité renouvelable hors site peuvent prendre
+          la forme de nouveaux certificats d’énergie renouvelable ou de
+          contrats d’achat d’électricité en coupures d’unités
+          d’électricité.
+
+          [95]Retour à la référence de la note en bas de page 13
+
+   Note en bas de page 14
+          Des exceptions liées à la sûreté et la sécurité nationales
+          s’appliqueront.
+
+          [96]Retour à la référence de la note en bas de page 14
+
+   Note en bas de page 15
+          En tenant compte de la disponibilité, de l’efficacité
+          énergétique et de la faisabilité technique et économique.
+
+          [97]Retour à la référence de la note en bas de page 15
+
+   Note en bas de page 16
+          Par « carbone intrinsèque », on entend la somme du dioxyde de
+          carbone émis pendant la fabrication et le transport des
+          matériaux de construction et au cours des processus de
+          construction, et des émissions en fin de vie.
+
+          [98]Retour à la référence de la note en bas de page 16
+
+   Note en bas de page 17
+          Lorsqu’il n’y pas de bâtiments zéro émissions nettes, il faut
+          prévoir pour les bâtiments loués la mise en œuvre d’une méthode
+          reconnue par l’industrie afin d’atteindre zéro émissions nettes
+          dans un délai de 15 ans ainsi qu’à une résilience renforcée face
+          au climat, le cas échéant, dans le cadre de la transaction de
+          location applicable. S’il y a lieu, les nouveaux baux ou les
+          renouvellements de baux concernant les immeubles de bureaux qui
+          ne sont pas zéro émissions nettes doivent prévoir le déplacement
+          des émissions. Le déplacement des GES doit être assuré par des
+          mécanismes de compensation basés sur la conformité, lorsqu’ils
+          sont disponibles.
+
+          [99]Retour à la référence de la note en bas de page 17
+
+   Note en bas de page 18
+          Voir la note de bas de page 17.
+
+          [100]Retour à la référence de la note en bas de page 18
+
+   Note en bas de page 19
+          En fonction des normes reconnues par l’industrie et
+          comparativement à des catégories de biens immobiliers semblables
+          au Canada.
+
+          [101]Retour à la référence de la note en bas de page 19
+
+   Note en bas de page 20
+          Défini comme le réacheminement des déchets des sites
+          d’enfouissement dans les grands centres urbains où des
+          installations à cette fin existent.
+
+          [102]Retour à la référence de la note en bas de page 20
+
+   Note en bas de page 21
+          Sauf si les exigences opérationnelles nécessitent leur
+          utilisation après une évaluation d’autres méthodes que le
+          recours aux pesticides.
+
+          [103]Retour à la référence de la note en bas de page 21
+
+   Note en bas de page 22
+          Le taux de contribution est aligné sur le système fédéral de
+          tarification de la pollution par le carbone, en fonction d’une
+          moyenne de 3 ans.
+
+          [104]Retour à la référence de la note en bas de page 22
+
+   Note en bas de page 23
+          Un crédit compensatoire de carbone (aussi appelé « crédit
+          compensatoire », « crédit carbone », « crédit compensatoire de
+          GES » ou « compensation de carbone ») est défini comme une unité
+          négociable délivrée par les gouvernements ou les registres de
+          compensation indépendants aux promoteurs de projet qui mettent
+          volontairement en œuvre des projets qui réduisent les GES
+          au-delà de ce qui se serait produit en l’absence du projet
+          (c’est-à-dire qui vont au-delà des exigences légales et des
+          pratiques habituelles), soit en réduisant les émissions de GES,
+          soit en augmentant les absorptions de GES dans l’atmosphère.
+          Chaque crédit compensatoire de carbone représente 1 tonne
+          métrique d’équivalents de dioxyde de carbone réduit ou éliminé
+          de l’atmosphère, quantifié conformément au système de
+          compensation applicable et vérifié par un tiers indépendant, qui
+          peut être vendu et utilisé pour compenser les émissions
+          produites ailleurs.
+
+          [105]Retour à la référence de la note en bas de page 23
+
+   Note en bas de page 24
+          Sous réserve des modalités du programme de paiements de
+          transfert et des activités ou des projets financés.
+
+          [106]Retour à la référence de la note en bas de page 24
+
+   Note en bas de page 25
+          Comme l’indiquent les lignes directrices du Secrétariat du
+          Conseil du Trésor du Canada, lorsqu’une ou plusieurs options
+          appropriées par groupe de véhicules sont disponibles et que la
+          faisabilité opérationnelle est prise en compte. Jusqu’à 2025, au
+          moins 75 % des nouveaux achats doivent être des VEZ ou des
+          véhicules hybrides.
+
+          [107]Retour à la référence de la note en bas de page 25
+
+   Note en bas de page 26
+          Les VEZ comprennent les véhicules électriques à batterie, les
+          véhicules hybrides rechargeables et les véhicules à pile
+          combustible hydrogène.
+
+          [108]Retour à la référence de la note en bas de page 26
+
+   Note en bas de page 27
+          Au besoin, le Secrétariat du Conseil du Trésor du Canada peut
+          accorder des prolongations pour des groupes de véhicules ou des
+          lieux lorsqu’il n’existe pas d’options de VEZ appropriées qui
+          répondent aux exigences opérationnelles. Les objectifs d’achat
+          et de composition du parc de véhicules ne s’appliquent pas au
+          parc de véhicules routiers du PVSSN.
+
+          [109]Retour à la référence de la note en bas de page 27
+
+   Note en bas de page 28
+          Comme l’indiquent les lignes directrices du Secrétariat du
+          Conseil du Trésor du Canada, lorsqu’une ou plusieurs options
+          appropriées par groupe de véhicules sont disponibles et que la
+          faisabilité opérationnelle est prise en compte. Les options de
+          carburants à faible teneur en carbone devraient être explorées
+          pour les véhicules moyens et lourds lorsque les options VEZ ne
+          sont pas disponibles ou ne conviennent pas d’un point de vue
+          opérationnel.
+
+          [110]Retour à la référence de la note en bas de page 28
+
+   Note en bas de page 29
+          Le PVSSN du Canada comprend les aéronefs, les navires et les
+          véhicules terrestres tactiques du ministère de la Défense
+          nationale, de la Gendarmerie royale du Canada et de la Garde
+          côtière canadienne.
+
+          [111]Retour à la référence de la note en bas de page 29
+
+   Note en bas de page 30
+          Comme l’indiquent les lignes directrices du Secrétariat du
+          Conseil du Trésor du Canada, qui sont mises à jour tous les
+          5 ans, en tenant compte de la disponibilité, de l’abordabilité,
+          de la compatibilité et de la faisabilité opérationnelle.
+
+          [112]Retour à la référence de la note en bas de page 30
+
+   Note en bas de page 31
+          Comme l’indiquent les lignes directrices du Secrétariat du
+          Conseil du Trésor du Canada, ce chiffre sera calculé sur une
+          base volumétrique en fonction du total des achats annuels
+          combinés de carburant pour les opérations aériennes et maritimes
+          à l’échelle effectués par le biais des mécanismes
+          d’approvisionnement du gouvernement du Canada, en tenant compte
+          de la disponibilité, de l’abordabilité, de la compatibilité et
+          de la faisabilité opérationnelle.
+
+          [113]Retour à la référence de la note en bas de page 31
+
+   Note en bas de page 32
+          Au besoin, le Secrétariat du Conseil du Trésor du Canada et la
+          GRC peuvent prolonger les délais pour les groupes de véhicules
+          ou les lieux pour lesquels il n’existe pas d’options VEZ
+          appropriées pour répondre aux exigences opérationnelles ou
+          lorsque l’électrification n’est pas réalisable.
+
+          [114]Retour à la référence de la note en bas de page 32
+
+   Note en bas de page 33
+          Les objectifs d’intensité des émissions nettes visent à réduire
+          le ratio des émissions nettes par rapport à une mesure
+          organisationnelle pertinente (par exemple, émissions nettes par
+          unité d’énergie consommée ou par kilomètre parcouru). Ils sont
+          utilisés pour fixer des objectifs d’amélioration du rendement en
+          matière d’émissions lorsqu’il existe une grande incertitude
+          quant aux exigences opérationnelles futures. Les émissions
+          nettes sont les émissions absolues de GES de la portée 1 et de
+          la portée 2 moins les réductions attribuables à l’élimination
+          permanente du carbone.
+
+          [115]Retour à la référence de la note en bas de page 33
+
+   Note en bas de page 34
+          Selon les lignes directrices du Secrétariat du Conseil du Trésor
+          du Canada, les ministères élaboreront des mesures d’efficacité
+          et d’intensité opérationnelles pour rendre compte de cet
+          objectif à partir de 2025, en tenant compte de la disponibilité,
+          de l’abordabilité, de la compatibilité et de la faisabilité
+          opérationnelle.
+
+          [116]Retour à la référence de la note en bas de page 34
+
+   Note en bas de page 35
+          En tenant compte de la disponibilité, de l’abordabilité, de la
+          compatibilité et de la faisabilité opérationnelle. Le Programme
+          d’approvisionnement de combustibles à faible teneur en carbone
+          du SCT soutient l’achat de ces carburants pour les opérations
+          aériennes et maritimes.
+
+          [117]Retour à la référence de la note en bas de page 35
+
+   Note en bas de page 36
+          En tenant compte de la disponibilité, de l’abordabilité, de la
+          compatibilité et de la faisabilité opérationnelle.
+
+          [118]Retour à la référence de la note en bas de page 36
+
+   Note en bas de page 37
+          Les actifs et les activités résilients face au climat ont fait
+          l’objet d’évaluations régulières des risques climatiques, et des
+          mesures ont été mises en œuvre pour réduire les risques cernés.
+
+          [119]Retour à la référence de la note en bas de page 37
+
+   Note en bas de page 38
+          Les services et activités essentiels sont définis dans la
+          Directive sur la gestion de la sécurité comme ceux qui sont
+          essentiels à la santé, à la sûreté, à la sécurité ou au
+          bien-être économique des Canadiens ou au bon fonctionnement du
+          gouvernement, d’après une analyse des conséquences possibles
+          d’une perturbation.
+
+          [120]Retour à la référence de la note en bas de page 38
+
+   Note en bas de page 39
+          Comme l’indique la Politique d’achats écologiques, il s’agit,
+          entre autres, de la planification des achats, de la
+          détermination et de la définition des besoins, de l’acquisition,
+          du fonctionnement et de l’entretien, et de l’aliénation des
+          biens ou des activités de clôture des services.
+
+          [121]Retour à la référence de la note en bas de page 39
+
+   Note en bas de page 40
+          Les services et activités essentiels sont ceux qui contribuent �
+          la prestation des services essentiels et à l’accomplissement des
+          activités essentielles qui sont définis dans la Directive sur la
+          gestion de la sécurité.
+
+          [122]Retour à la référence de la note en bas de page 40
+
+   Note en bas de page 41
+          Les sociétés d’État devraient collaborer avec le Secrétariat du
+          Conseil du Trésor du Canada pour établir une année de référence
+          aux fins de l’établissement des rapports et être conformes aux
+          lignes directrices du gouvernement fédéral sur les rapports au
+          titre de la Stratégie pour un gouvernement vert.
+
+          [123]Retour à la référence de la note en bas de page 41
+
+Détails de la page
+
+   2025-09-16
+
+À propos de ce site
+
+Secrétariat du Conseil du Trésor du Canada (SCT)
+
+     * [124]Contactez-nous
+     * [125]Formulaires
+
+Gouvernement du Canada
+
+     * [126]Toutes les coordonnées
+     * [127]Ministères et organismes
+     * [128]À propos du gouvernement
+
+Thèmes et sujets
+
+     * [129]Emplois
+     * [130]Immigration et citoyenneté
+     * [131]Voyage et tourisme
+     * [132]Entreprises
+     * [133]Prestations
+     * [134]Santé
+     * [135]Impôts
+     * [136]Environnement et ressources naturelles
+     * [137]Sécurité nationale et défense
+     * [138]Culture, histoire et sport
+     * [139]Services de police, justice et urgences
+     * [140]Transport et infrastructure
+     * [141]Le Canada et le monde
+     * [142]Argent et finances
+     * [143]Science et innovation
+     * [144]Autochtones
+     * [145]Vétérans et militaires
+     * [146]Jeunesse
+     * [147]Gérer les événements de la vie
+
+Organisation du gouvernement du Canada
+
+     * [148]Médias sociaux
+     * [149]Applications mobiles
+     * [150]À propos de Canada.ca
+     * [151]Avis
+     * [152]Confidentialité
+
+   Symbole du gouvernement du Canada
+
+References
+
+   1. https://www.canada.ca/fr/secretariat-conseil-tresor/services/innovation/ecologiser-gouvernement/strategie.html
+   2. https://www.canada.ca/en/treasury-board-secretariat/services/innovation/greening-government/strategy.html
+   3. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#wb-cont
+   4. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#wb-info
+   5. file:///en/treasury-board-secretariat/services/innovation/greening-government/strategy.html
+   6. file:///fr.html
+   7. https://www.canada.ca/fr/services/emplois.html
+   8. https://www.canada.ca/fr/services/immigration-citoyennete.html
+   9. https://voyage.gc.ca/
+  10. https://www.canada.ca/fr/services/entreprises.html
+  11. https://www.canada.ca/fr/services/prestations.html
+  12. https://www.canada.ca/fr/services/sante.html
+  13. https://www.canada.ca/fr/services/impots.html
+  14. https://www.canada.ca/fr/services/environnement.html
+  15. https://www.canada.ca/fr/services/defense.html
+  16. https://www.canada.ca/fr/services/culture.html
+  17. https://www.canada.ca/fr/services/police.html
+  18. https://www.canada.ca/fr/services/transport.html
+  19. https://www.international.gc.ca/world-monde/index.aspx?lang=fra
+  20. https://www.canada.ca/fr/services/finance.html
+  21. https://www.canada.ca/fr/services/science.html
+  22. https://www.canada.ca/fr/services/evenements-vie.html
+  23. file:///fr.html
+  24. file:///fr/secretariat-conseil-tresor.html
+  25. file:///fr/secretariat-conseil-tresor/services/innovation/ecologiser-gouvernement.html
+  26. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#toc1
+  27. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#toc2
+  28. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#toc3
+  29. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#toc3-1
+  30. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#toc3-2
+  31. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#toc3-3
+  32. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#toc3-4
+  33. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#toc3-5
+  34. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#toc3-6
+  35. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#toc4
+  36. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn1
+  37. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn2
+  38. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn3
+  39. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn4
+  40. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn5
+  41. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn6
+  42. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn7
+  43. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn8
+  44. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#toc3-1
+  45. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#toc3-2
+  46. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#toc3-3
+  47. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#toc3-4
+  48. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#toc3-5
+  49. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#toc3-6
+  50. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn9
+  51. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn10
+  52. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn11
+  53. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn12
+  54. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn13
+  55. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn14
+  56. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn15
+  57. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn16
+  58. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn17
+  59. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn18
+  60. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn19
+  61. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn20
+  62. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn21
+  63. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn22
+  64. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn23
+  65. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn24
+  66. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn25
+  67. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn26
+  68. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn27
+  69. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn28
+  70. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn29
+  71. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn30
+  72. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn31
+  73. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn32
+  74. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn33
+  75. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn34
+  76. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn35
+  77. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn36
+  78. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn37
+  79. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn38
+  80. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn39
+  81. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn40
+  82. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn41
+  83. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn1-rf
+  84. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn2-rf
+  85. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn3-rf
+  86. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn4-rf
+  87. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn5-rf
+  88. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn6-rf
+  89. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn7-rf
+  90. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn8-rf
+  91. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn9-rf
+  92. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn10-rf
+  93. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn11-rf
+  94. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn12-rf
+  95. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn13-rf
+  96. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn14-rf
+  97. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn15-rf
+  98. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn16-rf
+  99. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn17-rf
+ 100. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn18-rf
+ 101. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn19-rf
+ 102. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn20-rf
+ 103. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn21-rf
+ 104. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn22-rf
+ 105. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn23-rf
+ 106. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn24-rf
+ 107. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn25-rf
+ 108. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn26-rf
+ 109. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn27-rf
+ 110. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn28-rf
+ 111. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn29-rf
+ 112. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn30-rf
+ 113. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn31-rf
+ 114. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn32-rf
+ 115. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn33-rf
+ 116. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn34-rf
+ 117. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn35-rf
+ 118. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn36-rf
+ 119. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn37-rf
+ 120. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn38-rf
+ 121. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn39-rf
+ 122. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn40-rf
+ 123. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-15.html#fn41-rf
+ 124. file:///fr/secretariat-conseil-tresor/organisation/contacter.html
+ 125. file:///fr/secretariat-conseil-tresor/organisation/formulaires.html
+ 126. file:///fr/contact.html
+ 127. file:///fr/gouvernement/min.html
+ 128. file:///fr/gouvernement/systeme.html
+ 129. file:///fr/services/emplois.html
+ 130. file:///fr/services/immigration-citoyennete.html
+ 131. https://voyage.gc.ca/
+ 132. file:///fr/services/entreprises.html
+ 133. file:///fr/services/prestations.html
+ 134. file:///fr/services/sante.html
+ 135. file:///fr/services/impots.html
+ 136. file:///fr/services/environnement.html
+ 137. file:///fr/services/defense.html
+ 138. file:///fr/services/culture.html
+ 139. file:///fr/services/police.html
+ 140. file:///fr/services/transport.html
+ 141. https://www.international.gc.ca/world-monde/index.aspx?lang=fra
+ 142. file:///fr/services/finance.html
+ 143. file:///fr/services/science.html
+ 144. file:///fr/services/autochtones.html
+ 145. file:///fr/services/veterans-militaire.html
+ 146. file:///fr/services/jeunesse.html
+ 147. file:///fr/services/evenements-vie.html
+ 148. https://www.canada.ca/fr/sociaux.html
+ 149. https://www.canada.ca/fr/mobile.html
+ 150. https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html
+ 151. file:///fr/transparence/avis.html
+ 152. file:///fr/transparence/confidentialite.html

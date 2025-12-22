@@ -1,0 +1,483 @@
+   #[1]Website Search
+
+     * [2]Aller au contenu
+     * [3]Aller au menu
+     * [4]Aller à la recherche
+     * (BUTTON) Désactiver les animation
+
+   [5]Accueil du site (BUTTON) Menu
+
+     * [6]BienVU/ENTENDU
+     * [7]Contact
+
+     * Institution
+          + [8]Qui sommes-nous ?
+          + [9]Territoire de la culture et de la création
+          + [10]Compétences
+          + [11]Élus et décisions
+          + [12]Le projet de territoire
+          + [13]Le budget
+          + [14]Participation citoyenne
+          + [15]L'Europe s'engage pour le territoire
+          + [16]Documents cadres
+          + [17]Contact
+          + [18]Rejoignez-nous
+     * Projets
+          + [19]Jeux Paris 2024
+          + [20]Grands projets urbains
+          + [21]Nos quartiers changent
+          + [22]Transports et mobilité
+          + [23]Projet alimentaire territorial
+          + [24]Assemblée citoyenne de l'énergie
+          + [25]Eclairage public
+          + [26]Nature et biodiversité
+          + [27]Métabolisme urbain
+     * Services
+          + [28]Espace public
+          + [29]Gérer ses déchets
+          + [30]Création d'entreprise
+          + [31]Habitat et logement
+          + [32]Les éco-gestes et conseils
+          + [33]Les ZFE et les aides
+          + [34]Piscines
+          + [35]Se former au numérique
+          + [36]Médiathèques
+          + [37]Mobilité - infos travaux
+          + [38]Stationnement
+          + [39]Nature en ville
+          + [40]Services aux entreprises
+          + [41]Urbanisme règlementaire
+     * Vie du territoire
+          + [42]Kiosque
+          + [43]Actualités
+          + [44]Lieux touristiques
+          + [45]Lieux culturels
+          + [46]Street Art Avenue
+          + [47]Les Victoires
+          + [48]Fermes urbaines
+          + [49]Très haut débit
+          + [50]Espace presse
+          + [51]Le territoire en cartes
+
+     * [52]Facebook
+     * [53]Twitter
+     * [54]Instagram
+     * [55]Flickr
+     * [56]LinkedIn
+     * [57]Youtube
+
+   [58]Accueil du site
+
+     * [59]bienVU / bienENTENDU
+     * [60]Contact
+     *
+
+   Recherche ____________________ (BUTTON) Rechercher sur tout le site
+
+Identification de l'utilisateur
+
+   (BUTTON) ×
+
+Identification de l'utilisateur
+
+   Entrez votre nom d'utilisateur et votre mot de passe pour vous
+   identifier :
+   Nom d'utilisateur : ____________________
+   Mot de passe : ____________________
+   (Connectez-vous) Connectez-vous
+
+   [61]Mot de passe oublié ?
+
+   Créer un compte
+
+     * [62]Accueil
+     * [63]Services
+          + [64]Institution
+          + [65]123
+          + [66]Projets
+          + [67]Services
+          + [68]Vie du territoire
+          + [69]Mon compte
+          + [70]Outils
+          + [71]Charte de modération
+     * [72]Nature en ville
+          + [73]Espace public
+          + [74]Gérer ses déchets
+          + [75]Création d'entreprise
+          + [76]Habitat et logement
+          + [77]Les éco-gestes et conseils
+          + [78]Les ZFE et les aides
+          + [79]Piscines
+          + [80]Se former au numérique
+          + [81]Médiathèques
+          + [82]Mobilité - infos travaux
+          + [83]Stationnement
+          + [84]Nature en ville
+          + [85]Services aux entreprises
+          + [86]Urbanisme règlementaire
+     * [87]Espaces verts écologiques mode d'emploi
+          + [88]Parcs et jardins
+          + [89]Aires de jeux et de sports
+          + [90]Permis de végétaliser
+          + [91]Où se rafraichir
+          + [92]La production de fleurs dans les serres de Plaine Commune
+          + [93]Espaces verts écologiques mode d'emploi
+          + [94]Les arbres à Plaine Commune
+
+   Partager la page sur les réseaux sociaux
+   [95]Partager sur Facebook [96]Partager sur Twitter [97]Partager sur
+   Linkedin
+   [98]Partage la page par e-mail [99]Imprimer la page
+
+   Espaces verts écologiques mode d'emploi
+     * Entretien des pelouses et des prairies
+     * Gestion des massifs de fleurs
+     * Gestion des pieds d’arbres et des plantes spontanées
+     * Gestion des arbustes et des arbres
+     * Recyclage et valorisation des déchets verts
+
+Espaces verts écologiques mode d'emploi
+
+   Les pratiques de gestion et d’entretien des espaces verts évoluent
+   depuis quelques années, elles tendent à être plus naturelles pour
+   répondre aux besoins de la biodiversité. Découvrez-les ici sans plus
+   attendre…
+
+Entretien des pelouses et des prairies
+
+   Les pelouses sont tondues de manière raisonnée. Il s'agit d'adapter la
+   fréquence et la hauteur de tonte, en fonction de l'usage qui est fait
+   d'un espace vert et de l'aspect souhaité pour celui-ci. Ainsi,
+   certaines zones sont tondues fréquemment afin de conserver des espaces
+   de jeu et de détente. D'autres zones en revanche sont tondues moins
+   régulièrement et moins bas.
+
+   Les prairies sont fauchées une fois par an, à l’automne. Une tonte
+   moins fréquente n’est pas synonyme d’absence d’entretien : les agents
+   nettoient et passent régulièrement. Des bandes sont tondues sur les
+   bords de la pelouse ou à l’intérieur pour faire des cheminements.
+
+Pourquoi ce type d'entretien ?
+
+   Les herbes non tondues ou les prairies présentent de nombreux avantages
+   pour la préservation de la biodiversité. Ces milieux (dits ouverts, au
+   contraire des bosquets ou boisements) constituent un habitat très
+   important pour de nombreuses espèces qui y nichent, s’y reproduisent,
+   se nourrissent ou s’y réfugient. Lorsqu’on tond moins fréquemment ou
+   qu’on fauche une fois par an, cela permet le développement des fleurs
+   sauvages qui vont nourrir et abriter la faune. Voici des exemples
+   d’espèces (ou groupes d’espèces) utilisant les prairies ou pelouses
+   hautes :
+     * la prairie ou pelouse haute est très riche en biomasse du sol (vers
+       de terre, collemboles, champignons...)
+     * les fleurs variées de la prairie attirent un grand nombre
+       d’insectes pollinisateurs (abeilles, papillons, etc.)
+     * les végétaux hautement développés offrent des zones d’accueil pour
+       les orthoptères (par exemple les graminées et notamment les
+       fétuques, constituent la nourriture principale des criquets, qui
+       pondent leurs œufs à leurs bases)
+     * les papillons vont accomplir leur stade larvaire (chenille +
+       chrysalide) sur les Fabacées (comme le trèfle), les graminées
+     * les oiseaux granivores (les passereaux par exemple) se nourrissent
+       du Cirsium arvense (qu’on appelle aussi chardon)
+     * enfin, certains mammifères sont attirés dans ces espaces par la
+       présence de leurs proies (les hérissons par exemple)
+
+   Espace vert avec des arbres et des herbes folles
+
+   Prairie – Parc Edouard Vaillant à Saint-Ouen / @ Jeanne Frank
+
+Gestion des massifs de fleurs
+
+   Les massifs fleuris ou les jardinières sont progressivement transformés
+   en des massifs de plantes vivaces, qui survivent plusieurs années,
+   contrairement aux plantes annuelles.
+
+Pourquoi ?
+
+   Le fleurissement des villes devient plus écologique : les plantes
+   vivaces nécessitent moins d'entretien et sont surtout moins
+   consommatrices de ressources (eau, nouvelle terre végétale…) que les
+   plantes annuelles. Elles apportent un fleurissement diversifié et plus
+   naturel. De plus, elles constituent la principale ressource alimentaire
+   des insectes pollinisateurs.
+
+Gestion des pieds d’arbres et des plantes spontanées
+
+   Depuis plusieurs années, les désherbants chimiques sont bannis pour
+   laisser place à un enherbement naturel et progressif.
+   Les pieds d’arbres sont plantés de vivaces ou semés, ou l’enherbement
+   spontané est laissé en place mais entretenu (fauché au besoin pour y
+   ramasser les déchets). D’ailleurs, on ne parle plus de mauvaises herbes
+   mais d’herbes folles ou de plantes spontanées !
+
+Pourquoi ?
+
+   Cette pratique permet de mieux respecter la santé des jardiniers et des
+   usagers des espaces verts. Les herbes folles participent au retour de
+   la nature en ville, elles font partie de l’écosystème végétal urbain et
+   jouent un rôle essentiel, elles permettent :
+     * de maintenir l’humidité et la perméabilité du sol(et limitent les
+       besoins en arrosage)
+     * de protéger les arbres,
+     * d'attirer de très nombreux pollinisateurs (certaines herbes folles
+       sont très mellifères, c'est à dire qu'elles sécrètent du nectar ou
+       du miellat),
+     * de nourrir toute une microfaune etc.
+
+   [100]Ortie proche d'un arbre
+
+Gestion des arbustes et des arbres
+
+   Les arbres et les arbustes sont taillés ou élagués moins fréquemment,
+   et de façon plus raisonnée. Ces derniers retrouvent alors des formes
+   naturelles (et non plus des boules ou des carrés !).
+
+Pourquoi ?
+
+   Cette taille douce permet aux arbres et aux arbustes de se développer
+   naturellement, d’être en meilleure santé et de mieux résister aux
+   périodes de sècheresses estivales et aux maladies.
+   Les arbres et les arbustes jouent un rôle important pour la faune, ils
+   offrent à de nombreux oiseaux le gîte et le couvert en leur fournissant
+   des abris pour faire leurs nids et des baies pour se nourrir.
+   Afin d’éviter de perturber les oiseaux pendant la période de
+   nidification, il faut absolument éviter de tailler entre la mi-mars et
+   la fin du mois du juillet.
+
+   Pour en savoir plus, rendez-vous ici.
+
+Recyclage et valorisation des déchets verts
+
+   Pour éviter de transporter les déchets verts dans les déchèteries,
+   favoriser la présence des insectes et améliorer la qualité des sols
+   dans les espaces verts, plusieurs types d'actions existent : la tonte
+   mulching, le broyage des feuilles et des branches, la création de haie
+   sèche ou de compost.
+
+Tonte mulching
+
+   L’herbe tondue est coupée très finement, les brins d’herbe coupés sont
+   broyés et se redéposent sur le gazon. Cela enrichit le sol et le
+   protège de la sècheresse.
+
+Broyage des feuilles et des branches
+
+   Les branches des arbres et des arbustes sont broyées, tout comme les
+   feuilles des arbres après leur chute. Cela permet de créer du paillage.
+   Disposé au pied des plantations, il permet de protéger de la sècheresse
+   (en conservant l’humidité), de l’enrichir (en se décomposant) et offre
+   un abri pour certains animaux, comme les hérissons !
+
+Haies sèches
+
+   Les branches et les feuilles mortes sont aussi utilisées pour créer des
+   haies sèches : il s’agit de clôtures constituées de branchages
+   entremêlés et tassés entre deux rangées de piquets. Ces structures
+   présentent un aspect décoratif et naturel et sont une zone qui sert
+   d’abris pour les insectes et les hérissons.
+   [101]Photo montrant une personne qui fait du compostage avec des
+   feuilles, de l'herbe...
+
+   Portes ouvertes des serres de Villetaneuse / @ Christophe Fillieule
+
+Compostage
+
+   Les composteurs reçoivent les feuilles mortes, les tontes de gazon, les
+   résidus de fauche et les fleurs fanées. Sous l'effet des bactéries, des
+   champignons, de l'humidité et de l'aération, ces déchets verts se
+   dégradent lentement pour se transformer en compost en quelques mois. Ce
+   terreau écologique ainsi obtenu peut alors être étalé sur le sol pour
+   le fertiliser.
+
+Que fait Plaine Commune ?
+
+   Tout savoir sur la politique de Plaine Commune
+   [102]sur les parcs et jardins
+
+INSCRIVEZ VOUS À NOTRE NEWSLETTER
+
+Tous les mois, un concentré de territoire dans votre boîte mail, en
+articles,reportages, photos, vidéos…
+
+   [103]JE M'ABONNE
+
+   Je peux me désabonner facilement à tout moment. Pour plus de
+   renseignements, veuillez consulter notre [104]Politique de
+   Confidentialité.
+
+Nos sites
+
+     * [105]Site Éco de Plaine Commune
+     * [106]Site des médiathèques
+     * [107]Taxe de séjour
+
+   (BUTTON) (BUTTON)
+
+   [108]Haut de page
+
+Restons Connectés
+
+Plaine Commune
+
+   21, avenue Jules-Rimet
+   93218 SAINT-DENIS Cedex
+   [109]01 55 93 55 55
+   [110]Nous contacter [nous-contacter.png] Foire aux questions
+     * [111]Actualités et Communiqués de presse
+     * [112]Recevoir nos newsletters
+
+     * [113]Facebook
+     * [114]Twitter
+     * [115]Instagram
+     * [116]Flickr
+     * [117]LinkedIn
+     * [118]Youtube
+
+   Télécharger l'appli Plaine Commune
+     * [119]Google play
+     * [120]App Store
+
+   [121]Accueil du site
+     * [122]Plan de site
+     * [123]Mentions légales et données
+     * [124]Accessibilité
+     * [125]Marchés Publics
+     * [126]Flux RSS
+     * [127]Accessibilité : Partiellement conforme
+     * [128]Gérer les cookies
+
+References
+
+   Visible links:
+   1. https://plainecommune.fr/?type=7567
+   2. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-7.html#contentPage
+   3. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-7.html#menuSite
+   4. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-7.html#recherche
+   5. file:///
+   6. file:///services/allo-agglo-espace-public/
+   7. file:///index.php?id=38
+   8. file:///qui-sommes-nous/
+   9. file:///culturelaville/
+  10. file:///institution/competences/
+  11. file:///institution/elus-et-decisions/
+  12. file:///institution/le-projet-de-territoire/
+  13. file:///budget/
+  14. file:///institution/participation-citoyenne/
+  15. file:///institution/leurope-sengage-pour-le-territoire/
+  16. file:///institution/documents-cadres/
+  17. file:///institution/contact/
+  18. file:///offres-emploi/
+  19. file:///paris2024/
+  20. file:///projets/grands-projets-urbains/
+  21. file:///projets/nos-quartiers-changent/
+  22. file:///projets/transports-et-mobilite/
+  23. file:///projets/projet-alimentaire-territorial/
+  24. file:///projets/assemblee-citoyenne-de-lenergie/
+  25. file:///projets/eclairage-public/
+  26. file:///projets/nature-et-biodiversite/
+  27. file:///projets/metabolisme-urbain/
+  28. file:///bienvu-bienentendu/
+  29. file:///gerersesdechets/
+  30. file:///infos-creation-entreprise/
+  31. file:///services/habitat-et-logement/
+  32. file:///ecoenergie/
+  33. file:///zfe/
+  34. file:///services/piscines/
+  35. file:///services/se-former-au-numerique/
+  36. file:///mediatheques/
+  37. file:///services/mobilite-infos-travaux/
+  38. file:///services/stationnement/
+  39. file:///services/nature-en-ville/
+  40. file:///services/services-aux-entreprises/
+  41. file:///services/urbanisme-reglementaire/
+  42. file:///vie-du-territoire/kiosque/
+  43. file:///vie-du-territoire/actualites/
+  44. file:///vie-du-territoire/lieux-touristiques/
+  45. file:///vie-du-territoire/lieux-culturels/
+  46. file:///street-art-avenue/
+  47. file:///vie-du-territoire/les-victoires/
+  48. file:///fermes-urbaines/
+  49. file:///vie-du-territoire/tres-haut-debit/
+  50. file:///vie-du-territoire/espace-presse/
+  51. file:///vie-du-territoire/le-territoire-en-cartes/
+  52. https://www.facebook.com/plainecommune.fr
+  53. https://twitter.com/plainecommune/
+  54. https://www.instagram.com/plainecommune/
+  55. https://www.flickr.com/photos/plainecommune/
+  56. https://www.linkedin.com/company/plaine-commune/?originalSubdomain=fr
+  57. https://www.youtube.com/user/PlaineCommune
+  58. file:///
+  59. file:///bienvu-bienentendu/
+  60. file:///institution/contact/
+  61. file:///gestion-ecologique-des-espaces-verts/?tx_felogin_pi1[forgot]=1
+  62. file:///
+  63. file:///services/
+  64. file:///institution/
+  65. file:///123/
+  66. file:///projets/
+  67. file:///services/
+  68. file:///vie-du-territoire/
+  69. file:///mon-compte/
+  70. file:///outils/
+  71. file:///charte-de-moderation/
+  72. file:///services/nature-en-ville/
+  73. file:///bienvu-bienentendu/
+  74. file:///gerersesdechets/
+  75. file:///infos-creation-entreprise/
+  76. file:///services/habitat-et-logement/
+  77. file:///ecoenergie/
+  78. file:///zfe/
+  79. file:///services/piscines/
+  80. file:///services/se-former-au-numerique/
+  81. file:///mediatheques/
+  82. file:///services/mobilite-infos-travaux/
+  83. file:///services/stationnement/
+  84. file:///services/nature-en-ville/
+  85. file:///services/services-aux-entreprises/
+  86. file:///services/urbanisme-reglementaire/
+  87. file:///gestion-ecologique-des-espaces-verts/
+  88. file:///services/nature-en-ville/parcs-et-jardins/
+  89. file:///services/nature-en-ville/aires-de-jeux-et-de-sports/
+  90. file:///permisdevegetaliser/
+  91. file:///se-rafraichir/
+  92. file:///services/nature-en-ville/la-production-de-fleurs-dans-les-serres-de-plaine-commune/
+  93. file:///gestion-ecologique-des-espaces-verts/
+  94. file:///services/nature-en-ville/les-arbres-a-plaine-commune/
+  95. javascript:shareFacebook()
+  96. javascript:shareTwitter()
+  97. javascript:shareLinkedin()
+  98. javascript:emailCurrentPage()
+  99. javascript:window.print();
+ 100. file:///fileadmin/_processed_/c/5/csm_Ortie_a88016df6b.jpg
+ 101. file:///fileadmin/user_upload/Compostage-V2.jpg
+ 102. file:///institution/competences/espace-public/
+ 103. https://plainecommune.fr/newsletter/
+ 104. https://plainecommune.fr/outils/mentions-legales-et-donnees/
+ 105. http://eco.plainecommune.fr/
+ 106. http://www.mediatheques-plainecommune.fr/
+ 107. http://taxe.3douest.com/plainecommune.php
+ 108. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-7.html
+ 109. tel:0155935555
+ 110. file:///institution/contact/
+ 111. file:///vie-du-territoire/communiques-de-presse/
+ 112. file:///newsletter/
+ 113. https://www.facebook.com/plainecommune.fr
+ 114. https://twitter.com/plainecommune/
+ 115. https://www.instagram.com/plainecommune/
+ 116. https://www.flickr.com/photos/plainecommune/
+ 117. https://www.linkedin.com/company/plaine-commune/?originalSubdomain=fr
+ 118. https://www.youtube.com/user/PlaineCommune
+ 119. https://play.google.com/store/apps/details?id=com.eolas.plainecommune&feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5lb2xhcy5wbGFpbmVjb21tdW5lIl0.
+ 120. https://itunes.apple.com/fr/app/id605469040?mt=8&affId=1578782
+ 121. file:///
+ 122. file:///outils/plan-de-site/
+ 123. file:///outils/mentions-legales-et-donnees/
+ 124. file:///outils/accessibilite/
+ 125. file:///outils/marches-publics/
+ 126. file:///outils/flux-rss/
+ 127. file:///outils/declaration-daccessibilite-rgaa/
+ 128. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-7.html
+
+   Hidden links:
+ 130. file://localhost/fileadmin/_processed_/0/b/csm_haie-s%C3%A8che_b594f96fcc.jpg

@@ -1,0 +1,446 @@
+   #[1]Saint Dizier » Flux [2]JSON [3]oEmbed (JSON) [4]oEmbed (XML)
+
+   [5]Aller au contenu
+
+   [6]Saint Dizier Grand Saint-Dizier, Der et Vallées
+     * [7]Webcam
+
+     * (BUTTON) Actualités & Sorties
+          +
+               o Actualités & Sorties
+                    # [8]Sport, loisirs et musique
+                      Activités, équipements...
+                    # [9]Culture et patrimoine
+                      Musées, médiathèques, insolite...
+                    # [10]Balades et Nature
+                      Randonnées, pistes cyclables, lacs...
+                    # [11]Commerces, foires et marchés
+                      Produits et producteurs locaux
+               o
+
+[12]Concert de Noël
+                 Loisirs
+                 Le 22 Déc
+                 Concert de Noël
+          + Actualités
+
+[13]Collecte et déchèteries : ce qui change pendant les fêtes
+            Environnement
+               o Publié le 22/12/2025
+               o 2 min de lecture
+
+[14]Église Saint-Thérèse : des travaux pour sécuriser l’intérieur
+            Patrimoine
+               o Publié le 19/12/2025
+               o 1 min de lecture
+            [15]Voir toutes les actualités
+     * (BUTTON) Infos pratiques
+          + Infos pratiques
+               o
+                    # [16]Transport et stationnement
+                      Réseau de bus, pistes cyclables, bornes de
+                      recharges, stationnement…
+                    # [17]Déchets, eau, énergie et réseaux
+                      Ordures ménagères, tri sélectif, déchetteries…
+                    # [18]Vie des quartiers
+                      Permanences de proximité, élus de quartiers,
+                      signalements…
+               o
+
+Signaler un problème?
+                 [19]Signaler
+     * (BUTTON) Emploi & Entreprises
+          + Emploi & Entreprises
+               o
+                    # [20]Accompagnement et aide aux entreprises
+                      Incubateur de projets et pépinière d’entreprises
+                    # [21]Accompagnement commercial
+                      Pour votre installation et votre développement
+                    # [22]Marchés publics
+                      Services, travaux, fournitures, DSP
+               o
+                    # Vous désirez créer votre entreprise ?
+                      Une simple idée ? Un début de projet ?
+                      [23]Faites-vous accompagner
+                    # Trouver un emploi sur le territoire
+                      Plus de 3000 offres d’emploi vous attendent !
+                      [24]Offres d’emploi du territoire (ouverture dans un
+                      nouvel onglet)
+               o
+
+Trouver un emploi dans la collectivité
+                 L'Agglomération du Grand Saint-Dizier, Der & Vallées
+                 recrute !
+                 [25]Voir les offres d’emploi (ouverture dans un nouvel
+                 onglet)
+     * (BUTTON) Ma ville, mon agglo’
+          + Ma ville, mon agglo’
+               o
+                    # [26]Agglomération du Grand Saint-Dizier
+                      Budget, élus, délibérations…
+                    # [27]Contrat local de santé
+                    # [28]Vie économique
+                    # [29]Urbanisme & aménagement du territoire
+                    # [30]Petites Villes de Demain
+               o
+                    # [31]Ville de Saint-Dizier
+                      Budget, élus, délibérations…
+                    # [32]Centre Communal d'Action Sociale
+                    # [33]La Base Aérienne 113
+                    # [34]Vie sportive & associative (ouverture dans un
+                      nouvel onglet)
+                    # [35]Révéler Saint-Dizier (ouverture dans un nouvel
+                      onglet)
+               o
+
+Un peu d'histoire…
+                 [36]Découvrir
+               o
+
+Notre politique environnementale
+                 [37]Découvrir
+
+     * (BUTTON) Recherche
+       Que pouvons-nous faire pour vous ? ____________________ (BUTTON)
+       Rechercher
+     * [38]Webcam
+     * [39]News
+     * (BUTTON) Mes services
+          + Mes services
+               o
+                    # [40]Etat civil, identité et élections
+                      Cartes d’identité, Passeports, Mariage, Pacs, actes
+                      d’État civil
+                    # [41]Famille et éducation
+                      Crèches et garderies, établissements scolaires,
+                      cantines, animaux…
+                    # [42]Logement
+                      Logement social, hébergement temporaire, résidences
+                      autonomie
+                    # [43]Travaux et urbanisme
+                      Permis de construire, aide à la rénovation,
+                      construire sa maison
+               o
+                    # [44]Aide sociale et solidarité
+                      Aide aux personnes vulnérables, portage de repas,
+                      bénévolat
+                    # [45]Santé et prévention
+                      Cabinets de téléconsultation, centres hospitaliers,
+                      défibrillateurs…
+                    # [46]Protection et justice
+                      Signalement, tranquillité absence, objets trouvés,
+                      aide juridique…
+                    # [47]Espace public et commerces
+                      Déménagement, foodtruck, aménagement d’une terrasse…
+               o
+
+Une envie, une idée, un projet de création d'entreprise ?
+                 [48]Faites-vous accompagner !
+          + Accès rapides
+               o [49]Demande d’acte d’état civil
+               o [50]Places en crèches et garderies
+               o [51]Cantine et périscolaire
+               o [52]Dossiers d'urbanisme ou DIA
+               o [53]RDV avec le service social
+               o [54]Occupation du domaine public
+     * (BUTTON) Menu
+
+    1. [55]Accueil
+
+     [56]Actualités et sorties
+
+     [57]Actualités
+
+     Ouverture d’une Maison France Services au Vert-Bois
+
+Ouverture d’une Maison France Services au Vert-Bois
+
+     * Vie quotidienne
+     * Date de publication : 08/12/25
+     * Date de mise à jour : 09/12/25
+
+   En réunissant plusieurs services publics et en élargissant les horaires
+   de l’ancien bureau de Poste, ce nouveau lieu mêlant maison France
+   services et agence postale communale offrira aux habitants une offre de
+   service élargie.
+
+Maison France services et agence postale communale : des services publics de
+proximité au cœur du Vert-Bois
+
+   L’ouverture ce lundi 8 décembre 2025 d’une maison France services
+   associée à une agence postale communale au sein de l’ancien bureau de
+   Poste renforce la présence du service public au cœur du quartier
+   prioritaire du Vert-Bois et plus largement dans la commune.
+
+Une maison France services au plus près des habitants
+
+   Lancé en 2019, France services vise à garantir un accès équitable aux
+   services publics pour tous les citoyens, quel que soit leur lieu de
+   résidence. Au sein des maisons France services, 12 organismes
+   partenaires sont rassemblés : CAF, Assurance Maladie, Assurance
+   Retraite, Chèque énergie, Finances publiques, France Rénov’, France
+   Titres (ANTS), France Travail, La Poste, Urssaf, MSA et Point Justice.
+
+   En mai 2025, la Ville de Saint-Dizier a sollicité la préfecture de la
+   Haute-Marne afin de proposer la création d’une maison France services
+   au sein du quartier du Vert Bois dans les locaux du bureau de Poste.
+   Cette demande fait suite à l’expression régulière des habitants du
+   quartier d’un besoin d’un accompagnement dans leurs démarches
+   administratives : emploi, santé, famille, retraite ou encore logement.
+
+   L’ouverture de cette maison France services représente une réponse
+   concrète et adaptée à leurs attentes. Elle permet de renforcer
+   l’égalité d’accès aux services, de lutter contre l’isolement
+   administratif et la fracture numérique et de favoriser la cohésion
+   sociale. Cette maison France services est ouverte à l’ensemble des
+   habitants de Saint-Dizier.
+
+Un nouveau fonctionnement pour le bureau de Poste
+
+   Suite à l’annonce de l’installation d’une maison France services dans
+   les locaux du bureau de Poste du Vert-Bois, un projet de transformation
+   en agence postale communale a été proposé par La Poste. Cette agence
+   est animée et gérée par les agents France services.
+
+   Cette évolution s’inscrit pleinement dans une volonté de maintenir un
+   service postal de qualité et de renforcer la présence des services
+   publics de proximité pour les habitants du quartier.
+
+   Cette nouvelle agence postale communale permet de maintenir l’offre de
+   La Poste à Saint-Dizier en centre-ville et au Vert-Bois.
+
+   Les services proposés par l’agence postale communale sont les suivants
+   :
+     * vente de produits et services postaux : affranchissements, timbres,
+       enveloppes, emballages, réexpédition de courrier ou encore
+       procuration ;
+     * réalisation de services postaux : dépôts et retraits d’objets ;
+     * réalisation de services financiers et prestations associées, comme
+       le retrait et le versement d’espèces ;
+     * vente de produits et services complémentaires, comme les services «
+       Veiller sur mes parents » et « tablette Ardoiz » pour une clientèle
+       senior, ainsi que la téléphonie mobile.
+
+   Ce nouvel espace composé de la maison France services et de l’agence
+   postale communale sera ouvert les lundis, mardis, jeudis et vendredis
+   de 8h30 à 13h, et les mercredis de 8h30 à 13h et de 14h à 17h.
+
+Partager l'article :
+
+     * [58]Partager sur Linkedin
+     * [59]Partager sur Facebook
+     * [60]Partager sur X
+     * [61]Partager sur Whatsapp
+     * [62]Envoyer par email
+     * (BUTTON) Copier le lien
+
+En lien avec le sujet
+
+     *
+
+[63]Enquête INSEE sur l’emploi, le chômage et l’inactivité
+       EmploiVie quotidienne
+          + Publié le 24/11/2025
+          + 2 min de lecture
+     *
+
+[64]Le futur parc de l’Ornel : un poumon vert à Saint-Dizier
+       Vie quotidienne
+          + Publié le 27/10/2025
+          + 4 min de lecture
+     *
+
+[65]Place Émile Mauguet : un centre-ville vert et convivial
+       Vie quotidienne
+          + Publié le 20/10/2025
+          + 2 min de lecture
+     *
+
+[66]Enquête Insee 2025-2026 : des ménages de Saint-Dizier sollicités
+       Vie quotidienne
+          + Publié le 07/10/2025
+          + 1 min de lecture
+
+   [67]Voir tout
+   (BUTTON) Masquer les infos pratiques
+
+Info pratiques
+
+Localisation
+
+   La Poste / Espace France Services
+
+   Boulevard Salvador Allende 52100 Saint-Dizier
+
+   [68]Itinéraire
+
+Horaires
+
+   Lundi : de 8h30 à 13h
+   Mardi : 8h30 à 13h
+   Mercredi : de 8h30 à 13h et de 14h à 17h
+   Jeudi : de 8h30 à 13h
+   Vendredi : de 8h30 à 13h
+
+Coordonnées
+
+   Téléphone : [69]03 25 07 26 43
+   Courriel : [70]saint-dizier@france-services.gouv.fr
+
+Derniers articles
+
+     *
+
+[71]Collecte et déchèteries : ce qui change pendant les fêtes
+       Environnement
+          + 22/12/2025
+          + 2 min de lecture
+     *
+
+[72]Église Saint-Thérèse : des travaux pour sécuriser l’intérieur
+       Patrimoine
+          + 19/12/2025
+          + 1 min de lecture
+     *
+
+[73]Carrefour Kennedy / Pisani : fonctionnement en feux clignotants
+       Proximité
+          + 18/12/2025
+          + 2 min de lecture
+
+Ne ratez rien de l’actualité de Saint-Dizier
+
+   Recevez chaque semaine l'actualité & les sorties de l'agglomération !
+   [74]Je m'abonne
+
+Informations de contact
+
+     *
+
+Mairie de Saint-Dizier
+          + Hôtel de Ville
+            Place Aristide Briand
+            52115 Saint-Dizier cedex
+          + Tel : [75]03 25 07 31 31
+          + Lundi - Vendredi
+            8h30 - 12h00 / 13h30 - 17h30
+          + Samedi
+            9h00 - 12h00
+            (état civil uniquement)
+       [76]Nous contacter
+     *
+
+agglomération du grand Saint-Dizier, Der & Vallées
+          + Cité administrative
+            12 rue de la Commune de Paris
+            52100 Saint-Dizier
+          + Tel : [77]03 25 07 31 31
+          + Lundi - Vendredi
+            8h30 - 12h00 / 13h30 - 17h30
+    Suivez-nous
+          + [78]Facebook (ouverture dans un nouvel onglet)
+          + [79]X (Twitter) (ouverture dans un nouvel onglet)
+          + [80]Instagram (ouverture dans un nouvel onglet)
+          + [81]YouTube (ouverture dans un nouvel onglet)
+          + [82]Linkedin (ouverture dans un nouvel onglet)
+          + [83]Threads (ouverture dans un nouvel onglet)
+          + [84]TikTok (ouverture dans un nouvel onglet)
+
+   © 2025 Saint-Dizier
+     * [85]Espace pro
+     * [86]Mentions légales
+     * [87]Politique de confidentialité
+     * [88]Accessibilité
+     * [89]Météo
+
+References
+
+   1. https://www.saint-dizier.fr/feed/
+   2. https://www.saint-dizier.fr/wp-json/wp/v2/news/13032
+   3. https://www.saint-dizier.fr/wp-json/oembed/1.0/embed?url=https://www.saint-dizier.fr/actualites/ouverture-dune-maison-france-services-au-vert-bois/
+   4. https://www.saint-dizier.fr/wp-json/oembed/1.0/embed?url=https://www.saint-dizier.fr/actualites/ouverture-dune-maison-france-services-au-vert-bois/&format=xml
+   5. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-44.html#main
+   6. https://www.saint-dizier.fr/
+   7. https://www.saint-dizier.fr/webcam-saint-dizier/
+   8. https://www.saint-dizier.fr/actualites-et-sorties/sport-loisirs-et-musique/
+   9. https://www.saint-dizier.fr/actualites-et-sorties/culture-et-patrimoine/
+  10. https://www.saint-dizier.fr/actualites-et-sorties/balades-et-nature/
+  11. https://www.saint-dizier.fr/actualites-et-sorties/commerces-foires-et-marches/
+  12. https://www.saint-dizier.fr/agenda/concert-de-noel-3794727/
+  13. https://www.saint-dizier.fr/actualites/collecte-et-decheteries-ce-qui-change-pendant-les-fetes/
+  14. https://www.saint-dizier.fr/actualites/eglise-saint-therese-des-travaux-pour-securiser-linterieur/
+  15. https://www.saint-dizier.fr/actualites-et-sorties/actualites/
+  16. https://www.saint-dizier.fr/infos-pratiques/transports-et-stationnement/
+  17. https://www.saint-dizier.fr/infos-pratiques/dechets-eau-energie-et-reseaux/
+  18. https://www.saint-dizier.fr/infos-pratiques/vie-des-quartiers-signalements-proximite/
+  19. https://www.saint-dizier.fr/infos-pratiques/vie-des-quartiers-signalements-proximite/application-de-signalement/
+  20. https://www.saint-dizier.fr/emploi-entreprises/accompagnement-aides-aux-entreprises/
+  21. https://www.saint-dizier.fr/emploi-entreprises/accompagnement-commercial/
+  22. https://www.saint-dizier.fr/emploi-entreprises/marches-publics/
+  23. https://www.saint-dizier.fr/emploi-entreprises/accompagnement-aides-aux-entreprises/espace-createurs-dentreprises/
+  24. https://espace-emploi.saint-dizier.fr/
+  25. https://grandsaintdizier.nos-recrutements.fr/
+  26. https://www.saint-dizier.fr/ville-agglomeration/agglomeration-grand-saint-dizier-der-vallees/
+  27. https://www.saint-dizier.fr/ville-agglomeration/urbanisme-amenagement-du-territoire/contrat-local-de-sante/
+  28. https://www.saint-dizier.fr/ville-agglomeration/vie-economique/
+  29. https://www.saint-dizier.fr/ville-agglomeration/urbanisme-amenagement-du-territoire/
+  30. https://www.saint-dizier.fr/ville-agglomeration/urbanisme-amenagement-du-territoire/petites-villes-de-demain/
+  31. https://www.saint-dizier.fr/ville-agglomeration/ville-de-saint-dizier/
+  32. https://www.saint-dizier.fr/ville-agglomeration/le-ccas-de-saint-dizier/
+  33. https://www.saint-dizier.fr/ville-agglomeration/la-base-aerienne-113/
+  34. https://jemengage.saint-dizier.fr/
+  35. https://reveler.saint-dizier.fr/
+  36. https://www.saint-dizier.fr/ville-agglomeration/histoire/
+  37. https://www.saint-dizier.fr/ville-agglomeration/politique-environnementale/
+  38. https://www.saint-dizier.fr/webcam-saint-dizier/
+  39. https://www.saint-dizier.fr/actualites-et-sorties/actualites/
+  40. https://www.saint-dizier.fr/mes-services/etat-civil-identite-et-elections/
+  41. https://www.saint-dizier.fr/mes-services/famille-et-education/
+  42. https://www.saint-dizier.fr/mes-services/logement/
+  43. https://www.saint-dizier.fr/mes-services/travaux-et-urbanisme/
+  44. https://www.saint-dizier.fr/mes-services/aide-sociale-et-solidarite/
+  45. https://www.saint-dizier.fr/mes-services/sante-et-prevention/
+  46. https://www.saint-dizier.fr/mes-services/protection-et-justice/
+  47. https://www.saint-dizier.fr/mes-services/espace-public-et-commerces/
+  48. https://www.saint-dizier.fr/emploi-entreprises/accompagnement-aides-aux-entreprises/espace-createurs-dentreprises/
+  49. https://www.saint-dizier.fr/mes-services/etat-civil-identite-et-elections/etat-civil/demande-acte-etat-civil/
+  50. https://www.saint-dizier.fr/mes-services/famille-et-education/petite-enfance/
+  51. https://www.saint-dizier.fr/mes-services/famille-et-education/restauration-scolaire/
+  52. https://www.saint-dizier.fr/mes-services/travaux-et-urbanisme/permis-de-construire-et-renovation/
+  53. https://www.saint-dizier.fr/mes-services/aide-sociale-et-solidarite/
+  54. https://www.saint-dizier.fr/mes-services/espace-public-et-commerces/occupation-du-domaine-public/
+  55. https://www.saint-dizier.fr/
+  56. https://www.saint-dizier.fr/actualites-et-sorties/
+  57. https://www.saint-dizier.fr/actualites-et-sorties/actualites/
+  58. https://www.linkedin.com/shareArticle?mini=true&url=https://www.saint-dizier.fr/actualites/ouverture-dune-maison-france-services-au-vert-bois/&title=Ouverture+d’une+Maison+France+Services+au+Vert-Bois
+  59. https://www.facebook.com/sharer/sharer.php?u=https://www.saint-dizier.fr/actualites/ouverture-dune-maison-france-services-au-vert-bois/+&t=Ouverture+d’une+Maison+France+Services+au+Vert-Bois
+  60. https://x.com/intent/tweet?url=https://www.saint-dizier.fr/actualites/ouverture-dune-maison-france-services-au-vert-bois/&text=Ouverture+d’une+Maison+France+Services+au+Vert-Bois
+  61. https://api.whatsapp.com/send?phone=whatsappphonenumber&text=Ouverture+d’une+Maison+France+Services+au+Vert-Bois+https://www.saint-dizier.fr/actualites/ouverture-dune-maison-france-services-au-vert-bois/
+  62. mailto:?subject=Ouverture+d’une+Maison+France+Services+au+Vert-Bois&body=https://www.saint-dizier.fr/actualites/ouverture-dune-maison-france-services-au-vert-bois/
+  63. https://www.saint-dizier.fr/actualites/enquete-insee-sur-lemploi-le-chomage-et-linactivite-2/
+  64. https://www.saint-dizier.fr/actualites/le-futur-parc-de-lornel-un-poumon-vert-a-saint-dizier/
+  65. https://www.saint-dizier.fr/actualites/place-emile-mauguet-un-centre-ville-vert-et-convivial/
+  66. https://www.saint-dizier.fr/actualites/enquete-insee-2025-2026-des-menages-de-saint-dizier-sollicites/
+  67. https://www.saint-dizier.fr/actualites-et-sorties/actualites/?theme=vie-quotidienne
+  68. https://www.google.com/maps/search/?api=1&query=La+Poste+/+Espace+France+Services+Boulevard+Salvador+Allende+52100+Saint-Dizier
+  69. tel:0325072643
+  70. mailto:saint-dizier@france-services.gouv.fr
+  71. https://www.saint-dizier.fr/actualites/collecte-et-decheteries-ce-qui-change-pendant-les-fetes/
+  72. https://www.saint-dizier.fr/actualites/eglise-saint-therese-des-travaux-pour-securiser-linterieur/
+  73. https://www.saint-dizier.fr/actualites/carrefour-kennedy-pisani-fonctionnement-en-feux-clignotants/
+  74. https://www.saint-dizier.fr/newsletter/
+  75. tel:0325073131
+  76. https://www.saint-dizier.fr/nous-contacter/
+  77. tel:0325073131
+  78. https://www.facebook.com/SaintDizierFR
+  79. https://x.com/SaintDizierFR
+  80. https://www.instagram.com/saintdizierfr
+  81. https://www.youtube.com/@SaintDizierFR
+  82. https://www.linkedin.com/company/saintdizierfr
+  83. https://www.threads.net/@saintdizierfr
+  84. https://www.tiktok.com/@saintdizierfr
+  85. https://www.saint-dizier.fr/espace-pro/
+  86. https://www.saint-dizier.fr/mentions-legales/
+  87. https://www.saint-dizier.fr/politique-de-confidentialite/
+  88. https://www.saint-dizier.fr/accessibilite/
+  89. https://www.saint-dizier.fr/meteo/

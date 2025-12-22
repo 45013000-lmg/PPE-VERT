@@ -1,0 +1,317 @@
+   #1e1e1e
+
+Comprendre les codes de couleurs hexadÃ©cimaux
+
+   Les codes de couleurs hexadÃ©cimaux, plus communÃ©ment appelÃ©s codes
+   Hex, se composent du symbole # suivi de trois paires de chiffres
+   reprÃ©sentant chacune la quantitÃ© de couleurs primaires RVB (rouge,
+   vert, bleu) prÃ©sentes dans la nuance choisie. Si les codes Hex sont
+   prÃ©sents dans le quotidien de tous, puisque ce sont les lignes de code
+   qui dÃ©finissent les couleurs sur les appareils Ã©lectroniques, les
+   graphistes en ont particuliÃ¨rement lâusage. Pourtant, la plupart des
+   usagers des codes Hex ne savent pas comment ces derniers fonctionnent.
+   Voici les informations essentielles Ã  connaÃ®tre sur les codes de
+   couleurs hexadÃ©cimaux.
+
+   Sommaire :
+     * [1]Quâest-ce quâun code hexadÃ©cimal ?
+     * [2]Les codes de couleurs hexadÃ©cimaux en codage
+     * [3]Les codes de couleurs hexadÃ©cimaux en graphisme
+     * [4]Associer des couleurs
+
+Quâest-ce que quâun code hexadÃ©cimal ?
+
+   Si vous regardez en profondeur vos applications de traitement des
+   couleurs, vous verrez que plusieurs Ã©lÃ©ments de codage apparaissent
+   lorsque vous en sÃ©lectionnez une. Ils indiquent la prÃ©sence des
+   diffÃ©rentes couleurs dans une nuance choisie. En print, on
+   privilÃ©giera le code CMJN qui correspond Ã  la prÃ©sence respective de
+   cyan, de magenta, de jaune et de noir dans une couleur donnÃ©e. Câest
+   parce que les quatre couleurs utilisÃ©es en imprimerie sont ces
+   derniÃ¨res. En version digitale, les couleurs primaires sont le rouge,
+   le vert et le bleu (RVB).
+
+   La quantitÃ© de chacune de ces trois couleurs est comprise entre 0 et
+   255. Le premier Ã©lÃ©ment Ã©value la quantitÃ© de couleur rouge dâune
+   nuance, le deuxiÃ¨me sa quantitÃ© de couleur verte, et le troisiÃ¨me sa
+   quantitÃ© de couleur bleue.
+
+   Les couleurs primaires en CMJN et en RVB
+     * Le codage RVB dâun rouge pur reviendra par exemple Ã  R255, V0, B0
+       : le rouge est Ã  son maximum, et le vert et le bleu Ã  leur
+       minimum.
+     * Le codage RVB dâun vert pur reviendra par exemple Ã  R0, V255, B0 :
+       le vert est Ã  son maximum, et le rouge et le bleu sont Ã  leur
+       minimum.
+     * Le codage RVB dâun bleu pur reviendra par exemple Ã  R0, V0, B255 :
+       le bleu est Ã  son maximum, et le rouge et le vert sont Ã  leur
+       minimum.
+
+   Rouge, vert et bleu
+
+   En codage hexadÃ©cimal, comme en codage RVB, trois Ã©lÃ©ments viennent
+   Ã©valuer la quantitÃ© de couleur prÃ©sente dans une nuance donnÃ©e. Le
+   premier statue la quantitÃ© de rouge, le deuxiÃ¨me de vert, le dernier
+   de bleu. La diffÃ©rence avec les codes RVB, câest quâils ne contiennent
+   que deux chiffres par Ã©lÃ©ment (#RRVVBB). Pour parvenir Ã  transformer
+   un code RVB Ã  neuf chiffres en un code hexadÃ©cimal Ã  six chiffres,
+   il faut utiliser un tableau de conversion : le codage hexadÃ©cimal
+   comporte 16 valeurs numÃ©riques allant de 0 Ã  F, le 0 Ã©tant compris
+   dans ces valeurs.
+     * Les chiffres de 0 Ã  9 sont reprÃ©sentÃ©s tels quels.
+     * Le 10 devient la lettre A.
+     * Le 11 devient la lettre B.
+     * Le 12 devient la lettre C.
+     * Le 13 devient la lettre D.
+     * Le 14 devient la lettre E.
+     * Le 15 devient la lettre F.
+
+   Ce tableau suffit pour les couleurs les plus simples. Si lâon reprend
+   les couleurs primaires utilisÃ©es plus tÃ´t, oÃ¹ les Ã©lÃ©ments de
+   codage correspondent Ã  la quantitÃ© de couleur primaire prÃ©sente dans
+   chaque nuance (#RRVVBB), le rÃ©sultat serait le suivant :
+     * Le code hexadÃ©cimal dâun rouge pur est #FF0000 : la valeur du
+       rouge est Ã  255, qui est son maximum, les valeurs du vert et du
+       bleu sont Ã  0, leur minimum.
+     * Le code hexadÃ©cimal dâun vert pur est #00FF00 : la valeur du vert
+       est Ã  255, qui est son maximum, les valeurs du rouge et du bleu
+       sont Ã  0, leur minimum.
+     * Le code hexadÃ©cimal dâun bleu pur est #0000FF : la valeur du bleu
+       est Ã  255, qui est son maximum, les valeurs du rouge et du bleu
+       sont Ã  0, leur minimum.
+
+   Enfin, le [5]blanc, composÃ© de toutes les couleurs primaires en
+   synthÃ¨se additive, serait Ã  #FFFFFF tandis que le noir, lâabsence de
+   couleurs en synthÃ¨se additive, serait Ã  #000000.
+
+   Noir et blanc : couleurs hexadÃ©cimales #000000 et #FFFFFF
+
+   Mais connaÃ®tre ces Ã©lÃ©ments ne suffit pas lorsque lâon aborde des
+   nuances plus complexes. Pour mieux comprendre comment fonctionne la
+   conversion des codes couleurs RVB aux codes couleurs hexadÃ©cimaux, il
+   faut revenir au chiffre 16 mentionnÃ© plus tÃ´t : il sâagit des 16
+   valeurs numÃ©riques qui composent un code hexadÃ©cimal (de 0 Ã  F, donc
+   de 0 Ã  15, le 0 Ã©tant compris).
+
+   Chaque paire dâun code hexadÃ©cimal est en effet composÃ©e de deux
+   numÃ©ros (#RR #VV #BB). Le premier numÃ©ro de chacune de ces paires
+   correspond au nombre de paliers de 16 :
+     * 0x16 = 0 ; 1x16 = 16 ; 2x16 = 32, etcâ¦ JusquâÃ  la valeur 9 : 9x16
+       = 144.
+     * A = 15x16 = 160 ; B = 11x16 = 176, etcâ¦ JusquâÃ  la valeur F :
+       15x16 = 240.
+
+   Si vous regardez attentivement ces chiffres, vous verrez ainsi que la
+   valeur maximale que lâon peut atteindre Ã  partir du premier Ã©lÃ©ment
+   de codage sâÃ©lÃ¨ve Ã  240. Pourtant, comme on lâa vu, la valeur
+   maximale dâune couleur RVB est de 255. Câest lÃ  que le deuxiÃ¨me
+   chiffre intervient : il sâagit simplement de la valeur Ã  ajouter au
+   premier. Reprenons les codes Hex de nos couleurs primaires :
+     * Le codage hexadÃ©cimal dâun rouge pur est #FF0000. Le premier F
+       correspond Ã  la valeur 15, multipliÃ©e par 16 : 240. Le deuxiÃ¨me
+       F correspond Ã  la valeur 15 seule. Pour connaÃ®tre la quantitÃ© de
+       rouge de notre nuance, il suffit dâadditionner ces deux valeurs :
+       15 x 16 + 15 = 240 + 15 = 255. Les paires suivantes ne contiennent
+       que des zÃ©ros, la valeur RVB de notre rouge pur sera donc R255,
+       V0, B0.
+     * Et ainsi de suiteâ¦
+
+   LâÃ©quation pour convertir un code hexadÃ©cimal en RVB sera donc la
+   suivante :
+     * PremiÃ¨re valeur x 16 + deuxiÃ¨me valeur = niveau de rouge de 0 Ã
+       255
+     * TroisiÃ¨me valeur x 16 + quatriÃ¨me valeur = niveau de vert de 0 Ã
+       255
+     * CinquiÃ¨me valeur x 16 + sixiÃ¨me valeur = niveau de bleu de 0 Ã
+       255
+
+Des exemples pour sâentraÃ®ner
+
+   Le plus simple pour comprendre le code hexadÃ©cimal reste de
+   sâentraÃ®ner avec des valeurs connues. PlutÃ´t que de tÃ¢cher de
+   convertir les codes RVB en codes Hex, vous pouvez utiliser la mÃ©thode
+   inversÃ©e pour comprendre comment cela fonctionne. Prenons un blanc,
+   dont nous savons que le code hexadÃ©cimal est #FFFFFF.
+
+   Un carrÃ© blanc. Code hexadÃ©cimal #FFFFFF
+
+   En simplifiant le code hexadÃ©cimal en nombres, le rÃ©sultat de chaque
+   paire sera : 15, 15 ; 15, 15 ; 15, 15. Multipliez le premier nombre de
+   chaque paire, et ajoutez-y le deuxiÃ¨me nombre. LâÃ©quation sera la
+   suivante :
+     * 15 x 16 + 15 = 240 + 15 = 255 ;
+     * 15 x 16 + 15 = 240 + 15 = 255 ;
+     * 15 x 16 + 15 = 240 + 15 = 255.
+
+   Le rÃ©sultat de chaque paire sera donc le suivant :
+     * Niveau de la couleur rouge de 0 Ã  255 = 255 ;
+     * Niveau de la couleur verte de 0 Ã  255 = 255 ;
+     * Niveau de la couleur bleue de 0 Ã  255 = 255.
+
+   Vous savez dÃ©sormais comment parvenir aux valeurs RVB de chaque
+   couleur depuis un code hexadÃ©cimal. Vous pouvez vous entraÃ®ner sur un
+   exemple plus difficile.
+
+   Une nuance de violet. Code couleur hexadÃ©cimal #3B2077
+
+   Prenez cette nuance de violet. Son code hexadÃ©cimal est le suivant :
+   #3B2077.
+
+   En simplifiant le code en nombres, le rÃ©sultat de chaque paire sera :
+   3, 11 ; 2, 0 ; 7, 7.
+
+   Multipliez le premier nombre de chaque paire, et ajoutez-y le deuxiÃ¨me
+   nombre. LâÃ©quation sera la suivante :
+     * 3 x 16 + 11 = 48 + 11 = 59 ;
+     * 2 x 16 + 0 = 32 + 0 = 32 ;
+     * 7 x 16 + 7 = 112 + 7 = 119.
+
+   Le rÃ©sultat de chaque paire sera donc le suivant :
+     * Niveau de la couleur rouge de 0 Ã  255 = 59 ;
+     * Niveau de la couleur verte de 0 Ã  255 = 32 ;
+     * Niveau de la couleur bleue de 0 Ã  255 = 119.
+
+   Cela fait sens puisque la couleur est une nuance de violet, et le
+   violet comprend une majoritÃ© de bleu et de rouge. Le code RVB de notre
+   nuance sera ainsi R59, V32, B119.
+
+Les codes de couleurs hexadÃ©cimaux en graphisme
+
+   Comme on lâa vu, chaque couleur primaire possÃ¨de 256 valeurs possibles
+   (de 0 Ã  255, en comptant le 0). Cela correspond Ã  R255 x V255 x B255
+   : les codes Hex permettent donc 16 777 216 combinaisons possibles, ce
+   qui Ã©quivaut Ã  bien plus que ce que lâÅil humain peut distinguer !
+   Lorsque vous travaillez les couleurs sur vos applications de crÃ©ation,
+   vous avez ainsi accÃ¨s Ã  toutes ces valeurs, ce qui donne une myriade
+   de nuances.
+
+   Des cercles chromatiques
+
+Des outils pour travailler avec les codes de couleurs hexadÃ©cimaux
+
+   Si toutes ces explications concernant les codes de couleur
+   hexadÃ©cimaux vous permettent de les comprendre et de les utiliser en
+   toute autonomie, vous nâavez pas besoin de systÃ©matiquement convertir
+   vous-mÃªmes vos codes Hex en valeur RVB : une application
+   dâillustration vectorielle de rÃ©fÃ©rence comme [6]Illustrator
+   automatise le processus. Pour trouver les codes de couleurs
+   hexadÃ©cimaux de votre illustration ou de votre image :
+     * Ouvrez Illustrator.
+     * Importez une image dans votre document.
+     * SÃ©lectionnez lâoutil Pipette.
+     * Cliquez sur la couleur dont vous souhaitez connaitre le code
+       hexadÃ©cimal.
+     * La couleur de fond de votre document prend la mÃªme teinte.
+     * Double-cliquez sur la Couleur de fond de votre document.
+     * Les valeurs de cette derniÃ¨re sâaffichent automatiquement sur le
+       menu SÃ©lecteur de couleurs. Le code hexadÃ©cimal se trouve en bas
+       de ce menu.
+
+   Exemple avec une illustration de fleurs
+
+   En procÃ©dant ainsi avec lâimage ci-dessus, nous obtenons les valeurs
+   suivantes : le code hexadÃ©cimal du jaune est #F1BA29. Le code
+   hexadÃ©cimal du cyan est #68BFAA. Le code hexadÃ©cimal du blanc est
+   #FFFFFF.
+
+   Toujours sur Illustrator, vous pouvez aussi simplement ouvrir un
+   document, double-cliquer sur la couleur de fond, et ainsi ouvrir le
+   menu SÃ©lecteur de couleurs. En choisissant nâimporte quelle teinte sur
+   le nuancier, vous obtiendrez ses valeurs sur le tableau qui sâaffiche.
+
+Associer des couleurs
+
+   Maintenant que vous avez toutes les clÃ©s pour comprendre le systÃ¨me
+   hexadÃ©cimal de codage des couleurs, vous souhaitez sans doute savoir
+   quelles couleurs associer pour votre projet. Pas de panique, lÃ  aussi,
+   il existe des outils qui vous accompagnent dans vos choix. Adobe Color
+   permet dâharmoniser ses couleurs et de les modifier de maniÃ¨re
+   interactive. Lâapplication existe en tant que site web et en tant
+   quâextension de Photoshop.
+     * Rendez-vous sur le site web [7]Adobe Color.
+     * Sur le menu Explorer, de nombreux thÃ¨mes sâaffichent.
+     * SÃ©lectionnez une palette de couleur qui vous plaÃ®t.
+     * Chacune des couleurs du thÃ¨me sâaffiche avec son code
+       hexadÃ©cimal.
+     * Dans le menu Ã  droite, vous pouvez tÃ©lÃ©charger ce thÃ¨me et
+       rÃ©utiliser ses couleurs pour votre projet.
+
+CrÃ©er son propre thÃ¨me de couleurs
+
+   Vous pouvez crÃ©er votre propre thÃ¨me de couleurs avec Adobe Color.
+     * Rendez-vous sur le site web Adobe Color.
+     * Dans le menu CrÃ©er, sÃ©lectionnez une couleur qui vous plait sur
+       la roue chromatique.
+     * Dans le menu dÃ©filant RÃ¨gle dâharmonie chromatique, de nombreuses
+       options sâaffichent.
+     * Lâoption Monochrome affiche les nuances dâune mÃªme couleur.
+       Lâoption ComplÃ©mentaire affiche les nuances dâune couleur et les
+       nuances de sa couleur complÃ©mentaire. Lâoption Triade vous permet
+       de travailler avec les nuances de trois couleurs. Etcâ¦
+     * SÃ©lectionnez une option de RÃ¨gle dâharmonie chromatique.
+     * Les couleurs sâaffichent en dessous de la roue chromatique. Dans le
+       menu Mode colorimÃ©trique RGB, vous pouvez trouver le code
+       hexadÃ©cimal et les valeurs RVB de chacune des nuances de votre
+       palette.
+
+   Vous comprenez dÃ©sormais le fonctionnement des codes de couleurs
+   hexadÃ©cimaux, leur usage en conception graphique et en association des
+   couleurs. Ã vous de les employer en accord avec votre projet !
+
+En savoir plus sur la conception graphique
+
+     * [8]Les tempÃ©ratures de couleurs en Kelvin
+     * [9]Les couleurs primaires
+     * [10]La couleur blanche
+     * [11]La couleur noire
+
+Ces contenus pourraient Ã©galement vous intÃ©resserâ¦
+
+   [12]https://main--cc--adobecom.hlx.page/cc-shared/fragments/discovery-h
+   ub/video/related-articles/establishing-shot
+
+   [13]https://main--cc--adobecom.hlx.page/cc-shared/fragments/discovery-h
+   ub/illustration/related-articles/vector-art
+
+   [14]https://main--cc--adobecom.hlx.page/cc-shared/fragments/discovery-h
+   ub/illustration/related-articles/ink-drawing
+
+   [15]https://main--cc--adobecom.hlx.page/cc-shared/fragments/discovery-h
+   ub/illustration/related-articles/pencil-sketches
+   background
+   #FFFFFF
+   style
+   center, xl spacing, four up, grid width 10
+
+   [16]En savoir plus sur la conception graphique
+   style
+   no-spacing-top, xl-spacing-bottom
+
+     * [17]{{home}}
+     * [18]{{adobe-cc}}
+     * [19]Design
+     * [20]DÃ©couvrir
+     * Codes de couleurs hexadÃ©cimaux
+
+References
+
+   1. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-21.html#quest-ce-que-quun-code-hexadécimal-
+   2. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-21.html#des-exemples-pour-sentraîner
+   3. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-21.html#les-codes-de-couleurs-hexadécimaux-en-graphisme
+   4. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-21.html#associer-des-couleurs
+   5. https://www.adobe.com/fr/creativecloud/design/discover/color-guide-white.html
+   6. https://www.adobe.com/fr/products/illustrator.html
+   7. https://color.adobe.com/fr/create/color-wheel
+   8. https://www.adobe.com/fr/creativecloud/design/discover/kelvin-color-temperature.html
+   9. https://www.adobe.com/fr/creativecloud/design/discover/primary-colors.html
+  10. https://www.adobe.com/fr/creativecloud/design/discover/color-guide-white.html
+  11. https://www.adobe.com/fr/creativecloud/design/discover/color-guide-black.html
+  12. file:///cc-shared/fragments/discovery-hub/video/related-articles/establishing-shot
+  13. file:///cc-shared/fragments/discovery-hub/illustration/related-articles/vector-art
+  14. file:///cc-shared/fragments/discovery-hub/illustration/related-articles/ink-drawing
+  15. file:///cc-shared/fragments/discovery-hub/illustration/related-articles/pencil-sketches
+  16. https://www.adobe.com/creativecloud/design.html
+  17. https://www.adobe.com/
+  18. file:///creativecloud
+  19. https://www.adobe.com/creativecloud/design.html
+  20. file:///creativecloud/design/discover

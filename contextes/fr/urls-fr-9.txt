@@ -1,0 +1,16 @@
+29:   le fonds vert
+37:   Le [18]Fonds vert, programme budgétaire créé en 2023, s’est doté d’un
+43:   Pour obtenir les financements du fonds vert, les porteurs de projet se
+47:   soutien du fonds vert.
+49:   Aujourd’hui, on ne sait pas si un projet subventionné par le Fonds vert
+66:   Fonds vert de gérer leurs subventions et aux services de l’État de
+72:   subventionné par le Fonds vert aura la possibilité de :
+79:     * suivre la consommation de la subvention Fonds vert liée à son
+246:  18. https://www.ecologie.gouv.fr/fonds-vert
+247:  19. https://aides-territoires.beta.gouv.fr/programmes/fonds-vert/
+248:  20. https://www.data.gouv.fr/fr/datasets/fonds-vert-liste-des-projets-subventionnes-en-2023/
+255:  27. https://github.com/MTES-MCT/fonds-vert-espace-laureat
+257:  29. file:///startups/vert.impact.html
+261:  33. file:///startups/vert.impact.html
+263:  35. file:///startups/vert.impact.html
+268:  40. file:///startups/vert.impact.html

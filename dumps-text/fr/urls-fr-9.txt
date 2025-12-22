@@ -1,0 +1,290 @@
+     * [1]Accéder au contenu
+     * [2]Recherche
+     * [3]Accéder au pied de page
+
+   République
+   Française
+   (BUTTON) Rechercher (BUTTON) Menu
+   [4]beta.gouv.fr
+     * [5]Documentation
+     * [6]Blog
+
+   (BUTTON) Fermer Recherche ____________________ (BUTTON) Rechercher
+
+   (BUTTON) Fermer
+     * (BUTTON) Programme
+          + [7]Découvrir le programme
+          + [8]Devenir intrapreneur
+          + [9]Découvrir notre manifeste
+     * [10]Réseau d'incubateurs
+     * [11]Services numériques
+     * [12]FAST
+     * [13]EIG
+     * [14]Communauté
+     * [15]Nous rejoindre
+
+Vert impact
+
+   Mesurer l'impact réel des projets de transition écologique financés par
+   le fonds vert
+
+   [16]fondsvert-impact.beta.gouv.fr
+
+   [17]Produit en construction
+
+Problème
+
+   Le [18]Fonds vert, programme budgétaire créé en 2023, s’est doté d’un
+   outillage innovant orchestré sur la base de composants de l’Etat
+   plateforme ([19]Aides Territoires, Démarches simplifiées, Superset,
+   [20]data gouv) qui a permis le soutien à plus de 18 000 projets au 1
+   janvier 2025 pour plus de 2,94 milliards d’euros attribués.
+
+   Pour obtenir les financements du fonds vert, les porteurs de projet se
+   sont engagés à atteindre des objectifs dans leurs projets. Par exemple
+   : une rénovation énergétique d’un bâtiment public local doit a minima
+   diminuer de 40% sa consommation énergétique pour être éligible à un
+   soutien du fonds vert.
+
+   Aujourd’hui, on ne sait pas si un projet subventionné par le Fonds vert
+   atteint les promesses d’impact déclarées lors de la demande de
+   subvention. En effet, passé la décision d’attribution, le suivi est
+   principalement administratif et budgétaire (on vérifie seulement si le
+   bilan d’exécution est conforme à la programmation, si la facture d’un
+   prestataire a été réglée…) sans intégrer la dimension “impact” des
+   projets au gré de leur réalisation.
+
+   Dans un contexte d’urgence climatique et d’économies budgétaires,
+   mesurer précisément l’impact des projets financés est essentiel pour
+   optimiser les efforts de transition écologique, justifier l’utilisation
+   des fonds publics et contribuer efficacement à la lutte contre le
+   changement climatique.
+
+Solution
+
+   L’espace lauréat permet aux porteurs de projets subventionnés par le
+   Fonds vert de gérer leurs subventions et aux services de l’État de
+   suivre l’impact des projets. Cette solution servira de preuve de
+   concept pour une potentielle intégration future dans des plateformes
+   comme Aides Territoires ou Mon espace collectivité.
+
+   Dans la première version fonctionnelle, un porteur de projet
+   subventionné par le Fonds vert aura la possibilité de :
+     * se connecter via Pro Connect (intégré dès le départ pour faciliter
+       une éventuelle migration future).
+     * retrouver les informations utiles au bon déroulement de la
+       subvention : logo à afficher sur les panneaux d’affichages du site
+       des travaux, calendrier légal d’exécution, modalités de demandes de
+       paiement…
+     * suivre la consommation de la subvention Fonds vert liée à son
+       projet.
+     * visualiser les données d’impact déclarées du projet qui alimentent
+       l’open data.
+     * une fois le projet réalisé, évaluer l’impact du projet en
+       renseignant un formulaire Démarches Simplifiées instruit par les
+       services déconcentrés.
+
+   Dans un premier temps, le formulaire d’évaluation de l’impact réalisé
+   reprendra les mêmes indicateurs que ceux déclarés au moment de la
+   demande de subvention afin de pouvoir établir une comparaison. Un
+   travail est à mener auprès des bureaux responsables des mesures et des
+   services instructeurs pour améliorer la pertinence des questions posées
+   lors de l’évaluation.
+
+Impact du service
+
+   La part des projets évalués (= nombre de dossiers d’évaluation de
+   l’impact “acceptés” par les services sur le total des projets lauréats
+   soldés) sera l’indicateur a suivre de près.
+
+   Étant donné que nous partons de 0, il est difficile de se fixer un
+   objectif chiffré. Un premier bilan sera dressé à la fin du 1er
+   trimestre 2025, et d’ici là des leviers seront mis en place pour
+   encourager les porteurs de projets à renseigner leur impact.
+
+   Sur le plus long terme, avoir un espace porteur de projet permettant
+   aux bénéficiaires de subvention d’établir une relation de bout en bout
+   tout au long du cycle de vie de leur subvention améliore l’expérience
+   globale du parcours de subvention, pourra facilement être étendu �
+   d’autres programmes de subventions (DETR, DSIL…) et ouvre de nombreuses
+   possibilités d’interactions avec les autres services numériques de
+   l’État, notamment plusieurs produits en construction : [21]Gestion des
+   subventions locales, [22]Communs de la transition écologique des
+   collectivités et [23]Data-État.
+
+À propos
+
+   Vert impact est portée par [24]La Fabrique Numérique de l'Ecologie
+   (MTE).
+
+   Ce service numérique est sponsorisé par Direction générale de
+   l'Aménagement, du Logement et de la Nature
+
+   [25]Contacter l'équipe
+
+Standards de qualité
+
+   L'évaluation des standards de beta.gouv.fr n'a pas encore été réalisée
+   sur ce produit.
+   [26]En savoir plus sur les standards
+   Transparence
+     * [27]Code source
+     * Technologies utilisées :
+     * Budget (non disponible)
+     * Statistiques d'usage (non disponible)
+     * Matrice d'impact (non disponible)
+     * [28]Analyse de risque (non disponible)
+     * Suivi des bonnes pratiques (non disponible)
+
+En quelques dates
+
+   Investigation
+   1er octobre 2023
+
+   Construction
+   1er novembre 2025
+
+   Accélération
+
+   Transfert
+
+   Pérennisé
+
+L'équipe
+
+Andy Barakat
+
+   Lead Tech Data Engineer
+     * [29]Vert impact
+     * [30]Préservons l'Eau
+
+Marie Peju
+
+   Data analyst
+     * [31]DossierFacile
+     * [32]Préservons l'Eau
+     * [33]Vert impact
+
+[34]Patrick LAMBRET
+
+   Spécialiste produit : PO, PM, coach
+
+   J’aide les équipes à avoir un maximum d’impact en un minimum d’effort
+     * [35]Vert impact
+     * [36]Camino
+     * [37]Mon Inclusion Numérique
+     * [38]Mobilic
+
+   (BUTTON) Voir les anciens
+
+Les anciennes et les anciens
+
+[39]Guillaume Levieux
+
+   Responsable mission numérique DGALN
+
+   Toujours fan des volcans et de ceux qui vivent dessus.
+     * [40]Vert impact
+     * [41]Camino
+
+Suivez-nous
+sur les réseaux sociaux
+
+     * [42]Linkedin
+     * [43]Github
+
+À propos
+
+     * [44]About us (en)
+     * [45]Nous contacter
+     * [46]Bilan 2024
+     * [47]Livre blanc
+     * [48]Une mission de la DINUM
+
+Ressources
+
+     * [49]Annuaire des membres
+     * [50]Annuaire de produits
+     * [51]Indicateurs & mesure d'impact
+     * [52]Conventions de partenariat
+     * [53]Code source
+
+   République
+   Française
+   [54]Logo beta.gouv.fr
+     * [55]info.gouv.fr
+     * [56]service-public.fr
+     * [57]legifrance.gouv.fr
+     * [58]data.gouv.fr
+
+     * [59]Mentions légales
+     * [60]Données personnelles et cookies
+     * [61]Accessibilité : partiellement conforme
+
+   Sauf mention contraire, tous les contenus de ce site sont sous
+   [62]licence etalab-2.0
+
+References
+
+   1. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-9.html#contenu
+   2. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-9.html#search
+   3. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-9.html#footer
+   4. file:///
+   5. https://doc.incubateur.net/
+   6. https://blog.beta.gouv.fr/
+   7. file:///approche
+   8. file:///devenir-intrapreneur
+   9. file:///manifeste
+  10. file:///incubateurs/
+  11. file:///realisations/
+  12. file:///fast/
+  13. file:///eig/
+  14. file:///communaute/
+  15. file:///nous-rejoindre/
+  16. https://fondsvert-impact.beta.gouv.fr/
+  17. file:///approche/construction
+  18. https://www.ecologie.gouv.fr/fonds-vert
+  19. https://aides-territoires.beta.gouv.fr/programmes/fonds-vert/
+  20. https://www.data.gouv.fr/fr/datasets/fonds-vert-liste-des-projets-subventionnes-en-2023/
+  21. https://beta.gouv.fr/startups/gestion.subventions.locales.html
+  22. https://beta.gouv.fr/startups/communs-de-la-transition-ecologique-des-collectivites.html
+  23. https://beta.gouv.fr/startups/data.etat.html
+  24. file:///incubateurs/mtes
+  25. mailto:guillaume.levieux@developpement-durable.gouv.fr?subject=Vert impact sur beta.gouv.fr
+  26. https://standards.incubateur.net/
+  27. https://github.com/MTES-MCT/fonds-vert-espace-laureat
+  28. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-9.html
+  29. file:///startups/vert.impact.html
+  30. file:///startups/vigieau.html
+  31. file:///startups/dossierfacile.html
+  32. file:///startups/vigieau.html
+  33. file:///startups/vert.impact.html
+  34. https://www.linkedin.com/in/plambret/
+  35. file:///startups/vert.impact.html
+  36. file:///startups/camino.html
+  37. file:///startups/france-numerique-ensemble.html
+  38. file:///startups/mobilic.html
+  39. https://www.linkedin.com/in/levieuxguillaume/
+  40. file:///startups/vert.impact.html
+  41. file:///startups/camino.html
+  42. https://www.linkedin.com/company/betagouv/
+  43. https://www.github.com/betagouv
+  44. file:///en/
+  45. file:///contact/
+  46. file:///bilan/2024
+  47. file:///content/docs/livre_blanc_2024.pdf
+  48. https://www.numerique.gouv.fr/
+  49. file:///communaute/annuaire
+  50. file:///dashboard/
+  51. file:///stats/
+  52. https://www.data.gouv.fr/fr/datasets/conventions-de-partenariat/
+  53. https://github.com/betagouv/beta.gouv.fr/
+  54. file:///
+  55. https://info.gouv.fr/
+  56. https://service-public.fr/
+  57. https://legifrance.gouv.fr/
+  58. https://data.gouv.fr/
+  59. file:///apropos/
+  60. file:///suivi/
+  61. file:///accessibilite/
+  62. https://github.com/etalab/licence-ouverte/blob/master/LO.md

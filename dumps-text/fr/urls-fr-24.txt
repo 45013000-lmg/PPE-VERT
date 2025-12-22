@@ -1,0 +1,921 @@
+
+   [1]Menu Mobiles
+   [2]Logo Lagons-Plages
+     * [3]ACCUEIL
+          + [4]Pourquoi Lagons-Plages ?
+     * [5]Où et Quand partir
+          + [6]PARTIR
+               o [7]Toutes les destinations plages, quand partir ?
+               o [8]Destinations subtropicales uniquement
+               o [9]Vous connaissez vos dates de vacances, où partir ?
+               o [10]Où et quand partir, vous choisissez ?
+               o [11]Partir de suite au soleil à +26°C sans nuage
+               o [12]Où partir pendant les vacances scolaires
+               o [13]Temps de vol à partir de Paris
+               o [14]Astuces pour bien faire sa valise
+          + [15]COMPARATEURS
+               o [16]Comparateur toutes destinations Plages
+               o [17]Comparateur Plages des Caraïbes
+               o [18]Comparateur Plages de l'Océan Indien
+               o [19]Comparateur Plages de Méditerranée
+               o [20]Comparateur Plages du Pacifique
+               o [21]Comparateur Plages de l'Asie
+               o [22]Pays les plus exposés au soleil
+          + [23]CLASSEMENTS
+               o [24]Les destinations plages les plus chaudes du monde
+               o [25]Le Top 100 des destinations plages pour le farniente
+               o [26]Les destinations plages les moins pluvieuses au monde
+               o [27]Océans, Mers et Lagons les plus chauds du monde
+               o [28]Quand partir pour les plages en résumé ?
+               o [29]Carte du Paludisme, moustiques, Dengue et Malaria
+               o [30]Le Top des plus belles îles du monde
+          + [31]CYCLONES
+               o [32]Qu'est ce qu'un cyclone, un ouragan ou un typhon ?
+               o [33]Comment éviter les cyclones ?
+               o [34]Historique des ouragans dans les Caraïbes
+               o [35]Historique des cyclones dans l'Océan Indien
+               o [36]Historique des typhons dans l'Océan Pacifique
+     * [37]Plages et Photos
+          + [38]PLAGES
+               o [39]Les plus belles plages du monde
+               o [40]Les couleurs des plages
+               o [41]Qu'est ce qu'un lagon ?
+               o [42]Bronzage, les produits
+               o [43]L'indice UV solaire
+               o [44]L'humidité sous les tropiques
+          + [45]PHOTOS
+               o [46]Stock de photos des plages du monde entier
+               o [47]Voyages photographiques, découvrir sans bouger de
+                 chez vous
+               o [48]Envoyez-nous votre plus belle photo de plage
+               o [49]Outil pour retoucher vos photos
+          + [50]BAIGNADE
+               o [51]Température idéale de l'eau de baignade en mer et
+                 lagons
+               o [52]Températures des océans (zoom)
+               o [53]Snorkeling, la plongée avec palmes, masque et tuba
+               o [54]Sargasses, des algues de malheur !
+          + [55]NATURE
+               o [56]Les cocotiers et arbres tropicaux
+               o [57]Les fleurs exotiques des îles
+               o [58]Les fruits exotiques à déguster
+               o [59]Les poissons des lagons
+               o [60]Le corail des lagons
+               o [61]Le Paradis terrestre
+     * [62]HÔTELS
+     * [63]IDÉES DE VOYAGES
+     * [64]CONTACT
+          + [65]Newsletter
+          + [66]Contact
+          + [67]Plan du site
+
+     * [68]ACCUEIL
+          + [69]Pourquoi Lagons-Plages ?
+     * [70]Où et Quand partir
+          + [71]Toutes les destinations plages, quand partir ?
+          + [72]Destinations subtropicales uniquement
+          + [73]Vous connaissez vos dates de vacances, où partir ?
+          + [74]Où et quand partir, vous choisissez ?
+          + [75]Partir de suite au soleil à +26°C sans nuage
+          + [76]Où partir pendant les vacances scolaires
+          + [77]Temps de vol à partir de Paris
+          + [78]Astuces pour bien faire sa valise
+     * [79]Comparateur toutes destinations
+          + [80]Comparateur toutes destinations Plages
+          + [81]Comparateur Plages des Caraïbes
+          + [82]Comparateur Plages de l'Océan Indien
+          + [83]Comparateur Plages de Méditerranée
+          + [84]Comparateur Plages du Pacifique
+          + [85]Comparateur Plages de l'Asie
+          + [86]Pays les plus exposés au soleil
+     * [87]Classements
+          + [88]Les destinations plages les plus chaudes du monde
+          + [89]Le Top 100 des destinations plages pour le farniente
+          + [90]Les destinations plages les moins pluvieuses au monde
+          + [91]Océans, Mers et Lagons les plus chauds du monde
+          + [92]Quand partir pour les plages en résumé ?
+          + [93]Carte du Paludisme, moustiques, Dengue et Malaria
+          + [94]Le Top des plus belles îles du monde
+     * [95]Cyclones
+          + [96]Qu'est ce qu'un cyclone, un ouragan ou un typhon ?
+          + [97]Comment éviter les cyclones ?
+          + [98]Historique des ouragans dans les Caraïbes
+          + [99]Historique des cyclones dans l'Océan Indien
+          + [100]Historique des typhons dans l'Océan Pacifique
+     * [101]Plages
+          + [102]Les plus belles plages du monde
+          + [103]Destinations plages pour le farniente
+          + [104]Les couleurs des plages
+          + [105]Qu'est ce qu'un lagon ?
+          + [106]Bronzage, les produits
+          + [107]L'indice UV solaire
+          + [108]L'humidité sous les tropiques
+     * [109]Photos
+          + [110]Stock de photos des plages du monde entier
+          + [111]Voyages photographiques, découvrir sans bouger de chez
+            vous
+          + [112]Envoyez-nous votre plus belle photo de plage
+          + [113]Outil pour retoucher vos photos
+     * [114]Baignade
+          + [115]Température idéale de l'eau de baignade en mer et lagons
+          + [116]Températures des océans
+          + [117]Snorkeling, la plongée avec palmes, masque et tuba
+          + [118]Sargasses, des algues de malheur !
+     * [119]Nature
+          + [120]Les cocotiers et arbres tropicaux
+          + [121]Les fleurs exotiques des îles
+          + [122]Les fruits exotiques à déguster
+          + [123]Les poissons des lagons
+          + [124]Le corail des lagons
+          + [125]Le Paradis terrestre
+     * [126]HÔTELS
+     * [127]IDÉES DE VOYAGES
+     * [128]CONTACT
+          + [129]Newsletter
+          + [130]Contact
+          + [131]Plan du site
+
+Des fruits exotiques à acheter sur les marchés locaux
+
+     * NATURE
+
+   Mes vacances sur les plus belles plages de
+   [AFRIQUE DU SUD - Le Cap  ____________] (BUTTON) au meilleur moment !
+
+                                 [INS: :INS]
+
+Des fruits exotiques à déguster, achetés au vendeur ambulant sur la plage
+
+   Adorez-vous consommer « local » ? Si votre curiosité gustative vous
+   pousse sur les marchés locaux, vous pourrez acheter des fruits, souvent
+   peu chers et leur conservation est facile. Une bonne idée est de les
+   déguster sur la plage au soleil, au lieu de manger des produits
+   touristiques que vous avez à la maison : glaces, snacks, crêpes,
+   gaufres, ...). Faîtes travailler les locaux, plutôt que les hôtels. Les
+   marchands vous feront goûter les fruits avant de les acheter et puis
+   souvent un mini-réfrigérateur est disponible dans votre chambre
+   d'hôtel.
+   Alors, avec quel fruit exotique vous êtes vous déjà fait plaisir ?
+     * Annones ou Pommes cannelle
+       Annone ou Pomme cannelle
+     * Fruit de l'arbre à pain
+       Fruit de l'arbre à pain
+     * Bananes
+       Banane
+     * Caramboles
+       Caramboles
+     * Caroubes
+       Caroubes
+     * Ananas
+       Ananas
+     * Cérimans
+       Cériman
+     * Corossols
+       Corossols
+     * Curubas
+       Curubas
+     * Dattes
+       Dattes
+     * Fruit de Salak
+       Fruit de Salak
+     * Fruit de la passion
+       Fruit de la passion
+     * Fruit du Baobab
+       Fruit du Baobab
+     * Fruit du Dragon
+       Fruit du Dragon
+     * Durians
+       Durian
+     * Figues de barbarie
+       Figue de barbarie
+     * Goyaves
+       Goyave
+     * Grenades
+       Grenade
+     * Jacquiers
+       Jacquier
+     * Kakis
+       Kaki
+     * Kiwanos
+       Kiwano
+     * Kumquats
+       Kumquat
+     * Lacumas
+       Lacuma
+     * Litchis, Lychees
+       Litchi ou Lychee
+     * Longkongs
+       Longkong
+     * Longanes
+       Longane
+     * Mangoustans
+       Mangoustan
+     * Mangues
+       Mangue
+     * Marangs
+       Marang
+     * Noix de coco
+       Noix de Coco
+     * Papayes
+       Papaye
+     * Physalis
+       Physalis
+     * Pomelos
+       Pomelo
+     * Pommes de rose ou Chomphus
+       Pomme de rose ou Chomphu
+     * Ramboutans
+       Ramboutan
+     * Tamarins
+       Tamarin
+     * Sapote mamey
+       Sapote mamey
+
+    1. 1
+    2. 2
+
+     * [132]Précédente
+     * [133]Suivante
+
+   Diaporama automatique de 36 photos présentant les meilleurs fruits
+   exotiques que vous trouverez sur les marchés locaux en région
+   tropicale.
+
+Connaissez-vous le nom de tous les fruits tropicaux et des pays chauds ?
+
+   Mangoustans - fruit exotique Mangoustan
+
+Mangoustan
+
+   Derrière sa coque épaisse et sombre, le mangoustan cache une chair
+   blanche fondante dun goût subtil très bon. A première vue, une fois
+   ouvert, on dirait une gousse d'ail de cinq à huit quartiers, mais le
+   goût est des plus merveilleux. Originaire d'Indonésie, le mangoustan
+   est un fruit exotique très apprécié. Les asiatiques adorent ce fruit
+   parfait.
+   Marangs - fruit exotique Marang ou Tarap
+
+Marang ou Tarap
+
+   Le marang aussi appelé tarap est un gros fruit exotique d'une vingtaine
+   de centimètres, pouvant peser très lourd. Il est recouvert de nombreux
+   pics arrondis lui donnant un aspect particulier, à l'image du durian,
+   du jacquier et de larbre à pain. La chair du marang est comestible, son
+   goût est agréable surtout frais. Le marang pas bien mûr peut être
+   consommé comme un légume.
+   Fruit du Dragon - fruit exotique Fruit du Dragon ou Pitaya
+
+Fruit du Dragon ou Pitaya
+
+   Le fruit du dragon est aussi connu sous le nom de pitaya, dragon fruit,
+   strawberry pear. Sa chair est comestible et ressemble par sa texture et
+   la présence de petits pépins noirs à celle du kiwi mais beaucoup moins
+   goûteuse. Il existe trois types de fruits du dragon : la classique
+   pulpe blanche et peau rose, pulpe blanche et peau jaune, et plus rare
+   pulpe rouge sanguine et peau rose, difficile à trouver en magasin. Plus
+   joli et décoratif que bon, le fruit du dragon attire l'il. À savoir :
+   la grande fleur de ce fruit est utilisée en infusion.
+
+   Annones ou Pommes cannelle - fruit exotique Annone ou Pomme cannelle
+
+Annone ou Pomme cannelle
+
+   De la taille d'une pomme, la pomme cannelle est de chair blanche tendre
+   et sucrée. Elle est alvéolée de chair avec de gros pépins ronds noirs.
+   Le goût est exquis, sucré tendant vers la poire. Choisir l'annone un
+   peu molle pour consommer. L'attier ou pommier cannelle est l'arbre dont
+   est issu ce fruit très populaire sur les marchés tropicaux des Caraïbes
+   et en Asie du sud-est.
+
+   Fruit de l'arbre à pain - fruit exotique Fruit de l'arbre à pain
+
+Fruit de l'arbre à pain
+
+   Le fruit de l'arbre à pain se consomme. Il est plutôt rond / oblong et
+   mesure de 15 à 30 centimètres de long. Son écorce de couleur jaune-vert
+   est couverte d'épines à maturité. C'est le bon moment pour consommer sa
+   pulpe farineuse à chair blanche comestible. Les Polynésiens appellent
+   ce fruit « Uru ». Ils le préparent bouilli, rôti, cuit à létouffé ou
+   encore grillé au feu de bois. Le fruit de l'arbre à pain se prépare en
+   frites ou gratiné et comme son nom l'indique, il est possible de
+   réaliser du pain ou des gâteaux sans gluten.
+
+   Bananes - fruit exotique Banane
+
+Banane
+
+   La banane est un fruit bien connu des Français. La banane est
+   recouverte dune peau jaune devenant tigrée à maturité. Avec une chair
+   tendre et sucrée, la banane est un fruit riche en glucides, en fibres
+   et en vitamines. Une banane par jour apporte une grosse dose dénergie
+   au quotidien. Récoltée toute lannée au soleil de Costa Rica, Équateur,
+   Colombie, Martinique, Côte dIvoire, Antilles, de lAfrique et de
+   lAmérique centrale. La banane se décline sous plusieurs variétés :
+   banane Manzano ou banane pomme, banane Plantain ou Musa paradisiaca,
+   banane rouge des Seychelles, et banane verte ou Poyo.
+
+   Caramboles - fruit exotique Caramboles
+
+Caramboles
+
+   Ce fruit étoilé dorigine asiatique s'appelle Starfruit en anglais. Pour
+   la consommer à maturité, choisissez la carambole avec une peau
+   brillante, jaune, cannelée et ferme. Si elle est verte-jaune, le fruit
+   est très peu sucré. Elle renferme une pulpe translucide et de petites
+   graines brunes. En France, la carambole est souvent utilisée en
+   décoration de pâtisserie car elle est très graphique. Sous les
+   tropiques, la carambole peut facilement composer une salade de fruits
+   frais.
+
+   Caroubes - fruit exotique Caroubes
+
+Caroubes
+
+   La caroube ne se déguste pas en croquant dedans. Les caroubiers (Arbre)
+   produisent des gousses brunes contenant de petites graines. Les gousses
+   vertes sont séchées, puis broyées en poudre ou transformés en une sorte
+   de gomme. La poudre de caroube a lapparence et un goût très semblable �
+   la poudre de cacao, étant naturellement douce et utilisée comme une
+   alternative au chocolat. La caroube peut remplacer le cacao dans la
+   préparation de toutes les recettes. Les caroubes sont très répandues
+   dans des régions comme la Turquie, Chypre, Syrie, Liban, Israël,
+   Jordanie, Égypte, Tunisie, Algérie et la Libye.
+
+   Ananas - fruit exotique Ananas
+
+Ananas
+
+   L'ananas est un fruit allongé couvert de motifs hexagonaux surmonté dun
+   panaché de feuilles vertes piquantes. La chair jaune brillante est
+   sucrée, juteuse et savoureuse. Même sil paraît très sucré, son apport
+   énergétique est limité. En Asie, il est aussi bien utilisé en dessert
+   qu'en cuisine salée. Le meilleur ananas du monde est l'ananas Victoria,
+   originaire des Seychelles. Plus petit et plus concentré en goût et en
+   sucre.
+
+   Cérimans - fruit exotique Cériman
+
+Cériman
+
+   Le cériman est le fruit du Monstera deliciosa, aussi appelé fruit
+   délicieux. Cest un fruit allongé de 20 à 30 centimètres de long. Le
+   fruit est vert avant maturité. Il possède des écailles qui finissent
+   par jaunir et se détacher du cériman, il est alors mûr. La chair est
+   très parfumée avec un semblant de banane et dananas.
+
+   Corossols - fruit exotique Corossols
+
+Corossols
+
+   Le corossol est un très gros fruit exotique en forme de cur, vert foncé
+   hérissé dépines molles. Le goût de sa chair s'apparente aux anones ou
+   pomme cannelle. Pour le consommer à maturité, choisissez un corossol de
+   couleur verte jaunâtre. Sa chair blanche parsemée de graines noires est
+   molle, juteuse, très odorante et crémeuse. C'est un régal. Le corossol
+   pèse jusqu'à 4 kilos. Originaire de lîle de Curaçao, le corossolier
+   fournit des fruits presque toute lannée.
+
+   Curubas - fruit exotique Curubas ou Taxos
+
+Curubas ou Taxos
+
+   Le taxo ou curuba est le fruit de plusieurs plantes du type passiflore
+   avec un goût de fruit de la passion. Les curubas mesurent environ 10
+   centimètres sur 4 centimètres de large. À maturité, les fruits sont
+   jaunes. Ils se conservent relativement longtemps pour des fruits. On
+   les apprécie en jus, glace ou bien sûr, consommés frais.
+
+   Dattes - fruit Dattes
+
+Dattes
+
+   Les dattes sont les fruits comestibles du palmier dattier. C'est un
+   fruit riche et charnu, de forme oblongue allant jusqu'à 6 centimètres
+   de long et pourvu d'un noyau. La datte est très énergétique. Elle est
+   cultivée en Afrique du Nord et principalement en Algérie et en Tunisie.
+   Le Mahgreb produit la datte Deglet nour, bien connue en France. Le
+   marché européen est aussi approvisionné en dattes américaines. Les plus
+   grosses cultures sont en Égypte, en Iran et en Arabie saoudite.
+
+   Fruit de Salak - fruit exotique Fruit de Salak ou fruit serpent
+
+Fruit de Salak ou fruit serpent
+
+   Le fruit de Salak ressemble à des écailles brunes et dures de peau de
+   serpent. Ce fruit exotique (snakefruit) typique du sud-est de l'Asie
+   est juteux, acide et sucré. Ce fruit vraiment délicieux pousse en
+   groupe, au pied d'un petit palmier très épineux appelé salak. Le salak
+   pousse principalement en Thaïlande, au Brunei, en Malaisie et en
+   Indonésie. Le goût est légèrement acide et la texture est similaire �
+   celle des pommes.
+
+   Fruit de la passion - fruit exotique Fruit de la passion ou Grenadille
+   ou Maracudja
+
+Fruit de la passion ou Grenadille ou Maracudja
+
+   Selon les pays où vous le consommez, le fruit de la passion s'appelle
+   aussi grenadille ou maracudja. Il pousse sur une liane nommée
+   passionaria. Selon la variété comestible (car il en existe +400), le
+   fruit de la passion peut être de couleur jaune, orangée ou brune. Ce
+   fruit exotique renferme une multitude de petites graines noires
+   enrobées d'une pulpe translucide orangée et parfumée : l'arille,
+   légèrement acide. Le fruit de la passion pousse tout au long de
+   l'année.
+
+   Fruit du Baobab - fruit exotique Fruit du Baobab
+
+Fruit du Baobab
+
+   En Afrique, le fruit du baobab est appelé le pain de singe. En plus
+   d'avoir un goût agréable, ce petit fruit serait tout à fait avantageux
+   pour la santé et le bien-être. Méconnu en France, ce fruit possède
+   beaucoup de qualités anti oxydantes, de micronutriments, de protéines,
+   de magnésium, six fois plus riche en vitamine C quune orange, trois
+   fois plus de calcium que le lait et six fois plus de potassium que la
+   banane. Il booste les défenses immunitaires, aide à lutter contre la
+   fièvre et possède des propriétés anti-inflammatoires. Incroyable !
+   Entouré d'une coque dure qui peut mesurer jusqu'à 30 centimètres de
+   long, sa chair est constituée de petites graines noires dans de la
+   pulpe blanche avec un goût proche d'un sorbet citronné.
+
+   Durians - fruit exotique Durian
+
+Durian
+
+   Le durian commence à être connu par l'odeur affreuse qu'il dégage. Le
+   durian sent fort, il devient nauséabond à maturité. Comment définir
+   l'odeur et le goût du durian ? Sûrement un mélange affreux entre, dans
+   l'ordre, l'oignon, le fromage, l'amande et le vin. Les Chinois adorent
+   cette odeur et en consomment à toutes les sauces : nature, glaces,
+   gâteaux et desserts... En Asie du Sud-Est, beaucoup d'hôtels affichent
+   « Les durians et les animaux sont interdits dans les chambres. » et
+   mettent à l'amende les contrevenants.
+
+   Figues de barbarie - fruit Figue de barbarie ou poire cactus
+
+Figue de barbarie ou poire cactus
+
+   La figue de Barbarie est un fruit de couleur jaune, rouge ou blanche.
+   Elle pousse sur un cactus mexicain. Sa chair est granuleuse et contient
+   des petites graines noires. Le goût est très doux et différent selon
+   les couleurs. Appréciez-le très frais, il est meilleur. Consommation en
+   jus de fruits, en confiture ou nature. La difficulté de sa consommation
+   vient de la cueillette et de la découpe de la peau car celle-ci est
+   pourvue petites épines sur les points noirs. Fruit du soleil bien sûr,
+   il est présent dans le Maghreb, en Espagne et en Sicile.
+
+   Goyaves - fruit exotique Goyave
+
+Goyave
+
+   La goyave est un fruit tropical au parfum délicat. Son écorce passe du
+   vert, au jaune, au rose et enfin au rouge. La goyave se consomme crue
+   et bien mûre, en jus, en sorbet et en sirop. La goyave pousse toute
+   l'année à la Réunion, en Martinique et en Guadeloupe. Les pays
+   producteurs massifs sont l'Inde, la Chine, la Thaïlande, le Brésil et
+   le Vietnam.
+
+   Grenades - fruit Grenade
+
+Grenade
+
+   La grenade est le fruit d'une culture ancestrale autour de la
+   Méditerranée. La grenade est disponible d'octobre à mars. Il contient
+   de nombreuses graines de la taille d'un grain de maïs, enveloppées
+   d'une pulpe rose grenat qui éclate en bouche, juteuse et sucrée.
+
+   Jacquiers - fruit exotique Fruit du Jacquier
+
+Fruit du Jacquier
+
+   Le fruit du jacquier d'origine tropicale est pratiquement le plus gros
+   fruit du monde. Il peut atteindre un poids entre 35 et 50 kg ! Lorsque
+   le jacquier est mûr, il peut être consommé cru. La partie comestible
+   est jaune uniquement. Le goût est doux légèrement acidulé, savoureux et
+   très parfumé. Sa chair est caoutchouteuse. Les gros pépins que contient
+   chaque poche peuvent être consommés, cuits et décortiqués à la façon
+   des châtaignes.
+
+   Kakis - fruit Kaki ou plaquemine
+
+Kaki
+
+   Le Kaki a la peau lisse de couleur orange, limite on pourrait le
+   confondre avec une tomate. Le kaki cru possède une chair légèrement
+   âcre, entre fondante croquante. Le sucre est quand même présent et on
+   le mange facilement. Ce fruit saisonnier est proposé entre octobre et
+   janvier. Le kaki s'appelle aussi plaquemine en Asie parce que l'arbre
+   dont il est issu s'appelle le plaqueminier.
+
+   Kiwanos - fruit exotique Kiwano ou concombre cornu d'Afrique
+
+Kiwano
+
+   Le kiwano appartient à la famille des cucurbitacées tropicaux. Ce fruit
+   tropical est comestible. Il est également appelé métulon, melano,
+   concombre cornu d'Afrique ou encore melon à corne. Classifié dans les
+   fruits, le kiwano a un goût de concombre surprenant pour un fruit
+   exotique, on aurait imaginé un goût tendance fruit de la passion avec
+   ses multiples pépins et la couleur de la pulpe. Perdu !
+
+   Kumquats - fruit exotique Kumquat
+
+Kumquat
+
+   Une mini clémentine ? La saveur du Kumquat rappelle l'orange, puis au
+   deuxième avis un arrière-goût sucré d'abricot. Savez-vous que son
+   écorce se mange ? Nettoyez quand même bien la peau mais l'amertume sera
+   présente. Si vous le préférez moins amer, ôtez les pépins du kumquat.
+
+   Lucumas - fruit exotique Lucuma
+
+Lucuma
+
+   Le lucuma est un fruit subtropical délicieux originaire du Pérou. Ce
+   fruit a un petit goût sucré qui peut rappeler le sirop dérable. Très
+   populaire en Amérique du Sud, il est souvent utilisé dans les desserts
+   au Chili, au Pérou et en Équateur. Le lucuma est même le parfum préféré
+   pour les glaces ! Il est maintenant cultivé partout dans le monde à des
+   fins commerciales.
+
+   Litchis, Lychees - fruit exotique Litchi ou Lychee
+
+Litchi ou Lychee
+
+   Le Litchi est un fruit d'un arbre d'origine chinoise, sa peau ressemble
+   à une écorce rosâtre ou rouge à maturité. Sa pulpe blanche et
+   gélatineuse se mange autour d'un noyau marron noir. Le litchi se gorge
+   de jus entre novembre et décembre sous les tropiques d'Asie. Il existe
+   une autre variété de litchi en Asie bien plus grosse que le classique
+   de Madagascar et qui pousse au mois de mai.
+
+   Longkongs - fruit exotique Longkong
+
+Longkong
+
+   Le Longkong est un petit fruit en forme de goutte, poussant en grappes
+   à maturité entre les mois de juin et doctobre. La peau se pèle pour
+   mettre à jour des quartiers de chair un peu translucide, dont certains
+   contiennent de petits pépins au goût amer. Le fruit en lui-même à une
+   saveur d'orange très agréable et rafraichissante. Vous trouverez
+   principalement le longkong en Asie du Sud-Est sur les marchés locaux.
+
+   Longanes - fruit exotique Longane
+
+Longane
+
+   Les longanes poussent en grappes sur des branches. Ils sont ronds
+   recouverts dune fine peau rugueuse et cassante de couleur brun clair.
+   Sa pulpe blanche et translucide entoure un noyau noir brillant. Sa
+   saveur douce et sucrée rappelle un mélange de goûts de rose, de litchi
+   et de groseille à maquereau. Le nom « longane » vient du chinois «
+   lóngyan » et du vietnamien « lung ngaan » qui signifient oeil de
+   dragon. Goûtez, vous allez adorer !
+
+   Mangues - fruit exotique Mangue
+
+Mangue
+
+   Fruit délicieusement parfumé à maturité, la mangue est juteuse et
+   tendre. Considérée comme un des meilleurs fruits du monde, sa chair
+   jaune orange est sucrée. Il existe des centaines de types de mangues, �
+   vous de les goûter sans modération ! En Asie du sud-est, les mangues
+   découpées à picorer, se vendent à tous les coins de rues pour presque
+   rien. Vous trouverez des mangues pas trop mûres, peu sucrées donc moins
+   caloriques et ainsi meilleures contre la prise de poids.
+
+   Noix de coco - fruit exotique Noix de Coco
+
+Noix de Coco
+
+   La noix de coco pousse sur les cocotiers sous les tropiques uniquement.
+   C'est le fruit exotique du soleil le plus connu. La noix de coco est
+   produite toute l'année. Une noix de coco pèse 1.5 kg en moyenne. Sa
+   coque brune, très dure, contient une chair blanche croquante, ainsi
+   quun liquide très peu sucré, leau de coco. La noix de coco est un fruit
+   calorique, mais concentré en vitamines, minéraux et oligo-éléments.
+   Tous est utilisé dans une noix de coco, la chair pour la cuisine et
+   l'huile, la coque pour le charbon, ses fibres pour les objets. La jeune
+   noix de coco un peu gélatineuse et son eau ajoutée à du sucre de canne
+   est une bonne boisson en Asie.
+
+   Papayes - fruit exotique Papaye
+
+Papaye
+
+   La papaye est un fruit tropical uniquement et originaire du Mexique. À
+   maturité sa chair est orange, sucrée, parfumée et délicieux. La papaye
+   trop mûre a une odeur de vomi attention, mais le goû est correct !
+   Consommée le plus souvent nature, la papaye peut être aussi mangée
+   vert, sa chair est verte. Les asiatiques râpent les papayes vertes
+   comme des carottes pour en faire des salades.
+
+   Physalis - fruit exotique Physalis
+
+Physalis
+
+   Le physalis est un fruit originaire des Andes et s'apparente à la
+   famille des tomates et aubergines. À maturité, le fruit est recouvert
+   de trois feuilles sèches et le fruit est orange, juteux, sucré ou
+   acidulé. Il existe quelques variétés de différentes couleurs comme une
+   violette. Le physalis est délicieux à la consommation nature. Il peut
+   aussi se cuisiner.
+
+   Pomelos - fruit exotique Pomelo
+
+Pomelo
+
+   Le pomelo est le seul agrume à ne pas être originaire dAsie. Le pomelo
+   ressemble à un gros pamplemousse. Implanté en climats chauds, il est
+   disponible en hiver et au printemps. Le pomelo a une écorce épaisse.
+   Contrairement au pamplemousse, il a plus d'avantages : son goût n'est
+   pas amer et il n'a pas de jus débordant sur les mains. Le pomelo est
+   vraiment un fruit savoureux mais il faut l'éplucher, ce qui bloque
+   souvent la consommation car la peau des quartiers est épaisse donc elle
+   ne se mange pas.
+
+   Pommes de rose ou Chomphus - fruit exotique Pomme de rose ou Chomphu
+
+Pomme de rose ou Chomphu
+
+   Le fruit chomphu aussi appelé pomme de rose est récolté toute lannée en
+   Asie. Le fruit a une couleur rosée et rouge, son goût varie selon la
+   variété. Les pommes de rose sont des fruits en forme de cloche, sa
+   chair est douce et croquante.
+
+   Ramboutans - fruit exotique Ramboutan
+
+Ramboutan
+
+   Originaire de Malaisie, le ramboutan se cultive à travers toute l'Asie
+   tropicale humide. Drôle de fruit rouge avec ses poils, on dirait un
+   litchi poilu et chevelu ! Le goût est sucré et doux, ce n'est pas
+   acide, il s'approche plus du longane en goût. Pour la dégustation, la
+   difficulté est que la chair blanche s'accroche souvent à la cosse du
+   noyau un peu dure, il faut donc un couteau et être délicat pour
+   apprécier le bon ranboutan (rambutan en anglais).
+
+   Tamarins - fruit exotique Tamarin
+
+Tamarin
+
+   Le tamarin est originaire dAfrique. Il pousse sur des grands arbres
+   sous la forme de gros haricots. Sa coque brune et cassante entoure des
+   graines enveloppées dans une pulpe marron sucrée et légèrement acide.
+   On peut consommer le tamarin nature, en pâte, bonbons, épice ou encore
+   en boisson. Souvent utilisé dans la cuisine asiatique pour donner une
+   saveur ou épaissir une sauce, le tamarin est très répandu dans les pays
+   tropicaux.
+
+   Sapote mamey Sapote Mamey
+
+Sapote Mamey
+
+   Le mamey de Cuba ou sapote mamey est le fruit du sapotier. La chair du
+   mamey est senblable à l'avocat, une texture de poire, au goût sucré de
+   couleur saumon, orange ou rose. Douce et sucrée, dégustez avec une
+   petite cuillère. Ce fruit se consomme plutôt dans l'Amérique du Sud et
+   Cuba.
+
+Découvrez plus de nature en voyageant ...
+
+     [134]Les poissons des lagons et autres curiosités des fonds marins
+   tropicaux
+
+     [135]Le corail du lagon, visite sous-marine des coraux
+
+     [136]Les fleurs tropicales des îles et des plages
+
+     [137]Les cocotiers, palmiers, fruitiers et arbres tropicaux des îles
+   !
+
+     [138]Qu'est ce qu'un lagon, un atoll ou une barrière de corail ?
+
+     [139]Le snorkeling, préparez-vous à plonger en apnée !
+
+   [INS: :INS]
+
+   Commentaires des voyageurs
+     __________________________________________________________________
+
+   Commentaire de voyage par Laurent
+   Laurent a écrit le 1-1-2022 à 19:16
+   Réponse à Maya : Pas de graines dans un litchi, mais un seul noyau �
+   faire tremper 2 jours dans l'eau tiède pour le ramollir. Ensuite à ras,
+   dans un terreau humide, sorties de feuilles en 1 mois maxi. Disons que
+   pour obtenir ensuite des litchis, la France n'est pas une terre
+   d'accueil, car la météo est trop froide. En revanche, les arbouses ça
+   pousse bien en France, je confirme !
+     __________________________________________________________________
+
+   Commentaire de voyage par Maya Sandro
+   Maya Sandro a écrit le 1-1-2022 à 15:08
+   Est ce que les graines de litchi se plantent ?🧐
+     __________________________________________________________________
+
+   Commentaire de voyage par Paradis des fruits exotiqu
+   Paradis des fruits exotiqu a écrit le 14-6-2016 à 18:43
+   Mangoustans et longanes, j'adore, c'est sucré. Anone, un goût de poire
+   et meilleur à découvrir. Le durian, ça pue, un goût d'oignons, comment
+   peut-on manger ce fruit ? Le Kiwano au goût de concombre n'est pas
+   sucré, à réserver pour les salades.
+     __________________________________________________________________
+
+   Commentaire de voyage par Caramel
+   Caramel a écrit le 14-2-2014 à 16:55
+   Ah bah, je ne pensais qu'il y avait autant de choix de fruits exotiques
+   !
+
+   ____________________
+   Code sécurité 6+1 ______________________
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+     (BUTTON) Envoyer
+   Laissez un commentaire
+   Validé sous 24h
+   Moderated within 24h
+   [femme-chapeau.png]
+
+   Découvrez
+     * [140]Temps de vol depuis Paris
+     * [141]Corail et coraux des lagons
+     * [142]Poissons des lagons
+     * [143]Fleurs exotiques
+     * [144]Plan du site
+
+   Partagez
+
+   Partagez nos outils Lagons-Plages sur vos réseaux sociaux :
+
+   Newsletter
+
+   Laissez votre email pour recevoir notre Newsletter :
+   (BUTTON)   Newsletter Lagons-Plages
+   À propos
+
+   Ce site permet de choisir la meilleure période pour réussir vos voyages
+   balnéaires, éviter la pluie et les cyclones.
+   Contact
+
+     [145]contact@lagons-plages.com
+
+   [146]Lagons-Plages
+
+   Préparateur de Voyages au soleil © Lagons-plages 2005-2025
+
+References
+
+   Visible links:
+   1. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-24.html#mobile-menu-01
+   2. file:///
+   3. file:///
+   4. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/mauvais-temps-en-vacances.php
+   5. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/quand-partir-au-soleil.php
+   6. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-24.html
+   7. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/quand-partir-au-soleil.php
+   8. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/pays-sous-les-tropiques.php
+   9. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/ou-partir-au-soleil.php
+  10. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/choisir-ou-quand-partir-au-soleil.php
+  11. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/temperature-ideale-au-soleil.php
+  12. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/partir-au-soleil-en-famille-vacances-scolaires.php
+  13. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/temps-de-vols-heures-paris.php
+  14. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/faire-sa-valise-sans-stress.php
+  15. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-24.html
+  16. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/comparateur-iles-plages.php
+  17. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/plages-caraibes-comparateur-janvier.html
+  18. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/plages-ocean-indien-comparateur-janvier.html
+  19. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/plages-mediterranee-comparateur-juillet.html
+  20. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/plages-pacifique-comparateur-juin.html
+  21. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/plages-asie-comparateur-fevrier.html
+  22. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/pays-exposition-solaire-maximum.php
+  23. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-24.html
+  24. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/destinations-les-plus-chaudes.php
+  25. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/plages-et-farniente.php
+  26. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/destinations-les-moins-pluvieuses.php
+  27. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/classement-des-lagons-les-plus-chauds.php
+  28. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/climat-pays-plages.php
+  29. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/carte-mondiale-paludisme-malaria-dengue.php
+  30. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/iles-tropicales.php
+  31. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/cyclones-ouragans-typhons.php
+  32. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/cyclones-ouragans-typhons.php
+  33. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/cyclones-typhons-ouragans-tropicaux.php
+  34. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/cyclones-tempetes-tropicales-caraibes.php
+  35. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/cyclones-tempetes-tropicales-ocean-indien.php
+  36. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/cyclones-tempetes-tropicales-ocean-pacifique.php
+  37. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/plus-belles-plages-du-monde.php
+  38. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/plus-belles-plages-du-monde.php
+  39. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/plus-belles-plages-du-monde.php
+  40. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/plages-sable-couleurs.php
+  41. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/lagon-atoll-barriere-corail.php
+  42. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/soleil-des-iles-produits-bronzage-protections-solaires.php
+  43. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/indice-uv.php
+  44. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/humidite-tropiques.php
+  45. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/liste-pays-photos-plages-lagons.php
+  46. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/liste-pays-photos-plages-lagons.php
+  47. https://www.lagons-plages.com/voyage/voyages-photographiques
+  48. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/photo-lagon-plage-upload.php
+  49. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/retouche-photos.php
+  50. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/temperatures-surface-oceans-et-mers.php
+  51. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/baignade-temperature-mer.php
+  52. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/temperatures-surface-oceans-et-mers.php
+  53. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/snorkeling-palmes-masque-tuba-plongee.php
+  54. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/sargasses-caraibes.php
+  55. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/cocotiers-palmiers-arbres-tropicaux.php
+  56. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/cocotiers-palmiers-arbres-tropicaux.php
+  57. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/fleurs-exotiques-des-iles-tropicales.php
+  58. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/fruits-exotiques-tropicaux.php
+  59. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/poissons-de-lagons.php
+  60. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/corail-coraux-de-lagons.php
+  61. https://www.lagons-plages.com/voyage/le-paradis-terrestre
+  62. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/hotels.php
+  63. https://www.lagons-plages.com/voyage/
+  64. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/contact.php
+  65. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/newsletter.php
+  66. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/contact.php
+  67. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/plansite.php
+  68. file:///
+  69. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/mauvais-temps-en-vacances.php
+  70. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-24.html
+  71. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/quand-partir-au-soleil.php
+  72. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/pays-sous-les-tropiques.php
+  73. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/ou-partir-au-soleil.php
+  74. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/choisir-ou-quand-partir-au-soleil.php
+  75. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/temperature-ideale-au-soleil.php
+  76. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/partir-au-soleil-en-famille-vacances-scolaires.php
+  77. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/temps-de-vols-heures-paris.php
+  78. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/faire-sa-valise-sans-stress.php
+  79. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-24.html
+  80. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/comparateur-iles-plages.php
+  81. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/plages-caraibes-comparateur-janvier.html
+  82. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/plages-ocean-indien-comparateur-janvier.html
+  83. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/plages-mediterranee-comparateur-juillet.html
+  84. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/plages-pacifique-comparateur-juin.html
+  85. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/plages-asie-comparateur-fevrier.html
+  86. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/pays-exposition-solaire-maximum.php
+  87. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-24.html
+  88. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/destinations-les-plus-chaudes.php
+  89. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/plages-et-farniente.php
+  90. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/destinations-les-moins-pluvieuses.php
+  91. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/classement-des-lagons-les-plus-chauds.php
+  92. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/climat-pays-plages.php
+  93. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/carte-mondiale-paludisme-malaria-dengue.php
+  94. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/iles-tropicales.php
+  95. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-24.html
+  96. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/cyclones-ouragans-typhons.php
+  97. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/cyclones-typhons-ouragans-tropicaux.php
+  98. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/cyclones-tempetes-tropicales-caraibes.php
+  99. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/cyclones-tempetes-tropicales-ocean-indien.php
+ 100. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/cyclones-tempetes-tropicales-ocean-pacifique.php
+ 101. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-24.html
+ 102. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/plus-belles-plages-du-monde.php
+ 103. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/quand-partir-au-soleil.php
+ 104. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/plages-sable-couleurs.php
+ 105. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/lagon-atoll-barriere-corail.php
+ 106. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/soleil-des-iles-produits-bronzage-protections-solaires.php
+ 107. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/indice-uv.php
+ 108. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/humidite-tropiques.php
+ 109. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-24.html
+ 110. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/liste-pays-photos-plages-lagons.php
+ 111. https://www.lagons-plages.com/voyage/voyages-photographiques
+ 112. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/photo-lagon-plage-upload.php
+ 113. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/retouche-photos.php
+ 114. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-24.html
+ 115. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/baignade-temperature-mer.php
+ 116. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/temperatures-surface-oceans-et-mers.php
+ 117. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/snorkeling-palmes-masque-tuba-plongee.php
+ 118. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/sargasses-caraibes.php
+ 119. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-24.html
+ 120. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/cocotiers-palmiers-arbres-tropicaux.php
+ 121. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/fleurs-exotiques-des-iles-tropicales.php
+ 122. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/fruits-exotiques-tropicaux.php
+ 123. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/poissons-de-lagons.php
+ 124. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/corail-coraux-de-lagons.php
+ 125. https://www.lagons-plages.com/voyage/le-paradis-terrestre
+ 126. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/hotels.php
+ 127. https://www.lagons-plages.com/voyage/
+ 128. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/contact.php
+ 129. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/newsletter.php
+ 130. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/contact.php
+ 131. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/plansite.php
+ 132. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-24.html
+ 133. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-24.html
+ 134. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/poissons-de-lagons.php
+ 135. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/corail-coraux-de-lagons.php
+ 136. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/fleurs-exotiques-des-iles-tropicales.php
+ 137. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/cocotiers-palmiers-arbres-tropicaux.php
+ 138. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/lagon-atoll-barriere-corail.php
+ 139. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/snorkeling-palmes-masque-tuba-plongee.php
+ 140. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/temps-de-vols-heures-paris.php
+ 141. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/corail-coraux-de-lagons.php
+ 142. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/poissons-de-lagons.php
+ 143. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/fleurs-exotiques-des-iles-tropicales.php
+ 144. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/plansite.php
+ 145. mailto:contact@lagons-plages.com
+ 146. https://www.lagons-plages.com/
+
+   Hidden links:
+ 148. file://localhost/Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-24.html

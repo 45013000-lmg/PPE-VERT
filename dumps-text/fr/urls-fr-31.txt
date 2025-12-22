@@ -1,0 +1,245 @@
+   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-5VXTCDC
+
+     * [2]Le Jeu
+       (BUTTON) Ouvrir le menu Le Jeu Replier le menu Le Jeu
+          + [3]Notre histoire
+          + [4]Les règles
+          + [5]Où acheter ?
+          + [6]Témoignages
+     * [7]La Boutique
+       (BUTTON) Ouvrir le menu La Boutique Replier le menu La Boutique
+          + [8]Mimetix Original
+          + [9]Mimetix s'envoie en l'air
+     * [10]Cadeaux entreprise
+     * [11]Blog
+       (BUTTON) Ouvrir le menu Blog Replier le menu Blog
+          + [12]Définitions des expressions
+          + [13]Origine des expressions
+          + [14]Ils parlent de nous
+     * [15]Contact
+     *
+     * [16]Se connecter
+     * [17]Créer un compte
+     * [18]Les règles
+     * [19]Prix
+     * [20]Notre Histoire
+     * [21]Blog
+     * [22]Commander
+     * [23]Contact
+     * [24]Où acheter le jeu ?
+     * [25]150 idées de mimes
+     * [26]Top 20 mimes déclencheurs de fous rires
+     * [27]Retour
+     * [28]Conditions Générales de vente
+     * [29]Politique de Remboursement
+     * [30]Mentions Légales
+     * [31]Origine des expressions
+     * [32]Définitions des expressions
+
+   (BUTTON) Navigation
+   [33]Mimetix
+     * [34]Le Jeu
+          + [35]Notre histoire
+          + [36]Les règles
+          + [37]Où acheter ?
+          + [38]Témoignages
+     * [39]La Boutique
+          + [40]Mimetix Original
+          + [41]Mimetix s'envoie en l'air
+     * [42]Cadeaux entreprise
+     * [43]Blog
+          + [44]Définitions des expressions
+          + [45]Origine des expressions
+          + [46]Ils parlent de nous
+     * [47]Contact
+     * [48]Se connecter
+     * [49]Rechercher
+     * [50]Panier
+
+   [51]Panier
+
+   Panier
+   (BUTTON) Fermer le panier
+
+Recevoir une volée de bois vert
+
+   Définition :
+
+   Recevoir de sévères réprimandes.
+
+L'histoire des expressions françaises
+     __________________________________________________________________
+
+[52]Tout feu tout flamme
+
+   Découvrez la signification, l’origine et quelques exemples
+   d’utilisation de l’expression « tout feu tout flamme ».
+
+   [53]Plus
+   [54]Taper dans l’oeil
+   Taper dans l’oeil
+
+[55]Taper dans l’oeil
+
+   Découvrez la signification, l’origine et des exemples d’utilisation de
+   l’expression « taper dans l’œil ».   Signification de l'expression
+   «taper dans l’œil»  L’expression désigne l’attirance d’une personne
+   pour un autre individu ou un...
+
+   [56]Plus
+
+[57]Se jeter dans la gueule du loup
+
+   Découvrez la signification, l’origine et quelques exemples
+   d’utilisation de l’expression « se jeter dans la gueule du loup ».
+
+   [58]Plus
+   [59]Tout afficher
+
+Titre du produit
+
+   Prix régulier Prix réduit
+   Prix unitaire / par
+   Taxes incluses. [60]Frais de port calculés à l'étape de paiement.
+     __________________________________________________________________
+
+   (BUTTON) Épuisé
+   Tous les détails
+
+ABONNEZ VOUS À LA NEWSLETTER
+
+   Pour qu'on puisse vous envoyer tous les bons plans et les nouveautés
+     __________________________________________________________________
+
+   Inscrivez-vous à notre infolettre
+   ____________________ (BUTTON) S'inscrire
+
+   Cette section ne contient actuellement aucun contenu. Ajoutez-en en
+   utilisant la barre latérale.
+     __________________________________________________________________
+
+     * [61]Les règles
+     * [62]Prix
+     * [63]Notre Histoire
+     * [64]Blog
+     * [65]Commander
+     * [66]Contact
+     * [67]Où acheter le jeu ?
+     * [68]150 idées de mimes
+
+     * [69]Top 20 mimes déclencheurs de fous rires
+     * [70]Retour
+     * [71]Conditions Générales de vente
+     * [72]Politique de Remboursement
+     * [73]Mentions Légales
+     * [74]Origine des expressions
+     * [75]Définitions des expressions
+
+     * [76]Facebook
+     * [77]Instagram
+     * [78]YouTube
+
+   © 2025, [79]Mimetix
+   [80]Commerce électronique propulsé par Shopify
+   Moyens de paiement
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+   ____________________ (BUTTON) Recherche
+
+     * Le choix d'une sélection entraîne l'actualisation d'une page
+       entière.
+     * Appuyez sur la touche espace puis sur les touches fléchées pour
+       faire une sélection.
+     * Utilisez les flèches gauche/droite pour naviguer dans le diaporama
+       ou glissez vers la gauche/droite sur un appareil mobile
+
+References
+
+   1. https://www.googletagmanager.com/ns.html?id=GTM-5VXTCDC
+   2. file:///collections/frontpage
+   3. file:///pages/notre-histoire
+   4. file:///pages/les-regles-du-jeu
+   5. file:///pages/ou-acheter-mimetix
+   6. https://mimetix.fr/blogs/infos/avis-et-temoignagnes-du-jeu-mimetix
+   7. file:///collections/frontpage
+   8. https://mimetix.fr/a/s/products/mimetix-le-jeu-de-mimes-des-expressions-francaises
+   9. https://mimetix.fr/a/s/products/mimetix-senvoie-en-lair
+  10. https://mimetix.fr/pages/cadeau-entreprises
+  11. file:///blogs/infos
+  12. file:///pages/definitions-des-expressions
+  13. file:///blogs/expressions-francaises
+  14. file:///blogs/infos
+  15. https://mimetix.myshopify.com/pages/contact
+  16. https://shopify.com/3189702691/account?locale=fr&region_country=FR
+  17. https://shopify.com/3189702691/account?locale=fr
+  18. file:///pages/les-regles-du-jeu
+  19. file:///products/mimetix-le-jeu-de-mimes-des-expressions-francaises
+  20. file:///pages/notre-histoire
+  21. file:///blogs/infos
+  22. https://mimetix.fr/a/s/products/mimetix-le-jeu-de-mimes-des-expressions-francaises
+  23. file:///pages/contact
+  24. file:///pages/ou-acheter-mimetix
+  25. file:///blogs/infos/150-mimes-pour-rire
+  26. https://mimetix.fr/blogs/infos/top-20-mimes-fous-rire
+  27. file:///pages/retour-formulaire-de-retractation
+  28. file:///policies/terms-of-service
+  29. file:///policies/refund-policy
+  30. https://mimetix.fr/pages/mentions-legales?ose=false
+  31. https://mimetix.fr/blogs/expressions-francaises
+  32. https://mimetix.fr/pages/definitions-des-expressions
+  33. file:///
+  34. file:///collections/frontpage
+  35. file:///pages/notre-histoire
+  36. file:///pages/les-regles-du-jeu
+  37. file:///pages/ou-acheter-mimetix
+  38. https://mimetix.fr/blogs/infos/avis-et-temoignagnes-du-jeu-mimetix
+  39. file:///collections/frontpage
+  40. https://mimetix.fr/a/s/products/mimetix-le-jeu-de-mimes-des-expressions-francaises
+  41. https://mimetix.fr/a/s/products/mimetix-senvoie-en-lair
+  42. https://mimetix.fr/pages/cadeau-entreprises
+  43. file:///blogs/infos
+  44. file:///pages/definitions-des-expressions
+  45. file:///blogs/expressions-francaises
+  46. file:///blogs/infos
+  47. https://mimetix.myshopify.com/pages/contact
+  48. file:///account
+  49. file:///search
+  50. file:///cart
+  51. file:///cart
+  52. file:///blogs/expressions-francaises/tout-feu-tout-flamme
+  53. file:///blogs/expressions-francaises/tout-feu-tout-flamme
+  54. file:///blogs/expressions-francaises/taper-dans-l-oeil
+  55. file:///blogs/expressions-francaises/taper-dans-l-oeil
+  56. file:///blogs/expressions-francaises/taper-dans-l-oeil
+  57. file:///blogs/expressions-francaises/se-jeter-dans-la-gueule-du-loup
+  58. file:///blogs/expressions-francaises/se-jeter-dans-la-gueule-du-loup
+  59. file:///blogs/expressions-francaises
+  60. file:///policies/shipping-policy
+  61. file:///pages/les-regles-du-jeu
+  62. file:///products/mimetix-le-jeu-de-mimes-des-expressions-francaises
+  63. file:///pages/notre-histoire
+  64. file:///blogs/infos
+  65. https://mimetix.fr/a/s/products/mimetix-le-jeu-de-mimes-des-expressions-francaises
+  66. file:///pages/contact
+  67. file:///pages/ou-acheter-mimetix
+  68. file:///blogs/infos/150-mimes-pour-rire
+  69. https://mimetix.fr/blogs/infos/top-20-mimes-fous-rire
+  70. file:///pages/retour-formulaire-de-retractation
+  71. file:///policies/terms-of-service
+  72. file:///policies/refund-policy
+  73. https://mimetix.fr/pages/mentions-legales?ose=false
+  74. https://mimetix.fr/blogs/expressions-francaises
+  75. https://mimetix.fr/pages/definitions-des-expressions
+  76. https://www.facebook.com/Mimetixlejeu/
+  77. https://www.instagram.com/mimetix/
+  78. https://www.youtube.com/channel/UCHunopmtQveGMUiDfjRSj8A
+  79. file:///
+  80. https://fr.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
