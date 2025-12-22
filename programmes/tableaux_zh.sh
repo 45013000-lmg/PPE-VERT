@@ -20,18 +20,14 @@ echo -e "<!DOCTYPE html>
   <title>Résultats du mini-projet</title>
 </head>
 <body>
-  <header>
-    <a href=\"../index/accueil.html\">Accueil</a>
-    <a href=\"../index/chinois.html\">Chinois</a>
-  </header>
   <section class=\"section\">
     <div class=\"container\">
-      <h1 class=\"title has-text-centered\">Tableau Français</h1>
+      <h1 class=\"title has-text-centered\">Tableau Chinois</h1>
       <table class=\"table\">
         <tr>
           <th>ligne</th>
           <th>code</th>
-          <th>Url</th>
+          <th>URL</th>
           <th>encodage</th>
           <th>aspirations</th>
           <th>dumps</th>
