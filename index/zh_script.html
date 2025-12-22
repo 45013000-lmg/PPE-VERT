@@ -1,1 +1,57 @@
- 
+ <!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Script — Captures & Explications</title>
+
+  <link rel="stylesheet" href="../assets/css/base.css">
+  <link rel="stylesheet" href="../assets/css/components.css">
+  <link rel="stylesheet" href="../assets/css/pages/script.css">
+</head>
+
+<body>
+
+  <main class="script-section">
+
+    <div class="script-block">
+      <div class="glass-container">
+        <img src="../script_image/zh/tableaux01" alt="Tableaux Script Capture 01">
+        <img src="../script_image/zh/tableaux02" alt="Tableaux Script Capture 02">
+        <img src="../script_image/zh/tableaux03" alt="Tableaux Script Capture 03">
+      </div>
+
+      <p class="script-caption">
+        <strong>Explication :</strong>
+        Ce script Bash automatise le traitement d’un corpus de pages web en chinois. À partir d’un fichier contenant une liste d’URL, il télécharge les pages, extrait leur contenu textuel, calcule les occurrences d’un mot chinois cible et génère automatiquement des fichiers de contexte et de concordance. L’ensemble des résultats est ensuite synthétisé dans un tableau HTML permettant une navigation structurée entre les différentes étapes du traitement.
+      </p>
+    </div>
+
+    <div class="script-block">
+      <div class="glass-container">
+        <img src="../script_image/zh/nuage01" alt="Nuage Orchestration Script Capture">
+      </div>
+
+      <p class="script-caption">
+        <strong>Explication :</strong>
+        Ce script Bash sert de point d’orchestration pour la génération d’un nuage de mots chinois. Il prépare les chemins, définit des paramètres par défaut et appelle un script Python spécialisé afin de transformer un corpus textuel chinois en une visualisation graphique. Cette séparation entre l’orchestration (Bash) et le traitement linguistique (Python) permet une meilleure lisibilité et une configuration simple du processus.
+      </p>
+    </div>
+
+    <div class="script-block">
+      <div class="glass-container">
+        <img src="../script_image/zh/nuage02" alt="Nuage Python Script Capture 02">
+        <img src="../script_image/zh/nuage03" alt="Nuage Python Script Capture 03">
+      </div>
+
+      <p class="script-caption">
+        <strong>Explication :</strong>
+        Ce script Python est dédié à la génération d’un nuage de mots à partir d’un corpus chinois. Il effectue la segmentation lexicale du texte, filtre les mots pertinents composés uniquement de caractères chinois, puis produit une visualisation graphique à l’aide d’un masque et de paramètres configurables. Le script est conçu pour être appelé par un programme Bash, ce qui permet d’intégrer facilement la génération du nuage de mots dans un pipeline de traitement plus large.
+      </p>
+    </div>
+
+  </main>
+
+</body>
+</html>
