@@ -4,7 +4,7 @@
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 ROOT_DIR="$(cd "$SCRIPT_DIR/../.." && pwd)"
 
-URLS=../../URLs/fr.txt
+URLS=../../URLs/urls-fr.txt
 TABLE=../../tableaux/fr_tableau.html
 MOT="\bvert\(e\|es\|s\)\?\b"
 
@@ -17,12 +17,13 @@ echo -e "
   <meta charset=\"UTF-8\" />
   <title>Tableau — Français</title>
   <link rel=\"stylesheet\" href=\"../assets/css/base.css\">
+  <link rel=\"stylesheet\" href=\"../assets/css/components.css\">
   <link rel=\"stylesheet\" href=\"../assets/css/pages/table.css\">
 </head>
 
 <body>
   <section class=\"section\">
-    <div class=\"container\">
+    <div class=\"glass-container\">
       <h1 class=\"title has-text-centered\">Tableau Français</h1>
       <table class=\"table\">
         <tr>
@@ -94,8 +95,6 @@ do
     lineno=$((lineno+1))
 done < "$URLS"
 
-rm metadata.tmp
-rm tmp.txt
 
 echo -e "
       </table>

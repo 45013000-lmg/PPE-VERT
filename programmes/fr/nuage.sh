@@ -12,8 +12,8 @@ iconv -f UTF-8 -t UTF-8 -c $ressource > $sortie_corpus
 set -e
 
 TEXT=$sortie_corpus
-MASK="$ROOT_DIR/nuages/mask.png"
-OUT="$ROOT_DIR/nuages/fr.png"
+MASK="$ROOT_DIR/nuage/mask.png"
+OUT="$ROOT_DIR/nuage/fr.png"
 FONT="$ROOT_DIR/assets/Latin-Arabe.ttf"
 
 MAX_WORDS=2000
