@@ -248,169 +248,171 @@
    与美国公民不同，永久居民在联邦层级没有选举权，通常在州一级也没有选举权（除非个别州的法律另有规定）。联邦政府、美国军队的部分职位也仅对美国公民
    开放。
 
-   永久居民在美国海外并不像公民一样能接受完整的来自美国政府的[174]領事保護，不过在紧急情况下（例如在[175]2019冠狀病毒病疫情全球撤僑
-   行動^[176][8]、[177]2021年喀布尔国际机场撤侨行动^[178][9]中），美国政府也为永久居民提供撤离当地、返回美国的服务，但
-   优先级次于美国公民。
+   永久居民在美国海外并不像公民一样能从美国政府接受完整的[174]領事保護，不过根据[175]美国国务院的《外交事务手册》（Foreign
+   Affairs Manual）^[176][8]和美军的[177]非战斗人员撤离行动（Noncombatant Evacuation
+   Operations
+   (NEO)）指南^[178][9]，永久居民及其配偶和未成年子女都是协助撤离的对象，典型案例包括[179]2019冠狀病毒病疫情全球撤僑行動^
+   [180][10]、[181]2021年喀布尔国际机场撤侨行动^[182][11]。
 
-   另外，美国永久居民可以持本国护照和绿卡免签证入境以下國家或地区：^[179][10]
-     *  [180]阿尔巴尼亚：90天^[181][11]
-     *  [182]安地卡及巴布達：30天^[183][12]
-     *  [184]巴哈马：30天^[185][13]
-     *  [186]百慕大^[187][14]
-     *  [188]波黑：90天
-     *  [189]英屬維爾京群島：30天^[190][15]
-     *  [191]加拿大：180天^[192][b]^[193][16]^[194][17]
-     *  [195]开曼群岛：30天^[196][18]
+   另外，美国永久居民可以持本国护照和绿卡免签证入境以下國家或地区：^[183][12]
+     *  [184]阿尔巴尼亚：90天^[185][13]
+     *  [186]安地卡及巴布達：30天^[187][14]
+     *  [188]巴哈马：30天^[189][15]
+     *  [190]百慕大^[191][16]
+     *  [192]波黑：90天
+     *  [193]英屬維爾京群島：30天^[194][17]
+     *  [195]加拿大：180天^[196][b]^[197][18]^[198][19]
+     *  [199]开曼群岛：30天^[200][20]
 
-     *  [197]哥斯达黎加：30天^[198][19]
-     *  [199]多米尼克：180天
-     *  [200]多米尼加：30天^[201][20]
-     *  [202]荷蘭加勒比區：30天^[203][21]^[204][22]
-     *  [205]格鲁吉亚：90天
-     *  [206]危地马拉：90天^[207][23]
-     *  [208]洪都拉斯：90天^[209][24]
-     *  [210]牙买加：90天^[211][25]
+     *  [201]哥斯达黎加：30天^[202][21]
+     *  [203]多米尼克：180天
+     *  [204]多米尼加：30天^[205][22]
+     *  [206]荷蘭加勒比區：30天^[207][23]^[208][24]
+     *  [209]格鲁吉亚：90天
+     *  [210]危地马拉：90天^[211][25]
+     *  [212]洪都拉斯：90天^[213][26]
+     *  [214]牙买加：90天^[215][27]
 
-     *  [212]科索沃：15天^[213][26]
-     *  [214]墨西哥：180天^[215][27]
-     *  [216]蒙特內哥羅：30天^[217][28]
-     *  [218]尼加拉瓜：90天
-     *  [219]巴拿马：90天^[220][29]
-     *  [221]塞爾維亞：90天^[222][30]
-     *  [223]特克斯和凯科斯群岛：30天
+     *  [216]科索沃：15天^[217][28]
+     *  [218]墨西哥：180天^[219][29]
+     *  [220]蒙特內哥羅：30天^[221][30]
+     *  [222]尼加拉瓜：90天
+     *  [223]巴拿马：90天^[224][31]
+     *  [225]塞爾維亞：90天^[226][32]
+     *  [227]特克斯和凯科斯群岛：30天
 
 移民身份类别
 
-   [[224]编辑]
+   [[228]编辑]
 
    美国《移民与国籍法》将寻求以移民（immigrant）身份入境美国的外国分为若干类别。常见两大类分别是“基于家庭的”（Family-based
-   ，简称FB，俗称团聚）和“基于雇佣的”（Employment-based，简称EB，俗称雇主担保）。其下的子类别主要包括：^[225][1]^
-   [226][31]
-     * 基于家庭关系^[227][32]
+   ，简称FB，俗称团聚）和“基于雇佣的”（Employment-based，简称EB，俗称雇主担保）。其下的子类别主要包括：^[229][1]^
+   [230][33]
+     * 基于家庭关系^[231][34]
           + IR：美国公民的配偶、21岁以下的未婚子女、父母（美国公民本人需要21岁以上；这也是唯一不受移民配额限制的亲属移民类别）
           + F-1：美国公民的的未婚子女(滿21歲)
           + F-2A：美国永久居民的配偶、未滿21岁的未婚子女
           + F-2B：美国永久居民的未婚子女(滿21歲)
           + F-3：美国公民的已婚子女
           + F-4：美国公民的兄弟姐妹（美国公民本人需要21岁以上）
-     * 基于雇佣关系（通常申请人可以携配偶或21岁以下未婚子女作为受益者一起申请）^[228][33]
-          + [229]EB-1^[230][34]
+     * 基于雇佣关系（通常申请人可以携配偶或21岁以下未婚子女作为受益者一起申请）^[232][35]
+          + [233]EB-1^[234][36]
                o 科学、文藝、教育、商业、体育方面的杰出人才
                o 行业内广为认可的职业和研究领域杰出人才（至少三年领域内教学或研究经验）
                o 通过公司内部调动转到美国境内美海外分部经理）
-          + [231]EB-2^[232][34]
+          + [235]EB-2^[236][36]
                o 拥有高阶学位（博士、硕士或取得学士学位外加至少五年专业经验）的专业人员
                o 在科学、文藝、商业领域具有优秀的特殊才能专业人员
-          + [233]EB-3^[234][34]
+          + [237]EB-3^[238][36]
                o 熟练技能劳工
                o 专业人员
                o 其他劳工
-          + [235]EB-4：特殊职业移民：宗教工作者、特殊青少年移民、特定广播公司雇员、特定国际组织或[236]北约雇员、美国政府或
-            [237]美国武装部队成员、[238]巴拿马运河公司或运河区政府雇员、特定医师、美国机构的阿富汗、伊拉克籍雇员、[239]国
-            际安全援助部队成员等^[240][34]
-          + [241]EB-5：投资人士^[242][34]
-     * [243]多元化移民签证
-     * [244]庇护（英语：[245]Asylum in the United States）^[246][35]
-     * 难民^[247][36]
+          + [239]EB-4：特殊职业移民：宗教工作者、特殊青少年移民、特定广播公司雇员、特定国际组织或[240]北约雇员、美国政府或
+            [241]美国武装部队成员、[242]巴拿马运河公司或运河区政府雇员、特定医师、美国机构的阿富汗、伊拉克籍雇员、[243]国
+            际安全援助部队成员等^[244][36]
+          + [245]EB-5：投资人士^[246][36]
+     * [247]多元化移民签证
+     * [248]庇护（英语：[249]Asylum in the United States）^[250][37]
+     * 难民^[251][38]
 
 移民申请程序
 
-   [[248]编辑]
-   [249][250px-USANewImmigrantGuide.jpg] 随绿卡一起发给新移民的欢迎指南
+   [[252]编辑]
+   [253][250px-USANewImmigrantGuide.jpg] 随绿卡一起发给新移民的欢迎指南
 
    希望获得永久居民身份的外籍人士通常需要经历以下几个步骤。由于美国公民直系亲属（即IR）以外的常见移民类别均受配额限制，即任何国家出生的申请者在
    一年总共能使用的移民配额数量受到限制，根据移民申请的类别和受益人的出生国家，整个过程或耗费数年时间。某些身份的申请者（如美国境内的庇护申请者和
-   以难民身份入境的外国人）可以直接进行[250]身份调整程序。
+   以难民身份入境的外国人）可以直接进行[254]身份调整程序。
 
 递交移民提名书
 
-   [[251]编辑]
-   参见：[252]I-130 (表格)和[253]I-140 (表格)
+   [[255]编辑]
+   参见：[256]I-130 (表格)和[257]I-140 (表格)
 
-   希望移民美国的人必须通过其在美国的亲属、雇主向美国公民及移民服务局递交移民提名书（petition）。担保的亲属和雇主通常分别需要递交[254
-   ]I-130表格^[255][37]、[256]I-140表格^[257][38]。没有得到国家利益豁免的[258]EB-2移民和所有[259
-   ]EB-3移民，雇主递交移民提名时还要同时递交[260]美国劳工部已经批准的[261]永久劳工证。EB-1、有国家利益豁免的EB-2和EB-5
+   希望移民美国的人必须通过其在美国的亲属、雇主向美国公民及移民服务局递交移民提名书（petition）。担保的亲属和雇主通常分别需要递交[258
+   ]I-130表格^[259][39]、[260]I-140表格^[261][40]。没有得到国家利益豁免的[262]EB-2移民和所有[263
+   ]EB-3移民，雇主递交移民提名时还要同时递交[264]美国劳工部已经批准的[265]永久劳工证。EB-1、有国家利益豁免的EB-2和EB-5
    移民无需雇主担保工作。
 
 等待签证可用
 
-   [[262]编辑]
+   [[266]编辑]
 
-   移民申请获得批准之后，大部分申请者需要关注[263]美国国务院下属的国家签证中心（National Visa
-   Center）发布的签证可用日期^[264][34]。根据1965年的《移民和国籍法》，美国每年对大多数移民类别实行配额制，某一类的移民在当年
+   移民申请获得批准之后，大部分申请者需要关注[267]美国国务院下属的国家签证中心（National Visa
+   Center）发布的签证可用日期^[268][36]。根据1965年的《移民和国籍法》，美国每年对大多数移民类别实行配额制，某一类的移民在当年
    的可用数量可能不够当年获得批准的申请者数量。这时，那些早获得移民批准的申请者可以享有签证的优先权，而其他申请者需要根据自己移民申请得到批准的时
-   间（称为“[265]优先日期（英语：[266]Priority
+   间（称为“[269]优先日期（英语：[270]Priority
    date）”，俗称“排期”）等待一段时间，直到轮到自己优先。美国公民的直系亲属（配偶、父母或21岁以下未成年子女）的移民不受配额限制，他们可以
-   直接开始申请的第三步。^[267][34]
+   直接开始申请的第三步。^[271][36]
 
 确立移民（合法永久居民）身份
 
-   [[268]编辑]
+   [[272]编辑]
 
    在此步骤中，当申请所在类别的移民签证尚有余额、优先日期在美国国务院公布的日期之前时，位于美国境内的申请人可以向美国公民及移民服务局递交I-48
    5表格，申请将目前的非移民身份调整为永久居民（移民）身份，然后等待自己的优先日期到达美国国务院公布的最终移民批准日期，即可获得最终批准。如果申
-   请者此时身处美国境外，则可以在境外的美国大使馆或领事馆向[269]美国国务院申请移民签证，然后前往美国入境口岸寻求获准以移民身份入境美国（ad
+   请者此时身处美国境外，则可以在境外的美国大使馆或领事馆向[273]美国国务院申请移民签证，然后前往美国入境口岸寻求获准以移民身份入境美国（ad
    mitted into the United States as an immigrant），在入境后即确立合法永久居民身份。
 
    如果是通过婚姻方式移民，则仅能获得有条件的永久居民身份，在两年条件期到期之时，还需要递交I-751表格（申请移除居留权条件）以获得完整的无条件
-   永久居民身份。^[270][39]
+   永久居民身份。^[274][41]
 
-   根據2020年1月27日[271]美國最高法院的裁決，若有非美國公民在美國享用了包括[272]低收入医保（英语：[273]Medicaid）、
-   食品券和住房补贴券等公共福利，美國政府可以拒絕批准其移民申请。不过，2021年[274]乔·拜登当选总统后，[275]美国最高法院开始考虑重审
-   该规则。^[276][40]
+   根據2020年1月27日[275]美國最高法院的裁決，若有非美國公民在美國享用了包括[276]低收入医保（英语：[277]Medicaid）、
+   食品券和住房补贴券等公共福利，美國政府可以拒絕批准其移民申请。不过，2021年[278]乔·拜登当选总统后，[279]美国最高法院开始考虑重审
+   该规则。^[280][42]
 
 在美国境内进行身份调整
 
-   [[277]编辑]
-   主条目：[278]身份调整
+   [[281]编辑]
+   主条目：[282]身份调整
 
-   参见：[279]预先假释和[280]就业授权文档
+   参见：[283]预先假释和[284]就业授权文档
 
-   如果此时申请人已经在美国境内，则可以递交[281]身份调整。除非申请者是美国公民的直系亲属，申请者在整个身份调整期间必须保持合法的居留身份。如
+   如果此时申请人已经在美国境内，则可以递交[285]身份调整。除非申请者是美国公民的直系亲属，申请者在整个身份调整期间必须保持合法的居留身份。如
    果移民申请（前面提到的第一个步骤）时尚有可用的签证（美国公民的直系亲属由于拥有无限的移民配额，所以也属于此情况），则那时可以与移民申请同步递交
-   身份调整申请。^[282][34]美国国公民及移民服务局收到身份调整申请之后，会进行一系列背景审查（包括指纹收集、犯罪情况调查和人名审查），并
-   对申请做出决定。一旦美国公民及移民服务局收到身份调整申请，外籍人士就可以在美国境内无限期居留，即使其[283]I-94表格此时已经过期，不过此
+   身份调整申请。^[286][36]美国国公民及移民服务局收到身份调整申请之后，会进行一系列背景审查（包括指纹收集、犯罪情况调查和人名审查），并
+   对申请做出决定。一旦美国公民及移民服务局收到身份调整申请，外籍人士就可以在美国境内无限期居留，即使其[287]I-94表格此时已经过期，不过此
    时外籍人士通常不被建议离开美国，直到最后申请被批准。
 
    在某些情况下，例如通过婚姻关系申请移民，申请者需要前往美国公民及移民服务局进行面谈。最终，如果身份调整申请获得批准，外籍人士即成为合法永久居民
    。
 
    处于身份调整阶段的外籍人士如果需要离开美国，他既可以使用尚在有效期内的签证返美，也可以在境外美国的使领馆重新申请签证返美，还可以在离开美国之前
-   向美国公民及移民服务局申请[284]预先假释（俗称“回美证”、“AP”）。第三种选择是已提交485表格的申请者的特殊福利，允许他们在身份调整程
-   序完成之前提前享有无需签证即可返回美国的便利。^[285][41]
+   向美国公民及移民服务局申请[288]预先假释（俗称“回美证”、“AP”）。第三种选择是已提交485表格的申请者的特殊福利，允许他们在身份调整程
+   序完成之前提前享有无需签证即可返回美国的便利。^[289][43]
 
    如果申请者已有的工作许可在这段时间出现可能的过期或失效（例如公司进行裁员）情况，或者申请者本来没有工作许可却希望此时开始工作，则可以通过递交I
-   -765表格以申请[286]就业授权文档（EAD卡），取得该文件后就可以在美国境内工作。不过需要注意，如果在持有H-1B身份时使用这项文件为不
-   同的雇主工作，那么申请者原有的H-1B身份将会丧失。^[287][42]^[288][43]
+   -765表格以申请[290]就业授权文档（EAD卡），取得该文件后就可以在美国境内工作。不过需要注意，如果在持有H-1B身份时使用这项文件为不
+   同的雇主工作，那么申请者原有的H-1B身份将会丧失。^[291][44]^[292][45]
 
    从2011年起，已经提交I-485表格的申请者可以申请所谓的”组合卡（Combo
    Card）”的卡片，它将就业授权文档和预先假释的效力集中在同一张卡片上。已经提交I-485表格、尚未得到批准的申请者使用这张卡片在一定程度上能
    享有和绿卡持有人相似的就业、出入境方面的便利。但是使用者需要在使用这两项便利前，仔细研究使用这些便利时，是否造成自己移民身份、工作许可方面的变
-   化，及这些变化对移民申请造成的影响。^[289][44]
+   化，及这些变化对移民申请造成的影响。^[293][46]
 
 海外领事流程
 
-   [[290]编辑]
+   [[294]编辑]
 
    该流程是针对此时尚身处美国境外的移民申请者，或不符合身份调整资格的美国境内申请者。他们需要向美国境外的大使馆或领事馆递交之前已获得的移民批准和
    其他相关材料，以获得从外国进入美国的一次性移民签证。大使馆或领事馆的签证官员根据获得的材料以及面谈的内容，决定是否给申请者移民签证。一旦移民签
    证获得批准，外籍人士可以持移民签证进入美国，并在入境美国时成为永久居民。美国机场的移民官员会在他们的本国护照上加盖I-551戳（作为绿卡邮寄前
    的临时身份证明供出入境、就业等用途），并安排绿卡的制卡和邮寄流程。正式的永久民卡会在几周后邮寄给该永久居民。之后，永久居民可以使用它在出国旅行
-   后再次进入美国。^[291][45]
+   后再次进入美国。^[295][47]
 
 绿卡的更新
 
-   [[292]编辑]
+   [[296]编辑]
 
    绿卡和很多其他证件（例如各国的身份证件、驾照等）类似，本身具有有效期（一般为10年，部分基于婚姻的绿卡为2年），永久居民需要在绿卡到期前申请换
    发，而美国公民及移民服务局会检视资料决定是否签发新的绿卡。未能及时更新绿卡并不会导致永久居民身份的丢失，除非该外籍人士仅获得条件永久居民身份。
-   不过，外籍人士还是应该尽早更新绿卡，因为这是他们在美国境内的工作许可和出入美国的旅行证件。未按期更新绿卡不会导致罚款^[293][46]，但《
+   不过，外籍人士还是应该尽早更新绿卡，因为这是他们在美国境内的工作许可和出入美国的旅行证件。未按期更新绿卡不会导致罚款^[297][48]，但《
    移民和国籍法》第264(e)条要求十八岁以上的合法永久居民随身携带有效绿卡，违反该条款将构成一项轻罪，可处不超过100美元罚款、或监禁不超过3
    0天、或二者兼施。
 
 合法永久居民身份的丧失
 
-   [[294]编辑]
+   [[298]编辑]
 
    合法永久居民身份是《移民与国籍法》下的一个移民法身份（immigration
    status），只要当事人不离开美国，该身份是永久有效的，除非当事人因移民欺诈或犯有严重刑事犯罪等原因，被依法撤销身份或驱逐出境。然而，美国移
@@ -448,21 +450,21 @@
 
    通过上述的移民法条款，美国要求合法永久居民保持在美国的居住状态，若要离开美国只能在订明的情形或条件下临时访问外国（temporary
    visit
-   abroad），否则就必须重新申请移民^[295][47]，而不能适用《移民与国籍法》第101(a)(27)(A)条作为“归来移民”入境。这一
+   abroad），否则就必须重新申请移民^[299][49]，而不能适用《移民与国籍法》第101(a)(27)(A)条作为“归来移民”入境。这一
    要求俗称“移民监”，但美国的“移民监”没有具体、明确的规定（例如加拿大规定为过去五年内必须住满至少730天）。
 
-   当事人离开美国是否构成第101(a)(27)(A)条下的“临时外国访问”，是根据[296]美國海關及邊境保衛局（CBP）的行政惯例和美国移民法
+   当事人离开美国是否构成第101(a)(27)(A)条下的“临时外国访问”，是根据[300]美國海關及邊境保衛局（CBP）的行政惯例和美国移民法
    庭的司法判例来确定的。CBP在《欢迎来到美国：新移民指南》中说，永久居民离开美国的时间如果超过一年，或者介于六个月与一年之间但有证据证明当事人
-   “无意将美国当成永久的家”，则可能丧失永久居民身份（即可能无法以合法永久居民身份再入境）；CBP建议拟离境超过一年的合法永久居民预先申请[29
-   7]再入境许可，并在下次入境时出示该文件^[298][48]。不過有律师指出，如果有辦法出具不可抗力之理由，證明自己仍有意圖長期居留，即使超過
-   一年也是有成功再入境的可能性^[299][49]。
+   “无意将美国当成永久的家”，则可能丧失永久居民身份（即可能无法以合法永久居民身份再入境）；CBP建议拟离境超过一年的合法永久居民预先申请[30
+   1]再入境许可，并在下次入境时出示该文件^[302][50]。不過有律师指出，如果有辦法出具不可抗力之理由，證明自己仍有意圖長期居留，即使超過
+   一年也是有成功再入境的可能性^[303][51]。
 
-   永久居民通过向[300]美国公民及移民服务局递交I-407表格可以主动自愿地放弃永久居民身份^[301][50]。签署I-407表格是纯粹的自
+   永久居民通过向[304]美国公民及移民服务局递交I-407表格可以主动自愿地放弃永久居民身份^[305][52]。签署I-407表格是纯粹的自
    愿行为，且意味着当事人将放弃在美国移民法庭寻求听证的权利。
 
    除了主动放弃的情况，CBP有权力在当事人返回美国寻求再入境时以行政方式认定某人不再具有永久居民身份。在认定永久居民身份时，只有一条唯一而绝对的
    规则：如果当事人离境超过一年但只能出示绿卡而不能提示其他证据，则会认定为已放弃美国的永久居住权。在其他情况下，行政当局将权衡当事人的家庭关系、
-   财产、商业关系、社会组织成员资格、就业状况和是否提交美国纳税申报表^[302][51]。CBP的行政认定并不是终局的，当事人有要求移民法庭召开
+   财产、商业关系、社会组织成员资格、就业状况和是否提交美国纳税申报表^[306][53]。CBP的行政认定并不是终局的，当事人有要求移民法庭召开
    听证会的权利，并在听证会上尝试推翻CBP的认定。
 
    永久居民即便身在美国也有可能丧失其身份。例如永久居民的犯罪行为可以导致该外籍人士被递解出境，又例如被发现在移民申请过程中有造假行为将导致其身份
@@ -473,67 +475,71 @@
 
 合法永久居民归化入籍
 
-   [[303]编辑]
+   [[307]编辑]
 
-   美国永久居民在美国连续居住满五年时间后可以提交[304]N-400表格申请归化成为[305]美国公民（如果是通过和美国公民结婚获得移民身份，则
-   连续居住时间可以缩短至三年；在美国军队服役达到1年的绿卡持有者可以提前申请入籍）。^[306][6]如果永久居民在这段时间每次离开美国的时间均
+   美国永久居民在美国连续居住满五年时间后可以提交[308]N-400表格申请归化成为[309]美国公民（如果是通过和美国公民结婚获得移民身份，则
+   连续居住时间可以缩短至三年；在美国军队服役达到1年的绿卡持有者可以提前申请入籍）。^[310][6]如果永久居民在这段时间每次离开美国的时间均
    在半年以内，则不影响连续居住时间；如果超过半年但未超过一年，则需要在入籍时提交合理的条件予以豁免；如果离开超过一年时间，则需要完全重新开始计算
    连续居住时间。永久居民可以在居住时间满足条件之前的90天内递交申请。永久居民成为美国公民之后，将享有更多的权利、履行更多的义务。
 
-   根据[307]美国国土安全部的报告，截至2010年，美国境内有1270万合法永久居民符合申请归化入籍的条件。^[308][52]
+   根据[311]美国国土安全部的报告，截至2010年，美国境内有1270万合法永久居民符合申请归化入籍的条件。^[312][54]
 
 注释
 
-   [[309]编辑]
+   [[313]编辑]
 
-    1. [310]^ 部分基于婚姻的绿卡首次签发时有效期仅2年，2年后可以申请换发有效期为10年的绿卡。
-    2. [311]^ 需要像其他免签国家旅客一样申请[312]电子旅行证。2022年4月26日起，这项要求被豁免。
+    1. [314]^ 部分基于婚姻的绿卡首次签发时有效期仅2年，2年后可以申请换发有效期为10年的绿卡。
+    2. [315]^ 需要像其他免签国家旅客一样申请[316]电子旅行证。2022年4月26日起，这项要求被豁免。
 
 参考文献
 
-   [[313]编辑]
+   [[317]编辑]
 
-    1. ^ [314]^1.0 [315]^1.1 [316]Green Card. USCIS. [2016-04-09].
-       （[317]原始内容存档于2018-09-23）.
-    2. [318]^ Baker, Bryan. [319]Estimates of the Lawful Permanent
+    1. ^ [318]^1.0 [319]^1.1 [320]Green Card. USCIS. [2016-04-09].
+       （[321]原始内容存档于2018-09-23）.
+    2. [322]^ Baker, Bryan. [323]Estimates of the Lawful Permanent
        Resident Population in the United States and the Subpopulation
-       Eligible to Naturalize: 2015-2019 (PDF). [320]United States
+       Eligible to Naturalize: 2015-2019 (PDF). [324]United States
        Department of Homeland Security. September 2019 [2023-04-14].
-       （原始内容[321]存档 (PDF)于2023-06-11）.
-    3. [322]^ Dowd, Alan. [323]What a Country: Immigrants Serve US
+       （原始内容[325]存档 (PDF)于2023-06-11）.
+    3. [326]^ Dowd, Alan. [327]What a Country: Immigrants Serve US
        Military Well. providencemag.com. April 2, 2018 [September 22,
-       2018]. （原始内容[324]存档于September 23, 2018）.
-    4. [325]^ [326]New Design: The Green Card Goes Green. USCIS.
-       [2016-04-09]. （[327]原始内容存档于2016-04-16）.
-    5. [328]^ [329]USCIS Announces Redesigned Green Card: Fact Sheet and
+       2018]. （原始内容[328]存档于September 23, 2018）.
+    4. [329]^ [330]New Design: The Green Card Goes Green. USCIS.
+       [2016-04-09]. （[331]原始内容存档于2016-04-16）.
+    5. [332]^ [333]USCIS Announces Redesigned Green Card: Fact Sheet and
        FAQ. American Immigration Lawyers Association Website.
-       [2016-04-09]. （[330]原始内容存档于2021-03-14）.
-    6. ^ [331]^6.0 [332]^6.1 [333]Citizenship Through Naturalization.
-       USCIS. [2016-04-09]. （[334]原始内容存档于2020-07-11）.
-    7. [335]^ [336]Do I need to carry my green card with me?. CitizenPath.
-       [2016-04-09]. （[337]原始内容存档于2017-03-05）.
-    8. [338]^ [339]EVACUATION OF AMERICANS FROM WUHAN, CHINA. U.S. EMBASSY
+       [2016-04-09]. （[334]原始内容存档于2021-03-14）.
+    6. ^ [335]^6.0 [336]^6.1 [337]Citizenship Through Naturalization.
+       USCIS. [2016-04-09]. （[338]原始内容存档于2020-07-11）.
+    7. [339]^ [340]Do I need to carry my green card with me?. CitizenPath.
+       [2016-04-09]. （[341]原始内容存档于2017-03-05）.
+    8. [342]^ [343]7 FAM 1800 Appendix D crisis evacuation loans and
+       evacuation documentation. 美国国务院. [2025-12-21].
+    9. [344]^ [345]NONCOMBATANT EVACUEEOPERATIONS (PDF). 美国陆军.
+       [2025-12-21].
+   10. [346]^ [347]EVACUATION OF AMERICANS FROM WUHAN, CHINA. U.S. EMBASSY
        & CONSULATES IN CHINA. 2020-02-11 [2021-09-05].
-       （[340]原始内容存档于2022-06-18）.
-    9. [341]^ [342]Stranded in Kabul: A U.S. Resident Runs Out of Options.
-       New York Times. 2021-08-31 [2021-09-05]. （[343]原始内容存档于2021-09-08）.
-   10. [344]^ [345]Countries that Offer a Visa Waiver for US Green Card
-       Holders. Path2US. [2016-04-09]. （[346]原始内容存档于2020-11-12）.
-   11. [347]^ "[348]Visa Regime for Foreign Citizens
-       [349]互联网档案馆的[350]存檔，存档日期February 1, 2019，.". Ministria per Evropën
+       （[348]原始内容存档于2022-06-18）.
+   11. [349]^ [350]Stranded in Kabul: A U.S. Resident Runs Out of Options.
+       New York Times. 2021-08-31 [2021-09-05]. （[351]原始内容存档于2021-09-08）.
+   12. [352]^ [353]Countries that Offer a Visa Waiver for US Green Card
+       Holders. Path2US. [2016-04-09]. （[354]原始内容存档于2020-11-12）.
+   13. [355]^ "[356]Visa Regime for Foreign Citizens
+       [357]互联网档案馆的[358]存檔，存档日期February 1, 2019，.". Ministria per Evropën
        dhe Punët e Jashtme. January 11, 2018. "Foreigners that have a
        valid visa from the United States of America (USA) or United
        Kingdom (UK), with multiple entries, that has been used previously
        to enter that country, and/or those that have a valid Residence
        Permit in USA or UK."
-   12. [351]^ "[352]Visa on Arrival [353]互联网档案馆的[354]存檔，存档日期January 28,
+   14. [359]^ "[360]Visa on Arrival [361]互联网档案馆的[362]存檔，存档日期January 28,
        2019，.". Antigua and Barbuda Department of Immigration, Ministry of
        Foreign Affairs, International Trade and Immigration. Retrieved
        February 8, 2019. "Visas may be granted on arrival: To persons who
        are holders of a valid: United States Visa or permanent Resident
        Card; or A Canadian Visa or permanent Resident Card, or A United
        Kingdom Visa or Resident Card, or A Schengen Visa."
-   13. [355]^ "[356]Entering The Bahamas [357]互联网档案馆的[358]存檔，存档日期February
+   15. [363]^ "[364]Entering The Bahamas [365]互联网档案馆的[366]存檔，存档日期February
        4, 2016，.". Department of Immigration. Government of the Bahamas.
        Retrieved February 8, 2019. "All persons entering The Bahamas
        require a Bahamian visa except the following persons: United States
@@ -541,17 +547,17 @@
        eight (8) months. Alien residents of the United States who, upon
        arrival, are in possession of United States Alien Registration
        Cards for visits not exceeding thirty (30)天."
-   14. [359]^ "[360]Immigration". Government of Bermuda. May 22, 2008.
-       Archived from [361]the original on October 17, 2007.
-   15. [362]^ [363]British Virgin Islands International Travel
+   16. [367]^ "[368]Immigration". Government of Bermuda. May 22, 2008.
+       Archived from [369]the original on October 17, 2007.
+   17. [370]^ [371]British Virgin Islands International Travel
        Information. travel.state.gov. [19 August 2020].
-       （原始内容[364]存档于2023-09-10）.
-   16. [365]^ "[366]Countries/Territories requiring visas
-       [367]互联网档案馆的[368]存檔，存档日期July 29, 2017，.". Cic.gc.ca. July 11, 2011.
+       （原始内容[372]存档于2023-09-10）.
+   18. [373]^ "[374]Countries/Territories requiring visas
+       [375]互联网档案馆的[376]存檔，存档日期July 29, 2017，.". Cic.gc.ca. July 11, 2011.
        Retrieved April 5, 2012.
-   17. [369]^ [370]Find out about Electronic Travel Authorization (eTA).
-       April 25, 2022. （原始内容[371]存档于2020-03-13）.
-   18. [372]^ "[373]List of Countries [374]互联网档案馆的[375]存檔，存档日期December 30,
+   19. [377]^ [378]Find out about Electronic Travel Authorization (eTA).
+       April 25, 2022. （原始内容[379]存档于2020-03-13）.
+   20. [380]^ "[381]List of Countries [382]互联网档案馆的[383]存檔，存档日期December 30,
        2017，.". Immigration. Government of the Cayman Islands. Retrieved
        February 8, 2019. "Exemptions. Even if you are a national of one of
        the countries listed above, you will NOT require a visa to enter
@@ -562,7 +568,7 @@
        arrival a valid United States Alien Registration Card; and you
        produce on arrival a return or round trip ticket to the United
        States."
-   19. [376]^ "[377]Consular Visa [378]互联网档案馆的[379]存檔，存档日期March 30,
+   21. [384]^ "[385]Consular Visa [386]互联网档案馆的[387]存檔，存档日期March 30,
        2019，.". Embassy of Costa Rica in Washington, D.C.. Retrieved
        February 8, 2018. "Situations that do not need tourist visa to
        enter Costa Rica. Nationals of countries that require a VISA to
@@ -577,17 +583,17 @@
        of entry into the country and once in Costa Rica, you can remain
        for a maximum of 30 calendar days, An extension of the stay must be
        requested at the Office of Migration in Costa Rica."
-   20. [380]^ "[381]Embassy of the Dominican Republic, in the United
-       States [382]互联网档案馆的[383]存檔，存档日期December 17, 2011，.". Domrep.org.
+   22. [388]^ "[389]Embassy of the Dominican Republic, in the United
+       States [390]互联网档案馆的[391]存檔，存档日期December 17, 2011，.". Domrep.org.
        Retrieved August 16, 2014.
-   21. [384]^ "[385]Do I need a visa for the Caribbean parts of the
-       Kingdom? [386]互联网档案馆的[387]存檔，存档日期June 21, 2019，.".
+   23. [392]^ "[393]Do I need a visa for the Caribbean parts of the
+       Kingdom? [394]互联网档案馆的[395]存檔，存档日期June 21, 2019，.".
        Netherlandsandyou.nl. Kingdom of the Netherlands. Retrieved
        February 8, 2019. "Do I need a visa for the Caribbean parts of the
        Kingdom? ... If you hold a permanent residence permit for the
        United States or Canada, you do not need a visa."
-   22. [388]^ "[389]Aruba Entry Requirements
-       [390]互联网档案馆的[391]存檔，存档日期January 14, 2019，.". Visit Aruba. Carib
+   24. [396]^ "[397]Aruba Entry Requirements
+       [398]互联网档案馆的[399]存檔，存档日期January 14, 2019，.". Visit Aruba. Carib
        Media. Retrieved February 8, 2019. "Visa required persons exempted
        from the visa requirement. Click here to download a list of
        nationals who need a Visa to travel to Aruba. The following
@@ -596,17 +602,17 @@
        permanent) from: another part of the Kingdom of the Netherlands;
        the United States of America; Canada, The Schengen Territory,
        United Kingdom, Ireland."
-   23. [392]^ [393]Guatemala International Travel Information.
-       travel.state.gov. [19 August 2020]. （原始内容[394]存档于2023-09-10）.
-   24. [395]^ [396]Honduras International Travel Information.
-       travel.state.gov. [19 August 2020]. （原始内容[397]存档于2023-09-10）.
-   25. [398]^ [399]Jamaica International Travel Information.
-       travel.state.gov. [19 August 2020]. （原始内容[400]存档于2023-09-11）.
-   26. [401]^ [402]Embassy of the Republic Kosovo, in Washington DC.
-       [August 12, 2016]. （原始内容[403]存档于June 21, 2016）.
-   27. [404]^ [405]Instituto Nacional de Migracion. www.inm.gob.mx.
-       [August 4, 2015]. （原始内容[406]存档于July 12, 2015）.
-   28. [407]^ "[408]Montenegro Visa Regimes [409]互联网档案馆的[410]存檔，存档日期April
+   25. [400]^ [401]Guatemala International Travel Information.
+       travel.state.gov. [19 August 2020]. （原始内容[402]存档于2023-09-10）.
+   26. [403]^ [404]Honduras International Travel Information.
+       travel.state.gov. [19 August 2020]. （原始内容[405]存档于2023-09-10）.
+   27. [406]^ [407]Jamaica International Travel Information.
+       travel.state.gov. [19 August 2020]. （原始内容[408]存档于2023-09-11）.
+   28. [409]^ [410]Embassy of the Republic Kosovo, in Washington DC.
+       [August 12, 2016]. （原始内容[411]存档于June 21, 2016）.
+   29. [412]^ [413]Instituto Nacional de Migracion. www.inm.gob.mx.
+       [August 4, 2015]. （原始内容[414]存档于July 12, 2015）.
+   30. [415]^ "[416]Montenegro Visa Regimes [417]互联网档案馆的[418]存檔，存档日期April
        4, 2019，.". Visit Montenegro. Holders of travel documents
        containing a valid Schengen visa, a valid visa of the United States
        of America, United Kingdom and Northern Ireland and the Republic of
@@ -614,7 +620,7 @@
        stay, or pass through the territory of Montenegro up to 30 days,
        and not longer than the expiry of visa, if the period of validity
        of the visa is less than 30 days."
-   29. [411]^ "[412]Immigration and Visas". Embassy of Panama in
+   31. [419]^ "[420]Immigration and Visas". Embassy of Panama in
        Washington, D.C. Retrieved 8 2019. "Visa Waiver: There is a Law in
        effect regarding tourist visas for entering the Republic of Panama;
        EXECUTIVE DECREE # 591 states that: “Those who hold a valid
@@ -623,73 +629,73 @@
        countries: USA, Australia, Canada, or United Kingdom, which has
        been used at least one time to enter these countries, may enter the
        Republic of Panama regardless of their nationality."
-       [413]互联网档案馆的[414]存檔，存档日期February 9, 2019，.
-   30. [415]^ "[416]Travel to Serbia [417]互联网档案馆的[418]存檔，存档日期April 6,
+       [421]互联网档案馆的[422]存檔，存档日期February 9, 2019，.
+   32. [423]^ "[424]Travel to Serbia [425]互联网档案馆的[426]存檔，存档日期April 6,
        2016，.". Embassy of the Republic of Serbia in Washington, D.C.
        Retrieved February 8, 2019. "Foreign nationals who have a valid US
        visa or lawful residence in the United States (green card) may
        enter the Republic of Serbia without visas and stay no longer than
        90 days within six month period. Visa must be valid for the whole
        duration of stay in the Republic of Serbia."
-   31. [419]^ [420]8 U.S.C. § 101 et seq. USCIS. [2016-04-09].
-       （[421]原始内容存档于2017-06-03）.
-   32. [422]^ [423]Family-Based Immigrant Visas. United States Department
-       of State. [2017-05-25]. （[424]原始内容存档于2017-09-07）.
-   33. [425]^ [426]Employment-Based Immigrant Visa. United States
-       Department of State. [2017-05-25]. （[427]原始内容存档于2017-09-07）.
-   34. ^ [428]^34.0 [429]^34.1 [430]^34.2 [431]^34.3 [432]^34.4 [433]^34.5
-       [434]^34.6 [435]^34.7 [436]Visa Bulletin. United States Department
-       of State. [2016-04-09]. （[437]原始内容存档于2017-01-18）.
-   35. [438]^ [439]Asylum. USCIS. [2022-01-10]. （[440]原始内容存档于2020-01-28）.
-   36. [441]^ [442]Refugees. USCIS. [2022-01-10].
-       （原始内容[443]存档于2023-09-16）.
-   37. [444]^ [445]I-130, Petition for Alien Relative. USCIS.
-       [2016-04-09]. （[446]原始内容存档于2021-05-04）.
-   38. [447]^ [448]I-140, Immigrant Petition for Alien Worker. USCIS.
-       [2016-04-09]. （[449]原始内容存档于2011-01-14）.
-   39. [450]^ [451]I-751, Petition to Remove Conditions on Residence.
-       USCIS. [2016-04-09]. （[452]原始内容存档于2021-04-22）.
-   40. [453]^ [454]Supreme Court to Review Trump’s Controversial ‘Public
+   33. [427]^ [428]8 U.S.C. § 101 et seq. USCIS. [2016-04-09].
+       （[429]原始内容存档于2017-06-03）.
+   34. [430]^ [431]Family-Based Immigrant Visas. United States Department
+       of State. [2017-05-25]. （[432]原始内容存档于2017-09-07）.
+   35. [433]^ [434]Employment-Based Immigrant Visa. United States
+       Department of State. [2017-05-25]. （[435]原始内容存档于2017-09-07）.
+   36. ^ [436]^36.0 [437]^36.1 [438]^36.2 [439]^36.3 [440]^36.4 [441]^36.5
+       [442]^36.6 [443]^36.7 [444]Visa Bulletin. United States Department
+       of State. [2016-04-09]. （[445]原始内容存档于2017-01-18）.
+   37. [446]^ [447]Asylum. USCIS. [2022-01-10]. （[448]原始内容存档于2020-01-28）.
+   38. [449]^ [450]Refugees. USCIS. [2022-01-10].
+       （原始内容[451]存档于2023-09-16）.
+   39. [452]^ [453]I-130, Petition for Alien Relative. USCIS.
+       [2016-04-09]. （[454]原始内容存档于2021-05-04）.
+   40. [455]^ [456]I-140, Immigrant Petition for Alien Worker. USCIS.
+       [2016-04-09]. （[457]原始内容存档于2011-01-14）.
+   41. [458]^ [459]I-751, Petition to Remove Conditions on Residence.
+       USCIS. [2016-04-09]. （[460]原始内容存档于2021-04-22）.
+   42. [461]^ [462]Supreme Court to Review Trump’s Controversial ‘Public
        Charge’ Immigration Rule. US News. 2021-02-22 [2022-02-28].
-       （[455]原始内容存档于2021-03-03）.
-   41. [456]^ [457]I-131, Application for Travel Document. USCIS.
-       [2016-04-09]. （[458]原始内容存档于2016-11-18）.
-   42. [459]^ [460]USCIS to Issue Employment Authorization and Advance
+       （[463]原始内容存档于2021-03-03）.
+   43. [464]^ [465]I-131, Application for Travel Document. USCIS.
+       [2016-04-09]. （[466]原始内容存档于2016-11-18）.
+   44. [467]^ [468]USCIS to Issue Employment Authorization and Advance
        Parole Card for Adjustment of Status Applicants: Questions and
-       Answers. USCIS. [2016-04-09]. （[461]原始内容存档于2019-10-30）.
-   43. [462]^ [463]I-765, Application for Employment Authorization. USCIS.
-       [2016-04-09]. （[464]原始内容存档于2021-05-06）.
-   44. [465]^ [466]USCIS to Issue Employment Authorization and Advance
+       Answers. USCIS. [2016-04-09]. （[469]原始内容存档于2019-10-30）.
+   45. [470]^ [471]I-765, Application for Employment Authorization. USCIS.
+       [2016-04-09]. （[472]原始内容存档于2021-05-06）.
+   46. [473]^ [474]USCIS to Issue Employment Authorization and Advance
        Parole Card for Adjustment of Status Applicants: Questions and
-       Answers. USCIS. [2017-01-07]. （[467]原始内容存档于2019-10-30）.
-   45. [468]^ [469]Consular Processing. USCIS. [2016-04-09].
-       （[470]原始内容存档于2021-04-20）.
-   46. [471]^ [472]Renew a Green Card. USCIS. [2016-04-09].
-       （[473]原始内容存档于2018-11-26）.
-   47. [474]^ [475]Maintaining Permanent Residence. USCIS. [2021-02-28].
-       （[476]原始内容存档于2021-05-01）.
-   48. [477]^ [478]How do I get a reentry permit? (PDF). USCIS.
-       [2016-04-09]. （[479]原始内容 (PDF)存档于2020-03-14）.
-   49. [480]^ [481]存档副本. [2021-08-13]. （[482]原始内容存档于2022-06-07）.
-   50. [483]^ [484]I-407, Record of Abandonment of Lawful Permanent
-       Resident Status. USCIS. [2016-04-09]. （[485]原始内容存档于2021-04-11）.
-   51. [486]^ [487]Maintaining US Lawful Permanent Resident Status.
-       usvisalawyers.co.uk. [2016-04-09]. （[488]原始内容存档于2020-11-29）.
-   52. [489]^ [490]Estimates of the Legal Permanent Resident Population in
+       Answers. USCIS. [2017-01-07]. （[475]原始内容存档于2019-10-30）.
+   47. [476]^ [477]Consular Processing. USCIS. [2016-04-09].
+       （[478]原始内容存档于2021-04-20）.
+   48. [479]^ [480]Renew a Green Card. USCIS. [2016-04-09].
+       （[481]原始内容存档于2018-11-26）.
+   49. [482]^ [483]Maintaining Permanent Residence. USCIS. [2021-02-28].
+       （[484]原始内容存档于2021-05-01）.
+   50. [485]^ [486]How do I get a reentry permit? (PDF). USCIS.
+       [2016-04-09]. （[487]原始内容 (PDF)存档于2020-03-14）.
+   51. [488]^ [489]存档副本. [2021-08-13]. （[490]原始内容存档于2022-06-07）.
+   52. [491]^ [492]I-407, Record of Abandonment of Lawful Permanent
+       Resident Status. USCIS. [2016-04-09]. （[493]原始内容存档于2021-04-11）.
+   53. [494]^ [495]Maintaining US Lawful Permanent Resident Status.
+       usvisalawyers.co.uk. [2016-04-09]. （[496]原始内容存档于2020-11-29）.
+   54. [497]^ [498]Estimates of the Legal Permanent Resident Population in
        2010 (PDF). United States Department of Homeland Security.
-       [2016-04-09]. （[491]原始内容 (PDF)存档于2021-02-11）.
+       [2016-04-09]. （[499]原始内容 (PDF)存档于2021-02-11）.
 
 外部链接
 
-   [[492]编辑]
+   [[500]编辑]
 
-     * [493]美国公民及移民服务局绿卡信息 （[494]页面存档备份，存于[495]互联网档案馆）
+     * [501]美国公民及移民服务局绿卡信息 （[502]页面存档备份，存于[503]互联网档案馆）
 
-     * [496]查
-     * [497]论
-     * [498]编
+     * [504]查
+     * [505]论
+     * [506]编
 
-   [499]美国签证
+   [507]美国签证
 
    移民签证/绿卡
 
@@ -701,78 +707,78 @@
           + F-3
           + F-4
      * 基于雇佣关系
-          + [500]EB-1
-          + [501]EB-2
-          + [502]EB-3
-          + [503]EB-4
-          + [504]EB-5/[505]金卡签证
+          + [508]EB-1
+          + [509]EB-2
+          + [510]EB-3
+          + [511]EB-4
+          + [512]EB-5/[513]金卡签证
      * 其他
-          + [506]多元化移民簽證
-          + [507]庇护（英语：[508]Asylum in the United States）
-          + [509]难民
+          + [514]多元化移民簽證
+          + [515]庇护（英语：[516]Asylum in the United States）
+          + [517]难民
 
    非移民签证
 
      * 外交人员
-          + [510]A-1
-          + [511]A-2
-          + [512]A-3
+          + [518]A-1
+          + [519]A-2
+          + [520]A-3
      * 短期访问
-          + [513]B-1
-          + [514]B-2
-          + [515]B-1/B-2
+          + [521]B-1
+          + [522]B-2
+          + [523]B-1/B-2
      * 过境
-          + [516]C-1（英语：[517]C-1 visa）
-          + [518]C-2（英语：[519]C-2 visa）
-          + [520]C-3（英语：[521]C-3 visa）
+          + [524]C-1（英语：[525]C-1 visa）
+          + [526]C-2（英语：[527]C-2 visa）
+          + [528]C-3（英语：[529]C-3 visa）
      * 海员/机组成员
-          + [522]D-1（英语：[523]D-1 visa）
-          + [524]D-2（英语：[525]D-2 visa）
+          + [530]D-1（英语：[531]D-1 visa）
+          + [532]D-2（英语：[533]D-2 visa）
      * 条约劳工/投资者
-          + [526]E-1（英语：[527]E-1 visa）
-          + [528]E-2（英语：[529]E-2 visa）
-          + [530]E-3（英语：[531]E-3 visa）
-          + [532]E-3D（英语：[533]E-3 visa）
-          + [534]E-3R（英语：[535]E-3 visa）
+          + [534]E-1（英语：[535]E-1 visa）
+          + [536]E-2（英语：[537]E-2 visa）
+          + [538]E-3（英语：[539]E-3 visa）
+          + [540]E-3D（英语：[541]E-3 visa）
+          + [542]E-3R（英语：[543]E-3 visa）
      * 全日制学生
-          + [536]F-1
-          + [537]F-2
-          + [538]F-3
+          + [544]F-1
+          + [545]F-2
+          + [546]F-3
      * 外国政府雇员
-          + [539]G-1（英语：[540]G visa）
-          + [541]G-2（英语：[542]G visa）
-          + [543]G-3（英语：[544]G visa）
-          + [545]G-4（英语：[546]G visa）
-          + [547]G-5（英语：[548]G visa）
+          + [547]G-1（英语：[548]G visa）
+          + [549]G-2（英语：[550]G visa）
+          + [551]G-3（英语：[552]G visa）
+          + [553]G-4（英语：[554]G visa）
+          + [555]G-5（英语：[556]G visa）
      * 短期劳工
-          + [549]H-1B
-          + [550]H-1B1（英语：[551]H-1B1 visa）
-          + [552]H-1C（英语：[553]H-1C visa）
-          + [554]H-2A（英语：[555]H-2A visa）
-          + [556]H-2B（英语：[557]H-2B visa）
-          + [558]H-3（英语：[559]H-3 visa）
-          + [560]H-4
+          + [557]H-1B
+          + [558]H-1B1（英语：[559]H-1B1 visa）
+          + [560]H-1C（英语：[561]H-1C visa）
+          + [562]H-2A（英语：[563]H-2A visa）
+          + [564]H-2B（英语：[565]H-2B visa）
+          + [566]H-3（英语：[567]H-3 visa）
+          + [568]H-4
      * 新闻工作者
-          + [561]I-1（英语：[562]I-1 visa）
+          + [569]I-1（英语：[570]I-1 visa）
      * 访问学者
-          + [563]J-1
-          + [564]J-2
+          + [571]J-1
+          + [572]J-2
      * 美国公民的未婚夫妻
-          + [565]K-1（英语：[566]K-1 visa）
+          + [573]K-1（英语：[574]K-1 visa）
           + K-2
           + K-3
           + K-4
      * 美国公司海外雇员
-          + [567]L-1（英语：[568]L-1 visa）
-          + [569]L-2
+          + [575]L-1（英语：[576]L-1 visa）
+          + [577]L-2
      * 职业学校学生
-          + [570]M-1（英语：[571]M-1 visa）
-          + [572]M-2（英语：[573]M-2 visa）
+          + [578]M-1（英语：[579]M-1 visa）
+          + [580]M-2（英语：[581]M-2 visa）
      * 特殊移民的亲属
           + N-8
           + N-9
      * 北约工作人员
-          + [574]NATO-1（英语：[575]NATO-1 visa）
+          + [582]NATO-1（英语：[583]NATO-1 visa）
           + NATO-2
           + NATO-3
           + NATO-4
@@ -780,76 +786,76 @@
           + NATO-6
           + NATO-7
      * 杰出人才
-          + [576]O-1（英语：[577]O visa）
-          + [578]O-2（英语：[579]O visa）
-          + [580]O-3（英语：[581]O visa）
+          + [584]O-1（英语：[585]O visa）
+          + [586]O-2（英语：[587]O visa）
+          + [588]O-3（英语：[589]O visa）
      * 杰出人才团队
-          + [582]P-1（英语：[583]P visa）
-          + [584]P-2（英语：[585]P visa）
-          + [586]P-3（英语：[587]P visa）
-          + [588]P-4（英语：[589]P visa）
+          + [590]P-1（英语：[591]P visa）
+          + [592]P-2（英语：[593]P visa）
+          + [594]P-3（英语：[595]P visa）
+          + [596]P-4（英语：[597]P visa）
      * 文化交流
-          + [590]Q-1（英语：[591]Q-1 visa）
+          + [598]Q-1（英语：[599]Q-1 visa）
      * 宗教工作者
-          + [592]R-1（英语：[593]R visa）
-          + [594]R-2（英语：[595]R visa）
+          + [600]R-1（英语：[601]R visa）
+          + [602]R-2（英语：[603]R visa）
      * 法庭证人
-          + [596]S-5（英语：[597]S-5 visa）
-          + [598]S-6（英语：[599]S-6 visa）
-          + [600]S-7（英语：[601]S-7 visa）
+          + [604]S-5（英语：[605]S-5 visa）
+          + [606]S-6（英语：[607]S-6 visa）
+          + [608]S-7（英语：[609]S-7 visa）
      * 人口贩运受害者
-          + [602]T-1（英语：[603]T visa）
-          + [604]T-2（英语：[605]T visa）
-          + [606]T-3（英语：[607]T visa）
-          + [608]T-4（英语：[609]T visa）
+          + [610]T-1（英语：[611]T visa）
+          + [612]T-2（英语：[613]T visa）
+          + [614]T-3（英语：[615]T visa）
+          + [616]T-4（英语：[617]T visa）
      * 北美自由贸易协议
-          + [610]TD
-          + [611]TN
+          + [618]TD
+          + [619]TN
      * 犯罪受害者
-          + [612]U-1（英语：[613]U visa）
-          + [614]U-2（英语：[615]U visa）
-          + [616]U-3（英语：[617]U visa）
-          + [618]U-4（英语：[619]U visa）
-          + [620]U-5（英语：[621]U visa）
-          + [622]SIJS（英语：[623]Special Immigrant Juvenile Status）
+          + [620]U-1（英语：[621]U visa）
+          + [622]U-2（英语：[623]U visa）
+          + [624]U-3（英语：[625]U visa）
+          + [626]U-4（英语：[627]U visa）
+          + [628]U-5（英语：[629]U visa）
+          + [630]SIJS（英语：[631]Special Immigrant Juvenile Status）
      * 美国永久居民的亲属
-          + [624]V-1（英语：[625]V visa）
-          + [626]V-2（英语：[627]V visa）
-          + [628]V-3（英语：[629]V visa）
+          + [632]V-1（英语：[633]V visa）
+          + [634]V-2（英语：[635]V visa）
+          + [636]V-3（英语：[637]V visa）
      * 其他
-          + [630]免签证计划
+          + [638]免签证计划
 
-   检索自“[631]https://zh.wikipedia.org/w/index.php?title=绿卡&oldid=89858119”
+   检索自“[639]https://zh.wikipedia.org/w/index.php?title=绿卡&oldid=90789736”
 
-   [632]分类：​
-     * [633]美国移民史
-     * [634]移民美国
-     * [635]美國移民法律
-     * [636]1940年代美國建立
-     * [637]1940年代面世
-     * [638]外国人居留许可证
+   [640]分类：​
+     * [641]美国移民史
+     * [642]移民美国
+     * [643]美國移民法律
+     * [644]1940年代美國建立
+     * [645]1940年代面世
+     * [646]外国人居留许可证
 
    隐藏分类：​
-     * [639]Webarchive模板wayback链接
-     * [640]有蓝链却未移除内部链接助手模板的页面
-     * [641]含有英語的條目
+     * [647]Webarchive模板wayback链接
+     * [648]有蓝链却未移除内部链接助手模板的页面
+     * [649]含有英語的條目
 
-     * 本页面最后修订于2025年11月8日 (星期六) 02:51。
-     * 本站的全部文字在[642]知识共享 署名-相同方式共享 4.0协议之条款下提供，附加条款亦可能应用。（请参阅[643]使用条款）
-       Wikipedia®和维基百科标志是[644]维基媒体基金会的注册商标；维基™是维基媒体基金会的商标。
-       维基媒体基金会是按美国国內稅收法501(c)(3)登记的[645]非营利慈善机构。
+     * 本页面最后修订于2025年12月22日 (星期一) 07:28。
+     * 本站的全部文字在[650]知识共享 署名-相同方式共享 4.0协议之条款下提供，附加条款亦可能应用。（请参阅[651]使用条款）
+       Wikipedia®和维基百科标志是[652]维基媒体基金会的注册商标；维基™是维基媒体基金会的商标。
+       维基媒体基金会是按美国国內稅收法501(c)(3)登记的[653]非营利慈善机构。
 
-     * [646]隐私政策
-     * [647]关于维基百科
-     * [648]免责声明
-     * [649]行为准则
-     * [650]开发者
-     * [651]统计
-     * [652]Cookie声明
-     * [653]手机版视图
+     * [654]隐私政策
+     * [655]关于维基百科
+     * [656]免责声明
+     * [657]行为准则
+     * [658]开发者
+     * [659]统计
+     * [660]Cookie声明
+     * [661]手机版视图
 
-     * [654]Wikimedia Foundation
-     * [655]Powered by MediaWiki
+     * [662]Wikimedia Foundation
+     * [663]Powered by MediaWiki
 
    (BUTTON) 搜索
    ____________________
@@ -857,7 +863,7 @@
 
    [ ] 开关目录
    绿卡
-   (BUTTON) 38种语言 [656]添加话题
+   (BUTTON) 38种语言 [664]添加话题
 
 References
 
@@ -975,9 +981,9 @@ References
  111. file:///wiki/Special:WhatLinksHere/绿卡
  112. file:///wiki/Special:RecentChangesLinked/绿卡
  113. file://zh.wikipedia.org/wiki/Project:上传
- 114. file:///w/index.php?title=绿卡&oldid=89858119
+ 114. file:///w/index.php?title=绿卡&oldid=90789736
  115. file:///w/index.php?title=绿卡&action=info
- 116. file:///w/index.php?title=Special:CiteThisPage&page=绿卡&id=89858119&wpFormIdentifier=titleform
+ 116. file:///w/index.php?title=Special:CiteThisPage&page=绿卡&id=90789736&wpFormIdentifier=titleform
  117. file:///w/index.php?title=Special:UrlShortener&url=https://zh.wikipedia.org/wiki/%E7%BB%BF%E5%8D%A1
  118. file:///w/index.php?title=Special:QrCode&url=https://zh.wikipedia.org/wiki/%E7%BB%BF%E5%8D%A1
  119. file:///w/index.php?title=Special:DownloadAsPdf&page=绿卡&action=show-download-screen
@@ -1036,495 +1042,503 @@ References
  172. file:///wiki/美國兵役登記
  173. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-8
  174. file:///wiki/領事保護
- 175. file:///wiki/2019冠狀病毒病疫情全球撤僑行動
+ 175. file:///wiki/美国国务院
  176. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-9
- 177. file:///wiki/2021年喀布尔国际机场撤侨行动
+ 177. file:///wiki/非战斗人员撤离行动
  178. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-10
- 179. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-11
- 180. file:///wiki/阿尔巴尼亚
- 181. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-12
- 182. file:///wiki/安提瓜和巴布达
+ 179. file:///wiki/2019冠狀病毒病疫情全球撤僑行動
+ 180. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-11
+ 181. file:///wiki/2021年喀布尔国际机场撤侨行动
+ 182. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-12
  183. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-13
- 184. file:///wiki/巴哈马
+ 184. file:///wiki/阿尔巴尼亚
  185. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-14
- 186. file:///wiki/百慕大
+ 186. file:///wiki/安提瓜和巴布达
  187. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-15
- 188. file:///wiki/波斯尼亚和黑塞哥维那
- 189. file:///wiki/英屬維爾京群島
- 190. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-16
- 191. file:///wiki/加拿大
- 192. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-17
- 193. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-18
- 194. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-19
- 195. file:///wiki/開曼群島
- 196. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-20
- 197. file:///wiki/哥斯达黎加
+ 188. file:///wiki/巴哈马
+ 189. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-16
+ 190. file:///wiki/百慕大
+ 191. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-17
+ 192. file:///wiki/波斯尼亚和黑塞哥维那
+ 193. file:///wiki/英屬維爾京群島
+ 194. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-18
+ 195. file:///wiki/加拿大
+ 196. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-19
+ 197. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-20
  198. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-21
- 199. file:///wiki/多米尼克
- 200. file:///wiki/多明尼加
- 201. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-22
- 202. file:///wiki/荷蘭加勒比區
- 203. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-23
- 204. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-24
- 205. file:///wiki/格鲁吉亚
- 206. file:///wiki/危地马拉
+ 199. file:///wiki/開曼群島
+ 200. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-22
+ 201. file:///wiki/哥斯达黎加
+ 202. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-23
+ 203. file:///wiki/多米尼克
+ 204. file:///wiki/多明尼加
+ 205. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-24
+ 206. file:///wiki/荷蘭加勒比區
  207. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-25
- 208. file:///wiki/洪都拉斯
- 209. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-26
- 210. file:///wiki/牙买加
+ 208. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-26
+ 209. file:///wiki/格鲁吉亚
+ 210. file:///wiki/危地马拉
  211. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-27
- 212. file:///wiki/科索沃
+ 212. file:///wiki/洪都拉斯
  213. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-28
- 214. file:///wiki/墨西哥
+ 214. file:///wiki/牙买加
  215. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-29
- 216. file:///wiki/蒙特內哥羅
+ 216. file:///wiki/科索沃
  217. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-30
- 218. file:///wiki/尼加拉瓜
- 219. file:///wiki/巴拿马
- 220. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-31
- 221. file:///wiki/塞尔维亚
- 222. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-32
- 223. file:///wiki/特克斯和凯科斯群岛
- 224. file:///w/index.php?title=绿卡&action=edit&section=3
- 225. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-greencard-2
- 226. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-33
- 227. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-34
- 228. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-35
- 229. file:///wiki/EB-1签证
- 230. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-visa-bulletin-36
- 231. file:///wiki/EB-2签证
- 232. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-visa-bulletin-36
- 233. file:///wiki/EB-3签证
- 234. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-visa-bulletin-36
- 235. file:///w/index.php?title=EB-4签证&action=edit&redlink=1
- 236. file:///wiki/北大西洋公约组织
- 237. file:///wiki/美军
- 238. file:///wiki/巴拿马运河
- 239. file:///wiki/國際安全援助部隊
- 240. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-visa-bulletin-36
- 241. file:///wiki/EB-5签证
- 242. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-visa-bulletin-36
- 243. file:///wiki/多元化移民簽證
- 244. file:///w/index.php?title=庇护_(美国)&action=edit&redlink=1
- 245. https://en.wikipedia.org/wiki/Asylum_in_the_United_States
- 246. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-37
- 247. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-38
- 248. file:///w/index.php?title=绿卡&action=edit&section=4
- 249. file:///wiki/File:USANewImmigrantGuide.jpg
- 250. file:///wiki/身份调整
- 251. file:///w/index.php?title=绿卡&action=edit&section=5
- 252. file:///wiki/I-130_(表格)
- 253. file:///wiki/I-140_(表格)
- 254. file:///wiki/I-130_(表格)
- 255. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-39
- 256. file:///wiki/I-140_(表格)
- 257. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-40
- 258. file:///wiki/EB-2签证
- 259. file:///wiki/EB-3签证
- 260. file:///wiki/美国劳工部
- 261. file:///wiki/永久劳工证
- 262. file:///w/index.php?title=绿卡&action=edit&section=6
- 263. file:///wiki/美国国务院
- 264. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-visa-bulletin-36
- 265. file:///w/index.php?title=优先日期&action=edit&redlink=1
- 266. https://en.wikipedia.org/wiki/Priority_date
- 267. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-visa-bulletin-36
- 268. file:///w/index.php?title=绿卡&action=edit&section=7
- 269. file:///wiki/美国国务院
- 270. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-41
- 271. file:///wiki/美國最高法院
- 272. file:///w/index.php?title=低收入医保&action=edit&redlink=1
- 273. https://en.wikipedia.org/wiki/Medicaid
- 274. file:///wiki/乔·拜登
- 275. file:///wiki/美国最高法院
- 276. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-42
- 277. file:///w/index.php?title=绿卡&action=edit&section=8
- 278. file:///wiki/身份调整
- 279. file:///wiki/预先假释
- 280. file:///wiki/就业授权文档
- 281. file:///wiki/身份调整
- 282. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-visa-bulletin-36
- 283. file:///wiki/I-94_(表格)
- 284. file:///wiki/预先假释
- 285. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-43
- 286. file:///wiki/就业授权文档
- 287. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-44
- 288. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-45
- 289. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-46
- 290. file:///w/index.php?title=绿卡&action=edit&section=9
- 291. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-47
- 292. file:///w/index.php?title=绿卡&action=edit&section=10
+ 218. file:///wiki/墨西哥
+ 219. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-31
+ 220. file:///wiki/蒙特內哥羅
+ 221. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-32
+ 222. file:///wiki/尼加拉瓜
+ 223. file:///wiki/巴拿马
+ 224. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-33
+ 225. file:///wiki/塞尔维亚
+ 226. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-34
+ 227. file:///wiki/特克斯和凯科斯群岛
+ 228. file:///w/index.php?title=绿卡&action=edit&section=3
+ 229. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-greencard-2
+ 230. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-35
+ 231. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-36
+ 232. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-37
+ 233. file:///wiki/EB-1签证
+ 234. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-visa-bulletin-38
+ 235. file:///wiki/EB-2签证
+ 236. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-visa-bulletin-38
+ 237. file:///wiki/EB-3签证
+ 238. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-visa-bulletin-38
+ 239. file:///w/index.php?title=EB-4签证&action=edit&redlink=1
+ 240. file:///wiki/北大西洋公约组织
+ 241. file:///wiki/美军
+ 242. file:///wiki/巴拿马运河
+ 243. file:///wiki/國際安全援助部隊
+ 244. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-visa-bulletin-38
+ 245. file:///wiki/EB-5签证
+ 246. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-visa-bulletin-38
+ 247. file:///wiki/多元化移民簽證
+ 248. file:///w/index.php?title=庇护_(美国)&action=edit&redlink=1
+ 249. https://en.wikipedia.org/wiki/Asylum_in_the_United_States
+ 250. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-39
+ 251. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-40
+ 252. file:///w/index.php?title=绿卡&action=edit&section=4
+ 253. file:///wiki/File:USANewImmigrantGuide.jpg
+ 254. file:///wiki/身份调整
+ 255. file:///w/index.php?title=绿卡&action=edit&section=5
+ 256. file:///wiki/I-130_(表格)
+ 257. file:///wiki/I-140_(表格)
+ 258. file:///wiki/I-130_(表格)
+ 259. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-41
+ 260. file:///wiki/I-140_(表格)
+ 261. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-42
+ 262. file:///wiki/EB-2签证
+ 263. file:///wiki/EB-3签证
+ 264. file:///wiki/美国劳工部
+ 265. file:///wiki/永久劳工证
+ 266. file:///w/index.php?title=绿卡&action=edit&section=6
+ 267. file:///wiki/美国国务院
+ 268. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-visa-bulletin-38
+ 269. file:///w/index.php?title=优先日期&action=edit&redlink=1
+ 270. https://en.wikipedia.org/wiki/Priority_date
+ 271. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-visa-bulletin-38
+ 272. file:///w/index.php?title=绿卡&action=edit&section=7
+ 273. file:///wiki/美国国务院
+ 274. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-43
+ 275. file:///wiki/美國最高法院
+ 276. file:///w/index.php?title=低收入医保&action=edit&redlink=1
+ 277. https://en.wikipedia.org/wiki/Medicaid
+ 278. file:///wiki/乔·拜登
+ 279. file:///wiki/美国最高法院
+ 280. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-44
+ 281. file:///w/index.php?title=绿卡&action=edit&section=8
+ 282. file:///wiki/身份调整
+ 283. file:///wiki/预先假释
+ 284. file:///wiki/就业授权文档
+ 285. file:///wiki/身份调整
+ 286. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-visa-bulletin-38
+ 287. file:///wiki/I-94_(表格)
+ 288. file:///wiki/预先假释
+ 289. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-45
+ 290. file:///wiki/就业授权文档
+ 291. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-46
+ 292. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-47
  293. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-48
- 294. file:///w/index.php?title=绿卡&action=edit&section=11
+ 294. file:///w/index.php?title=绿卡&action=edit&section=9
  295. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-49
- 296. file:///wiki/美國海關及邊境保衛局
- 297. file:///wiki/再入境许可_(美国)
- 298. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-re-entry-50
+ 296. file:///w/index.php?title=绿卡&action=edit&section=10
+ 297. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-50
+ 298. file:///w/index.php?title=绿卡&action=edit&section=11
  299. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-51
- 300. file:///wiki/美国公民及移民服务局
- 301. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-52
- 302. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-53
- 303. file:///w/index.php?title=绿卡&action=edit&section=12
- 304. file:///wiki/N-400_(表格)
- 305. file:///wiki/美国公民
- 306. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-naturalization-7
- 307. file:///wiki/美国国土安全部
- 308. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-54
- 309. file:///w/index.php?title=绿卡&action=edit&section=13
- 310. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-1
- 311. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-17
- 312. file:///wiki/加拿大电子旅行证
- 313. file:///w/index.php?title=绿卡&action=edit&section=14
- 314. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-greencard_2-0
- 315. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-greencard_2-1
- 316. https://web.archive.org/web/20180923200654/https://www.uscis.gov/greencard
- 317. https://www.uscis.gov/greencard
- 318. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-3
- 319. https://www.dhs.gov/sites/default/files/publications/lpr_population_estimates_january_2015_-_2019.pdf
- 320. file:///wiki/United_States_Department_of_Homeland_Security
- 321. https://web.archive.org/web/20230611182831/https://www.dhs.gov/sites/default/files/publications/lpr_population_estimates_january_2015_-_2019.pdf
- 322. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-Dowd_4-0
- 323. https://providencemag.com/2018/04/what-a-country-immigrants-serve-us-military-well/
- 324. https://web.archive.org/web/20180923054115/https://providencemag.com/2018/04/what-a-country-immigrants-serve-us-military-well/
- 325. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-5
- 326. https://web.archive.org/web/20160416064939/http://blog.uscis.gov/2010/05/new-design-green-card-goes-green.html
- 327. https://blog.uscis.gov/2010/05/new-design-green-card-goes-green.html
- 328. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-6
- 329. https://web.archive.org/web/20210314165222/https://www.aila.org/infonet/uscis-redesigned-green-card-fact-sheet-and-faq
- 330. http://www.aila.org/infonet/uscis-redesigned-green-card-fact-sheet-and-faq
- 331. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-naturalization_7-0
- 332. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-naturalization_7-1
- 333. https://web.archive.org/web/20200711061642/https://www.uscis.gov/us-citizenship/citizenship-through-naturalization
- 334. https://www.uscis.gov/us-citizenship/citizenship-through-naturalization
- 335. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-8
- 336. https://web.archive.org/web/20170305001842/https://citizenpath.com/carry-my-green-card-with-me/
- 337. https://citizenpath.com/carry-my-green-card-with-me/
- 338. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-9
- 339. https://web.archive.org/web/20220618215454/https://china.usembassy-china.org.cn/evacuation-of-americans-from-wuhan-china/
- 340. https://china.usembassy-china.org.cn/evacuation-of-americans-from-wuhan-china/
- 341. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-10
- 342. https://web.archive.org/web/20210908103637/https://www.nytimes.com/2021/08/31/us/politics/usa-residents-in-afghanistan.html
- 343. https://www.nytimes.com/2021/08/31/us/politics/usa-residents-in-afghanistan.html
- 344. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-11
- 345. https://web.archive.org/web/20201112022939/https://www.path2usa.com/countries-that-offer-a-visa-waiver-for-us-green-card-holders
- 346. http://www.path2usa.com/countries-that-offer-a-visa-waiver-for-us-green-card-holders
- 347. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-12
- 348. https://punetejashtme.gov.al/wp-content/uploads/2018/11/3-visa-regime-for-foreign-citiznes-01.11.2018.pdf
- 349. file:///wiki/Wayback_Machine
- 350. https://web.archive.org/web/20190201134644/https://punetejashtme.gov.al/wp-content/uploads/2018/11/3-visa-regime-for-foreign-citiznes-01.11.2018.pdf
- 351. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-13
- 352. http://www.immigration.gov.ag/visa-services/visa-on-arrival/
- 353. file:///wiki/Wayback_Machine
- 354. https://web.archive.org/web/20190128235850/http://www.immigration.gov.ag/visa-services/visa-on-arrival/
+ 300. file:///wiki/美國海關及邊境保衛局
+ 301. file:///wiki/再入境许可_(美国)
+ 302. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-re-entry-52
+ 303. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-53
+ 304. file:///wiki/美国公民及移民服务局
+ 305. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-54
+ 306. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-55
+ 307. file:///w/index.php?title=绿卡&action=edit&section=12
+ 308. file:///wiki/N-400_(表格)
+ 309. file:///wiki/美国公民
+ 310. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-naturalization-7
+ 311. file:///wiki/美国国土安全部
+ 312. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_note-56
+ 313. file:///w/index.php?title=绿卡&action=edit&section=13
+ 314. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-1
+ 315. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-19
+ 316. file:///wiki/加拿大电子旅行证
+ 317. file:///w/index.php?title=绿卡&action=edit&section=14
+ 318. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-greencard_2-0
+ 319. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-greencard_2-1
+ 320. https://web.archive.org/web/20180923200654/https://www.uscis.gov/greencard
+ 321. https://www.uscis.gov/greencard
+ 322. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-3
+ 323. https://www.dhs.gov/sites/default/files/publications/lpr_population_estimates_january_2015_-_2019.pdf
+ 324. file:///wiki/United_States_Department_of_Homeland_Security
+ 325. https://web.archive.org/web/20230611182831/https://www.dhs.gov/sites/default/files/publications/lpr_population_estimates_january_2015_-_2019.pdf
+ 326. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-Dowd_4-0
+ 327. https://providencemag.com/2018/04/what-a-country-immigrants-serve-us-military-well/
+ 328. https://web.archive.org/web/20180923054115/https://providencemag.com/2018/04/what-a-country-immigrants-serve-us-military-well/
+ 329. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-5
+ 330. https://web.archive.org/web/20160416064939/http://blog.uscis.gov/2010/05/new-design-green-card-goes-green.html
+ 331. https://blog.uscis.gov/2010/05/new-design-green-card-goes-green.html
+ 332. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-6
+ 333. https://web.archive.org/web/20210314165222/https://www.aila.org/infonet/uscis-redesigned-green-card-fact-sheet-and-faq
+ 334. http://www.aila.org/infonet/uscis-redesigned-green-card-fact-sheet-and-faq
+ 335. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-naturalization_7-0
+ 336. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-naturalization_7-1
+ 337. https://web.archive.org/web/20200711061642/https://www.uscis.gov/us-citizenship/citizenship-through-naturalization
+ 338. https://www.uscis.gov/us-citizenship/citizenship-through-naturalization
+ 339. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-8
+ 340. https://web.archive.org/web/20170305001842/https://citizenpath.com/carry-my-green-card-with-me/
+ 341. https://citizenpath.com/carry-my-green-card-with-me/
+ 342. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-9
+ 343. https://fam.state.gov/fam/07fam/07fam1800apD.html
+ 344. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-10
+ 345. https://8tharmy.korea.army.mil/site/assets/doc/families/neo/NEO-101-Brief-(English).pdf
+ 346. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-11
+ 347. https://web.archive.org/web/20220618215454/https://china.usembassy-china.org.cn/evacuation-of-americans-from-wuhan-china/
+ 348. https://china.usembassy-china.org.cn/evacuation-of-americans-from-wuhan-china/
+ 349. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-12
+ 350. https://web.archive.org/web/20210908103637/https://www.nytimes.com/2021/08/31/us/politics/usa-residents-in-afghanistan.html
+ 351. https://www.nytimes.com/2021/08/31/us/politics/usa-residents-in-afghanistan.html
+ 352. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-13
+ 353. https://web.archive.org/web/20201112022939/https://www.path2usa.com/countries-that-offer-a-visa-waiver-for-us-green-card-holders
+ 354. http://www.path2usa.com/countries-that-offer-a-visa-waiver-for-us-green-card-holders
  355. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-14
- 356. https://www.bahamas.gov.bs/wps/portal/public/Landing/Entry and Departure/!ut/p/b1/vZHbbptAFEW_pR_gMDAwwOMYzMVcDRgwL5axA-JmY3MzfH3tqFIbt0laqcmcp5HW1j77bCIiNiQgWQAgiRAREtFx12fprs1Ox115_0doC2XLWAk0Z3CI5oFKeqYqLmwoe_AGbO4AkA2Mb4BFeXdAIJG2ZsBcYF70qzlYuToPMcAMA1SF8lhWXkNBAj_04I2Hwd_p3wGiX9fj0PK-nmZpOq9BmaSJgAiV_WQKjTossJf6s6K8Mrj0l83zdXdS3WbbOrHOGECD6jqet1MCTNu4GrIaNEh2x9I0RIvNZ6G0P3vpWZR109MQtYmHsdOmZKyCOK7rpjbE1BHCbXWuq_3ieOSaykp3WeKuDkfoNTJVuZkUmQqV7LUDOYoOT-8clXb52zbFEvaNHbQS3SIlYXsn26PHu_8e7N96e9Aj5iN9QESvT_uH5l-A96p9txzEfADcQprKqXomNjeMfQtTbIbwiBDQWzcfa3UqJicHV924aKBdpCO5BsBd9K65Li23XZpGrg6A9VVjwqM33aouisk92PbBd9ZzjHeni9w9Gr6O7q7ozzZ8SMh8uSH56SfVKHgz1KFucgIJIPXVhv8_4ZKIsrh6GvbVE3hCPA8RYG4-PAIcSRF-vkaseFrihT34VUaWLbuZTk20WMHerbBpdRuHZaSUnimt3eruUNXHw4QNCeZ11Q9rIcuVqssjhh6mVaycWGwf0-A8D5rOkzQkyoG_Cxr_spyEDF-68Nr3230aesJG8jMnLGTrUtRubM30VqOoHM3FOhaLLPCl_UUfZFMdkzwptfw8hMmZTXDXWIOXH4O-uq6KaSP4JX9tWwXQkskLkshpTcR13fUgQMMGRBWVkqSP2axwlIHkfs6Av30Hhon8Hg!!/dl4/d5/L2dBISEvZ0FBIS9nQSEh/
+ 356. https://punetejashtme.gov.al/wp-content/uploads/2018/11/3-visa-regime-for-foreign-citiznes-01.11.2018.pdf
  357. file:///wiki/Wayback_Machine
- 358. https://web.archive.org/web/20160204102445/https://www.bahamas.gov.bs/wps/portal/public/Landing/Entry and Departure/!ut/p/b1/vZHbbptAFEW_pR_gMDAwwOMYzMVcDRgwL5axA-JmY3MzfH3tqFIbt0laqcmcp5HW1j77bCIiNiQgWQAgiRAREtFx12fprs1Ox115_0doC2XLWAk0Z3CI5oFKeqYqLmwoe_AGbO4AkA2Mb4BFeXdAIJG2ZsBcYF70qzlYuToPMcAMA1SF8lhWXkNBAj_04I2Hwd_p3wGiX9fj0PK-nmZpOq9BmaSJgAiV_WQKjTossJf6s6K8Mrj0l83zdXdS3WbbOrHOGECD6jqet1MCTNu4GrIaNEh2x9I0RIvNZ6G0P3vpWZR109MQtYmHsdOmZKyCOK7rpjbE1BHCbXWuq_3ieOSaykp3WeKuDkfoNTJVuZkUmQqV7LUDOYoOT-8clXb52zbFEvaNHbQS3SIlYXsn26PHu_8e7N96e9Aj5iN9QESvT_uH5l-A96p9txzEfADcQprKqXomNjeMfQtTbIbwiBDQWzcfa3UqJicHV924aKBdpCO5BsBd9K65Li23XZpGrg6A9VVjwqM33aouisk92PbBd9ZzjHeni9w9Gr6O7q7ozzZ8SMh8uSH56SfVKHgz1KFucgIJIPXVhv8_4ZKIsrh6GvbVE3hCPA8RYG4-PAIcSRF-vkaseFrihT34VUaWLbuZTk20WMHerbBpdRuHZaSUnimt3eruUNXHw4QNCeZ11Q9rIcuVqssjhh6mVaycWGwf0-A8D5rOkzQkyoG_Cxr_spyEDF-68Nr3230aesJG8jMnLGTrUtRubM30VqOoHM3FOhaLLPCl_UUfZFMdkzwptfw8hMmZTXDXWIOXH4O-uq6KaSP4JX9tWwXQkskLkshpTcR13fUgQMMGRBWVkqSP2axwlIHkfs6Av30Hhon8Hg!!/dl4/d5/L2dBISEvZ0FBIS9nQSEh/
+ 358. https://web.archive.org/web/20190201134644/https://punetejashtme.gov.al/wp-content/uploads/2018/11/3-visa-regime-for-foreign-citiznes-01.11.2018.pdf
  359. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-15
- 360. https://web.archive.org/web/20071017175524/http://www.gov.bm/portal/server.pt?open=512&objID=214&&PageID=512&mode=2&in_hi_userid=2&cached=true
- 361. http://www.gov.bm/portal/server.pt?open=512&objID=214&&PageID=512&mode=2&in_hi_userid=2&cached=true
- 362. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-16
- 363. https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/BritishVirginIslands.html
- 364. https://web.archive.org/web/20230910173018/https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/BritishVirginIslands.html
- 365. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-18
- 366. http://www.cic.gc.ca/english/visit/visas.asp
- 367. file:///wiki/Wayback_Machine
- 368. https://web.archive.org/web/20170729061712/http://www.cic.gc.ca/english/visit/visas.asp
- 369. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-19
- 370. https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts.html
- 371. https://web.archive.org/web/20200313172204/https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts.html
- 372. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-20
- 373. https://www.immigration.gov.ky/portal/page/portal/immhome/visitinghere/visas/visitorsvisas/listofcountries
- 374. file:///wiki/Wayback_Machine
- 375. https://web.archive.org/web/20171230114824/http://www.immigration.gov.ky/portal/page/portal/immhome/visitinghere/visas/visitorsvisas/listofcountries
- 376. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-21
- 377. http://www.costarica-embassy.org/index.php?q=node/24
- 378. file:///wiki/Wayback_Machine
- 379. https://web.archive.org/web/20190330221246/http://www.costarica-embassy.org/index.php?q=node/24
+ 360. http://www.immigration.gov.ag/visa-services/visa-on-arrival/
+ 361. file:///wiki/Wayback_Machine
+ 362. https://web.archive.org/web/20190128235850/http://www.immigration.gov.ag/visa-services/visa-on-arrival/
+ 363. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-16
+ 364. https://www.bahamas.gov.bs/wps/portal/public/Landing/Entry and Departure/!ut/p/b1/vZHbbptAFEW_pR_gMDAwwOMYzMVcDRgwL5axA-JmY3MzfH3tqFIbt0laqcmcp5HW1j77bCIiNiQgWQAgiRAREtFx12fprs1Ox115_0doC2XLWAk0Z3CI5oFKeqYqLmwoe_AGbO4AkA2Mb4BFeXdAIJG2ZsBcYF70qzlYuToPMcAMA1SF8lhWXkNBAj_04I2Hwd_p3wGiX9fj0PK-nmZpOq9BmaSJgAiV_WQKjTossJf6s6K8Mrj0l83zdXdS3WbbOrHOGECD6jqet1MCTNu4GrIaNEh2x9I0RIvNZ6G0P3vpWZR109MQtYmHsdOmZKyCOK7rpjbE1BHCbXWuq_3ieOSaykp3WeKuDkfoNTJVuZkUmQqV7LUDOYoOT-8clXb52zbFEvaNHbQS3SIlYXsn26PHu_8e7N96e9Aj5iN9QESvT_uH5l-A96p9txzEfADcQprKqXomNjeMfQtTbIbwiBDQWzcfa3UqJicHV924aKBdpCO5BsBd9K65Li23XZpGrg6A9VVjwqM33aouisk92PbBd9ZzjHeni9w9Gr6O7q7ozzZ8SMh8uSH56SfVKHgz1KFucgIJIPXVhv8_4ZKIsrh6GvbVE3hCPA8RYG4-PAIcSRF-vkaseFrihT34VUaWLbuZTk20WMHerbBpdRuHZaSUnimt3eruUNXHw4QNCeZ11Q9rIcuVqssjhh6mVaycWGwf0-A8D5rOkzQkyoG_Cxr_spyEDF-68Nr3230aesJG8jMnLGTrUtRubM30VqOoHM3FOhaLLPCl_UUfZFMdkzwptfw8hMmZTXDXWIOXH4O-uq6KaSP4JX9tWwXQkskLkshpTcR13fUgQMMGRBWVkqSP2axwlIHkfs6Av30Hhon8Hg!!/dl4/d5/L2dBISEvZ0FBIS9nQSEh/
+ 365. file:///wiki/Wayback_Machine
+ 366. https://web.archive.org/web/20160204102445/https://www.bahamas.gov.bs/wps/portal/public/Landing/Entry and Departure/!ut/p/b1/vZHbbptAFEW_pR_gMDAwwOMYzMVcDRgwL5axA-JmY3MzfH3tqFIbt0laqcmcp5HW1j77bCIiNiQgWQAgiRAREtFx12fprs1Ox115_0doC2XLWAk0Z3CI5oFKeqYqLmwoe_AGbO4AkA2Mb4BFeXdAIJG2ZsBcYF70qzlYuToPMcAMA1SF8lhWXkNBAj_04I2Hwd_p3wGiX9fj0PK-nmZpOq9BmaSJgAiV_WQKjTossJf6s6K8Mrj0l83zdXdS3WbbOrHOGECD6jqet1MCTNu4GrIaNEh2x9I0RIvNZ6G0P3vpWZR109MQtYmHsdOmZKyCOK7rpjbE1BHCbXWuq_3ieOSaykp3WeKuDkfoNTJVuZkUmQqV7LUDOYoOT-8clXb52zbFEvaNHbQS3SIlYXsn26PHu_8e7N96e9Aj5iN9QESvT_uH5l-A96p9txzEfADcQprKqXomNjeMfQtTbIbwiBDQWzcfa3UqJicHV924aKBdpCO5BsBd9K65Li23XZpGrg6A9VVjwqM33aouisk92PbBd9ZzjHeni9w9Gr6O7q7ozzZ8SMh8uSH56SfVKHgz1KFucgIJIPXVhv8_4ZKIsrh6GvbVE3hCPA8RYG4-PAIcSRF-vkaseFrihT34VUaWLbuZTk20WMHerbBpdRuHZaSUnimt3eruUNXHw4QNCeZ11Q9rIcuVqssjhh6mVaycWGwf0-A8D5rOkzQkyoG_Cxr_spyEDF-68Nr3230aesJG8jMnLGTrUtRubM30VqOoHM3FOhaLLPCl_UUfZFMdkzwptfw8hMmZTXDXWIOXH4O-uq6KaSP4JX9tWwXQkskLkshpTcR13fUgQMMGRBWVkqSP2axwlIHkfs6Av30Hhon8Hg!!/dl4/d5/L2dBISEvZ0FBIS9nQSEh/
+ 367. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-17
+ 368. https://web.archive.org/web/20071017175524/http://www.gov.bm/portal/server.pt?open=512&objID=214&&PageID=512&mode=2&in_hi_userid=2&cached=true
+ 369. http://www.gov.bm/portal/server.pt?open=512&objID=214&&PageID=512&mode=2&in_hi_userid=2&cached=true
+ 370. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-18
+ 371. https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/BritishVirginIslands.html
+ 372. https://web.archive.org/web/20230910173018/https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/BritishVirginIslands.html
+ 373. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-20
+ 374. http://www.cic.gc.ca/english/visit/visas.asp
+ 375. file:///wiki/Wayback_Machine
+ 376. https://web.archive.org/web/20170729061712/http://www.cic.gc.ca/english/visit/visas.asp
+ 377. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-21
+ 378. https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts.html
+ 379. https://web.archive.org/web/20200313172204/https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts.html
  380. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-22
- 381. http://www.domrep.org/faqconsular.html
+ 381. https://www.immigration.gov.ky/portal/page/portal/immhome/visitinghere/visas/visitorsvisas/listofcountries
  382. file:///wiki/Wayback_Machine
- 383. https://web.archive.org/web/20111217003057/http://www.domrep.org/faqconsular.html
+ 383. https://web.archive.org/web/20171230114824/http://www.immigration.gov.ky/portal/page/portal/immhome/visitinghere/visas/visitorsvisas/listofcountries
  384. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-23
- 385. https://www.netherlandsandyou.nl/travel-and-residence/caribbean-visas/do-i-need-a-visa-for-the-caribbean-parts-of-the-kingdom
+ 385. http://www.costarica-embassy.org/index.php?q=node/24
  386. file:///wiki/Wayback_Machine
- 387. https://web.archive.org/web/20190621043734/https://www.netherlandsandyou.nl/travel-and-residence/caribbean-visas/do-i-need-a-visa-for-the-caribbean-parts-of-the-kingdom
+ 387. https://web.archive.org/web/20190330221246/http://www.costarica-embassy.org/index.php?q=node/24
  388. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-24
- 389. https://www.visitaruba.com/traveling-to-aruba/entry-requirements-and-visas/
+ 389. http://www.domrep.org/faqconsular.html
  390. file:///wiki/Wayback_Machine
- 391. https://web.archive.org/web/20190114163215/https://www.visitaruba.com/traveling-to-aruba/entry-requirements-and-visas/
+ 391. https://web.archive.org/web/20111217003057/http://www.domrep.org/faqconsular.html
  392. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-25
- 393. https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Guatemala.html
- 394. https://web.archive.org/web/20230910174109/https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Guatemala.html
- 395. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-26
- 396. https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Honduras.html
- 397. https://web.archive.org/web/20230910174217/https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Honduras.html
- 398. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-27
- 399. https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Jamaica.html
- 400. https://web.archive.org/web/20230911122143/https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Jamaica.html
- 401. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-28
- 402. http://ambasada-ks.net/us/?page=2,128
- 403. https://web.archive.org/web/20160621210454/http://www.ambasada-ks.net/us/?page=2,128
- 404. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-29
- 405. http://www.inm.gob.mx/index.php/page/paises_visa/en.html
- 406. https://web.archive.org/web/20150712194229/http://www.inm.gob.mx/index.php/page/paises_visa/en.html
- 407. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-30
- 408. https://www.visit-montenegro.com/montenegro-visa-regimes/
- 409. file:///wiki/Wayback_Machine
- 410. https://web.archive.org/web/20190404120130/https://www.visit-montenegro.com/montenegro-visa-regimes/
- 411. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-31
- 412. https://www.embassyofpanama.org/visas-1
- 413. file:///wiki/Wayback_Machine
- 414. https://web.archive.org/web/20190209124432/https://www.embassyofpanama.org/visas-1
+ 393. https://www.netherlandsandyou.nl/travel-and-residence/caribbean-visas/do-i-need-a-visa-for-the-caribbean-parts-of-the-kingdom
+ 394. file:///wiki/Wayback_Machine
+ 395. https://web.archive.org/web/20190621043734/https://www.netherlandsandyou.nl/travel-and-residence/caribbean-visas/do-i-need-a-visa-for-the-caribbean-parts-of-the-kingdom
+ 396. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-26
+ 397. https://www.visitaruba.com/traveling-to-aruba/entry-requirements-and-visas/
+ 398. file:///wiki/Wayback_Machine
+ 399. https://web.archive.org/web/20190114163215/https://www.visitaruba.com/traveling-to-aruba/entry-requirements-and-visas/
+ 400. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-27
+ 401. https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Guatemala.html
+ 402. https://web.archive.org/web/20230910174109/https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Guatemala.html
+ 403. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-28
+ 404. https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Honduras.html
+ 405. https://web.archive.org/web/20230910174217/https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Honduras.html
+ 406. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-29
+ 407. https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Jamaica.html
+ 408. https://web.archive.org/web/20230911122143/https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Jamaica.html
+ 409. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-30
+ 410. http://ambasada-ks.net/us/?page=2,128
+ 411. https://web.archive.org/web/20160621210454/http://www.ambasada-ks.net/us/?page=2,128
+ 412. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-31
+ 413. http://www.inm.gob.mx/index.php/page/paises_visa/en.html
+ 414. https://web.archive.org/web/20150712194229/http://www.inm.gob.mx/index.php/page/paises_visa/en.html
  415. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-32
- 416. http://www.washington.mfa.gov.rs/consularservicestext.php?subaction=showfull&id=1348565352&ucat=17&template=MeniENG&#disqus_thread
+ 416. https://www.visit-montenegro.com/montenegro-visa-regimes/
  417. file:///wiki/Wayback_Machine
- 418. https://web.archive.org/web/20160406033647/http://www.washington.mfa.gov.rs/consularservicestext.php?subaction=showfull&id=1348565352&ucat=17&template=MeniENG&#disqus_thread
+ 418. https://web.archive.org/web/20190404120130/https://www.visit-montenegro.com/montenegro-visa-regimes/
  419. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-33
- 420. https://web.archive.org/web/20170603073801/https://www.uscis.gov/ilink/docView/SLB/HTML/SLB/act.html
- 421. https://www.uscis.gov/ilink/docView/SLB/HTML/SLB/act.html
- 422. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-34
- 423. https://web.archive.org/web/20170907123500/https://travel.state.gov/content/visas/en/immigrate/family/family-preference.html
- 424. https://travel.state.gov/content/visas/en/immigrate/family/family-preference.html
- 425. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-35
- 426. https://web.archive.org/web/20170907173245/https://travel.state.gov/content/visas/en/immigrate/employment.html
- 427. https://travel.state.gov/content/visas/en/immigrate/employment.html
- 428. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-visa-bulletin_36-0
- 429. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-visa-bulletin_36-1
- 430. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-visa-bulletin_36-2
- 431. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-visa-bulletin_36-3
- 432. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-visa-bulletin_36-4
- 433. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-visa-bulletin_36-5
- 434. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-visa-bulletin_36-6
- 435. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-visa-bulletin_36-7
- 436. https://web.archive.org/web/20170118225214/https://travel.state.gov/content/visas/en/law-and-policy/bulletin.html
- 437. https://travel.state.gov/content/visas/en/law-and-policy/bulletin.html
- 438. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-37
- 439. https://web.archive.org/web/20200128112218/https://www.uscis.gov/humanitarian/refugees-asylum/asylum
- 440. https://www.uscis.gov/humanitarian/refugees-and-asylum/asylum
- 441. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-38
- 442. https://www.uscis.gov/humanitarian/refugees-and-asylum/refugees
- 443. https://web.archive.org/web/20230916203401/https://www.uscis.gov/humanitarian/refugees-and-asylum/refugees
- 444. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-39
- 445. https://web.archive.org/web/20210504211348/https://www.uscis.gov/i-130
- 446. https://www.uscis.gov/i-130
- 447. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-40
- 448. https://web.archive.org/web/20110114073430/https://www.uscis.gov/i-140
- 449. https://www.uscis.gov/i-140
- 450. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-41
- 451. https://web.archive.org/web/20210422054040/https://www.uscis.gov/i-751
- 452. https://www.uscis.gov/i-751
- 453. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-42
- 454. https://web.archive.org/web/20210303083444/https://www.usnews.com/news/politics/articles/2021-02-22/supreme-court-to-review-trumps-controversial-public-charge-immigration-rule
- 455. https://www.usnews.com/news/politics/articles/2021-02-22/supreme-court-to-review-trumps-controversial-public-charge-immigration-rule
- 456. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-43
- 457. https://web.archive.org/web/20161118124654/https://www.uscis.gov/i-131
- 458. https://www.uscis.gov/i-131
- 459. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-44
- 460. https://web.archive.org/web/20191030033652/https://www.uscis.gov/news/questions-and-answers/uscis-issue-employment-authorization-and-advance-parole-card-adjustment-status-applicants-questions-and-answers
- 461. https://www.uscis.gov/news/questions-and-answers/uscis-issue-employment-authorization-and-advance-parole-card-adjustment-status-applicants-questions-and-answers
- 462. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-45
- 463. https://web.archive.org/web/20210506054302/https://www.uscis.gov/i-765
- 464. https://www.uscis.gov/i-765
- 465. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-46
- 466. https://web.archive.org/web/20191030033652/https://www.uscis.gov/news/questions-and-answers/uscis-issue-employment-authorization-and-advance-parole-card-adjustment-status-applicants-questions-and-answers
- 467. https://www.uscis.gov/news/questions-and-answers/uscis-issue-employment-authorization-and-advance-parole-card-adjustment-status-applicants-questions-and-answers
- 468. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-47
- 469. https://web.archive.org/web/20210420150151/https://www.uscis.gov/green-card/green-card-processes-and-procedures/consular-processing
- 470. https://www.uscis.gov/green-card/green-card-processes-and-procedures/consular-processing
- 471. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-48
- 472. https://web.archive.org/web/20181126135948/https://www.uscis.gov/green-card/after-green-card-granted/renew-green-card
- 473. https://www.uscis.gov/green-card/after-green-card-granted/renew-green-card
- 474. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-49
- 475. https://web.archive.org/web/20210501215544/https://www.uscis.gov/green-card/after-we-grant-your-green-card/maintaining-permanent-residence
- 476. https://www.uscis.gov/green-card/after-we-grant-your-green-card/maintaining-permanent-residence
- 477. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-re-entry_50-0
- 478. https://web.archive.org/web/20200314131746/https://www.uscis.gov/sites/default/files/USCIS/Resources/B5en.pdf
- 479. https://www.uscis.gov/sites/default/files/USCIS/Resources/B5en.pdf
- 480. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-51
- 481. https://web.archive.org/web/20220607052242/https://www.klaskolaw.com/article/新冠疫情下，滞留美国境外的绿卡持有人如何维持/
- 482. https://www.klaskolaw.com/article/新冠疫情下，滞留美国境外的绿卡持有人如何维持/
- 483. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-52
- 484. https://web.archive.org/web/20210411044431/https://www.uscis.gov/i-407
- 485. https://www.uscis.gov/i-407
- 486. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-53
- 487. https://web.archive.org/web/20201129095423/http://usvisalawyers.co.uk/article27.html
- 488. http://www.usvisalawyers.co.uk/article27.html
- 489. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-54
- 490. https://web.archive.org/web/20210211065013/http://www.dhs.gov/xlibrary/assets/statistics/publications/ois_lpr_pe_2010.pdf
- 491. https://www.dhs.gov/xlibrary/assets/statistics/publications/ois_lpr_pe_2010.pdf
- 492. file:///w/index.php?title=绿卡&action=edit&section=15
- 493. https://www.uscis.gov/green-card
- 494. file://web.archive.org/web/20230916144822/https://www.uscis.gov/green-card
- 495. file:///wiki/互联网档案馆
- 496. file:///wiki/Template:美国签证
- 497. file:///w/index.php?title=Template_talk:美国签证&action=edit&redlink=1
- 498. file:///wiki/Special:EditPage/Template:美国签证
- 499. file:///wiki/美国签证政策
- 500. file:///wiki/EB-1签证
- 501. file:///wiki/EB-2签证
- 502. file:///wiki/EB-3签证
- 503. file:///w/index.php?title=EB-4签证&action=edit&redlink=1
- 504. file:///wiki/EB-5签证
- 505. file:///wiki/特朗普金卡
- 506. file:///wiki/多元化移民簽證
- 507. file:///w/index.php?title=庇护_(美国)&action=edit&redlink=1
- 508. https://en.wikipedia.org/wiki/Asylum_in_the_United_States
- 509. file:///w/index.php?title=难民_(美国)&action=edit&redlink=1
- 510. file:///wiki/A签证_(美国)
- 511. file:///wiki/A签证_(美国)
- 512. file:///wiki/A签证_(美国)
- 513. file:///wiki/B签证_(美国)
- 514. file:///wiki/B签证_(美国)
- 515. file:///wiki/B签证_(美国)
- 516. file:///w/index.php?title=C-1签证_(美国)&action=edit&redlink=1
- 517. https://en.wikipedia.org/wiki/C-1_visa
- 518. file:///w/index.php?title=C-2签证_(美国)&action=edit&redlink=1
- 519. https://en.wikipedia.org/wiki/C-2_visa
- 520. file:///w/index.php?title=C-3签证_(美国)&action=edit&redlink=1
- 521. https://en.wikipedia.org/wiki/C-3_visa
- 522. file:///w/index.php?title=D-1签证_(美国)&action=edit&redlink=1
- 523. https://en.wikipedia.org/wiki/D-1_visa
- 524. file:///w/index.php?title=D-2签证_(美国)&action=edit&redlink=1
- 525. https://en.wikipedia.org/wiki/D-2_visa
- 526. file:///w/index.php?title=E-1签证_(美国)&action=edit&redlink=1
- 527. https://en.wikipedia.org/wiki/E-1_visa
- 528. file:///w/index.php?title=E-2签证_(美国)&action=edit&redlink=1
- 529. https://en.wikipedia.org/wiki/E-2_visa
- 530. file:///w/index.php?title=E-3签证_(美国)&action=edit&redlink=1
- 531. https://en.wikipedia.org/wiki/E-3_visa
- 532. file:///w/index.php?title=E-3签证_(美国)&action=edit&redlink=1
- 533. https://en.wikipedia.org/wiki/E-3_visa
- 534. file:///w/index.php?title=E-3签证_(美国)&action=edit&redlink=1
- 535. https://en.wikipedia.org/wiki/E-3_visa
- 536. file:///wiki/F签证
- 537. file:///wiki/F签证
- 538. file:///wiki/F签证
- 539. file:///w/index.php?title=G签证_(美国)&action=edit&redlink=1
- 540. https://en.wikipedia.org/wiki/G_visa
- 541. file:///w/index.php?title=G签证_(美国)&action=edit&redlink=1
- 542. https://en.wikipedia.org/wiki/G_visa
- 543. file:///w/index.php?title=G签证_(美国)&action=edit&redlink=1
- 544. https://en.wikipedia.org/wiki/G_visa
- 545. file:///w/index.php?title=G签证_(美国)&action=edit&redlink=1
- 546. https://en.wikipedia.org/wiki/G_visa
+ 420. https://www.embassyofpanama.org/visas-1
+ 421. file:///wiki/Wayback_Machine
+ 422. https://web.archive.org/web/20190209124432/https://www.embassyofpanama.org/visas-1
+ 423. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-34
+ 424. http://www.washington.mfa.gov.rs/consularservicestext.php?subaction=showfull&id=1348565352&ucat=17&template=MeniENG&#disqus_thread
+ 425. file:///wiki/Wayback_Machine
+ 426. https://web.archive.org/web/20160406033647/http://www.washington.mfa.gov.rs/consularservicestext.php?subaction=showfull&id=1348565352&ucat=17&template=MeniENG&#disqus_thread
+ 427. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-35
+ 428. https://web.archive.org/web/20170603073801/https://www.uscis.gov/ilink/docView/SLB/HTML/SLB/act.html
+ 429. https://www.uscis.gov/ilink/docView/SLB/HTML/SLB/act.html
+ 430. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-36
+ 431. https://web.archive.org/web/20170907123500/https://travel.state.gov/content/visas/en/immigrate/family/family-preference.html
+ 432. https://travel.state.gov/content/visas/en/immigrate/family/family-preference.html
+ 433. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-37
+ 434. https://web.archive.org/web/20170907173245/https://travel.state.gov/content/visas/en/immigrate/employment.html
+ 435. https://travel.state.gov/content/visas/en/immigrate/employment.html
+ 436. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-visa-bulletin_38-0
+ 437. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-visa-bulletin_38-1
+ 438. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-visa-bulletin_38-2
+ 439. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-visa-bulletin_38-3
+ 440. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-visa-bulletin_38-4
+ 441. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-visa-bulletin_38-5
+ 442. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-visa-bulletin_38-6
+ 443. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-visa-bulletin_38-7
+ 444. https://web.archive.org/web/20170118225214/https://travel.state.gov/content/visas/en/law-and-policy/bulletin.html
+ 445. https://travel.state.gov/content/visas/en/law-and-policy/bulletin.html
+ 446. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-39
+ 447. https://web.archive.org/web/20200128112218/https://www.uscis.gov/humanitarian/refugees-asylum/asylum
+ 448. https://www.uscis.gov/humanitarian/refugees-and-asylum/asylum
+ 449. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-40
+ 450. https://www.uscis.gov/humanitarian/refugees-and-asylum/refugees
+ 451. https://web.archive.org/web/20230916203401/https://www.uscis.gov/humanitarian/refugees-and-asylum/refugees
+ 452. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-41
+ 453. https://web.archive.org/web/20210504211348/https://www.uscis.gov/i-130
+ 454. https://www.uscis.gov/i-130
+ 455. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-42
+ 456. https://web.archive.org/web/20110114073430/https://www.uscis.gov/i-140
+ 457. https://www.uscis.gov/i-140
+ 458. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-43
+ 459. https://web.archive.org/web/20210422054040/https://www.uscis.gov/i-751
+ 460. https://www.uscis.gov/i-751
+ 461. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-44
+ 462. https://web.archive.org/web/20210303083444/https://www.usnews.com/news/politics/articles/2021-02-22/supreme-court-to-review-trumps-controversial-public-charge-immigration-rule
+ 463. https://www.usnews.com/news/politics/articles/2021-02-22/supreme-court-to-review-trumps-controversial-public-charge-immigration-rule
+ 464. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-45
+ 465. https://web.archive.org/web/20161118124654/https://www.uscis.gov/i-131
+ 466. https://www.uscis.gov/i-131
+ 467. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-46
+ 468. https://web.archive.org/web/20191030033652/https://www.uscis.gov/news/questions-and-answers/uscis-issue-employment-authorization-and-advance-parole-card-adjustment-status-applicants-questions-and-answers
+ 469. https://www.uscis.gov/news/questions-and-answers/uscis-issue-employment-authorization-and-advance-parole-card-adjustment-status-applicants-questions-and-answers
+ 470. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-47
+ 471. https://web.archive.org/web/20210506054302/https://www.uscis.gov/i-765
+ 472. https://www.uscis.gov/i-765
+ 473. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-48
+ 474. https://web.archive.org/web/20191030033652/https://www.uscis.gov/news/questions-and-answers/uscis-issue-employment-authorization-and-advance-parole-card-adjustment-status-applicants-questions-and-answers
+ 475. https://www.uscis.gov/news/questions-and-answers/uscis-issue-employment-authorization-and-advance-parole-card-adjustment-status-applicants-questions-and-answers
+ 476. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-49
+ 477. https://web.archive.org/web/20210420150151/https://www.uscis.gov/green-card/green-card-processes-and-procedures/consular-processing
+ 478. https://www.uscis.gov/green-card/green-card-processes-and-procedures/consular-processing
+ 479. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-50
+ 480. https://web.archive.org/web/20181126135948/https://www.uscis.gov/green-card/after-green-card-granted/renew-green-card
+ 481. https://www.uscis.gov/green-card/after-green-card-granted/renew-green-card
+ 482. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-51
+ 483. https://web.archive.org/web/20210501215544/https://www.uscis.gov/green-card/after-we-grant-your-green-card/maintaining-permanent-residence
+ 484. https://www.uscis.gov/green-card/after-we-grant-your-green-card/maintaining-permanent-residence
+ 485. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-re-entry_52-0
+ 486. https://web.archive.org/web/20200314131746/https://www.uscis.gov/sites/default/files/USCIS/Resources/B5en.pdf
+ 487. https://www.uscis.gov/sites/default/files/USCIS/Resources/B5en.pdf
+ 488. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-53
+ 489. https://web.archive.org/web/20220607052242/https://www.klaskolaw.com/article/新冠疫情下，滞留美国境外的绿卡持有人如何维持/
+ 490. https://www.klaskolaw.com/article/新冠疫情下，滞留美国境外的绿卡持有人如何维持/
+ 491. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-54
+ 492. https://web.archive.org/web/20210411044431/https://www.uscis.gov/i-407
+ 493. https://www.uscis.gov/i-407
+ 494. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-55
+ 495. https://web.archive.org/web/20201129095423/http://usvisalawyers.co.uk/article27.html
+ 496. http://www.usvisalawyers.co.uk/article27.html
+ 497. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html#cite_ref-56
+ 498. https://web.archive.org/web/20210211065013/http://www.dhs.gov/xlibrary/assets/statistics/publications/ois_lpr_pe_2010.pdf
+ 499. https://www.dhs.gov/xlibrary/assets/statistics/publications/ois_lpr_pe_2010.pdf
+ 500. file:///w/index.php?title=绿卡&action=edit&section=15
+ 501. https://www.uscis.gov/green-card
+ 502. file://web.archive.org/web/20230916144822/https://www.uscis.gov/green-card
+ 503. file:///wiki/互联网档案馆
+ 504. file:///wiki/Template:美国签证
+ 505. file:///w/index.php?title=Template_talk:美国签证&action=edit&redlink=1
+ 506. file:///wiki/Special:EditPage/Template:美国签证
+ 507. file:///wiki/美国签证政策
+ 508. file:///wiki/EB-1签证
+ 509. file:///wiki/EB-2签证
+ 510. file:///wiki/EB-3签证
+ 511. file:///w/index.php?title=EB-4签证&action=edit&redlink=1
+ 512. file:///wiki/EB-5签证
+ 513. file:///wiki/特朗普金卡
+ 514. file:///wiki/多元化移民簽證
+ 515. file:///w/index.php?title=庇护_(美国)&action=edit&redlink=1
+ 516. https://en.wikipedia.org/wiki/Asylum_in_the_United_States
+ 517. file:///w/index.php?title=难民_(美国)&action=edit&redlink=1
+ 518. file:///wiki/A签证_(美国)
+ 519. file:///wiki/A签证_(美国)
+ 520. file:///wiki/A签证_(美国)
+ 521. file:///wiki/B签证_(美国)
+ 522. file:///wiki/B签证_(美国)
+ 523. file:///wiki/B签证_(美国)
+ 524. file:///w/index.php?title=C-1签证_(美国)&action=edit&redlink=1
+ 525. https://en.wikipedia.org/wiki/C-1_visa
+ 526. file:///w/index.php?title=C-2签证_(美国)&action=edit&redlink=1
+ 527. https://en.wikipedia.org/wiki/C-2_visa
+ 528. file:///w/index.php?title=C-3签证_(美国)&action=edit&redlink=1
+ 529. https://en.wikipedia.org/wiki/C-3_visa
+ 530. file:///w/index.php?title=D-1签证_(美国)&action=edit&redlink=1
+ 531. https://en.wikipedia.org/wiki/D-1_visa
+ 532. file:///w/index.php?title=D-2签证_(美国)&action=edit&redlink=1
+ 533. https://en.wikipedia.org/wiki/D-2_visa
+ 534. file:///w/index.php?title=E-1签证_(美国)&action=edit&redlink=1
+ 535. https://en.wikipedia.org/wiki/E-1_visa
+ 536. file:///w/index.php?title=E-2签证_(美国)&action=edit&redlink=1
+ 537. https://en.wikipedia.org/wiki/E-2_visa
+ 538. file:///w/index.php?title=E-3签证_(美国)&action=edit&redlink=1
+ 539. https://en.wikipedia.org/wiki/E-3_visa
+ 540. file:///w/index.php?title=E-3签证_(美国)&action=edit&redlink=1
+ 541. https://en.wikipedia.org/wiki/E-3_visa
+ 542. file:///w/index.php?title=E-3签证_(美国)&action=edit&redlink=1
+ 543. https://en.wikipedia.org/wiki/E-3_visa
+ 544. file:///wiki/F签证
+ 545. file:///wiki/F签证
+ 546. file:///wiki/F签证
  547. file:///w/index.php?title=G签证_(美国)&action=edit&redlink=1
  548. https://en.wikipedia.org/wiki/G_visa
- 549. file:///wiki/H-1B签证
- 550. file:///w/index.php?title=H-1B1签证_(美国)&action=edit&redlink=1
- 551. https://en.wikipedia.org/wiki/H-1B1_visa
- 552. file:///w/index.php?title=H-1C签证_(美国)&action=edit&redlink=1
- 553. https://en.wikipedia.org/wiki/H-1C_visa
- 554. file:///w/index.php?title=H-2A签证_(美国)&action=edit&redlink=1
- 555. https://en.wikipedia.org/wiki/H-2A_visa
- 556. file:///w/index.php?title=H-2B签证_(美国)&action=edit&redlink=1
- 557. https://en.wikipedia.org/wiki/H-2B_visa
- 558. file:///w/index.php?title=H-3签证_(美国)&action=edit&redlink=1
- 559. https://en.wikipedia.org/wiki/H-3_visa
- 560. file:///wiki/H-4签证_(美国)
- 561. file:///w/index.php?title=I-1签证_(美国)&action=edit&redlink=1
- 562. https://en.wikipedia.org/wiki/I-1_visa
- 563. file:///wiki/J-1签证
- 564. file:///wiki/J-2签证_(美国)
- 565. file:///w/index.php?title=K-1签证_(美国)&action=edit&redlink=1
- 566. https://en.wikipedia.org/wiki/K-1_visa
- 567. file:///w/index.php?title=L-1签证_(美国)&action=edit&redlink=1
- 568. https://en.wikipedia.org/wiki/L-1_visa
- 569. file:///wiki/L-2签证_(美国)
- 570. file:///w/index.php?title=M-1签证_(美国)&action=edit&redlink=1
- 571. https://en.wikipedia.org/wiki/M-1_visa
- 572. file:///w/index.php?title=M-2签证_(美国)&action=edit&redlink=1
- 573. https://en.wikipedia.org/wiki/M-2_visa
- 574. file:///w/index.php?title=NATO-1签证&action=edit&redlink=1
- 575. https://en.wikipedia.org/wiki/NATO-1_visa
- 576. file:///w/index.php?title=O签证_(美国)&action=edit&redlink=1
- 577. https://en.wikipedia.org/wiki/O_visa
- 578. file:///w/index.php?title=O签证_(美国)&action=edit&redlink=1
- 579. https://en.wikipedia.org/wiki/O_visa
- 580. file:///w/index.php?title=O签证_(美国)&action=edit&redlink=1
- 581. https://en.wikipedia.org/wiki/O_visa
- 582. file:///w/index.php?title=P签证_(美国)&action=edit&redlink=1
- 583. https://en.wikipedia.org/wiki/P_visa
- 584. file:///w/index.php?title=P签证_(美国)&action=edit&redlink=1
- 585. https://en.wikipedia.org/wiki/P_visa
- 586. file:///w/index.php?title=P签证_(美国)&action=edit&redlink=1
- 587. https://en.wikipedia.org/wiki/P_visa
- 588. file:///w/index.php?title=P签证_(美国)&action=edit&redlink=1
- 589. https://en.wikipedia.org/wiki/P_visa
- 590. file:///w/index.php?title=Q-1签证_(美国)&action=edit&redlink=1
- 591. https://en.wikipedia.org/wiki/Q-1_visa
- 592. file:///w/index.php?title=R-1签证_(美国)&action=edit&redlink=1
- 593. https://en.wikipedia.org/wiki/R_visa
- 594. file:///w/index.php?title=R-2签证_(美国)&action=edit&redlink=1
- 595. https://en.wikipedia.org/wiki/R_visa
- 596. file:///w/index.php?title=S-5签证_(美国)&action=edit&redlink=1
- 597. https://en.wikipedia.org/wiki/S-5_visa
- 598. file:///w/index.php?title=S-6签证_(美国)&action=edit&redlink=1
- 599. https://en.wikipedia.org/wiki/S-6_visa
- 600. file:///w/index.php?title=S-7签证_(美国)&action=edit&redlink=1
- 601. https://en.wikipedia.org/wiki/S-7_visa
- 602. file:///w/index.php?title=T签证_(美国)&action=edit&redlink=1
- 603. https://en.wikipedia.org/wiki/T_visa
- 604. file:///w/index.php?title=T签证_(美国)&action=edit&redlink=1
- 605. https://en.wikipedia.org/wiki/T_visa
- 606. file:///w/index.php?title=T签证_(美国)&action=edit&redlink=1
- 607. https://en.wikipedia.org/wiki/T_visa
- 608. file:///w/index.php?title=T签证_(美国)&action=edit&redlink=1
- 609. https://en.wikipedia.org/wiki/T_visa
- 610. file:///wiki/TN身分狀態
- 611. file:///wiki/TN身分狀態
- 612. file:///w/index.php?title=U签证&action=edit&redlink=1
- 613. https://en.wikipedia.org/wiki/U_visa
- 614. file:///w/index.php?title=U签证&action=edit&redlink=1
- 615. https://en.wikipedia.org/wiki/U_visa
- 616. file:///w/index.php?title=U签证&action=edit&redlink=1
- 617. https://en.wikipedia.org/wiki/U_visa
- 618. file:///w/index.php?title=U签证&action=edit&redlink=1
- 619. https://en.wikipedia.org/wiki/U_visa
+ 549. file:///w/index.php?title=G签证_(美国)&action=edit&redlink=1
+ 550. https://en.wikipedia.org/wiki/G_visa
+ 551. file:///w/index.php?title=G签证_(美国)&action=edit&redlink=1
+ 552. https://en.wikipedia.org/wiki/G_visa
+ 553. file:///w/index.php?title=G签证_(美国)&action=edit&redlink=1
+ 554. https://en.wikipedia.org/wiki/G_visa
+ 555. file:///w/index.php?title=G签证_(美国)&action=edit&redlink=1
+ 556. https://en.wikipedia.org/wiki/G_visa
+ 557. file:///wiki/H-1B签证
+ 558. file:///w/index.php?title=H-1B1签证_(美国)&action=edit&redlink=1
+ 559. https://en.wikipedia.org/wiki/H-1B1_visa
+ 560. file:///w/index.php?title=H-1C签证_(美国)&action=edit&redlink=1
+ 561. https://en.wikipedia.org/wiki/H-1C_visa
+ 562. file:///w/index.php?title=H-2A签证_(美国)&action=edit&redlink=1
+ 563. https://en.wikipedia.org/wiki/H-2A_visa
+ 564. file:///w/index.php?title=H-2B签证_(美国)&action=edit&redlink=1
+ 565. https://en.wikipedia.org/wiki/H-2B_visa
+ 566. file:///w/index.php?title=H-3签证_(美国)&action=edit&redlink=1
+ 567. https://en.wikipedia.org/wiki/H-3_visa
+ 568. file:///wiki/H-4签证_(美国)
+ 569. file:///w/index.php?title=I-1签证_(美国)&action=edit&redlink=1
+ 570. https://en.wikipedia.org/wiki/I-1_visa
+ 571. file:///wiki/J-1签证
+ 572. file:///wiki/J-2签证_(美国)
+ 573. file:///w/index.php?title=K-1签证_(美国)&action=edit&redlink=1
+ 574. https://en.wikipedia.org/wiki/K-1_visa
+ 575. file:///w/index.php?title=L-1签证_(美国)&action=edit&redlink=1
+ 576. https://en.wikipedia.org/wiki/L-1_visa
+ 577. file:///wiki/L-2签证_(美国)
+ 578. file:///w/index.php?title=M-1签证_(美国)&action=edit&redlink=1
+ 579. https://en.wikipedia.org/wiki/M-1_visa
+ 580. file:///w/index.php?title=M-2签证_(美国)&action=edit&redlink=1
+ 581. https://en.wikipedia.org/wiki/M-2_visa
+ 582. file:///w/index.php?title=NATO-1签证&action=edit&redlink=1
+ 583. https://en.wikipedia.org/wiki/NATO-1_visa
+ 584. file:///w/index.php?title=O签证_(美国)&action=edit&redlink=1
+ 585. https://en.wikipedia.org/wiki/O_visa
+ 586. file:///w/index.php?title=O签证_(美国)&action=edit&redlink=1
+ 587. https://en.wikipedia.org/wiki/O_visa
+ 588. file:///w/index.php?title=O签证_(美国)&action=edit&redlink=1
+ 589. https://en.wikipedia.org/wiki/O_visa
+ 590. file:///w/index.php?title=P签证_(美国)&action=edit&redlink=1
+ 591. https://en.wikipedia.org/wiki/P_visa
+ 592. file:///w/index.php?title=P签证_(美国)&action=edit&redlink=1
+ 593. https://en.wikipedia.org/wiki/P_visa
+ 594. file:///w/index.php?title=P签证_(美国)&action=edit&redlink=1
+ 595. https://en.wikipedia.org/wiki/P_visa
+ 596. file:///w/index.php?title=P签证_(美国)&action=edit&redlink=1
+ 597. https://en.wikipedia.org/wiki/P_visa
+ 598. file:///w/index.php?title=Q-1签证_(美国)&action=edit&redlink=1
+ 599. https://en.wikipedia.org/wiki/Q-1_visa
+ 600. file:///w/index.php?title=R-1签证_(美国)&action=edit&redlink=1
+ 601. https://en.wikipedia.org/wiki/R_visa
+ 602. file:///w/index.php?title=R-2签证_(美国)&action=edit&redlink=1
+ 603. https://en.wikipedia.org/wiki/R_visa
+ 604. file:///w/index.php?title=S-5签证_(美国)&action=edit&redlink=1
+ 605. https://en.wikipedia.org/wiki/S-5_visa
+ 606. file:///w/index.php?title=S-6签证_(美国)&action=edit&redlink=1
+ 607. https://en.wikipedia.org/wiki/S-6_visa
+ 608. file:///w/index.php?title=S-7签证_(美国)&action=edit&redlink=1
+ 609. https://en.wikipedia.org/wiki/S-7_visa
+ 610. file:///w/index.php?title=T签证_(美国)&action=edit&redlink=1
+ 611. https://en.wikipedia.org/wiki/T_visa
+ 612. file:///w/index.php?title=T签证_(美国)&action=edit&redlink=1
+ 613. https://en.wikipedia.org/wiki/T_visa
+ 614. file:///w/index.php?title=T签证_(美国)&action=edit&redlink=1
+ 615. https://en.wikipedia.org/wiki/T_visa
+ 616. file:///w/index.php?title=T签证_(美国)&action=edit&redlink=1
+ 617. https://en.wikipedia.org/wiki/T_visa
+ 618. file:///wiki/TN身分狀態
+ 619. file:///wiki/TN身分狀態
  620. file:///w/index.php?title=U签证&action=edit&redlink=1
  621. https://en.wikipedia.org/wiki/U_visa
- 622. file:///w/index.php?title=特别移民少年身份&action=edit&redlink=1
- 623. https://en.wikipedia.org/wiki/Special_Immigrant_Juvenile_Status
- 624. file:///w/index.php?title=V签证_(美国)&action=edit&redlink=1
- 625. https://en.wikipedia.org/wiki/V_visa
- 626. file:///w/index.php?title=V签证_(美国)&action=edit&redlink=1
- 627. https://en.wikipedia.org/wiki/V_visa
- 628. file:///w/index.php?title=V签证_(美国)&action=edit&redlink=1
- 629. https://en.wikipedia.org/wiki/V_visa
- 630. file:///wiki/免签证计划
- 631. https://zh.wikipedia.org/w/index.php?title=绿卡&oldid=89858119
- 632. file:///wiki/Special:Categories
- 633. file:///wiki/Category:美国移民史
- 634. file:///wiki/Category:移民美国
- 635. file:///wiki/Category:美國移民法律
- 636. file:///wiki/Category:1940年代美國建立
- 637. file:///wiki/Category:1940年代面世
- 638. file:///wiki/Category:外国人居留许可证
- 639. file:///wiki/Category:Webarchive模板wayback链接
- 640. file:///wiki/Category:有蓝链却未移除内部链接助手模板的页面
- 641. file:///wiki/Category:含有英語的條目
- 642. file:///wiki/Wikipedia:CC_BY-SA_4.0协议文本
- 643. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
- 644. https://wikimediafoundation.org/
- 645. https://donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility
- 646. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
- 647. file:///wiki/Wikipedia:关于
- 648. file:///wiki/Wikipedia:免责声明
- 649. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
- 650. https://developer.wikimedia.org/
- 651. https://stats.wikimedia.org/#/zh.wikipedia.org
- 652. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
- 653. file://zh.wikipedia.org/w/index.php?title=绿卡&mobileaction=toggle_view_mobile
- 654. https://www.wikimedia.org/
- 655. https://www.mediawiki.org/
- 656. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html
+ 622. file:///w/index.php?title=U签证&action=edit&redlink=1
+ 623. https://en.wikipedia.org/wiki/U_visa
+ 624. file:///w/index.php?title=U签证&action=edit&redlink=1
+ 625. https://en.wikipedia.org/wiki/U_visa
+ 626. file:///w/index.php?title=U签证&action=edit&redlink=1
+ 627. https://en.wikipedia.org/wiki/U_visa
+ 628. file:///w/index.php?title=U签证&action=edit&redlink=1
+ 629. https://en.wikipedia.org/wiki/U_visa
+ 630. file:///w/index.php?title=特别移民少年身份&action=edit&redlink=1
+ 631. https://en.wikipedia.org/wiki/Special_Immigrant_Juvenile_Status
+ 632. file:///w/index.php?title=V签证_(美国)&action=edit&redlink=1
+ 633. https://en.wikipedia.org/wiki/V_visa
+ 634. file:///w/index.php?title=V签证_(美国)&action=edit&redlink=1
+ 635. https://en.wikipedia.org/wiki/V_visa
+ 636. file:///w/index.php?title=V签证_(美国)&action=edit&redlink=1
+ 637. https://en.wikipedia.org/wiki/V_visa
+ 638. file:///wiki/免签证计划
+ 639. https://zh.wikipedia.org/w/index.php?title=绿卡&oldid=90789736
+ 640. file:///wiki/Special:Categories
+ 641. file:///wiki/Category:美国移民史
+ 642. file:///wiki/Category:移民美国
+ 643. file:///wiki/Category:美國移民法律
+ 644. file:///wiki/Category:1940年代美國建立
+ 645. file:///wiki/Category:1940年代面世
+ 646. file:///wiki/Category:外国人居留许可证
+ 647. file:///wiki/Category:Webarchive模板wayback链接
+ 648. file:///wiki/Category:有蓝链却未移除内部链接助手模板的页面
+ 649. file:///wiki/Category:含有英語的條目
+ 650. file:///wiki/Wikipedia:CC_BY-SA_4.0协议文本
+ 651. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 652. https://wikimediafoundation.org/
+ 653. https://donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility
+ 654. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 655. file:///wiki/Wikipedia:关于
+ 656. file:///wiki/Wikipedia:免责声明
+ 657. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 658. https://developer.wikimedia.org/
+ 659. https://stats.wikimedia.org/#/zh.wikipedia.org
+ 660. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 661. file://zh.wikipedia.org/w/index.php?title=绿卡&mobileaction=toggle_view_mobile
+ 662. https://www.wikimedia.org/
+ 663. https://www.mediawiki.org/
+ 664. file:///home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html
 
    Hidden links:
- 658. file://localhost/wiki/Wikipedia:%E6%B6%88%E6%AD%A7%E4%B9%89
- 659. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html
- 660. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html
- 661. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html
- 662. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html
- 663. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html
- 664. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html
- 665. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html
+ 666. file://localhost/wiki/Wikipedia:%E6%B6%88%E6%AD%A7%E4%B9%89
+ 667. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html
+ 668. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html
+ 669. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html
+ 670. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html
+ 671. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html
+ 672. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html
+ 673. file://localhost/home/menggeliu/PPE-VERT/aspirations/zh/chinois-36.html

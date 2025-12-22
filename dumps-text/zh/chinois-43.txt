@@ -108,18 +108,18 @@
    [26]详情
    [27]完善
    猜您喜欢
-   [28]天命不足畏，祖宗不足法，人言不足恤。 ——[29]《宋史·列传·卷八十六》
-   [30]照见五蕴皆空，度一切苦厄。 ——[31]《心经·心经》
-   [32]却看妻子愁何在，漫卷诗书喜欲狂。 ——[33]杜甫《闻官军收河南河北》
-   [34]兴酣落笔摇五岳，诗成笑傲凌沧洲。 ——[35]李白《江上吟》
-   [36]寡人之于国也，尽心焉耳矣。 ——[37]孟子弟子录《寡人之于国也》
-   [38]我欲乘槎，直穷银汉，问津深入。 ——[39]许有壬《水龙吟·过黄河》
-   [40]穷不失义，达不离道。 ——[41]《孟子·尽心章句上·第九节》
-   [42]峰峦如聚，波涛如怒，山河表里潼关路。 ——[43]张养浩《山坡羊·潼关怀古》
-   [44]独善其身尽日安，何须千古名不朽！ ——[45]《三国演义·第三十七回》
-   [46]红满苔阶绿满枝。杜宇声声，杜宇声悲。 ——[47]唐寅《一剪梅·红满苔阶绿满枝》
+   [28]细数落花因坐久，缓寻芳草得归迟。 ——[29]王安石《北山》
+   [30]脱衣换得商山酒，笑把离骚独自倾。 ——[31]王禹偁《清明日独酌》
+   [32]衡门之下，可以栖迟。 ——[33]佚名《衡门》
+   [34]人生到处知何似，应似飞鸿踏雪泥。 ——[35]苏轼《和子由渑池怀旧》
+   [36]腰中双绮带，梦为同心结。 ——[37]萧衍《有所思》
+   [38]坑灰未冷山东乱，刘项原来不读书。 ——[39]章碣《焚书坑》
+   [40]三十三天，离恨天最高；四百四十病，相思病最苦。
+   [41]万里中原烽火北，一尊浊酒戍楼东。 ——[42]张孝祥《浣溪沙·霜日明霄水蘸空》
+   [43]孤舟微月对枫林，分付鸣筝与客心。 ——[44]王昌龄《听流人水调子》
+   [45]微波澄不动，冷浸一天星。 ——[46]秦观《临江仙·千里潇湘挼蓝浦》
 
-   © 2025 [48]古文岛 | [49]诗文 | [50]名句 | [51]作者 | [52]古籍 | [53]纠错
+   © 2025 [47]古文岛 | [48]诗文 | [49]名句 | [50]作者 | [51]古籍 | [52]纠错
 
 References
 
@@ -151,37 +151,36 @@ References
   25. javascript:copyAuthor(536)
   26. file:///authorv_9cb3b7c0e4a0.aspx
   27. file:///jiucuo.aspx?u=作者9cb3b7c0e4a0《李清照》
-  28. file:///mingju/juv_34635957bc89.aspx
-  29. file:///guwen/bookv_58e691585f80.aspx
-  30. file:///mingju/juv_eebc166f57e5.aspx
-  31. file:///guwen/bookv_b7ae953db0d4.aspx
-  32. file:///mingju/juv_58d1f3bffa05.aspx
-  33. file:///shiwenv_519029b7355c.aspx
-  34. file:///mingju/juv_b1ef3e60b486.aspx
-  35. file:///shiwenv_9c5e81f89b48.aspx
-  36. file:///mingju/juv_19e1f34a7a83.aspx
-  37. file:///shiwenv_25e4b27d3f50.aspx
-  38. file:///mingju/juv_5952574876fd.aspx
-  39. file:///shiwenv_0d9d1335c8bc.aspx
-  40. file:///mingju/juv_5b8192844948.aspx
-  41. file:///guwen/bookv_2ab7a4823153.aspx
-  42. file:///mingju/juv_802f27497e2d.aspx
-  43. file:///shiwenv_1bd53945715b.aspx
-  44. file:///mingju/juv_bda7d9fad63b.aspx
-  45. file:///guwen/bookv_3a4bdf0ada38.aspx
-  46. file:///mingju/juv_9bda3660343e.aspx
-  47. file:///shiwenv_2c5bdf816206.aspx
-  48. file:///
-  49. file:///shiwens/
-  50. file:///mingjus/
-  51. file:///authors/
-  52. file:///guwen/
-  53. file:///jiucuo.aspx?u=
+  28. file:///mingju/juv_f40e8046ee35.aspx
+  29. file:///shiwenv_c571a5d4c35f.aspx
+  30. file:///mingju/juv_3e6166f10f43.aspx
+  31. file:///shiwenv_328541b3a99d.aspx
+  32. file:///mingju/juv_08a82d4441ad.aspx
+  33. file:///shiwenv_da432c04a006.aspx
+  34. file:///mingju/juv_aeb687594d14.aspx
+  35. file:///shiwenv_31bc973d596d.aspx
+  36. file:///mingju/juv_c8218be071d5.aspx
+  37. file:///shiwenv_f5a4ecdd36da.aspx
+  38. file:///mingju/juv_51840a64e366.aspx
+  39. file:///shiwenv_583ba27f2896.aspx
+  40. file:///mingju/juv_e9f7b5123078.aspx
+  41. file:///mingju/juv_140ffb4ef851.aspx
+  42. file:///shiwenv_d1f284b8a1f2.aspx
+  43. file:///mingju/juv_baf78330fd6d.aspx
+  44. file:///shiwenv_1e020725e3b0.aspx
+  45. file:///mingju/juv_8578389d4c3b.aspx
+  46. file:///shiwenv_45ff9afd96b4.aspx
+  47. file:///
+  48. file:///shiwens/
+  49. file:///mingjus/
+  50. file:///authors/
+  51. file:///guwen/
+  52. file:///jiucuo.aspx?u=
 
    Hidden links:
-  55. javascript:Play('3ffd5d0653a9','http://www.guwendao.net/mingju/juv.aspx?id=f46d9f9b869f')
-  56. javascript:PlayFanyi(1376,'https://ziyuan.guwendao.net/song/fanyi/qionghua/fb878dd19037.mp3','%E5%A6%82%E6%A2%A6%E4%BB%A4%C2%B7%E6%98%A8%E5%A4%9C%E9%9B%A8%E7%96%8F%E9%A3%8E%E9%AA%A4','%E8%AF%91%E6%96%87%E5%8F%8A%E6%B3%A8%E9%87%8A')
-  57. javascript:PlayShangxi(1883,'https://ziyuan.guwendao.net/song/shangxi/qionghua/32a6e02498f1.mp3','%E5%A6%82%E6%A2%A6%E4%BB%A4%C2%B7%E6%98%A8%E5%A4%9C%E9%9B%A8%E7%96%8F%E9%A3%8E%E9%AA%A4','%E9%89%B4%E8%B5%8F')
-  58. javascript:PlayShangxi(50935,'https://ziyuan.guwendao.net/song/shangxi/qionghua/1451b5b101f7.mp3','%E5%A6%82%E6%A2%A6%E4%BB%A4%C2%B7%E6%98%A8%E5%A4%9C%E9%9B%A8%E7%96%8F%E9%A3%8E%E9%AA%A4','%E7%AE%80%E6%9E%90')
-  59. javascript:PlayShangxi(20412,'https://ziyuan.guwendao.net/song/shangxi/qionghua/9220cf45d291.mp3','%E5%A6%82%E6%A2%A6%E4%BB%A4%C2%B7%E6%98%A8%E5%A4%9C%E9%9B%A8%E7%96%8F%E9%A3%8E%E9%AA%A4','%E5%88%9B%E4%BD%9C%E8%83%8C%E6%99%AF')
-  60. javascript:PlayAuthor(536,'https://ziyuan.guwendao.net/song/author/qionghua/9cb3b7c0e4a0.mp3','%E6%9D%8E%E6%B8%85%E7%85%A7')
+  54. javascript:Play('3ffd5d0653a9','http://www.guwendao.net/mingju/juv.aspx?id=f46d9f9b869f')
+  55. javascript:PlayFanyi(1376,'https://ziyuan.guwendao.net/song/fanyi/qionghua/fb878dd19037.mp3','%E5%A6%82%E6%A2%A6%E4%BB%A4%C2%B7%E6%98%A8%E5%A4%9C%E9%9B%A8%E7%96%8F%E9%A3%8E%E9%AA%A4','%E8%AF%91%E6%96%87%E5%8F%8A%E6%B3%A8%E9%87%8A')
+  56. javascript:PlayShangxi(1883,'https://ziyuan.guwendao.net/song/shangxi/qionghua/32a6e02498f1.mp3','%E5%A6%82%E6%A2%A6%E4%BB%A4%C2%B7%E6%98%A8%E5%A4%9C%E9%9B%A8%E7%96%8F%E9%A3%8E%E9%AA%A4','%E9%89%B4%E8%B5%8F')
+  57. javascript:PlayShangxi(50935,'https://ziyuan.guwendao.net/song/shangxi/qionghua/1451b5b101f7.mp3','%E5%A6%82%E6%A2%A6%E4%BB%A4%C2%B7%E6%98%A8%E5%A4%9C%E9%9B%A8%E7%96%8F%E9%A3%8E%E9%AA%A4','%E7%AE%80%E6%9E%90')
+  58. javascript:PlayShangxi(20412,'https://ziyuan.guwendao.net/song/shangxi/qionghua/9220cf45d291.mp3','%E5%A6%82%E6%A2%A6%E4%BB%A4%C2%B7%E6%98%A8%E5%A4%9C%E9%9B%A8%E7%96%8F%E9%A3%8E%E9%AA%A4','%E5%88%9B%E4%BD%9C%E8%83%8C%E6%99%AF')
+  59. javascript:PlayAuthor(536,'https://ziyuan.guwendao.net/song/author/qionghua/9cb3b7c0e4a0.mp3','%E6%9D%8E%E6%B8%85%E7%85%A7')
