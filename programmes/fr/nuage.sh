@@ -5,7 +5,7 @@ SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 ROOT_DIR="$(cd "$SCRIPT_DIR/../.." && pwd)"
 
 ressource="$ROOT_DIR/dumps-text/fr/*.txt"
-sortie_corpus="$ROOT_DIR/corpus/corpus.txt"
+sortie_corpus="$ROOT_DIR/corpus/corpus_fr.txt"
 
 iconv -f UTF-8 -t UTF-8 -c $ressource > $sortie_corpus
 
