@@ -56,23 +56,36 @@ body {
     to   { opacity: 1; transform: translateY(0); }
 }
 
-header, .hero h1, .hero p {
+header,
+body > * {
     opacity: 0;
     animation: fadeUp 900ms ease forwards;
 }
 
-header      { animation-delay: 120ms; }
-.hero h1    { animation-delay: 260ms; }
-.hero p     { animation-delay: 420ms; }
-
-@media (prefers-reduced-motion: reduce) {
-    header, .hero h1, .hero p {
-        animation: none;
-        opacity: 1;
-    }
+header {
+    position: relative;
+    z-index: 9999;
+    pointer-events: auto;
+    animation-delay: 120ms;
 }
 
+body > *:not(header) {
+    animation-delay: 260ms;
+}
 
+body::before,
+body::after {
+    pointer-events: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    header,
+    body > * {
+        animation: none;
+        opacity: 1;
+        transform: none;
+    }
+}
 
 
 

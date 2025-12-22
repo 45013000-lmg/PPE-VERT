@@ -2,7 +2,8 @@
 
 /* --------------Navigation-------------- */
 header {
-    position: absolute;
+    position: relative;
+    z-index: 9999;
     top: 40px;
     width: 100%;
     display: flex;
