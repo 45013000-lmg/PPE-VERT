@@ -32,7 +32,7 @@
 }
 
 .conclusion {
-    max-width: 980px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 12vh 10vw;
     font-size: 22px;
@@ -41,6 +41,7 @@
 
 .conclusion p {
     margin-bottom: 28px;
+    text-align: justify;
 }
 
 /* ---------- Conclusion : Titre ---------- */

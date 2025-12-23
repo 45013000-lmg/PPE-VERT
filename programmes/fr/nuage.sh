@@ -16,7 +16,7 @@ MASK="$ROOT_DIR/nuage/mask.png"
 OUT="$ROOT_DIR/nuage/fr.png"
 FONT="$ROOT_DIR/assets/Latin-Arabe.ttf"
 
-MAX_WORDS=2000
+MAX_WORDS=4000
 MIN_FONT=6
 MAX_FONT=150
 PREFER_HORIZONTAL=0.98

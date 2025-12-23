@@ -26,8 +26,11 @@
 
       <p class="script-caption">
         <strong>Explication :</strong>
-        Contrairement à d’autres couleurs, qui changent de nom quand elles sont
-        lavées de blanc ou rabattues avec du noir, le vert conserve son nom.
+        Ce script Bash sert à analyser automatiquement un ensemble de pages web en français à partir d’une liste d’URL. Pour chaque page, il télécharge le contenu, le transforme en texte brut et cherche les occurrences d’un mot donné (ici vert et ses variantes). L’objectif est de produire à la fois des données linguistiques et des fichiers de consultation organisés.
+
+        Concrètement, le script commence par se repérer dans l’arborescence du projet afin de fonctionner correctement quel que soit l’endroit depuis lequel il est lancé. Il lit ensuite les URL une par une, récupère les informations techniques de chaque page (code HTTP, encodage), puis sauvegarde le contenu HTML et sa version texte. À partir de ce texte, il compte le nombre d’occurrences du mot recherché, extrait les lignes de contexte et génère une concordance montrant le contexte gauche, le mot cible et le contexte droit.
+
+        Enfin, toutes ces informations sont rassemblées dans un tableau HTML récapitulatif qui permet de consulter facilement, pour chaque URL, les résultats de l’analyse (liens vers l’aspiration, le dump texte, les contextes et la concordance). Le script automatise ainsi un travail de collecte et d’analyse lexicale qui serait très long à réaliser manuellement, et fournit une base exploitable pour une étude linguistique ou sémantique.
       </p>
     </div>
 
@@ -40,8 +43,21 @@
 
       <p class="script-caption">
         <strong>Explication :</strong>
-        Cette étape montre le traitement automatique des URLs et la génération
-        des tableaux HTML à partir des données collectées.
+        Ce script Python a pour objectif de visualiser les résultats d’une analyse lexicale sous forme de nuage de mots. À partir de fichiers textuels produits en amont (par exemple des dumps ou des contextes), il extrait les mots pertinents, calcule leur fréquence d’apparition et les représente graphiquement. Le nuage de mots permet ainsi de voir rapidement quels termes sont les plus présents dans le corpus étudié.
+
+        Le script lit les données textuelles, nettoie le contenu (suppression des caractères inutiles, des mots vides ou trop fréquents), puis associe à chaque mot un poids proportionnel à sa fréquence. Ces informations sont ensuite utilisées pour générer une image dans laquelle la taille des mots reflète leur importance dans le corpus. Plus un mot apparaît souvent, plus il est affiché en grand.
+      </p>
+    </div>
+
+    <!-- Bloc 3 -->
+    <div class="script-block">
+      <div class="glass-container">
+        <img src="../script_image/fr/05.png">
+      </div>
+
+      <p class="script-caption">
+        <strong>Explication :</strong>
+        Ce script Bash sert à préparer un corpus textuel et à lancer la génération d’un nuage de mots en français. Il fait le lien entre les fichiers de texte produits lors de l’analyse des pages web et le script Python chargé de créer la visualisation finale.
       </p>
     </div>
 

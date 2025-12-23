@@ -45,11 +45,11 @@ def main():
 
     # Stopwords français
     FRENCH_STOPWORDS = {
-        "le", "la", "les", "un", "une", "des", "de", "du",
-        "et", "à", "en", "pour", "que", "qui", "dans", "sur", "fr_fr"
-        "au", "aux", "ce", "ces", "cet", "cette", "www", "com", "url"
-        "son", "sa", "ses", "leur", "leurs", "https", "html", "fr", "wiki"
-        "ne", "pas", "plus", "ou", "mais", "donc", "or", "ni", "car"
+        "le", "la", "les", "un", "une", "des", "de", "du", "votre", "Wiki", "user", "ppe"
+        "et", "à", "en", "pour", "que", "qui", "dans", "sur", "fr_fr", "vous", "index",
+        "au", "aux", "ce", "ces", "cet", "cette", "www", "com", "url", "file", "yaoshiyi"
+        "son", "sa", "ses", "leur", "leurs", "https", "html", "fr", "wiki", "urls", "est"
+        "ne", "pas", "plus", "ou", "mais", "donc", "or", "ni", "car", "et", "org", "Yaoshiyi"
     }
 
     stop = FRENCH_STOPWORDS
