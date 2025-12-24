@@ -14,14 +14,14 @@
      * [7]En continu
      * [8]Actualités
        En ce moment
-          + [9]Budget 2026
-          + [10]Guerre en Ukraine
+          + [9]Guerre en Ukraine
+          + [10]Budget 2026
           + [11]Donald Trump
-          + [12]Colère des agriculteurs
-          + [13]Proche-Orient
+          + [12]Proche-Orient
+          + [13]Colère des agriculteurs
           + [14]CAN 2025
-          + [15]Les séries du « Monde »
-          + [16]Le Noël du « Monde »
+          + [15]Le Noël du « Monde »
+          + [16]Les séries du « Monde »
           + [17]En direct
           + [18]Toute l’actualité en continu
        Actualités
@@ -54,21 +54,13 @@
           + [45]Tribunes éco
           + [46]Cities
           + [47]Le Club de l’économie
-       [48]Le président de la République française, Emmanuel Macron,
-       durant son discours devant les armées à Abou Dhabi, le
-       21 décembre 2025. Le président de la République française, Emmanuel
-       Macron, durant son discours devant les armées à Abou Dhabi, le
-       21 décembre 2025.
-       Économie
-       Emmanuel Macron lance la construction du nouveau porte-avions
-       français, « l’illustration de la puissance de notre nation »
-       [49]Au siège de la start-up française Quandela, spécialisée dans le
-       calcul quantique, à Massy (Essonne), en mars 2023. Au siège de la
-       start-up française Quandela, spécialisée dans le calcul quantique,
-       à Massy (Essonne), en mars 2023.
-       Économie
+       [48]A Chicago (Etat de l’Illinois), le 30 juillet 2025. A Chicago
+       (Etat de l’Illinois), le 30 juillet 2025. Économie
+       Les Etats-Unis surprennent avec une croissance de 4,3 % au
+       troisième trimestre
+       [49]Économie
        Article réservé aux abonnés
-       La France reste dans la course au quantique en Europe
+       Puces électroniques : l’inexorable déclin de l’Europe
        [50]Les cadeaux considérés comme des présents d’usage et non
        rapportables à la succession ne doivent pas dépasser un certain
        montant. Les cadeaux considérés comme des présents d’usage et non
@@ -78,28 +70,36 @@
        Quand le cadeau fait à la fille représente 80 % des revenus de la
        mère
        Rafaële Rivais
-       [51]Tribune
+       [51]François Bourguignon, alors économiste en chef de la Banque
+       mondiale, à Washington, le 15 avril 2007. François Bourguignon,
+       alors économiste en chef de la Banque mondiale, à Washington, le
+       15 avril 2007.
+       Tribune
        Article réservé aux abonnés
-       « Non, la politique monétaire n’est pas la cause des maux
-       français »
-       Olivier Garnier
-       Chef économiste de la Banque de France
+       La réponse de François Bourguignon à Gabriel Zucman : « Le cœur de
+       l’Europe s’appauvrit d’année en année par rapport à l’économie
+       américaine »
+       François Bourguignon
+       Economiste
      * [52]Vidéos
           + [53]Vidéos
           + [54]L’actualité
           + [55]Les explications
           + [56]Enquêtes vidéo
           + [57]Les mini-séries
-       [58]Entretien
-       Vidéo. Critiquer les femmes, un discours rentable sur les réseaux
-       sociaux ?
-       [59]International
-       Venezuela : les Etats-Unis diffusent les images de la saisie d’un
-       pétrolier, Nicolas Maduro appelle au calme en chanson
-       [60]Vidéos
+       [58]Vidéos
        Article réservé aux abonnés
        Les fausses promesses du biogaz et des méthaniseurs géants des
        grandes entreprises pétrolières
+       [59]International
+       Venezuela : les Etats-Unis diffusent les images de la saisie d’un
+       pétrolier, Nicolas Maduro appelle au calme en chanson
+       [60]Les deux assaillants lors de l’attaque terroriste à Bondi
+       Beach, à Sydney, dimanche 14 décembre 2025. Les deux assaillants
+       lors de l’attaque terroriste à Bondi Beach, à Sydney, dimanche
+       14 décembre 2025.
+       International
+       Attentat en Australie : ce que montrent les images
        [61]Enquête
        Article réservé aux abonnés
        Comment les contenus haineux se sont installés parmi les podcasts
@@ -113,17 +113,12 @@
           + [68]Entretiens idées
           + [69]Analyses
           + [70]Tribunes
-       [71]Dans une usine de fabrication de semi-conducteurs à Suqian
-       (province du Jiangsu), en Chine, le 20 octobre 2025. Dans une usine
-       de fabrication de semi-conducteurs à Suqian (province du Jiangsu),
-       en Chine, le 20 octobre 2025.
-       Éditorial
-       La géopolitique des microprocesseurs : une leçon cruelle pour les
-       Européens
+       [71]Éditorial
+       Budget 2026 : le risque de l’enlisement
        [72]Entretien
        Article réservé aux abonnés
-       « En France, toutes religions confondues, on compte environ
-       20 000 conversions par an, dont 11 000 vers le catholicisme »
+       Christel Coton, sociologue : « L’armée n’est plus perçue par la
+       jeunesse comme une institution guerrière mais de protection »
        [73]Lors des attentats, à Paris, le 13 novembre 2015. Lors des
        attentats, à Paris, le 13 novembre 2015.
        Chronique
@@ -135,10 +130,10 @@
        [74]
        Tribune
        Article réservé aux abonnés
-       Piratage du ministère de l’intérieur : « La numérisation de nos
-       données administratives est un défi à l’Etat de droit »
-       Alexandre Lazarègue
-       Avocat
+       Patrick Rambourg, historien : « Les coutumes culinaires de nos
+       réveillons sont différentes de celles des Noël d’antan »
+       Patrick Rambourg
+       Historien
      * [75]Culture
           + [76]Culture
           + [77]Cinéma
@@ -147,31 +142,33 @@
           + [80]Musiques
           + [81]Arts
           + [82]Scènes
-       [83]Amanda Seyfried dans l’adaptation au cinéma du best-seller « La
-       Femme de ménage », de Freida McFadden. Amanda Seyfried dans
-       l’adaptation au cinéma du best-seller « La Femme de ménage », de
-       Freida McFadden.
-       M le mag
+       [83]Image extraite de « Metropolis » (2001), film d’animation
+       japonais de Rintaro. Image extraite de « Metropolis » (2001), film
+       d’animation japonais de Rintaro.
+       Culture
        Article réservé aux abonnés
-       « La Femme de ménage », le pari gagnant d’un petit éditeur
-       indépendant français
-       [84]La romancière et poète Inga Gaile. La romancière et poète Inga
-       Gaile.
-       Le Monde des livres
-       Article réservé aux abonnés
-       « Belles de sang » : Inga Gaile, fille des ruines du XXᵉ siècle
+       « Metropolis », de Rintaro, le maître de l’animation japonaise, est
+       de retour dans les salles
+       [84]Exposition « Manga. Tout un art ! », au Musée Guimet,
+       Paris 16ᵉ. Exposition « Manga. Tout un art ! », au Musée Guimet,
+       Paris 16ᵉ.
+       Entretien
+       « Le manga puise très librement dans le répertoire des mythes
+       japonais »
        [85]Claude Berda, à Paris, le 29 septembre 2025. Claude Berda, �
        Paris, le 29 septembre 2025.
        Disparitions
        Article réservé aux abonnés
        La mort de Claude Berda, le B d’AB Productions et pape des
        émissions pour la jeunesse des années 1990
-       [86]Pierre Vial, au Théâtre du Vieux-Colombier, à Paris, le
-       18 novembre 2008. Pierre Vial, au Théâtre du Vieux-Colombier, �
-       Paris, le 18 novembre 2008.
+       [86]Planche de BD « Never Again !… And Again… And Again », réalisée
+       en collaboration par Joe Sacco et Art Spiegelman. Planche de BD
+       « Never Again !… And Again… And Again », réalisée en collaboration
+       par Joe Sacco et Art Spiegelman.
        Culture
-       Pierre Vial, sociétaire honoraire de la Comédie-Française et acteur
-       dans « Les Visiteurs », est mort à l’âge de 97 ans
+       Article réservé aux abonnés
+       Entre Joe Sacco et Art Spiegelman, une conversation dessinée sur
+       Gaza
      * [87]Le Goût du Monde
           + [88]Le Goût du Monde
           + [89]Le Monde passe à table
@@ -182,27 +179,28 @@
           + [94]Horlogerie & Joaillerie
           + [95]M le mag
           + [96]L’époque
-       [97]L’amaryllis. L’amaryllis.
+       [97]Caveau Lanson, en février 2025. Caveau Lanson, en février 2025.
        Le Goût du Monde
        Article réservé aux abonnés
-       Cinq plantes à offrir pour Noël
-       [98]Jeanne Martin-Taton et Marie-Marie Vergne dans leur atelier, �
-       Sète, le 10 novembre 2025. Jeanne Martin-Taton et Marie-Marie
-       Vergne dans leur atelier, à Sète, le 10 novembre 2025.
+       Au « Paradis Lanson », entrez dans le club select des caves privées
+       de champagne
+       [98]La baie de Baska, en Croatie, vue depuis le sentier menant au
+       plateau de la Lune, le 4 novembre 2025. La baie de Baska, en
+       Croatie, vue depuis le sentier menant au plateau de la Lune, le
+       4 novembre 2025.
        Le Goût du Monde
        Article réservé aux abonnés
-       Les Crafties tissent leurs toiles
-       [99]Le service à thé créé par le designer François Bauchet réédité
-       par Tools Editions. Le service à thé créé par le designer François
-       Bauchet réédité par Tools Editions.
-       Le Goût du Monde
-       Un nécessaire à thé de Vallauris reprend du service
-       [100]Chez Whole Foods, à Hudson Yards, à New York, le
-       23 novembre 2025. Chez Whole Foods, à Hudson Yards, à New York, le
-       23 novembre 2025.
+       L’île croate de Krk, un concentré de douceur adriatique
+       [99]Grand Lady Kalla, Vacheron Constantin. Grand Lady Kalla,
+       Vacheron Constantin. Le Goût du Monde
+       Avec les montres-bijoux, l’horlogerie se fait joaillerie
+       [100]La traditionnelle fête déguisée SantaCon, dans le quartier de
+       Midtown (Manhattan, New York), le 13 décembre 2025. La
+       traditionnelle fête déguisée SantaCon, dans le quartier de Midtown
+       (Manhattan, New York), le 13 décembre 2025.
        L'époque
        Article réservé aux abonnés
-       A Thanksgiving, la dinde est-elle démocrate ?
+       A New York, l’invasion des Pères Noël imbibés
      * [101]Services
        Services Le Monde
           + [102]Boutique Le Monde
@@ -479,139 +477,139 @@ Attaques de Trump
    [158]Je m’abonne
    Carte Apple Pay Google Pay
 
-Le Monde Ateliers
+Le Monde Boutique
 
    [159]Découvrir
    (BUTTON) (BUTTON)
-   [160]Masterclasses
+   [160]Sélection à offrir
+
+   Sélection à offrir
+
+   Jeux, accessoires, affiches, hors-séries et livres.
+   [161]Pré-commandez votre Bilan du Monde 2026
+
+   Pré-commandez votre Bilan du Monde 2026
+
+   Bénéficiez des frais de ports offerts.
+   [162]40 cartes pour comprendre les nouveaux empereurs
+
+   40 cartes pour comprendre les nouveaux empereurs
+
+   Entretiens, éclairages et décryptage.
+   [163]Arthur Rimbaud
+
+   Arthur Rimbaud
+
+   La vie et l’œuvre de cet être si jeune, à la pensée si profonde.
+   [164]L'Histoire des Maths
+
+   L'Histoire des Maths
+
+   Des fondements arithmétiques à la théorie du chaos.
+   [165]Gaston, employé du siècle
+
+   Gaston, employé du siècle
+
+   Redécouvrez Gaston, ses gags, ses gaffes et ses inventions saugrenues.
+   [166]M, le magazine du Monde International Issue 003 - Livraison France
+
+   M, le magazine du Monde International Issue 003 - Livraison France
+
+   M International celebrates “The Legends”.
+   [167]Newsletter
+
+   Newsletter
+
+   Pour se tenir informé des nouveautés de la boutique du Monde
+   (BUTTON) Voir plus
+
+Le Monde Boutique
+
+   [168]Découvrir
+   (BUTTON) (BUTTON)
+   [169]Sélection à offrir
+
+   Sélection à offrir
+
+   Avantage abonnés : -15 % sur la sélection avec le code LEMONDE15.
+   [170]Pré-commandez votre Bilan du Monde 2026
+
+   Pré-commandez votre Bilan du Monde 2026
+
+   Bénéficiez des frais de ports offerts.
+   [171]40 cartes pour comprendre les nouveaux empereurs
+
+   40 cartes pour comprendre les nouveaux empereurs
+
+   Entretiens, éclairages et décryptage.
+   [172]Arthur Rimbaud
+
+   Arthur Rimbaud
+
+   La vie et l’œuvre de cet être si jeune, à la pensée si profonde.
+   [173]Atlas des Religions
+
+   Atlas des Religions
+
+   Une vision approfondie du paysage religieux mondial.
+   [174]Gaston, employé du siècle
+
+   Gaston, employé du siècle
+
+   Redécouvrez Gaston, ses gags, ses gaffes et ses inventions saugrenues.
+   [175]M, le magazine du Monde International Issue 003 - Livraison France
+
+   M, le magazine du Monde International Issue 003 - Livraison France
+
+   M International celebrates “The Legends”.
+   [176]Newsletter
+
+   Newsletter
+
+   Pour se tenir informé des nouveautés de la boutique du Monde
+   (BUTTON) Voir plus
+
+Le Monde Ateliers
+
+   [177]Découvrir
+   (BUTTON) (BUTTON)
+   [178]Masterclasses
 
    Masterclasses
 
    Cinq auteurs vous partagent leurs secrets d’écriture
-   [161]Festival Chaleur humaine 2026
+   [179]Festival Chaleur humaine 2026
 
    Festival Chaleur humaine 2026
 
    Enregistrement en public, rencontre, ateliers...
-   [162]Soirée de lancement : Bilan du Monde 2026
+   [180]Soirée de lancement : Bilan du Monde 2026
 
    Soirée de lancement : Bilan du Monde 2026
 
    Participez à la soirée et pré-commandez votre Bilan
-   [163]Cours du soir
+   [181]Cours du soir
 
    Cours du soir
 
    L'Europe à l'heure du divorce transatlantique
-   [164]Cours en ligne
+   [182]Cours en ligne
 
    Cours en ligne
 
    De Socrate à la fin de l'Empire romain : comment s'orienter dans la
    philosophie antique
-   [165]Cours en ligne
+   [183]Cours en ligne
 
    Cours en ligne
 
    De la naissance à l’âge adulte, comment améliorer son sommeil
-   [166]Cours en ligne
+   [184]Cours en ligne
 
    Cours en ligne
 
    Du latin à la communication inclusive, comprendre l’évolution de la
    langue française
-   (BUTTON) Voir plus
-
-Le Monde Boutique
-
-   [167]Découvrir
-   (BUTTON) (BUTTON)
-   [168]Sélection à offrir
-
-   Sélection à offrir
-
-   Jeux, accessoires, affiches, hors-séries et livres.
-   [169]Pré-commandez votre Bilan du Monde 2026
-
-   Pré-commandez votre Bilan du Monde 2026
-
-   Bénéficiez des frais de ports offerts.
-   [170]40 cartes pour comprendre les nouveaux empereurs
-
-   40 cartes pour comprendre les nouveaux empereurs
-
-   Entretiens, éclairages et décryptage.
-   [171]Arthur Rimbaud
-
-   Arthur Rimbaud
-
-   La vie et l’œuvre de cet être si jeune, à la pensée si profonde.
-   [172]L'Histoire des Maths
-
-   L'Histoire des Maths
-
-   Des fondements arithmétiques à la théorie du chaos.
-   [173]Gaston, employé du siècle
-
-   Gaston, employé du siècle
-
-   Redécouvrez Gaston, ses gags, ses gaffes et ses inventions saugrenues.
-   [174]M, le magazine du Monde International Issue 003 - Livraison France
-
-   M, le magazine du Monde International Issue 003 - Livraison France
-
-   M International celebrates “The Legends”.
-   [175]Newsletter
-
-   Newsletter
-
-   Pour se tenir informé des nouveautés de la boutique du Monde
-   (BUTTON) Voir plus
-
-Le Monde Boutique
-
-   [176]Découvrir
-   (BUTTON) (BUTTON)
-   [177]Sélection à offrir
-
-   Sélection à offrir
-
-   Avantage abonnés : -15 % sur la sélection avec le code LEMONDE15.
-   [178]Pré-commandez votre Bilan du Monde 2026
-
-   Pré-commandez votre Bilan du Monde 2026
-
-   Bénéficiez des frais de ports offerts.
-   [179]40 cartes pour comprendre les nouveaux empereurs
-
-   40 cartes pour comprendre les nouveaux empereurs
-
-   Entretiens, éclairages et décryptage.
-   [180]Arthur Rimbaud
-
-   Arthur Rimbaud
-
-   La vie et l’œuvre de cet être si jeune, à la pensée si profonde.
-   [181]Atlas des Religions
-
-   Atlas des Religions
-
-   Une vision approfondie du paysage religieux mondial.
-   [182]Gaston, employé du siècle
-
-   Gaston, employé du siècle
-
-   Redécouvrez Gaston, ses gags, ses gaffes et ses inventions saugrenues.
-   [183]M, le magazine du Monde International Issue 003 - Livraison France
-
-   M, le magazine du Monde International Issue 003 - Livraison France
-
-   M International celebrates “The Legends”.
-   [184]Newsletter
-
-   Newsletter
-
-   Pour se tenir informé des nouveautés de la boutique du Monde
    (BUTTON) Voir plus
 
   Services Le Monde
@@ -729,14 +727,14 @@ References
    6. file:///
    7. https://www.lemonde.fr/actualite-en-continu/
    8. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-5.html
-   9. https://www.lemonde.fr/budget-2026/
-  10. https://www.lemonde.fr/crise-ukrainienne/
+   9. https://www.lemonde.fr/crise-ukrainienne/
+  10. https://www.lemonde.fr/budget-2026/
   11. https://www.lemonde.fr/donald-trump/
-  12. https://www.lemonde.fr/colere-des-agriculteurs/
-  13. https://www.lemonde.fr/proche-orient/
+  12. https://www.lemonde.fr/proche-orient/
+  13. https://www.lemonde.fr/colere-des-agriculteurs/
   14. https://www.lemonde.fr/can-2026/
-  15. https://www.lemonde.fr/series-d-ete/
-  16. https://www.lemonde.fr/le-noel-du-monde/
+  15. https://www.lemonde.fr/le-noel-du-monde/
+  16. https://www.lemonde.fr/series-d-ete/
   17. https://www.lemonde.fr/en-direct/
   18. https://www.lemonde.fr/actualite-en-continu/
   19. https://www.lemonde.fr/international/
@@ -768,19 +766,19 @@ References
   45. https://www.lemonde.fr/tribunes-eco/
   46. https://www.lemonde.fr/smart-cities/
   47. https://www.lemonde.fr/le-club-de-l-economie/
-  48. https://www.lemonde.fr/economie/article/2025/12/21/emmanuel-macron-lance-la-construction-du-nouveau-porte-avions-francais-l-illustration-de-la-puissance-de-notre-nation_6659043_3234.html
-  49. https://www.lemonde.fr/economie/article/2025/12/18/la-france-reste-dans-la-course-au-quantique-en-europe_6658484_3234.html
+  48. https://www.lemonde.fr/economie/article/2025/12/23/les-etats-unis-surprennent-avec-une-croissance-de-4-3-au-troisieme-trimestre_6659235_3234.html
+  49. https://www.lemonde.fr/economie/article/2025/12/24/puces-electroniques-l-inexorable-declin-de-l-europe_6659288_3234.html
   50. https://www.lemonde.fr/argent/article/2025/12/22/quand-le-cadeau-fait-a-la-fille-represente-80-des-revenus-de-la-mere_6659079_1657007.html
-  51. https://www.lemonde.fr/idees/article/2025/12/21/non-la-politique-monetaire-n-est-pas-la-cause-des-maux-francais_6658997_3232.html
+  51. https://www.lemonde.fr/idees/article/2025/12/23/la-reponse-de-francois-bourguignon-a-gabriel-zucman-le-c-ur-de-l-europe-s-appauvrit-d-annee-en-annee-par-rapport-a-l-economie-americaine_6659226_3232.html
   52. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-5.html
   53. https://www.lemonde.fr/videos/
   54. https://www.lemonde.fr/actualite/
   55. https://www.lemonde.fr/eclairages/
   56. https://www.lemonde.fr/enquetes-video/
   57. https://www.lemonde.fr/les-series/
-  58. https://www.lemonde.fr/pixels/video/2025/12/12/video-critiquer-les-femmes-un-discours-rentable-sur-les-reseaux-sociaux_6656995_4408996.html
+  58. https://www.lemonde.fr/videos/video/2025/12/10/les-fausses-promesses-des-methaniseurs-geants-enquete-sur-le-futur-de-l-energie-renouvelable_6656787_1669088.html
   59. https://www.lemonde.fr/international/video/2025/12/11/venezuela-les-etats-unis-diffusent-les-images-de-la-saisie-d-un-petrolier-nicolas-maduro-repond-en-chanson_6656904_3210.html
-  60. https://www.lemonde.fr/videos/video/2025/12/10/les-fausses-promesses-des-methaniseurs-geants-enquete-sur-le-futur-de-l-energie-renouvelable_6656787_1669088.html
+  60. https://www.lemonde.fr/international/video/2025/12/15/attentat-en-australie-ce-que-montrent-les-images_6657728_3210.html
   61. https://www.lemonde.fr/societe/video/2025/11/27/comment-les-contenus-haineux-se-sont-installes-parmi-les-podcasts-les-plus-ecoutes-de-france_6655122_3224.html
   62. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-5.html
   63. https://www.lemonde.fr/idees/
@@ -791,10 +789,10 @@ References
   68. https://www.lemonde.fr/entretien-idees/
   69. https://www.lemonde.fr/analyses/
   70. https://www.lemonde.fr/idees-tribunes/
-  71. https://www.lemonde.fr/idees/article/2025/12/22/la-geopolitique-des-microprocesseurs-une-lecon-cruelle-pour-les-europeens_6659105_3232.html
-  72. https://www.lemonde.fr/intimites/article/2025/12/19/philippe-portier-sociologue-en-france-toutes-religions-confondues-on-compte-environ-20-000-conversions-par-an-dont-11-000-vers-le-catholicisme_6658681_6190330.html
+  71. https://www.lemonde.fr/idees/article/2025/12/24/budget-2026-le-risque-de-l-enlisement_6659311_3232.html
+  72. https://www.lemonde.fr/idees/article/2025/12/22/christel-coton-sociologue-l-armee-n-est-plus-percue-par-la-jeunesse-comme-une-institution-guerriere-mais-de-protection_6659089_3232.html
   73. https://www.lemonde.fr/idees/article/2025/12/21/face-a-la-multiplication-des-evenements-impensables-il-faut-mieux-ecouter-ce-qu-on-ne-veut-pas-entendre_6658980_3232.html
-  74. https://www.lemonde.fr/idees/article/2025/12/22/piratage-du-ministere-de-l-interieur-la-numerisation-de-nos-donnees-administratives-est-un-defi-a-l-etat-de-droit_6659106_3232.html
+  74. https://www.lemonde.fr/idees/article/2025/12/24/patrick-rambourg-historien-les-coutumes-culinaires-de-nos-reveillons-sont-differentes-de-celles-des-noel-d-antan_6659328_3232.html
   75. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-5.html
   76. https://www.lemonde.fr/culture/
   77. https://www.lemonde.fr/cinema/
@@ -803,10 +801,10 @@ References
   80. https://www.lemonde.fr/musiques/
   81. https://www.lemonde.fr/arts/
   82. https://www.lemonde.fr/scenes/
-  83. https://www.lemonde.fr/m-le-mag/article/2025/12/21/la-femme-de-menage-le-pari-gagnant-d-un-petit-editeur-independant_6658981_4500055.html
-  84. https://www.lemonde.fr/livres/article/2025/12/22/belles-de-sang-inga-gaile-fille-des-ruines-du-xx-siecle_6659080_3260.html
+  83. https://www.lemonde.fr/culture/article/2025/12/24/metropolis-de-rintaro-le-maitre-de-l-animation-japonaise-est-de-retour-dans-les-salles_6659318_3246.html
+  84. https://www.lemonde.fr/livres/article/2025/12/23/le-manga-puise-tres-librement-dans-le-repertoire-des-mythes-japonais_6659247_3260.html
   85. https://www.lemonde.fr/disparitions/article/2025/12/19/la-mort-de-claude-berda-le-b-de-ab-productions-et-pape-des-emissions-pour-la-jeunesse-des-annees-1990_6658724_3382.html
-  86. https://www.lemonde.fr/culture/article/2025/12/21/pierre-vial-societaire-honoraire-de-la-comedie-francaise-et-acteur-dans-les-visiteurs-est-mort-a-l-age-de-97-ans_6659031_3246.html
+  86. https://www.lemonde.fr/culture/article/2025/12/23/entre-joe-sacco-et-art-spiegelman-une-conversation-dessinee-sur-gaza_6659261_3246.html
   87. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-5.html
   88. https://www.lemonde.fr/m-styles/
   89. https://www.lemonde.fr/le-monde-passe-a-table/
@@ -817,10 +815,10 @@ References
   94. https://www.lemonde.fr/m-horlogerie-joaillerie/
   95. https://www.lemonde.fr/m-le-mag/
   96. https://www.lemonde.fr/m-perso/
-  97. https://www.lemonde.fr/m-styles/article/2025/12/22/cinq-plantes-a-offrir-pour-noel_6659083_4497319.html
-  98. https://www.lemonde.fr/m-styles/article/2025/12/21/les-crafties-tissent-leurs-toiles_6659052_4497319.html
-  99. https://www.lemonde.fr/m-styles/article/2025/12/21/un-necessaire-a-the-de-vallauris-reprend-du-service_6659041_4497319.html
- 100. https://www.lemonde.fr/m-perso/article/2025/12/22/a-thanksgiving-la-dinde-est-elle-democrate_6659077_4497916.html
+  97. https://www.lemonde.fr/m-styles/article/2025/12/24/au-paradis-lanson-entrez-dans-le-club-select-des-caves-privees-de-champagne_6659285_4497319.html
+  98. https://www.lemonde.fr/m-styles/article/2025/12/24/l-ile-croate-de-krk-un-concentre-de-douceur-adriatique_6659287_4497319.html
+  99. https://www.lemonde.fr/m-styles/article/2025/12/23/avec-les-montres-bijoux-l-horlogerie-se-fait-joaillerie_6659241_4497319.html
+ 100. https://www.lemonde.fr/m-perso/article/2025/12/24/a-new-york-l-invasion-des-peres-noel-imbibes_6659315_4497916.html
  101. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-5.html
  102. https://boutique.lemonde.fr/#xtor=AD-46
  103. https://ateliers.lemonde.fr/
@@ -879,32 +877,32 @@ References
  156. https://compte.lemonde.fr/user/overdue/?code=
  157. https://secure.lemonde.fr/sfuser/connexion
  158. https://abo.lemonde.fr/?edi_medium=TEASERS_LMFR&edi_campaign=TEASERS_LMFR&edi_titre=les-coulisses-du-pacte-vert-selon-l-eurodepute-pascal-canfin&edi_id=3446630&edi_rubrique=53&edi_emplacement=BLOC_RESTREINT_ABO
- 159. https://ateliers.lemonde.fr/
- 160. https://ateliers.lemonde.fr/marie-darrieussecq-agnes-desarthe-veronique-ovalde-sylvain-prudhomme-et-jean-rouaud/170
- 161. https://www.theatredelaville-paris.com/fr/spectacles/saison-25-26/rencontres/le-festival-des-idees-de-chaleur-humaine#calendar
- 162. https://ateliers.lemonde.fr/index.php/edition-speciale-en-public/169
- 163. https://ateliers.lemonde.fr/sylvie-kauffmann/172
- 164. https://ateliers.lemonde.fr/philosophie/164
- 165. https://ateliers.lemonde.fr/armelle-rancillac/161
- 166. https://ateliers.lemonde.fr/langue-francaise/157
- 167. https://boutique.lemonde.fr/
- 168. https://boutique.lemonde.fr/226-selection-a-offrir?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=selectionaoffrir
- 169. https://boutique.lemonde.fr/bilan-atlas-et-geopolitique/4173-le-bilan-du-monde-2026.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=bilan-du-monde-2026
- 170. https://boutique.lemonde.fr/hors-series/4129-40-cartes-pour-comprendre-les-nouveaux-empereurs.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=40-cartes-pour-comprendre-les-nouveaux-empereurs
- 171. https://boutique.lemonde.fr/une-vie-une-oeuvre/4086-arthur-rimbaud.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=arthur-rimbaud
- 172. https://boutique.lemonde.fr/histoire-civilisations-et-sciences/4080-la-captivante-histoire-des-maths-.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=la-captivante-histoire-des-maths
- 173. https://boutique.lemonde.fr/livres/4081-gaston-le-livre.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=gaston-le-livre
- 174. https://boutique.lemonde.fr/m-international-issue/4062-m-le-magazine-du-monde-international-issue-003-international-delivery.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=mlemag-internationalissue
- 175. https://www.lemonde.fr/newsletters/boutique/#xtor=EPR-33281178-[lemondeboutique]#origin=HPcarrousel
- 176. https://boutique.lemonde.fr/
- 177. https://boutique.lemonde.fr/226-selection-a-offrir?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=selectionaoffrir
- 178. https://boutique.lemonde.fr/bilan-atlas-et-geopolitique/4173-le-bilan-du-monde-2026.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=bilan-du-monde-2026
- 179. https://boutique.lemonde.fr/hors-series/4129-40-cartes-pour-comprendre-les-nouveaux-empereurs.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=40-cartes-pour-comprendre-les-nouveaux-empereurs
- 180. https://boutique.lemonde.fr/une-vie-une-oeuvre/4086-arthur-rimbaud.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=arthur-rimbaud
- 181. https://boutique.lemonde.fr/histoire-civilisations-et-sciences/4090-hors-serie-atlas-des-religions.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=article&lmd_creation=hors-serie-atlas-des-religions
- 182. https://boutique.lemonde.fr/livres/4081-gaston-le-livre.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=gaston-le-livre
- 183. https://boutique.lemonde.fr/m-international-issue/4062-m-le-magazine-du-monde-international-issue-003-international-delivery.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=mlemag-internationalissue
- 184. https://www.lemonde.fr/newsletters/boutique/#xtor=EPR-33281178-[lemondeboutique]#origin=HPcarrousel
+ 159. https://boutique.lemonde.fr/
+ 160. https://boutique.lemonde.fr/226-selection-a-offrir?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=selectionaoffrir
+ 161. https://boutique.lemonde.fr/bilan-atlas-et-geopolitique/4173-le-bilan-du-monde-2026.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=bilan-du-monde-2026
+ 162. https://boutique.lemonde.fr/hors-series/4129-40-cartes-pour-comprendre-les-nouveaux-empereurs.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=40-cartes-pour-comprendre-les-nouveaux-empereurs
+ 163. https://boutique.lemonde.fr/une-vie-une-oeuvre/4086-arthur-rimbaud.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=arthur-rimbaud
+ 164. https://boutique.lemonde.fr/histoire-civilisations-et-sciences/4080-la-captivante-histoire-des-maths-.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=la-captivante-histoire-des-maths
+ 165. https://boutique.lemonde.fr/livres/4081-gaston-le-livre.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=gaston-le-livre
+ 166. https://boutique.lemonde.fr/m-international-issue/4062-m-le-magazine-du-monde-international-issue-003-international-delivery.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=mlemag-internationalissue
+ 167. https://www.lemonde.fr/newsletters/boutique/#xtor=EPR-33281178-[lemondeboutique]#origin=HPcarrousel
+ 168. https://boutique.lemonde.fr/
+ 169. https://boutique.lemonde.fr/226-selection-a-offrir?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=selectionaoffrir
+ 170. https://boutique.lemonde.fr/bilan-atlas-et-geopolitique/4173-le-bilan-du-monde-2026.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=bilan-du-monde-2026
+ 171. https://boutique.lemonde.fr/hors-series/4129-40-cartes-pour-comprendre-les-nouveaux-empereurs.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=40-cartes-pour-comprendre-les-nouveaux-empereurs
+ 172. https://boutique.lemonde.fr/une-vie-une-oeuvre/4086-arthur-rimbaud.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=arthur-rimbaud
+ 173. https://boutique.lemonde.fr/histoire-civilisations-et-sciences/4090-hors-serie-atlas-des-religions.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=article&lmd_creation=hors-serie-atlas-des-religions
+ 174. https://boutique.lemonde.fr/livres/4081-gaston-le-livre.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=gaston-le-livre
+ 175. https://boutique.lemonde.fr/m-international-issue/4062-m-le-magazine-du-monde-international-issue-003-international-delivery.html?lmd_campaign=services_boutique_lmfr&lmd_medium=display&lmd_variant=blocservice&lmd_creation=mlemag-internationalissue
+ 176. https://www.lemonde.fr/newsletters/boutique/#xtor=EPR-33281178-[lemondeboutique]#origin=HPcarrousel
+ 177. https://ateliers.lemonde.fr/
+ 178. https://ateliers.lemonde.fr/marie-darrieussecq-agnes-desarthe-veronique-ovalde-sylvain-prudhomme-et-jean-rouaud/170
+ 179. https://www.theatredelaville-paris.com/fr/spectacles/saison-25-26/rencontres/le-festival-des-idees-de-chaleur-humaine#calendar
+ 180. https://ateliers.lemonde.fr/index.php/edition-speciale-en-public/169
+ 181. https://ateliers.lemonde.fr/sylvie-kauffmann/172
+ 182. https://ateliers.lemonde.fr/philosophie/164
+ 183. https://ateliers.lemonde.fr/armelle-rancillac/161
+ 184. https://ateliers.lemonde.fr/langue-francaise/157
  185. https://boutique.lemonde.fr/30-unes-par-date
  186. https://ateliers.lemonde.fr/
  187. https://www.lemonde.fr/memorable/blog

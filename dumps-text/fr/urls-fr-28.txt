@@ -83,7 +83,7 @@ A la clé ?
      *
      *
 
-   [30]L'Europe : mode d'emploi
+   [30]Texte alternatif
 
 J'ai un projet
 
@@ -152,7 +152,7 @@ References
   27. file:///fr/recherche?search_text&f[]=tags:367
   28. file:///fr/recherche?search_text&f[]=tags:282
   29. https://docs.google.com/forms/d/e/1FAIpQLSe3-2i-lPAu56eALDvCKAlwxWshDPpbTsv1aFkNPZtBhj7WTA/viewform?usp=sf_link
-  30. file:///fr/actualités/leurope-mode-demploi.html
+  30. file:///fr
   31. file:///fr/thématique/vous-avez-un-projet-innovant-ou-competitif.html
   32. file:///fr/thématique/vous-avez-un-projet-qui-concerne-la-formation-l-insertion-ou-lemploi.html
   33. file:///fr/thématique/vous-avez-un-projet-concernant-le-numerique.html

@@ -385,13 +385,13 @@ Chaque voix compte car elle peut infléchir les décisions à venir
 
    Cours de langue
    Service partenaire
-     * [136]Cours d'espagnol
+     * [136]Cours d’italien
      *
-     * [137]Toutes nos langues
+     * [137]Cours de français
      *
      * [138]Cours d’anglais
      *
-     * [139]Cours de français
+     * [139]Cours d'espagnol
 
    RSS Facebook Instagram TiKTok Youtube Snapchat Bluesky
 
@@ -608,10 +608,10 @@ References
  133. file:///ecologie/
  134. file:///ecologie-politique/
  135. file:///elections-municipales-de-2026/
- 136. https://language-courses.nouvelobs.com/hotel-borbollon
- 137. https://language-courses.nouvelobs.com/
+ 136. https://language-courses.nouvelobs.com/saga-baldoria
+ 137. https://french-courses.nouvelobs.com/
  138. https://language-courses.nouvelobs.com/gymglish
- 139. https://french-courses.nouvelobs.com/
+ 139. https://language-courses.nouvelobs.com/hotel-borbollon
  140. https://www.nouvelobs.com/ecologie/
  141. https://www.nouvelobs.com/bibliobs/
  142. https://www.nouvelobs.com/rue89/

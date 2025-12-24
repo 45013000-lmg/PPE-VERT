@@ -79,185 +79,206 @@
        Nos priorités
        Découvrez les sept grandes priorités de l’UE pour construire un
        avenir durable, compétitif et inclusif.
-          + [71]Compétitivité
-          + [72]Sécurité et défense
-          + [73]Équité sociale européenne
-          + [74]Qualité de vie
-          + [75]La démocratie et nos valeurs
-          + [76]L’Europe dans le monde
-          + [77]Budget de l’UE et réforme
+          + (BUTTON) Compétitivité
+               o [71]Implementation tracker
+               o
+               o [72]Tout afficher
+          + (BUTTON) Sécurité et défense
+               o [73]Implementation tracker
+               o
+               o [74]Tout afficher
+          + (BUTTON) Équité sociale européenne
+               o [75]Implementation tracker
+               o
+               o [76]Tout afficher
+          + (BUTTON) Qualité de vie
+               o [77]Implementation tracker
+               o
+               o [78]Tout afficher
+          + (BUTTON) La démocratie et nos valeurs
+               o [79]Implementation tracker
+               o
+               o [80]Tout afficher
+          + (BUTTON) L’Europe dans le monde
+               o [81]Implementation tracker
+               o
+               o [82]Tout afficher
+          + (BUTTON) Budget de l’UE et réforme
+               o [83]Implementation tracker
+               o
+               o [84]Tout afficher
           +
-          + [78]En savoir plus
+          + [85]En savoir plus
        À LA UNE
-          + [79]Faites progresser votre carrière de chercheur dans l’UE
+          + [86]Faites progresser votre carrière de chercheur dans l’UE
           +
      * (BUTTON) Actualités et médias
        Actualités et médias
        Suivez l’actualité de la Commission européenne: dernières
        nouvelles, articles, et matériel audiovisuel et de presse.
-          + [80]Actualité
-          + [81]Coin presse
-          + [82]Histoires en images
-          + [83]Portail audiovisuel
+          + [87]Actualité
+          + [88]Coin presse
+          + [89]Histoires en images
+          + [90]Portail audiovisuel
           +
-          + [84]En savoir plus
+          + [91]En savoir plus
      * (BUTTON) Thèmes
        Thèmes de A à Z
        Discover EU policies designed to bring benefits to citizens,
        businesses and other stakeholders in the EU
           + (BUTTON) Aide, coopération au développement et droits
             fondamentaux
-               o [85]Droits de l’homme dans les pays hors UE
-               o [86]Vos droits fondamentaux dans l’UE
-               o [87]Bénéficiaires et impact de l’aide de l’UE
-               o [88]Comment l’UE fournit de l’aide
-               o [89]Garantir l’efficacité de l’aide
+               o [92]Droits de l’homme dans les pays hors UE
+               o [93]Vos droits fondamentaux dans l’UE
+               o [94]Bénéficiaires et impact de l’aide de l’UE
+               o [95]Comment l’UE fournit de l’aide
+               o [96]Garantir l’efficacité de l’aide
                o
-               o [90]Tout afficher
+               o [97]Tout afficher
           + (BUTTON) Entreprises, économie, euro
-               o [91]Faire des affaires dans l’UE
-               o [92]Services financiers
-               o [93]Reprise après la crise du coronavirus
-               o [94]Prévisions et surveillance économiques
-               o [95]Le Semestre européen
-               o [96]Union économique et monétaire
-               o [97]La zone euro
-               o [98]Les avantages de l’euro
+               o [98]Faire des affaires dans l’UE
+               o [99]Services financiers
+               o [100]Reprise après la crise du coronavirus
+               o [101]Prévisions et surveillance économiques
+               o [102]Le Semestre européen
+               o [103]Union économique et monétaire
+               o [104]La zone euro
+               o [105]Les avantages de l’euro
                o
-               o [99]Tout afficher
+               o [106]Tout afficher
           + (BUTTON) Enseignement
-               o [100]Compétences et qualifications
-               o [101]Étudier ou enseigner à l’étranger
-               o [102]Méthodes d'enseignement et matériel pédagogique
-               o [103]Politique en matière d’éducation
-               o [104]Élaborer des projets d’éducation et de formation
+               o [107]Compétences et qualifications
+               o [108]Étudier ou enseigner à l’étranger
+               o [109]Méthodes d'enseignement et matériel pédagogique
+               o [110]Politique en matière d’éducation
+               o [111]Élaborer des projets d’éducation et de formation
                o
-               o [105]Tout afficher
+               o [112]Tout afficher
             À LA UNE
-               o [106]Repérer et arrêter la manipulation de l’information
+               o [113]Repérer et arrêter la manipulation de l’information
                o
           + (BUTTON) Énergie, changement climatique et environnement
-               o [107]Objectifs généraux
-               o [108]Mise en œuvre dans les pays de l’UE
-               o [109]Coopération internationale
-               o [110]Normes, outils et labels
+               o [114]Objectifs généraux
+               o [115]Mise en œuvre dans les pays de l’UE
+               o [116]Coopération internationale
+               o [117]Normes, outils et labels
                o
-               o [111]Tout afficher
+               o [118]Tout afficher
           + (BUTTON) Développement régional et urbain de l’UE
-               o [112]Soutien financier à des projets
-               o [113]Projets et résultats
-               o [114]Pays, régions, villes
-               o [115]Coopération entre les régions
+               o [119]Soutien financier à des projets
+               o [120]Projets et résultats
+               o [121]Pays, régions, villes
+               o [122]Coopération entre les régions
                o
-               o [116]Tout afficher
+               o [123]Tout afficher
           + (BUTTON) Alimentation, agriculture et pêche
-               o [117]Sécurité et qualité des denrées alimentaires
-               o [118]Agriculture
-               o [119]Océans et pêche
-               o [120]Foresterie
-               o [121]Agriculture durable
-               o [122]Commerce
-               o [123]Végétaux et produits végétaux
-               o [124]Animaux et produits animaux
+               o [124]Sécurité et qualité des denrées alimentaires
+               o [125]Agriculture
+               o [126]Océans et pêche
+               o [127]Foresterie
+               o [128]Agriculture durable
+               o [129]Commerce
+               o [130]Végétaux et produits végétaux
+               o [131]Animaux et produits animaux
                o
-               o [125]Tout afficher
+               o [132]Tout afficher
           + (BUTTON) Législation
-               o [126]Processus législatif
-               o [127]Suivi du processus législatif
-               o [128]Rechercher des actes législatifs
-               o [129]Législation par thème
-               o [130]Infractions
-               o [131]Affaires transfrontières
-               o [132]Formation judiciaire et réseaux professionnels
-               o [133]Trouver un professionnel du droit
+               o [133]Processus législatif
+               o [134]Suivi du processus législatif
+               o [135]Rechercher des actes législatifs
+               o [136]Législation par thème
+               o [137]Infractions
+               o [138]Affaires transfrontières
+               o [139]Formation judiciaire et réseaux professionnels
+               o [140]Trouver un professionnel du droit
                o
-               o [134]Tout afficher
+               o [141]Tout afficher
             À LA UNE
-               o [135]Comment la législation de l’UE est-elle élaborée?
+               o [142]Comment la législation de l’UE est-elle élaborée?
                o
           + (BUTTON) Vivre, travailler, voyager dans l’UE
-               o [136]Vivre dans un autre pays de l'UE
-               o [137]Droits des consommateurs et plaintes
-               o [138]Culture, patrimoine et sport dans l'UE
-               o [139]Travailler dans un autre pays de l’UE
-               o [140]Possibilités d’emploi
-               o [141]Voyager dans l'UE
-               o [142]Voyager – Ressortissants de pays hors UE
-               o [143]Immigration vers l'UE
+               o [143]Vivre dans un autre pays de l'UE
+               o [144]Droits des consommateurs et plaintes
+               o [145]Culture, patrimoine et sport dans l'UE
+               o [146]Travailler dans un autre pays de l’UE
+               o [147]Possibilités d’emploi
+               o [148]Voyager dans l'UE
+               o [149]Voyager – Ressortissants de pays hors UE
+               o [150]Immigration vers l'UE
                o
-               o [144]Tout afficher
+               o [151]Tout afficher
           + (BUTTON) Recherche et innovation
-               o [145]Stratégie en matière de recherche et d’innovation
-               o [146]Législation et réglementations
-               o [147]Connaissances: publications, outils et données
-               o [148]Financement
-               o [149]Projets
-               o [150]Partenaires, mise en réseau
-               o [151]Recherche par domaine
+               o [152]Stratégie en matière de recherche et d’innovation
+               o [153]Législation et réglementations
+               o [154]Connaissances: publications, outils et données
+               o [155]Financement
+               o [156]Projets
+               o [157]Partenaires, mise en réseau
+               o [158]Recherche par domaine
                o
-               o [152]Tout afficher
+               o [159]Tout afficher
             À LA UNE
-               o [153]Faites progresser votre carrière de chercheur dans
+               o [160]Faites progresser votre carrière de chercheur dans
                  l’UE
                o
           +
-          + [154]En savoir plus
+          + [161]En savoir plus
      * (BUTTON) Ressources
        Ressources
        Accéder à une série de ressources: publications, statistiques,
        matériel pédagogique et outils pour les parties prenantes
-          + [155]Publications
+          + [162]Publications
           + (BUTTON) Statistiques
-               o [156]Consulter les statistiques d’Eurostat
-               o [157]Prévisions et tendances économiques
-               o [158]Suivi des performances des politiques de l’UE et de
+               o [163]Consulter les statistiques d’Eurostat
+               o [164]Prévisions et tendances économiques
+               o [165]Suivi des performances des politiques de l’UE et de
                  la reprise
-               o [159]Sondage d’opinion
-               o [160]Portail des données ouvertes de l’UE
-               o [161]Guide des statistiques européennes
+               o [166]Sondage d’opinion
+               o [167]Portail des données ouvertes de l’UE
+               o [168]Guide des statistiques européennes
                o
-               o [162]Tout afficher
-          + [163]Eurobaromètre
-          + [164]Droit de l’UE
-          + [165]Espace Apprentissage
-          + [166]Europa Web Guide
-          + [167]European Commission visual identity
+               o [169]Tout afficher
+          + [170]Eurobaromètre
+          + [171]Droit de l’UE
+          + [172]Espace Apprentissage
+          + [173]Europa Web Guide
+          + [174]European Commission visual identity
           +
-          + [168]En savoir plus
+          + [175]En savoir plus
      * (BUTTON) L'Europe et vous
        Participez
        Partagez votre point de vue sur la législation et les politiques de
        l’UE, débattez de l’avenir de l’Europe et trouvez des financements
        pour vos projets européens.
           + (BUTTON) Participez à l’élaboration des politiques de l’UE
-               o [169]Donnez votre avis
-               o [170]Panels de citoyens européens
-               o [171]Initiative citoyenne européenne
-               o [172]Adresser une pétition à l’UE
+               o [176]Donnez votre avis
+               o [177]Panels de citoyens européens
+               o [178]Initiative citoyenne européenne
+               o [179]Adresser une pétition à l’UE
                o
-               o [173]Tout afficher
-          + [174]Emplois
-          + [175]Financement et appels d’offres
-          + [176]Événements
+               o [180]Tout afficher
+          + [181]Emplois
+          + [182]Financement et appels d’offres
+          + [183]Événements
           + (BUTTON) Nous rendre visite
-               o [177]Centre de visites
-               o [178]Centre d’exposition Experience Europe
+               o [184]Centre de visites
+               o [185]Centre d’exposition Experience Europe
                o
-               o [179]Tout afficher
-          + [180]La Commission européenne sur les réseaux sociaux
+               o [186]Tout afficher
+          + [187]La Commission européenne sur les réseaux sociaux
           +
-          + [181]En savoir plus
-          + [182]Dix domaines dans lesquels l’UE vous facilite la vie
+          + [188]En savoir plus
+          + [189]Dix domaines dans lesquels l’UE vous facilite la vie
           +
 
    (BUTTON)
 
    (BUTTON)
 
-    1. [183]Accueil
+    1. [190]Accueil
     2. (BUTTON) …
-    3. [184]Stratégie et politiques
-    4. [185]Priorités 2019-2024
+    3. [191]Stratégie et politiques
+    4. [192]Priorités 2019-2024
     5. Le pacte vert pour l’Europe
 
 Le pacte vert pour l’Europe
@@ -295,39 +316,39 @@ Tenir nos promesses
 Promesses tenues
 
    Neutralité climatique et réduction des émissions
-     * Entrée en vigueur de la [186]loi sur le climat, rendant
+     * Entrée en vigueur de la [193]loi sur le climat, rendant
        contraignant l’engagement en faveur de la neutralité climatique �
        l’horizon 2050
-     * Accord visant à [187]réduire les émissions d’au moins 55 % d’ici �
+     * Accord visant à [194]réduire les émissions d’au moins 55 % d’ici �
        2030 et réduction de 90 % proposée pour 2040
 
-   Financement de [188]NextGenerationEU et de REPowerEU
+   Financement de [195]NextGenerationEU et de REPowerEU
      * 275 milliards d’euros d’investissements propres et 42 % des fonds
        consacrés à l’action pour le climat
 
    Transition juste et équitable
-     * Le [189]Fonds pour une transition juste a alloué près de
+     * Le [196]Fonds pour une transition juste a alloué près de
        20 milliards d’euros à investir dans la diversification des
        économies et la reconversion des travailleurs dans les régions
        vulnérables. 
-     * Le [190]Fonds social pour le climat vient en aide aux ménages
+     * Le [197]Fonds social pour le climat vient en aide aux ménages
        vulnérables dans les domaines de l’efficacité énergétique, du
        chauffage propre et des transports.
-     * Le [191]Fonds de solidarité de l’UE et le mécanisme de protection
+     * Le [198]Fonds de solidarité de l’UE et le mécanisme de protection
        civile de l’UE soutiennent les pays en Europe et ailleurs touchés
        par des situations d’urgence liées au climat.
 
    Tarification du carbone et réforme industrielle
-     * Le [192]système d’échange de quotas d’émission de l’UE a été étendu
+     * Le [199]système d’échange de quotas d’émission de l’UE a été étendu
        aux bâtiments et aux transports et a généré plus de 200 milliards
        d’euros de recettes pour les fonds verts et sociaux.
-     * Le [193]mécanisme d’ajustement carbone aux frontières (MACF), qui
+     * Le [200]mécanisme d’ajustement carbone aux frontières (MACF), qui
        encourage les industries du monde entier à adopter des méthodes de
        production plus écologiques, devrait être pleinement opérationnel
        d’ici à 2026.
 
    Une énergie propre et sûre
-     * [194]Plan REPowerEU: 40 % des fonds ont été consacrés à la
+     * [201]Plan REPowerEU: 40 % des fonds ont été consacrés à la
        fourniture d’une énergie abordable, sûre et durable; le plan a
        contribué à réduire la dépendance à l’égard des combustibles
        fossiles et à diversifier l’approvisionnement.
@@ -336,106 +357,106 @@ Promesses tenues
        stations de recharge pour véhicules électriques tous les 60 km
 
    Compétitivité industrielle verte
-     * [195]Plan industriel du pacte vert pour l’Europe: vise �
+     * [202]Plan industriel du pacte vert pour l’Europe: vise �
        intensifier la production et à promouvoir les technologies «zéro
        net».
-     * [196]Règlement sur les matières premières critiques: fixe les
+     * [203]Règlement sur les matières premières critiques: fixe les
        objectifs de l’UE en matière d’extraction/de transformation/de
        recyclage des matériaux essentiels d’ici à 2030.
-     * [197]Règlement pour une industrie «zéro net»: soutient la
+     * [204]Règlement pour une industrie «zéro net»: soutient la
        production locale de technologies propres.
      * Soutien au secteur des batteries, de l’hydrogène, de la mobilité
        propre et de la microélectronique
 
    Économie circulaire
-     * [198]Plan d’action «zéro pollution» qui se traduit par des normes
+     * [205]Plan d’action «zéro pollution» qui se traduit par des normes
        plus strictes en matière de qualité de l’eau et de l’air.
      * Réformes dans le domaine des déchets et des produits: emballages
        durables, interdiction de détruire les marchandises invendues,
        conception de produits réparables
 
    Consultation des parties prenantes
-     * [199]Dialogue stratégique sur l’avenir de l’agriculture de l’UE:
+     * [206]Dialogue stratégique sur l’avenir de l’agriculture de l’UE:
        processus inclusif façonnant les futurs systèmes alimentaires
      * Dialogues sur la transition propre avec les villes et des secteurs
        tels que l’hydrogène, les technologies propres et l’acier
 
-   [200]En savoir plus sur les réalisations du pacte vert
+   [207]En savoir plus sur les réalisations du pacte vert
 
 Domaines d'action
 
-   [201]Climat
+   [208]Climat
 
    Faire de l’Europe le premier continent neutre pour le climat d’ici �
    2050
 
-   [202]Énergie
+   [209]Énergie
 
    Une transition énergétique propre et efficiente
 
-   [203]Environnement et océans
+   [210]Environnement et océans
 
    Protéger notre biodiversité et nos écosystèmes
 
-   [204]Agriculture
+   [211]Agriculture
 
    Un système alimentaire sain, pour chacun de nous et pour la planète
 
-   [205]Transports
+   [212]Transports
 
    Fournir des transports sûrs, efficaces et respectueux de
    l’environnement
 
-   [206]Industrie
+   [213]Industrie
 
    Une stratégie industrielle pour une Europe compétitive, écologique et
    numérique
 
-   [207]Recherche et innovation
+   [214]Recherche et innovation
 
    Leur rôle dans la réalisation de changements profonds
 
-   [208]Finances et développement régional
+   [215]Finances et développement régional
 
    Des investissements durables pour mettre en œuvre le pacte vert pour
    l’Europe
 
-   [209]Nouveau Bauhaus européen
+   [216]Nouveau Bauhaus européen
 
    Une initiative créative et interdisciplinaire qui relie le pacte vert
    pour l’Europe à nos espaces de vie et à nos expériences
 
 Autres liens
 
-   [210]Pacte européen pour le climat
+   [217]Pacte européen pour le climat
 
    Partager cette page
 
-   [211]Logo de la Commission européenne
+   [218]Logo de la Commission européenne
    Gestionnaire du site :
    Direction générale de la communication
-     * [212]Qui nous sommes
-     * [213]Nous contacter
-     * [214]Priorités
-     * [215]Thèmes
-     * [216]Financement et appels d'offres
-     * [217]Emplois
-     * [218]Coin presse
-     * [219]Événements
+     * [219]Qui nous sommes
+     * [220]Nous contacter
+     * [221]Priorités
+     * [222]Thèmes
+     * [223]Financement et appels d'offres
+     * [224]Emplois
+     * [225]Coin presse
+     * [226]Événements
 
    Nous suivre
-     * [220]Facebook
-     * [221]Instagram
-     * [222]X
-     * [223]LinkedIn
-     * [224]Other networks
+     * [227]Facebook
+     * [228]Instagram
+     * [229]X
+     * [230]LinkedIn
+     * [231]Other networks
 
-     * [225]Signaler une vulnérabilité informatique
-     * [226]Les langues sur nos sites web
-     * [227]Cookies
-     * [228]Protection de la vie privée
-     * [229]Avis juridique
-     * [230]Accessibilité
+     * [232]Signaler une vulnérabilité informatique
+     * [233]Les langues sur nos sites web
+     * [234]Cookies
+     * [235]Protection de la vie privée
+     * [236]Avis juridique
+     * [237]Accessibilité
 
 References
 
@@ -510,168 +531,175 @@ References
   68. file:///about/contact_fr
   69. file:///about_fr
   70. https://ec.europa.eu/stories/2024-2029-commission/
-  71. file:///priorities-2024-2029/competitiveness_fr
-  72. file:///priorities-2024-2029/security-and-defence_fr
-  73. file:///priorities-2024-2029/european-social-fairness_fr
-  74. file:///priorities-2024-2029/quality-life_fr
-  75. file:///priorities-2024-2029/democracy-and-our-values_fr
-  76. file:///priorities-2024-2029/global-europe_fr
-  77. file:///priorities-2024-2029/eu-budget-and-reform_fr
-  78. file:///priorities-2024-2029_fr
-  79. https://commission.europa.eu/topics/research-and-innovation/choose-europe_fr
-  80. file:///news-and-media/news_fr
-  81. https://ec.europa.eu/commission/presscorner/home/fr
-  82. file:///news-and-media/visual-stories_fr
-  83. https://audiovisual.ec.europa.eu/fr/
-  84. file:///news-and-media_fr
-  85. file:///aid-development-cooperation-fundamental-rights/human-rights-non-eu-countries_fr
-  86. file:///aid-development-cooperation-fundamental-rights/your-fundamental-rights-eu_fr
-  87. https://civil-protection-humanitarian-aid.ec.europa.eu/funding-evaluations/online-databases_fr
-  88. file:///aid-development-cooperation-fundamental-rights/how-we-provide-aid_fr
-  89. file:///aid-development-cooperation-fundamental-rights/ensuring-aid-effectiveness_fr
-  90. file:///aid-development-cooperation-fundamental-rights_fr
-  91. file:///business-economy-euro/doing-business-eu_fr
-  92. file:///business-economy-euro/financial-services_fr
-  93. file:///business-economy-euro/economic-recovery_fr
-  94. file:///business-economy-euro/economic-forecasts-and-surveillance_fr
-  95. file:///business-economy-euro/european-semester_fr
-  96. https://economy-finance.ec.europa.eu/economic-and-monetary-union_en
-  97. https://economy-finance.ec.europa.eu/business-economy-euro/euro-area/what-euro-area_fr
-  98. https://european-union.europa.eu/institutions-law-budget/euro/benefits_fr
-  99. file:///business-economy-euro_fr
- 100. file:///education/skills-and-qualifications_fr
- 101. file:///education/study-or-teach-abroad_fr
- 102. file:///education/teaching-methods-and-materials_fr
- 103. file:///education/policy-educational-issues_fr
- 104. file:///education/set-projects-education-and-training_fr
- 105. file:///education_fr
- 106. https://ec.europa.eu/stories/6-tips
- 107. file:///energy-climate-change-environment/overall-targets-and-reporting_fr
- 108. file:///energy-climate-change-environment/implementation-eu-countries_fr
- 109. file:///energy-climate-change-environment/international-cooperation_fr
- 110. file:///energy-climate-change-environment/standards-tools-and-labels_fr
- 111. file:///energy-climate-change-environment_fr
- 112. file:///eu-regional-and-urban-development/financial-support-projects_fr
- 113. file:///eu-regional-and-urban-development/projects-and-results_fr
- 114. file:///eu-regional-and-urban-development/countries-regions-cities_fr
- 115. file:///eu-regional-and-urban-development/cooperation-between-border-regions_fr
- 116. file:///eu-regional-and-urban-development_fr
- 117. file:///food-farming-fisheries/food-safety-and-quality_fr
- 118. file:///food-farming-fisheries/farming_fr
- 119. file:///food-farming-fisheries/oceans-and-fisheries_fr
- 120. file:///food-farming-fisheries/forestry_fr
- 121. file:///food-farming-fisheries/sustainable-agriculture_fr
- 122. file:///food-farming-fisheries/agricultural-trade_fr
- 123. file:///food-farming-fisheries/plants-and-plant-products_fr
- 124. file:///food-farming-fisheries/animals-and-animal-products_fr
- 125. file:///food-farming-fisheries_fr
- 126. file:///law/law-making-process_fr
- 127. file:///law/tracking-law-making_fr
- 128. file:///law/search-law_fr
- 129. file:///law/law-topic_fr
- 130. file:///law/application-eu-law_fr
- 131. file:///law/cross-border-cases_fr
- 132. file:///law/judicial-training-and-professional-networks_fr
- 133. file:///law/find-legal-professional_fr
- 134. file:///law_fr
- 135. https://europa.eu/stories/how-EU-law-is-made/
- 136. file:///live-work-travel-eu/living-another-eu-country_fr
- 137. file:///live-work-travel-eu/consumer-rights-and-complaints_fr
- 138. file:///live-work-travel-eu/culture-heritage-sport-eu_fr
- 139. file:///live-work-travel-eu/working-another-eu-country_fr
- 140. file:///live-work-travel-eu/employment-opportunities_fr
- 141. file:///live-work-travel-eu/travelling-eu_fr
- 142. file:///live-work-travel-eu/travelling-non-eu-nationals_fr
- 143. https://immigration-portal.ec.europa.eu/index_en
- 144. file:///live-work-travel-eu_fr
- 145. https://research-and-innovation.ec.europa.eu/research-and-innovation/strategy_fr
- 146. https://research-and-innovation.ec.europa.eu/research-and-innovation/law-and-regulations_fr
- 147. https://research-and-innovation.ec.europa.eu/research-and-innovation/knowledge-publications-tools-and-data_fr
- 148. https://research-and-innovation.ec.europa.eu/research-and-innovation/funding_fr
- 149. https://research-and-innovation.ec.europa.eu/research-and-innovation/projects_fr
- 150. https://research-and-innovation.ec.europa.eu/research-and-innovation/partners-networking_fr
- 151. https://research-and-innovation.ec.europa.eu/research-and-innovation/research-area_fr
- 152. file:///research-and-innovation_fr
- 153. https://commission.europa.eu/topics/research-and-innovation/choose-europe_fr
- 154. file:///topics-old_en?prefLang=fr
- 155. https://op.europa.eu/fr/
- 156. file:///resources/statistics/search-eurostat-statistics_fr
- 157. file:///resources/statistics/economic-forecasts-and-trends_fr
- 158. file:///resources/statistics/tracking-eu-policy-performance-and-recovery_fr
- 159. file:///resources/statistics/public-opinion-survey_fr
- 160. file:///resources/statistics/eu-open-data-portal_fr
- 161. file:///resources/statistics/guide-european-statistics_fr
- 162. file:///resources/statistics_fr
- 163. https://europa.eu/eurobarometer/screen/home
- 164. https://eur-lex.europa.eu/homepage.html?locale=fr
- 165. https://learning-corner.learning.europa.eu/index_fr
- 166. file:///resources/europa-web-guide_fr
- 167. file:///resources/european-commission-visual-identity_fr
- 168. file:///resources_fr
- 169. https://have-your-say.ec.europa.eu/index_fr
- 170. https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/new-push-european-democracy/conference-future-europe/new-phase-citizens-engagement_fr
- 171. file:///get-involved/engage-eu-policymaking/european-citizens-initiative_fr
- 172. file:///get-involved/engage-eu-policymaking/petition-eu_fr
- 173. file:///get-involved/engage-eu-policymaking_fr
- 174. file:///get-involved/jobs-european-commission_fr
- 175. file:///funding-tenders_fr
- 176. file:///get-involved/events_fr
- 177. file:///get-involved/visit-european-commission/visitors-centre_fr
- 178. file:///get-involved/visit-european-commission/experience-europe-exhibition-centre_fr
- 179. file:///get-involved/visit-european-commission_fr
- 180. file:///get-involved/social-media-connect-european-commission_fr
- 181. file:///get-involved_fr
- 182. https://europa.eu/stories/10-ways-easy-life/index_en.html
- 183. file:///index_fr
- 184. file:///strategy-and-policy_fr
- 185. file:///strategy-and-policy/priorities-2019-2024_fr
- 186. https://climate.ec.europa.eu/eu-action/european-climate-law_en?prefLang=fr
- 187. https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/our-ambition-2030_en
- 188. https://next-generation-eu.europa.eu/index_fr
- 189. file:///strategy-and-policy/priorities-2019-2024/european-green-deal/finance-and-green-deal/just-transition-mechanism_fr
- 190. https://employment-social-affairs.ec.europa.eu/policies-and-activities/funding/social-climate-fund_en
- 191. https://ec.europa.eu/regional_policy/funding/solidarity-fund_en
- 192. https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets_fr
- 193. https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en
- 194. file:///topics/energy/repowereu_fr
- 195. file:///topics/competitiveness/green-deal-industrial-plan_fr
- 196. file:///topics/competitiveness/green-deal-industrial-plan/european-critical-raw-materials-act_fr
- 197. https://single-market-economy.ec.europa.eu/industry/sustainability/net-zero-industry-act_en
- 198. https://environment.ec.europa.eu/strategy/zero-pollution-action-plan_en
- 199. file:///topics/agriculture-and-rural-development/strategic-dialogue-future-eu-agriculture_fr
- 200. file:///strategy-and-policy/priorities-2019-2024/story-von-der-leyen-commission/european-green-deal_en?prefLang=fr
- 201. file:///topics/climate-action/climate-action-and-green-deal_fr
- 202. file:///topics/energy/energy-and-green-deal_fr
- 203. file:///topics/environment/protecting-environment-and-oceans-green-deal_fr
- 204. https://commission.europa.eu/topics/agriculture-and-rural-development_en
- 205. file:///topics/transport-and-tourism/transport-and-green-deal_fr
- 206. file:///topics/business-and-industry/industry-and-green-deal_fr
- 207. https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/environment-and-climate/european-green-deal_fr
- 208. file:///strategy-and-policy/priorities-2019-2024/european-green-deal/finance-and-green-deal_fr
- 209. https://new-european-bauhaus.europa.eu/index_en
- 210. https://climate.ec.europa.eu/eu-action/european-green-deal/european-climate-pact_fr
- 211. https://commission.europa.eu/index_fr
- 212. https://commission.europa.eu/about_fr
- 213. https://commission.europa.eu/about/contact_fr
- 214. https://commission.europa.eu/priorities-2024-2029_fr
- 215. https://commission.europa.eu/topics_fr
- 216. https://commission.europa.eu/funding-tenders_fr
- 217. https://commission.europa.eu/get-involved/jobs-european-commission_fr
- 218. https://ec.europa.eu/commission/presscorner/home/fr
- 219. https://commission.europa.eu/get-involved/events_fr
- 220. https://www.facebook.com/EuropeanCommission
- 221. https://www.instagram.com/europeancommission/
- 222. https://x.com/EU_Commission
- 223. https://www.linkedin.com/company/european-commission
- 224. https://european-union.europa.eu/contact-eu/social-media-channels_en
- 225. https://commission.europa.eu/legal-notice/vulnerability-disclosure-policy_fr
- 226. https://commission.europa.eu/languages-our-websites_fr
- 227. https://commission.europa.eu/cookies-policy_fr
- 228. https://commission.europa.eu/privacy-policy-websites-managed-european-commission_fr
- 229. https://commission.europa.eu/legal-notice_fr
- 230. file:///accessibility-statement_fr
+  71. file:///priorities-2024-2029/competitiveness/implementation-tracker_fr
+  72. file:///priorities-2024-2029/competitiveness_fr
+  73. file:///priorities-2024-2029/security-and-defence/implementation-tracker_fr
+  74. file:///priorities-2024-2029/security-and-defence_fr
+  75. file:///priorities-2024-2029/european-social-fairness/implementation-tracker_fr
+  76. file:///priorities-2024-2029/european-social-fairness_fr
+  77. file:///priorities-2024-2029/quality-life/implementation-tracker_fr
+  78. file:///priorities-2024-2029/quality-life_fr
+  79. file:///priorities-2024-2029/democracy-and-our-values/implementation-tracker_fr
+  80. file:///priorities-2024-2029/democracy-and-our-values_fr
+  81. file:///priorities-2024-2029/global-europe/implementation-tracker_fr
+  82. file:///priorities-2024-2029/global-europe_fr
+  83. file:///priorities-2024-2029/eu-budget-and-reform/implementation-tracker_fr
+  84. file:///priorities-2024-2029/eu-budget-and-reform_fr
+  85. file:///priorities-2024-2029_fr
+  86. https://commission.europa.eu/topics/research-and-innovation/choose-europe_fr
+  87. file:///news-and-media/news_fr
+  88. https://ec.europa.eu/commission/presscorner/home/fr
+  89. file:///news-and-media/visual-stories_fr
+  90. https://audiovisual.ec.europa.eu/fr/
+  91. file:///news-and-media_fr
+  92. file:///aid-development-cooperation-fundamental-rights/human-rights-non-eu-countries_fr
+  93. file:///aid-development-cooperation-fundamental-rights/your-fundamental-rights-eu_fr
+  94. https://civil-protection-humanitarian-aid.ec.europa.eu/funding-evaluations/online-databases_fr
+  95. file:///aid-development-cooperation-fundamental-rights/how-we-provide-aid_fr
+  96. file:///aid-development-cooperation-fundamental-rights/ensuring-aid-effectiveness_fr
+  97. file:///aid-development-cooperation-fundamental-rights_fr
+  98. file:///business-economy-euro/doing-business-eu_fr
+  99. file:///business-economy-euro/financial-services_fr
+ 100. file:///business-economy-euro/economic-recovery_fr
+ 101. file:///business-economy-euro/economic-forecasts-and-surveillance_fr
+ 102. file:///business-economy-euro/european-semester_fr
+ 103. https://economy-finance.ec.europa.eu/economic-and-monetary-union_en
+ 104. https://economy-finance.ec.europa.eu/business-economy-euro/euro-area/what-euro-area_fr
+ 105. https://european-union.europa.eu/institutions-law-budget/euro/benefits_fr
+ 106. file:///business-economy-euro_fr
+ 107. file:///education/skills-and-qualifications_fr
+ 108. file:///education/study-or-teach-abroad_fr
+ 109. file:///education/teaching-methods-and-materials_fr
+ 110. file:///education/policy-educational-issues_fr
+ 111. file:///education/set-projects-education-and-training_fr
+ 112. file:///education_fr
+ 113. https://ec.europa.eu/stories/6-tips
+ 114. file:///energy-climate-change-environment/overall-targets-and-reporting_fr
+ 115. file:///energy-climate-change-environment/implementation-eu-countries_fr
+ 116. file:///energy-climate-change-environment/international-cooperation_fr
+ 117. file:///energy-climate-change-environment/standards-tools-and-labels_fr
+ 118. file:///energy-climate-change-environment_fr
+ 119. file:///eu-regional-and-urban-development/financial-support-projects_fr
+ 120. file:///eu-regional-and-urban-development/projects-and-results_fr
+ 121. file:///eu-regional-and-urban-development/countries-regions-cities_fr
+ 122. file:///eu-regional-and-urban-development/cooperation-between-border-regions_fr
+ 123. file:///eu-regional-and-urban-development_fr
+ 124. file:///food-farming-fisheries/food-safety-and-quality_fr
+ 125. file:///food-farming-fisheries/farming_fr
+ 126. file:///food-farming-fisheries/oceans-and-fisheries_fr
+ 127. file:///food-farming-fisheries/forestry_fr
+ 128. file:///food-farming-fisheries/sustainable-agriculture_fr
+ 129. file:///food-farming-fisheries/agricultural-trade_fr
+ 130. file:///food-farming-fisheries/plants-and-plant-products_fr
+ 131. file:///food-farming-fisheries/animals-and-animal-products_fr
+ 132. file:///food-farming-fisheries_fr
+ 133. file:///law/law-making-process_fr
+ 134. file:///law/tracking-law-making_fr
+ 135. file:///law/search-law_fr
+ 136. file:///law/law-topic_fr
+ 137. file:///law/application-eu-law_fr
+ 138. file:///law/cross-border-cases_fr
+ 139. file:///law/judicial-training-and-professional-networks_fr
+ 140. file:///law/find-legal-professional_fr
+ 141. file:///law_fr
+ 142. https://europa.eu/stories/how-EU-law-is-made/
+ 143. file:///live-work-travel-eu/living-another-eu-country_fr
+ 144. file:///live-work-travel-eu/consumer-rights-and-complaints_fr
+ 145. file:///live-work-travel-eu/culture-heritage-sport-eu_fr
+ 146. file:///live-work-travel-eu/working-another-eu-country_fr
+ 147. file:///live-work-travel-eu/employment-opportunities_fr
+ 148. file:///live-work-travel-eu/travelling-eu_fr
+ 149. file:///live-work-travel-eu/travelling-non-eu-nationals_fr
+ 150. https://immigration-portal.ec.europa.eu/index_en
+ 151. file:///live-work-travel-eu_fr
+ 152. https://research-and-innovation.ec.europa.eu/research-and-innovation/strategy_fr
+ 153. https://research-and-innovation.ec.europa.eu/research-and-innovation/law-and-regulations_fr
+ 154. https://research-and-innovation.ec.europa.eu/research-and-innovation/knowledge-publications-tools-and-data_fr
+ 155. https://research-and-innovation.ec.europa.eu/research-and-innovation/funding_fr
+ 156. https://research-and-innovation.ec.europa.eu/research-and-innovation/projects_fr
+ 157. https://research-and-innovation.ec.europa.eu/research-and-innovation/partners-networking_fr
+ 158. https://research-and-innovation.ec.europa.eu/research-and-innovation/research-area_fr
+ 159. file:///research-and-innovation_fr
+ 160. https://commission.europa.eu/topics/research-and-innovation/choose-europe_fr
+ 161. file:///topics_fr
+ 162. https://op.europa.eu/fr/
+ 163. file:///resources/statistics/search-eurostat-statistics_fr
+ 164. file:///resources/statistics/economic-forecasts-and-trends_fr
+ 165. file:///resources/statistics/tracking-eu-policy-performance-and-recovery_fr
+ 166. file:///resources/statistics/public-opinion-survey_fr
+ 167. file:///resources/statistics/eu-open-data-portal_fr
+ 168. file:///resources/statistics/guide-european-statistics_fr
+ 169. file:///resources/statistics_fr
+ 170. https://europa.eu/eurobarometer/screen/home
+ 171. https://eur-lex.europa.eu/homepage.html?locale=fr
+ 172. https://learning-corner.learning.europa.eu/index_fr
+ 173. file:///resources/europa-web-guide_fr
+ 174. file:///resources/european-commission-visual-identity_fr
+ 175. file:///resources_fr
+ 176. https://have-your-say.ec.europa.eu/index_fr
+ 177. https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/new-push-european-democracy/conference-future-europe/new-phase-citizens-engagement_fr
+ 178. file:///get-involved/engage-eu-policymaking/european-citizens-initiative_fr
+ 179. file:///get-involved/engage-eu-policymaking/petition-eu_fr
+ 180. file:///get-involved/engage-eu-policymaking_fr
+ 181. file:///get-involved/jobs-european-commission_fr
+ 182. file:///funding-tenders_fr
+ 183. file:///get-involved/events_fr
+ 184. file:///get-involved/visit-european-commission/visitors-centre_fr
+ 185. file:///get-involved/visit-european-commission/experience-europe-exhibition-centre_fr
+ 186. file:///get-involved/visit-european-commission_fr
+ 187. file:///get-involved/social-media-connect-european-commission_fr
+ 188. file:///get-involved_fr
+ 189. https://europa.eu/stories/10-ways-easy-life/index_en.html
+ 190. file:///index_fr
+ 191. file:///strategy-and-policy_fr
+ 192. file:///strategy-and-policy/priorities-2019-2024_fr
+ 193. https://climate.ec.europa.eu/eu-action/european-climate-law_en?prefLang=fr
+ 194. https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/our-ambition-2030_en
+ 195. https://next-generation-eu.europa.eu/index_fr
+ 196. file:///strategy-and-policy/priorities-2019-2024/european-green-deal/finance-and-green-deal/just-transition-mechanism_fr
+ 197. https://employment-social-affairs.ec.europa.eu/policies-and-activities/funding/social-climate-fund_en
+ 198. https://ec.europa.eu/regional_policy/funding/solidarity-fund_en
+ 199. https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets_fr
+ 200. https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en
+ 201. file:///topics/energy/repowereu_fr
+ 202. file:///topics/competitiveness/green-deal-industrial-plan_fr
+ 203. file:///topics/competitiveness/green-deal-industrial-plan/european-critical-raw-materials-act_fr
+ 204. https://single-market-economy.ec.europa.eu/industry/sustainability/net-zero-industry-act_en
+ 205. https://environment.ec.europa.eu/strategy/zero-pollution-action-plan_en
+ 206. file:///topics/agriculture-and-rural-development/strategic-dialogue-future-eu-agriculture_fr
+ 207. file:///strategy-and-policy/priorities-2019-2024/story-von-der-leyen-commission/european-green-deal_en?prefLang=fr
+ 208. file:///topics/climate-action/climate-action-and-green-deal_fr
+ 209. file:///topics/energy/energy-and-green-deal_fr
+ 210. file:///topics/environment/protecting-environment-and-oceans-green-deal_fr
+ 211. https://commission.europa.eu/topics/agriculture-and-rural-development_en
+ 212. file:///topics/transport-and-tourism/transport-and-green-deal_fr
+ 213. file:///topics/business-and-industry/industry-and-green-deal_fr
+ 214. https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/environment-and-climate/european-green-deal_fr
+ 215. file:///strategy-and-policy/priorities-2019-2024/european-green-deal/finance-and-green-deal_fr
+ 216. https://new-european-bauhaus.europa.eu/index_en
+ 217. https://climate.ec.europa.eu/eu-action/european-green-deal/european-climate-pact_fr
+ 218. https://commission.europa.eu/index_fr
+ 219. https://commission.europa.eu/about_fr
+ 220. https://commission.europa.eu/about/contact_fr
+ 221. https://commission.europa.eu/priorities-2024-2029_fr
+ 222. https://commission.europa.eu/topics_fr
+ 223. https://commission.europa.eu/funding-tenders_fr
+ 224. https://commission.europa.eu/get-involved/jobs-european-commission_fr
+ 225. https://ec.europa.eu/commission/presscorner/home/fr
+ 226. https://commission.europa.eu/get-involved/events_fr
+ 227. https://www.facebook.com/EuropeanCommission
+ 228. https://www.instagram.com/europeancommission/
+ 229. https://x.com/EU_Commission
+ 230. https://www.linkedin.com/company/european-commission
+ 231. https://european-union.europa.eu/contact-eu/social-media-channels_en
+ 232. https://commission.europa.eu/legal-notice/vulnerability-disclosure-policy_fr
+ 233. https://commission.europa.eu/languages-our-websites_fr
+ 234. https://commission.europa.eu/cookies-policy_fr
+ 235. https://commission.europa.eu/privacy-policy-websites-managed-european-commission_fr
+ 236. https://commission.europa.eu/legal-notice_fr
+ 237. file:///accessibility-statement_fr
 
    Hidden links:
- 232. file://localhost/Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-42.html
- 233. https://europa.eu/stories/how-EU-law-is-made/
- 234. https://europa.eu/stories/10-ways-easy-life/index_en.html
+ 239. file://localhost/Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-42.html
+ 240. https://europa.eu/stories/how-EU-law-is-made/
+ 241. https://europa.eu/stories/10-ways-easy-life/index_en.html

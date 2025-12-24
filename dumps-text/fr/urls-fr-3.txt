@@ -235,15 +235,16 @@ Le Vert
        Annie Mollard-Desfour [54]Le Rouge
 
    Vous aimerez aussi
-     * [55]Le geste & la pensée Le geste & la pensée
-       Stéphane Laurent [56]Le geste & la pensée
-     * [57]OEuvres complètes OEuvres complètes
-         [58]Œuvres complètes
-     * [59]Voltaire à l’ouvrage Voltaire à l’ouvrage
-       Gillian Pink [60]Voltaire à l’ouvrage
-     * [61]Le Symbolique, le Sacré et l’Homme Le Symbolique, le Sacré et
-       l’Homme
-       Henry de Lumley [62]Le Symbolique, le Sacré et l’Homme
+     * [55]Violence et passion Violence et passion
+       Françoise Lavocat, Catherine Courtet, Mireille Besson, Alain Viala
+       [56]Violence et passion
+     * [57]L’art du vide L’art du vide
+       Itzhak Goldberg [58]L’art du vide
+     * [59]La fabrique des classiques africains La fabrique des classiques
+       africains
+       Claire Ducournau [60]La fabrique des classiques africains
+     * [61]OEuvres complètes OEuvres complètes
+         [62]Œuvres complètes
 
    Les médias en parlent
      * Fabrice Argounès [63]Méridiens
@@ -489,14 +490,14 @@ References
   52. https://www.cnrseditions.fr/catalogue/arts-et-essais-litteraires/le-noir/
   53. https://www.cnrseditions.fr/catalogue/arts-et-essais-litteraires/le-rouge/
   54. https://www.cnrseditions.fr/catalogue/arts-et-essais-litteraires/le-rouge/
-  55. https://www.cnrseditions.fr/catalogue/arts-et-essais-litteraires/le-geste-la-pensee/
-  56. https://www.cnrseditions.fr/catalogue/arts-et-essais-litteraires/le-geste-la-pensee/
-  57. https://www.cnrseditions.fr/catalogue/arts-et-essais-litteraires/oeuvres-completes/
-  58. https://www.cnrseditions.fr/catalogue/arts-et-essais-litteraires/oeuvres-completes/
-  59. https://www.cnrseditions.fr/catalogue/arts-et-essais-litteraires/voltaire-a-louvrage/
-  60. https://www.cnrseditions.fr/catalogue/arts-et-essais-litteraires/voltaire-a-louvrage/
-  61. https://www.cnrseditions.fr/catalogue/arts-et-essais-litteraires/le-symbolique-le-sacre-et-lhomme/
-  62. https://www.cnrseditions.fr/catalogue/arts-et-essais-litteraires/le-symbolique-le-sacre-et-lhomme/
+  55. https://www.cnrseditions.fr/catalogue/arts-et-essais-litteraires/violence-et-passion/
+  56. https://www.cnrseditions.fr/catalogue/arts-et-essais-litteraires/violence-et-passion/
+  57. https://www.cnrseditions.fr/catalogue/arts-et-essais-litteraires/lart-du-vide/
+  58. https://www.cnrseditions.fr/catalogue/arts-et-essais-litteraires/lart-du-vide/
+  59. https://www.cnrseditions.fr/catalogue/arts-et-essais-litteraires/la-fabrique-des-classiques-africains/
+  60. https://www.cnrseditions.fr/catalogue/arts-et-essais-litteraires/la-fabrique-des-classiques-africains/
+  61. https://www.cnrseditions.fr/catalogue/arts-et-essais-litteraires/oeuvres-completes/
+  62. https://www.cnrseditions.fr/catalogue/arts-et-essais-litteraires/oeuvres-completes/
   63. https://www.cnrseditions.fr/catalogue/histoire/meridiens/
   64. https://www.cnrseditions.fr/catalogue/ecologie-environnement-sciences-de-la-terre/tout-comprendre-ou-presque-sur-notre-planete/
   65. https://www.cnrseditions.fr/catalogue/philosophie-et-histoire-des-idees/desorienter-la-chine/
@@ -563,7 +564,7 @@ References
  125. https://twitter.com/share?text=Le+Vert&url=https%3A%2F%2Fwww.cnrseditions.fr%2Fcatalogue%2Farts-et-essais-litteraires%2Fle-vert%2F
  126. https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.cnrseditions.fr%2Fcatalogue%2Farts-et-essais-litteraires%2Fle-vert%2F&title=Le+Vert
  127. https://api.whatsapp.com/send?text=Le%20Vert%20-%20https%3A%2F%2Fwww.cnrseditions.fr%2Fcatalogue%2Farts-et-essais-litteraires%2Fle-vert%2F
- 128. file://localhost/cdn-cgi/l/email-protection#2e115d5b4c444b4d5a13624b0b1c1e784b5c5a084f435e154c414a5713465a5a5e5d140101595959004d405c5d4b4a475a4741405d00485c014d4f5a4f4241495b4b014f5c5a5d034b5a034b5d5d4f475d0342475a5a4b5c4f475c4b5d01424b03584b5c5a01
+ 128. file://localhost/cdn-cgi/l/email-protection#516e2224333b3432256c1d347463610734232577303c216a333e35286c39252521226b7e7e2626267f323f232234353825383e3f227f37237e323025303d3e3624347e302325227c34257c3422223038227c3d382525342330382334227e3d347c273423257e
  129. https://www.cnrseditions.fr/catalogue/histoire/meridiens/
  130. https://www.cnrseditions.fr/catalogue/ecologie-environnement-sciences-de-la-terre/tout-comprendre-ou-presque-sur-notre-planete/
  131. https://www.cnrseditions.fr/catalogue/philosophie-et-histoire-des-idees/desorienter-la-chine/

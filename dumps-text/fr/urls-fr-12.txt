@@ -410,7 +410,7 @@ ABONNEZ-VOUS 💗
    Adresse e-mail : ____________________
 
    (BUTTON) JE M'ABONNE
-   Rejoignez les 3 503 autres abonnés
+   Rejoignez les 3 501 autres abonnés
 
 SUIVEZ-MOI
 
@@ -423,9 +423,9 @@ SUIVEZ-MOI
 ARTICLES POPULAIRES
 
    [50]Colorimétrie 12 saisons : es-tu une femme Été Froid ?
-   [51]Colorimétrie 12 saisons : es-tu une femme Été Doux ?
-   [52]Colorimétrie 12 saisons : comprendre les 3 dimensions de la couleur
-   [53]Colorimétrie : le guide ultime pour rayonner au naturel
+   [51]Colorimétrie 12 saisons : comprendre les 3 dimensions de la couleur
+   [52]Colorimétrie 12 saisons : es-tu une femme Hiver Froid ?
+   [53]Colorimétrie 12 saisons : es-tu une femme Été Doux ?
 
 DERNIERS ARTICLES
 
@@ -490,7 +490,7 @@ TRANSLATER
      * [108]Commentaire
      * [109]S'abonner [110]Abonné
           + [111]The Color Fashionista
-            Rejoignez 2 503 autres abonnés
+            Rejoignez 2 501 autres abonnés
             ____________________
             (M’inscrire) M’inscrire
           + Vous disposez déjà dʼun compte WordPress ? [112]Connectez-vous
@@ -587,9 +587,9 @@ References
   48. https://www.pinterest.fr/thecolorfashionista/
   49. https://www.linkedin.com/in/agnes-petrausch/
   50. https://thecolorfashionista.com/2023/07/15/colorimetrie-12-saisons-ete-froid-cool-summer/
-  51. https://thecolorfashionista.com/2023/08/12/colorimetrie-12-saisons-ete-doux-soft-summer/
-  52. https://thecolorfashionista.com/2024/02/04/colorimetrie-12-saisons-comprendre-les-3-dimensions-de-la-couleur/
-  53. https://thecolorfashionista.com/2019/04/06/colorimetrie-le-guide-ultime-pour-rayonner-au-naturel/
+  51. https://thecolorfashionista.com/2024/02/04/colorimetrie-12-saisons-comprendre-les-3-dimensions-de-la-couleur/
+  52. https://thecolorfashionista.com/2023/01/14/colorimetrie-12-saisons-hiver-froid-cool-winter/
+  53. https://thecolorfashionista.com/2023/08/12/colorimetrie-12-saisons-ete-doux-soft-summer/
   54. https://thecolorfashionista.com/2025/11/18/tendances-mode-automne-hiver-2025-2026/
   55. https://thecolorfashionista.com/2025/09/28/methode-tonale-hiver-lumineux-vs-printemps-lumineux/
   56. https://thecolorfashionista.com/2025/08/24/methode-tonale-ete-doux-vs-automne-doux/
@@ -661,7 +661,7 @@ References
  122. https://subscribe.wordpress.com/
  123. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-12.html
  124. https://thecolorfashionista.com/politique-confidentialite/
- 125. https://widgets.wp.com/likes/master.html?ver=20251222#ver=20251222&lang=fr
+ 125. https://widgets.wp.com/likes/master.html?ver=20251224#ver=20251224&lang=fr
 
    Hidden links:
  127. https://www.corporatevision-news.com/winners/the-color-fashionista/

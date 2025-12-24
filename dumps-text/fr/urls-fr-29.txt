@@ -36,7 +36,7 @@ Apprenez les langues !
           + [28]Reading comprehension
                o [29]Expressions anglaises
           + [30]Comprendre les élections US en 3 min
-     * [31]Espagnol-Español
+     * [31]Apprendre l’espagnol avec Betty : ressources et cours
      * [32]L’hébreu
           + [33]4 sites qui marchent vraiment pour apprendre l’hébreu en
             ligne
@@ -305,16 +305,15 @@ Navigation de l’article
 
 Publications populaires
 
-     * [145]ELE n°28 — La ruta de El Quijote — Aprende español con Betty
-     * [146]Réussir l’exercice de synthèse écrite au DALF C1 :
-       explications et méthode – La crédibilité scientifique – FLE –
-       PREMIUM
-     * [147]Compréhension orale n°22 spéciale Journée internationale des
-       droits des femmes (avec corrigés)- Niveau C1 – FLE – PREMIUM
-     * [148]Les meilleurs sites pour tester gratuitement en ligne votre
-       niveau de français (FLE)
-     * [149]Ceylan, Dahomey, Formose, Zaïre…Les anciens noms de pays (avec
-       quiz)
+     * [145]Manon Lescaut La rechute de Des Grieux, Analyse linéaire pour
+       l’oral du Bac de français 2026
+     * [146]3 escape games (jeux d’évasion) pédagogiques à tester avec vos
+       enfants ou vos élèves – FLE
+     * [147]Galette des rois ou brioche des rois ? Les traditions de
+       l’Épiphanie en France
+     * [148]2 cours de français à tester gratuitement sur l’appli Memrise
+     * [149]Comment mieux écrire en français? Suivez le guide avec ces 6
+       règles qui changent tout – FLE
 
 En savoir plus sur Polyglottes
 
@@ -453,7 +452,7 @@ References
   89. https://polyglottes.org/tag/fle/
   90. https://polyglottes.org/tag/se-prendre-une-volee-de-bois-vert/
   91. file:///definition-se-prendre-une-volee-de-bois-vert｜expressions-en-francais/#respond
-  92. https://jetpack.wordpress.com/jetpack-comment/?blogid=54374516&postid=85253&comment_registration=0&require_name_email=0&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=retro&greeting=Laisser+un+commentaire&jetpack_comments_nonce=81957b033c&greeting_reply=Répondre+à+%s&color_scheme=light&lang=fr_FR&jetpack_version=15.4-a.3&iframe_unique_id=1&show_cookie_consent=10&has_cookie_consent=0&is_current_user_subscribed=0&token_key=;normal;&sig=4d1d4aa9ea772a91886bcdf4b33069f3cdc1a8ae#parent=https://polyglottes.org/definition-se-prendre-une-volee-de-bois-vert%EF%BD%9Cexpressions-en-francais/
+  92. https://jetpack.wordpress.com/jetpack-comment/?blogid=54374516&postid=85253&comment_registration=0&require_name_email=0&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=retro&greeting=Laisser+un+commentaire&jetpack_comments_nonce=66aadeaf80&greeting_reply=Répondre+à+%s&color_scheme=light&lang=fr_FR&jetpack_version=15.4-a.5&iframe_unique_id=1&show_cookie_consent=10&has_cookie_consent=0&is_current_user_subscribed=0&token_key=;normal;&sig=8a88edfc8395047158b0c4944df67aa7781e3f54#parent=https://polyglottes.org/definition-se-prendre-une-volee-de-bois-vert%EF%BD%9Cexpressions-en-francais/
   93. https://polyglottes.org/olympe-de-gouges-5-choses-a-savoir-sur-une-exceptionnelle-humaniste/
   94. https://polyglottes.org/bord-bordure-coin-bout-pointe-mots-utiles-a-connaitre-en-francais-avec-audio-🎧-fle/
   95. https://www.facebook.com/groups/1761246657506015
@@ -506,14 +505,14 @@ References
  142. https://polyglottes.org/tag/ecrire-en-francais/
  143. https://polyglottes.org/feed/
  144. https://polyglottes.org/comments/feed/
- 145. https://polyglottes.org/ele-n28-la-ruta-de-el-quijote-aprende-espanol-con-betty/
- 146. https://polyglottes.org/reussir-lexercice-de-synthese-ecrite-au-dalf-c1-explications-et-methode-fle/
- 147. https://polyglottes.org/comprehension-orale-n21-speciale-journee-internationale-des-droits-des-femmes-niveau-c1-fle/
- 148. https://polyglottes.org/les-3-meilleurs-sites-pour-tester-gratuitement-en-ligne-votre-niveau-de-francais/
- 149. https://polyglottes.org/ceylan-dahomey-formose-les-anciens-noms-de-pays/
+ 145. https://polyglottes.org/manon-lescaut-la-rechute-de-des-grieux-analyse-lineaire-pour-loral-du-bac/
+ 146. https://polyglottes.org/3-escape-games-jeux-devasion-pedagogiques-a-tester-avec-vos-enfants-ou-vos-eleves-fle/
+ 147. https://polyglottes.org/galette-des-rois-ou-brioche-des-rois-les-traditions-de-lepiphanie-en-france/
+ 148. https://polyglottes.org/2-cours-de-francais-a-tester-gratuitement-sur-lappli-memrise/
+ 149. https://polyglottes.org/comment-mieux-ecrire-en-francais-suivez-le-guide-avec-ces-6-regles-qui-changent-tout/
  150. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-29.html
  151. file:///Users/yaoshiyi/PPE-VERT/aspirations/fr/urls-fr-29.html
- 152. https://widgets.wp.com/likes/master.html?ver=20251222#ver=20251222&lang=fr
+ 152. https://widgets.wp.com/likes/master.html?ver=20251224#ver=20251224&lang=fr
 
    Hidden links:
  154. https://polyglottes.org/

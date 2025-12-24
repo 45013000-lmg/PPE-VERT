@@ -18,21 +18,23 @@
                       Produits et producteurs locaux
                o
 
-[12]Concert de Noël
-                 Loisirs
-                 Le 22 Déc
-                 Concert de Noël
+[12]Repas dansant – Réveillon 2025
+                 Solidarité
+                 Le 31 Déc
+                 Réveillon fraternel et solidaire avec repas dansant,
+                 organisé par le Collectif Arc-en-Ciel au Centre
+                 Socioculturel de Saint-Dizier.
           + Actualités
 
-[13]Collecte et déchèteries : ce qui change pendant les fêtes
+[13]Révéler Saint-Dizier : le cœur Gambetta entre dans une nouvelle ère
+            Travaux
+               o Publié le 23/12/2025
+               o 4 min de lecture
+
+[14]Collecte et déchèteries : ce qui change pendant les fêtes
             Environnement
                o Publié le 22/12/2025
                o 2 min de lecture
-
-[14]Église Saint-Thérèse : des travaux pour sécuriser l’intérieur
-            Patrimoine
-               o Publié le 19/12/2025
-               o 1 min de lecture
             [15]Voir toutes les actualités
      * (BUTTON) Infos pratiques
           + Infos pratiques
@@ -291,22 +293,22 @@ Derniers articles
 
      *
 
-[71]Collecte et déchèteries : ce qui change pendant les fêtes
+[71]Révéler Saint-Dizier : le cœur Gambetta entre dans une nouvelle ère
+       Travaux
+          + 23/12/2025
+          + 4 min de lecture
+     *
+
+[72]Collecte et déchèteries : ce qui change pendant les fêtes
        Environnement
           + 22/12/2025
           + 2 min de lecture
      *
 
-[72]Église Saint-Thérèse : des travaux pour sécuriser l’intérieur
+[73]Église Saint-Thérèse : des travaux pour sécuriser l’intérieur
        Patrimoine
           + 19/12/2025
           + 1 min de lecture
-     *
-
-[73]Carrefour Kennedy / Pisani : fonctionnement en feux clignotants
-       Proximité
-          + 18/12/2025
-          + 2 min de lecture
 
 Ne ratez rien de l’actualité de Saint-Dizier
 
@@ -366,9 +368,9 @@ References
    9. https://www.saint-dizier.fr/actualites-et-sorties/culture-et-patrimoine/
   10. https://www.saint-dizier.fr/actualites-et-sorties/balades-et-nature/
   11. https://www.saint-dizier.fr/actualites-et-sorties/commerces-foires-et-marches/
-  12. https://www.saint-dizier.fr/agenda/concert-de-noel-3794727/
-  13. https://www.saint-dizier.fr/actualites/collecte-et-decheteries-ce-qui-change-pendant-les-fetes/
-  14. https://www.saint-dizier.fr/actualites/eglise-saint-therese-des-travaux-pour-securiser-linterieur/
+  12. https://www.saint-dizier.fr/agenda/repas-dansant-reveillon-2025/
+  13. https://www.saint-dizier.fr/actualites/reveler-saint-dizier-le-coeur-gambetta-entre-dans-une-nouvelle-ere/
+  14. https://www.saint-dizier.fr/actualites/collecte-et-decheteries-ce-qui-change-pendant-les-fetes/
   15. https://www.saint-dizier.fr/actualites-et-sorties/actualites/
   16. https://www.saint-dizier.fr/infos-pratiques/transports-et-stationnement/
   17. https://www.saint-dizier.fr/infos-pratiques/dechets-eau-energie-et-reseaux/
@@ -425,9 +427,9 @@ References
   68. https://www.google.com/maps/search/?api=1&query=La+Poste+/+Espace+France+Services+Boulevard+Salvador+Allende+52100+Saint-Dizier
   69. tel:0325072643
   70. mailto:saint-dizier@france-services.gouv.fr
-  71. https://www.saint-dizier.fr/actualites/collecte-et-decheteries-ce-qui-change-pendant-les-fetes/
-  72. https://www.saint-dizier.fr/actualites/eglise-saint-therese-des-travaux-pour-securiser-linterieur/
-  73. https://www.saint-dizier.fr/actualites/carrefour-kennedy-pisani-fonctionnement-en-feux-clignotants/
+  71. https://www.saint-dizier.fr/actualites/reveler-saint-dizier-le-coeur-gambetta-entre-dans-une-nouvelle-ere/
+  72. https://www.saint-dizier.fr/actualites/collecte-et-decheteries-ce-qui-change-pendant-les-fetes/
+  73. https://www.saint-dizier.fr/actualites/eglise-saint-therese-des-travaux-pour-securiser-linterieur/
   74. https://www.saint-dizier.fr/newsletter/
   75. tel:0325073131
   76. https://www.saint-dizier.fr/nous-contacter/
