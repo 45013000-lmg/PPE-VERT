@@ -104,11 +104,11 @@ do
             <td>$code</td>
             <td><a href=\"$URL\" target=\"_blank\">$URL</a></td>
             <td>$encodage</td>
-            <td><a href="../aspirations/fr/$basename-$lineno.html">aspiration</a></td>
-            <td><a href="../dumps-text/fr/$basename-$lineno.txt">dump</a></td>
+            <td><a href=\"../aspirations/fr/$basename-$lineno.html\">aspiration</a></td>
+            <td><a href=\"../dumps-text/fr/$basename-$lineno.txt\">dump</a></td>
             <td>$compte</td>
-            <td><a href="../contextes/fr/$basename-$lineno.txt">contextes</a></td>
-            <td><a href="../concordances/fr/$basename-$lineno.html">concordance</a></td>
+            <td><a href=\"../contextes/fr/$basename-$lineno.txt\">contextes</a></td>
+            <td><a href=\"../concordances/fr/$basename-$lineno.html\">concordance</a></td>
         </tr>" >> $TABLE
     lineno=$((lineno+1))
 done < "$URLS"
