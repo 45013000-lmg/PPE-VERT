@@ -1,9 +1,5 @@
 # !/bin/bash
 
-# ---------- Chemin absolu logique ----------
-SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)" # Récupère le chemin absolu du dossier où se trouve le script
-ROOT_DIR="$(cd "$SCRIPT_DIR/../.." && pwd)" # Récupère le dossier racine du projet
-
 URLS=../../URLs/urls-fr.txt # Fichier contenant les URLs en français
 TABLE=../../tableaux/fr_tableau.html # Fichier HTML de sortie (tableau en français)
 MOT="\bvert\(e\|es\|s\)\?\b" # Mot à rechercher (vert et ses variantes, via expression régulière)
@@ -45,10 +41,10 @@ echo -e "
 basename="urls-fr" # Nom de base utilisé pour les fichiers générés
 
 # Dossiers de sortie (français)
-aspiration_fr="$ROOT_DIR/aspirations/fr"
-concordance_fr="$ROOT_DIR/concordances/fr"
-dumps_fr="$ROOT_DIR/dumps-text/fr"
-contextes_fr="$ROOT_DIR/contextes/fr"
+aspirations_fr="../../aspirations/fr"
+dumps_fr="../../dumps-text/fr"
+contextes_fr="../../contextes/fr"
+concordances_fr="../../concordances/fr"
 
 
 lineno=1
@@ -70,11 +66,11 @@ do
 
     # Télécharge le contenu HTML de la page
     aspiration=$(curl -s $URL)
-    echo "$aspiration" > $aspiration_fr/$basename-$lineno.html
+    echo "$aspiration" > $aspirations_fr/$basename-$lineno.html
 
     # Conversion HTML → texte brut avec lynx
     dumpfile="$dumps_fr/$basename-$lineno.txt"
-    lynx -dump -display_charset="UTF-8" "$aspiration_fr/$basename-$lineno.html" > "$dumpfile"
+    lynx -dump -display_charset="UTF-8" "$aspirations_fr/$basename-$lineno.html" > "$dumpfile"
 
     # ------- Recherche du mot et contextes -------
 
@@ -86,9 +82,9 @@ do
     grep -n "$MOT" "$dumpfile" > "$ctxfile"
 
     # ------- Génération de la concordance HTML -------
-    concfile="$concordance_fr/$basename-$lineno.html"
-    echo "<html><head><meta charset=\"UTF-8\"/></head><body><table border='1'>" > "$concfile"
-    echo "<tr><th>Contexte gauche</th><th>Cible</th><th>Contexte droit</th></tr>" >> "$concfile"
+    concfile="$concordances_fr/$basename-$lineno.html"
+    echo "<html><head><meta charset=\"UTF-8\"><link rel=\"stylesheet\" href=\"../../assets/css/base.css\"></head><body><table border=\"1\">" > "$concfile"
+    echo "<tr><th>Contexte gauche</th><th style=\"color:red;\">Cible</th><th>Contexte droit</th></tr>" >> "$concfile"
 
     # Découpe chaque ligne en contexte gauche / mot / contexte droit
     grep -n "$MOT" "$dumpfile" | while read -r line; do
@@ -108,11 +104,11 @@ do
             <td>$code</td>
             <td><a href=\"$URL\" target=\"_blank\">$URL</a></td>
             <td>$encodage</td>
-            <td><a href="$aspiration_fr/$basename-$lineno.html">aspiration</a></td>
-            <td><a href="$dumps_fr/$basename-$lineno.txt">dump</a></td>
+            <td><a href="../aspirations/fr/$basename-$lineno.html">aspiration</a></td>
+            <td><a href="../dumps-text/fr/$basename-$lineno.txt">dump</a></td>
             <td>$compte</td>
-            <td><a href="$contextes_fr/$basename-$lineno.txt">contextes</a></td>
-            <td><a href="$concordance_fr/$basename-$lineno.html">concordance</a></td>
+            <td><a href="../contextes/fr/$basename-$lineno.txt">contextes</a></td>
+            <td><a href="../concordances/fr/$basename-$lineno.html">concordance</a></td>
         </tr>" >> $TABLE
     lineno=$((lineno+1))
 done < "$URLS"
