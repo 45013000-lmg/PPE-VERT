@@ -1,8 +1,8 @@
 #!/bin/bash
 
 
-fichier_urls="../URLS/vietnamien.txt"
-fichier_tableau="../tableaux/tableau_vietnamien.html"
+fichier_urls="../../URLs/vietnamien.txt"
+fichier_tableau="../../tableaux/tableaux_vn.html"
 
 # en tete du tableau
 echo "<html><head><meta charset=\"UTF-8\"></head><body>" > "$fichier_tableau"
@@ -16,10 +16,10 @@ while read -r URL; do
 
     #noms de fichiers
     basename="vietnamien-$lineno"
-    fichier_html="../aspirations/$basename.html"
-    fichier_text="../dumps-text/$basename.txt"
-    fichier_context="../contextes/$basename.txt"
-    fichier_concordance="../concordances/$basename.html"
+    fichier_html="../../aspirations/vn/$basename.html"
+    fichier_text="../../dumps-text/vn/$basename.txt"
+    fichier_context="../../contextes/vn/$basename.txt"
+    fichier_concordance="../../concordances/vn/$basename.html"
 
     code_http=$(curl -s -L -w "%{http_code}" -o "$fichier_html" "$URL")
     encodage=""
@@ -81,10 +81,10 @@ while read -r URL; do
     echo "<td>$code_http</td>" >> "$fichier_tableau"
     echo "<td>$encodage</td>" >> "$fichier_tableau"
     echo "<td>$nb_mot</td>" >> "$fichier_tableau"
-    echo "<td><a href=\"../aspirations/$basename.html\">html</a></td>" >> "$fichier_tableau"
-    echo "<td><a href=\"../dumps-text/$basename.txt\">text</a></td>" >> "$fichier_tableau"
-    echo "<td><a href=\"../contextes/$basename.txt\">contexte</a></td>" >> "$fichier_tableau"
-    echo "<td><a href=\"../concordances/$basename.html\">Concordancier</a></td>" >> "$fichier_tableau"
+    echo "<td><a href=\"../aspirations/vn/$basename.html\">html</a></td>" >> "$fichier_tableau"
+    echo "<td><a href=\"../dumps-text/vn/$basename.txt\">text</a></td>" >> "$fichier_tableau"
+    echo "<td><a href=\"../contextes/vn/$basename.txt\">contexte</a></td>" >> "$fichier_tableau"
+    echo "<td><a href=\"../concordances/vn/$basename.html\">Concordancier</a></td>" >> "$fichier_tableau"
     echo "</tr>" >> "$fichier_tableau"
 
     lineno=$((lineno + 1))
