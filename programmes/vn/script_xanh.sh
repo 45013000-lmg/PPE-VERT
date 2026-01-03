@@ -5,9 +5,32 @@ fichier_urls="../../URLs/vietnamien.txt"
 fichier_tableau="../../tableaux/tableaux_vn.html"
 
 # en tete du tableau
-echo "<html><head><meta charset=\"UTF-8\"></head><body>" > "$fichier_tableau"
-echo "<table border=\"1\" align=\"center\">" >> "$fichier_tableau"
-echo "<tr><th>N°</th><th>URL</th><th>Code HTTP</th><th>Encodage</th><th>Occurrences</th><th>Aspirations</th><th>Dump</th><th>Contexte (txt)</th><th>Concordancier (html)</th></tr>" >> "$fichier_tableau"
+echo -e "
+<html lang=\"vn\">
+<head>
+  <meta charset=\"UTF-8\" />
+  <title>Tableau — Vietnamien</title>
+  <link rel=\"stylesheet\" href=\"../assets/css/base.css\">
+  <link rel=\"stylesheet\" href=\"../assets/css/components.css\">
+  <link rel=\"stylesheet\" href=\"../assets/css/pages/table.css\">
+</head>
+
+<body>
+  <section class=\"section\">
+    <div class=\"glass-container\">
+      <h1 class=\"title has-text-centered\">Tableau Vietnamien</h1>
+      <table class=\"table\">
+        <tr>
+          <th>N°</th>
+          <th>Code HTTP</th>
+          <th>URL</th>
+          <th>Encodage</th>
+          <th>Occurrences</th>
+          <th>Aspirations</th>
+          <th>Dump</th>
+          <th>Contexte (txt)</th>
+          <th>Concordancier (html)</th>
+        </tr> " > "$fichier_tableau"
 
 lineno=1
 
@@ -53,10 +76,16 @@ while read -r URL; do
 
         
         # page concordancier
-        echo "<html><head><meta charset=\"UTF-8\"></head><body>" > "$fichier_concordance"
-        echo "<h3>Concordancier pour le mot 'XANH'</h3>" >> "$fichier_concordance"
-        echo "<p>Source : <a href=\"$URL\">$URL</a></p>" >> "$fichier_concordance"
-        echo "<table border=\"1\">" >> "$fichier_concordance"
+        echo "<html lang=\"vn\"><head><meta charset=\"UTF-8\">" > "$fichier_concordance"
+        echo "  <link rel=\"stylesheet\" href=\"../../assets/css/base.css\">" >> "$fichier_concordance"
+        echo "  <link rel=\"stylesheet\" href=\"../../assets/css/components.css\">" >> "$fichier_concordance"
+        echo "  <link rel=\"stylesheet\" href=\"../../assets/css/pages/table.css\">" >> "$fichier_concordance"
+        echo "</head><body>" >> "$fichier_concordance"
+        echo "<section class=\"section\">" >> "$fichier_concordance"
+        echo "  <div class=\"glass-container\">" >> "$fichier_concordance"
+        echo "    <h1 class=\"title has-text-centered\">Concordancier pour le mot 'XANH'</h1>" >> "$fichier_concordance"
+        echo "    <p>Source : <a href=\"$URL\">$URL</a></p>" >> "$fichier_concordance"
+        echo "    <table class=\"table\">" >> "$fichier_concordance"
         
 
         #grep récupère les lignes avec "xanh"
@@ -66,19 +95,29 @@ while read -r URL; do
         sed -E 's/(xanh)/<span style="color: red; font-weight: bold;">\1<\/span>/Ig' | \
         sed 's/^/<tr><td>/' | sed 's/$/<\/td><\/tr>/' >> "$fichier_concordance"
 
-        echo "</table></body></html>" >> "$fichier_concordance"
+        echo "    </table>" >> "$fichier_concordance"
+        echo "  </div>" >> "$fichier_concordance"
+        echo "</section>" >> "$fichier_concordance"
+        echo "</body></html>" >> "$fichier_concordance"
 
     else
         echo "   -> Échec du téléchargement (Code: $code_http)"
         encodage="N/A"
-        echo "<html><body><p>Erreur de téléchargement</p></body></html>" > "$fichier_concordance"
+        echo "<html lang=\"vn\"><head><meta charset=\"UTF-8\">" > "$fichier_concordance"
+        echo "  <link rel=\"stylesheet\" href=\"../../assets/css/base.css\">" >> "$fichier_concordance"
+        echo "</head><body>" >> "$fichier_concordance"
+        echo "<section class=\"section\">" >> "$fichier_concordance"
+        echo "  <div class=\"glass-container\">" >> "$fichier_concordance"
+        echo "    <p>Erreur de téléchargement</p>" >> "$fichier_concordance"
+        echo "  </div>" >> "$fichier_concordance"
+        echo "</section></body></html>" >> "$fichier_concordance"
     fi
 
     #remplissage tabluea
     echo "<tr>" >> "$fichier_tableau"
     echo "<td>$lineno</td>" >> "$fichier_tableau"
-    echo "<td><a href=\"$URL\">$URL</a></td>" >> "$fichier_tableau"
     echo "<td>$code_http</td>" >> "$fichier_tableau"
+    echo "<td><a href=\"$URL\">$URL</a></td>" >> "$fichier_tableau"
     echo "<td>$encodage</td>" >> "$fichier_tableau"
     echo "<td>$nb_mot</td>" >> "$fichier_tableau"
     echo "<td><a href=\"../aspirations/vn/$basename.html\">html</a></td>" >> "$fichier_tableau"
@@ -91,4 +130,10 @@ while read -r URL; do
 
 done < "$fichier_urls"
 
-echo "</table></body></html>" >> "$fichier_tableau"
+echo -e "
+      </table>
+    </div>
+  </section>
+</body>
+</html>
+" >> "$fichier_tableau"

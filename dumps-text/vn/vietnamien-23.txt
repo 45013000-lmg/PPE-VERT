@@ -587,7 +587,7 @@ QUÊN MẬT KHẨU
    Mật khẩu* ____________________
    (BUTTON) ĐĂNG KÝ
    let
-   recaptchaElm=document.getElementById('5654e6b673c144ae914c6ed2039c056f'
+   recaptchaElm=document.getElementById('74fef541e867492eac5dad286f679b1f'
    );let
    recaptchaForm=recaptchaElm.parentNode;recaptchaForm.addEventListener("s
    ubmit",function(formEvent){if(!recaptchaElm.value){formEvent.preventDef

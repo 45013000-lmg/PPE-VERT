@@ -695,7 +695,7 @@ Thanh toán
    Bạn đồng ý cung cấp thông tin theo chính sáchbảo mật thông tin
    (BUTTON) Gửi cho chúng tôi
    let
-   recaptchaElm=document.getElementById('6254a3eb2996461a915b7a9c3b8fc83d'
+   recaptchaElm=document.getElementById('2a91fd578fe34bf5af7b943c1bdfeee8'
    );let
    recaptchaForm=recaptchaElm.parentNode;recaptchaForm.addEventListener("s
    ubmit",function(formEvent){if(!recaptchaElm.value){formEvent.preventDef
