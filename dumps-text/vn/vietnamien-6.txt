@@ -1,0 +1,583 @@
+   #Sửa đổi Wikipedia (vi) Nguồn cấp Atom của Wikipedia
+
+   Bước tới nội dung
+
+   [ ] Trình đơn chính
+   Trình đơn chính
+   (BUTTON) chuyển sang thanh bên (BUTTON) ẩn
+   Điều hướng
+     * Trang Chính
+     * Nội dung chọn lọc
+     * Bài viết ngẫu nhiên
+     * Thay đổi gần đây
+     * Báo lỗi nội dung
+
+   Tương tác
+     * Hướng dẫn
+     * Giới thiệu Wikipedia
+     * Cộng đồng
+     * Thảo luận chung
+     * Giúp sử dụng
+     * Liên lạc
+     * Tải lên tập tin
+
+   Wikipedia Bách khoa toàn thư mở
+   Tìm kiếm
+   ____________________
+   (BUTTON) Tìm kiếm
+
+   [ ] Giao diện
+
+     * Quyên góp
+     * Tạo tài khoản
+     * Đăng nhập
+
+   [ ] Công cụ cá nhân
+     * Quyên góp
+     * Tạo tài khoản
+     * Đăng nhập
+
+Nội dung
+
+   (BUTTON) chuyển sang thanh bên (BUTTON) ẩn
+     * Đầu
+     * 1 Tọa độ màu
+     * 2 Xem thêm
+     * 3 Tham khảo
+
+   [ ] Đóng mở mục lục
+
+Xanh lá cây
+
+   [ ] 173 ngôn ngữ
+     * Afrikaans
+     * አማርኛ
+     * अंगिका
+     * Ænglisc
+     * العربية
+     * Aragonés
+     * Արեւմտահայերէն
+     * Armãneashti
+     * Asturianu
+     * Avañe'ẽ
+     * Авар
+     * Aymar aru
+     * Azərbaycanca
+     * تۆرکجه
+     * Bahasa Indonesia
+     * Bahasa Melayu
+     * Basa Bali
+     * বাংলা
+     * Banjar
+     * 閩南語 / Bân-lâm-gí
+     * Basa Banyumasan
+     * Башҡортса
+     * Беларуская
+     * Беларуская (тарашкевіца)
+     * Bikol Central
+     * Boarisch
+     * བོད་ཡིག
+     * Bosanski
+     * Brezhoneg
+     * Български
+     * Català
+     * Чӑвашла
+     * Čeština
+     * Chamoru
+     * ChiShona
+     * Cymraeg
+     * Dansk
+     * Deitsch
+     * Deutsch
+     * डोटेली
+     * Eesti
+     * Ελληνικά
+     * English
+     * Эрзянь
+     * Español
+     * Esperanto
+     * Estremeñu
+     * Euskara
+     * فارسی
+     * Français
+     * Frysk
+     * Furlan
+     * Gaeilge
+     * Galego
+     * ગુજરાતી
+     * 客家語 / Hak-kâ-ngî
+     * 한국어
+     * Hausa
+     * Hawaiʻi
+     * Հայերեն
+     * हिन्दी
+     * Hrvatski
+     * Ido
+     * Ирон
+     * IsiZulu
+     * Íslenska
+     * Italiano
+     * עברית
+     * Jawa
+     * Kabɩyɛ
+     * Kapampangan
+     * ქართული
+     * کٲشُر
+     * Қазақша
+     * Kiswahili
+     * Kreyòl ayisyen
+     * Kurdî
+     * Ladin
+     * Ladino
+     * Лакку
+     * Latina
+     * Latviešu
+     * Lëtzebuergesch
+     * Lietuvių
+     * Lingála
+     * Lingua Franca Nova
+     * Lombard
+     * Magyar
+     * Македонски
+     * മലയാളം
+     * Malti
+     * मराठी
+     * მარგალური
+     * مصرى
+     * مازِرونی
+     * ꯃꯤꯇꯩ ꯂꯣꯟ
+     * 閩東語 / Mìng-dĕ̤ng-ngṳ̄
+     * Mirandés
+     * Мокшень
+     * မြန်မာဘာသာ
+     * Nāhuatl
+     * Na Vosa Vakaviti
+     * Nederlands
+     * नेपाली
+     * नेपाल भाषा
+     * 日本語
+     * Napulitano
+     * Нохчийн
+     * Nordfriisk
+     * Norsk bokmål
+     * Norsk nynorsk
+     * Nouormand
+     * Occitan
+     * Олык марий
+     * ଓଡ଼ିଆ
+     * ਪੰਜਾਬੀ
+     * پنجابی
+     * پښتو
+     * ភាសាខ្មែរ
+     * Picard
+     * Plattdüütsch
+     * Polski
+     * Português
+     * Română
+     * Runa Simi
+     * Русский
+     * Саха тыла
+     * Sakizaya
+     * संस्कृतम्
+     * Scots
+     * Sesotho sa Leboa
+     * Shqip
+     * Sicilianu
+     * සිංහල
+     * Simple English
+     * سنڌي
+     * Slovenčina
+     * Slovenščina
+     * Soomaaliga
+     * کوردی
+     * Српски / srpski
+     * Srpskohrvatski / српскохрватски
+     * Sunda
+     * Suomi
+     * Svenska
+     * Tagalog
+     * தமிழ்
+     * Татарча / tatarça
+     * తెలుగు
+     * ไทย
+     * Тоҷикӣ
+     * ತುಳು
+     * Türkçe
+     * Українська
+     * اردو
+     * ئۇيغۇرچە / Uyghurche
+     * Vahcuengh
+     * Vèneto
+     * Vepsän kel’
+     * Võro
+     * Walon
+     * 文言
+     * Winaray
+     * Wayuunaiki
+     * Wolof
+     * 吴语
+     * Xitsonga
+     * ייִדיש
+     * 粵語
+     * Žemaitėška
+     * 中文
+     * Jaku Iban
+     * Kumoring
+
+   Sửa liên kết
+
+     * Bài viết
+     * Thảo luận
+
+   [ ] Tiếng Việt
+
+     * Đọc
+     * Sửa đổi
+     * Sửa mã nguồn
+     * Xem lịch sử
+
+   [ ] Công cụ
+   Công cụ
+   (BUTTON) chuyển sang thanh bên (BUTTON) ẩn
+   Tác vụ
+     * Đọc
+     * Sửa đổi
+     * Sửa mã nguồn
+     * Xem lịch sử
+
+   Chung
+     * Các liên kết đến đây
+     * Thay đổi liên quan
+     * Liên kết thường trực
+     * Thông tin trang
+     * Trích dẫn trang này
+     * Tạo URL rút gọn
+     * Tải mã QR
+
+   In và xuất
+     * Tạo một quyển sách
+     * Tải dưới dạng PDF
+     * Bản để in ra
+
+   Tại dự án khác
+     * Wikimedia Commons
+     * Khoản mục Wikidata
+
+   Giao diện
+   (BUTTON) chuyển sang thanh bên (BUTTON) ẩn
+   Bách khoa toàn thư mở Wikipedia
+
+   #008000
+   Xanh lá cây
+
+   Tọa độ phổ
+   Bước sóng 520–570 nm
+   Tần số ~575–525 THz
+   Ý nghĩa chung
+   thiên nhiên, sinh trưởng, hy vọng, tuổi trẻ, may mắn, bệnh tật, sức
+   khỏe, Hồi giáo, mùa xuân, Ngày thánh Patriciô, tiền (Hoa Kỳ), và ganh
+   tị^[1]^[2]^[3]
+   Về các tọa độ này     Các tọa độ màu
+   Bộ ba hex #008000
+   sRGB^B  (r, g, b) (0, 128, 0)
+   Nguồn sRGB approximation to NCS S 2060-G^[4]
+   B: Chuẩn hóa thành [0–255] (byte)
+
+   Xanh lá cây, xanh lá hay lục (tiếng Anh: green) là màu sắc trong tự
+   nhiên. Hầu hết các lá cây có màu xanh lá nhờ các chất diệp lục trong
+   cây. Đa số người thấy màu này khi nhìn vào hình bên.
+
+   Màu xanh lá cây có bước sóng từ 500-565 nm.
+
+Tọa độ màu
+
+   [sửa | sửa mã nguồn]
+     * Số Hex = #008000
+     * RGB (r, g, b) = (0, 128, 0)
+     * CMYK (c, m, y, k) = (100, 0, 100, 50)
+     * HSV (h, s, v) = (120, 100, 50)
+
+   [250px-Color_icon_green.svg.png] Các sắc thái của màu xanh lá cây
+
+Xem thêm
+
+   [sửa | sửa mã nguồn]
+     * Danh sách màu
+
+Tham khảo
+
+   [sửa | sửa mã nguồn]
+     * Tư liệu liên quan tới Green tại Wikimedia Commons
+
+    1. ^ "Results for "green"". Dictionary.com. Lexico Publishing Corp.
+       2007. Truy cập ngày 22 tháng 11 năm 2007.
+    2. ^ Oxford English Dictionary
+    3. ^ Khalifa, Rashad (trans). "Sura 76, The Human (Al-Insaan)". Quran
+       The Final Testament. Truy cập ngày 30 tháng 11 năm 2007.
+    4. ^ The sRGB values are taken by converting the NCS color 2060-G
+       using the "NCS Navigator" tool at the NCS website.
+
+     * x
+     * t
+     * s
+
+   Phổ điện từ
+   ← Tần số cao hơn       Bước sóng dài hơn →
+
+   Tia Gamma · Tia X · Tử ngoại · Nhìn thấy được · Hồng ngoại · Bức xạ
+   terahertz · Vi ba · Vô tuyến
+   [960px-Frequency_vs._wave_length.svg.png]
+   ← Tần số cao hơn       Bước sóng dài hơn →
+   Nhìn thấy được
+   (quang học)
+   Tím · Xanh lam · Xanh lơ · Xanh lục · Vàng · Cam · Đỏ
+   Vi ba
+   Băng W · Băng V · Băng Q · Băng K[a] · Băng K · Băng K[u] · Băng X ·
+   Băng C · Băng S · Băng L
+   Vô tuyến
+   EHF · SHF · UHF · VHF · HF · MF · LF · VLF · ULF · SLF · ELF
+   Các loại bước sóng
+   Vi ba · Sóng ngắn · Sóng trung · Sóng dài
+
+   Bài viết này vẫn còn sơ khai. Bạn có thể giúp Wikipedia mở rộng nội
+   dung để bài được hoàn chỉnh hơn.
+
+     * x
+     * t
+     * s
+
+     * x
+     * t
+     * s
+
+   Chủ đề màu sắc
+
+     * Đỏ
+     * Cam
+     * Vàng
+     * Lục
+     * Xanh lơ
+     * Xanh dương
+     * Chàm
+     * Tím
+     * Tía
+     * Hồng tím
+     * Hồng
+     * Nâu
+     * Trắng
+     * Xám
+     * Đen
+
+   Khoa học
+   màu sắc
+
+   Vật lý
+   màu sắc
+     * Phổ điện từ
+          + Ánh sáng
+          + Cầu vồng
+          + Nhìn thấy được
+     * Màu quang phổ
+     * Nhóm mang màu
+          + Nhuộm màu kết cấu
+          + Màu sắc động vật
+     * Ueber das Sehn und die Farben
+     * Cùng màu khác phổ
+          + Phân bố công suất quang phổ
+
+   Cảm
+   nhận
+   màu
+     * Thị giác màu
+          + Rối loạn sắc giác
+               o Achromatopsia
+          + Thử ngiệm Ishihara
+     * Thị giác bốn màu
+          + Tính bất biến màu
+          + Thuật ngữ màu
+     * Độ sâu màu
+          + Nhiếp ảnh màu
+          + Màu đơn ấn loát
+          + In màu
+          + Màu web
+          + Ánh xạ màu
+          + Mã màu
+          + Quản lý màu
+          + Thành phần màu
+          + Màu giả
+     * Phủ tách màu
+     * Cân bằng màu
+     * Thiên lệch màu
+     * Nhiệt độ màu
+     * Eigengrau
+     * Chiếc váy
+
+   Tâm lý học
+   màu sắc
+     * Chủ nghĩa tượng trưng màu sắc
+     * Thiên vị màu
+     * Thử nghiệm màu Lüscher
+     * Đường cong Kruithof
+     * Màu sắc chính trị
+     * Màu đại diện quốc gia
+     * Chứng sợ màu
+     * Liệu pháp màu
+
+   [250px-RGB_color_wheel.svg.png]
+   [250px-Colouring_pencils.jpg]
+
+   Triết học
+   màu sắc
+
+   Không gian
+   màu
+     * Mô hình màu
+          + Phát xạ
+          + Hấp thụ
+     * Phối hợp màu
+          + Màu cơ bản
+          + Màu thứ cấp
+          + Màu tam cấp
+          + Màu tứ cấp
+          + Màu ngũ cấp
+          + Màu nóng (ấm)
+          + Màu lạnh (mát)
+     * Màu phấn tiên
+     * Tiệm biến màu
+
+         Phối màu
+     * Công cụ màu
+          + Màu đơn sắc
+          + Màu phụ
+          + Màu tương tự
+          + Màu không sắc
+          + Màu đa sắc
+     * Màu không thể có
+     * Phối màu sáng nền tối
+     * Sắc thái trong huy hiệu học
+
+   Lý thuyết
+   màu
+     * Biểu đồ độ màu
+     * Lập thể màu
+     * Vòng màu
+     * Tam giác màu
+     * Phân tích
+       màu
+     * Chủ nghĩa hiện thực màu
+
+   Thuật ngữ
+   màu sắc
+
+   Thuật ngữ
+   cơ bản
+     * Xanh dương
+     * Xanh lá cây
+     * Đỏ
+     * Vàng
+     * Hồng
+     * Tía
+     * Da cam
+     * Đen
+     * Xám
+     * Trắng
+     * Nâu
+
+   Khác biệt
+   văn hóa
+     * Linguistic relativity and the color naming debate
+          + Blue–green distinction in language
+     * Lịch sử màu sắc
+          + Color in Chinese culture
+          + Traditional colors of Japan
+          + Màu da
+
+   Các chiều
+   màu
+     * Hue
+          + Dichromatism
+     * Colorfulness (chroma and saturation)
+     * Tints and shades
+     * Lightness (tone and value)
+     * Grayscale
+
+   Tổ chức
+   màu
+
+     * Pantone
+     * Color Marketing Group
+     * The Color Association of the United States
+     * International Colour Authority
+     * Ủy ban Quốc tế về Chiếu sáng (CIE)
+     * International Color Consortium
+     * International Colour Association
+
+   Danh sách
+
+     * List of colors: A–F
+     * List of colors: G–M
+     * List of colors: N–Z
+     * Danh sách màu
+     * List of colors by shade
+     * List of color palettes
+     * List of color spaces
+     * List of Crayola crayon colors
+          + history
+     * Color chart
+     * List of fictional colors
+     * List of RAL colors
+     * List of web colors
+
+   Liên quan
+
+     * Thị giác
+     * Xử lý hình ảnh
+     * Multi-primary color display
+          + Quattron
+     * Qualia
+     * Chiếu sáng
+     * Local color (visual art)
+
+     * Thể loại Thể loại
+     * Index of color-related articles
+
+   Lấy từ
+   “https://vi.wikipedia.org/w/index.php?title=Xanh_lá_cây&oldid=71756080”
+
+   Thể loại:
+     * Màu sắc
+     * Quang phổ
+     * Nhãn hiệu kem
+     * Màu web
+
+   Thể loại ẩn:
+     * Tất cả bài viết sơ khai
+     * Sơ khai
+
+     * Trang này được sửa đổi lần cuối vào ngày 14 tháng 9 năm 2024,
+       22:14.
+     * Văn bản được phát hành theo Giấy phép Creative Commons Ghi
+       công–Chia sẻ tương tự; có thể áp dụng điều khoản bổ sung. Với việc
+       sử dụng trang web này, bạn chấp nhận Điều khoản Sử dụng và Quy định
+       quyền riêng tư. Wikipedia® là thương hiệu đã đăng ký của Wikimedia
+       Foundation, Inc., một tổ chức phi lợi nhuận.
+
+     * Chính sách quyền riêng tư
+     * Giới thiệu Wikipedia
+     * Lời phủ nhận
+     * Bộ Quy tắc Ứng xử Chung
+     * Lập trình viên
+     * Thống kê
+     * Tuyên bố về cookie
+     * Phiên bản di động
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Tìm kiếm
+   ____________________
+   (BUTTON) Tìm kiếm
+
+   [ ] Đóng mở mục lục
+   Xanh lá cây
+   (BUTTON) 173 ngôn ngữ Thêm đề tài

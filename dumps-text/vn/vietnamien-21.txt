@@ -1,0 +1,374 @@
+   #alternate publisher
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KMGZZZ
+
+   (BUTTON)
+   VietNamNet
+     * Podcast
+     * Tuần Việt Nam
+     * Vietnamnet premium
+     * Vietnamnet global
+     *
+
+   (BUTTON)
+   ____________________ (BUTTON) [icon-search.svg]
+
+     *
+     * Chính trị
+          + Sự kiện
+          + Xây dựng đảng
+          + Đối ngoại
+          + Bàn luận
+          + Kỷ nguyên mới của dân tộc
+          + Quốc phòng
+          + Quốc hội
+          + Nghị quyết 57
+     * Thời sự
+          + Dân sinh
+          + Giao thông
+          + Tin nóng
+          + Đô thị
+     * Kinh doanh
+          + Net Zero
+          + Tài chính
+          + Đầu tư
+          + Thị trường
+          + Doanh nhân
+          + Tư vấn tài chính
+     * Dân tộc và Tôn giáo
+          + Tin tức
+          + Sắc màu Việt Nam
+          + Chính sách phát triển
+          + Nhân vật
+          + Đời sống tôn giáo
+          + Tư vấn
+     * Giáo dục
+          + Nhà trường
+          + Chân dung
+          + Góc phụ huynh
+          + Tuyển sinh
+          + Du học
+          + Học Tiếng Anh
+          + Trắc nghiệm
+          + Khoa học
+          + AI CONTEST
+          + Điểm thi THPT
+          + Điểm chuẩn CĐ-ĐH
+     * Thế giới
+          + Bình luận quốc tế
+          + Chân dung
+          + Hồ sơ
+          + Thế giới đó đây
+          + Việt Nam và thế giới
+          + Quân sự
+     * Thể thao
+          + Bóng đá Việt Nam
+          + Bóng đá quốc tế
+          + Tin chuyển nhượng
+          + Tường thuật trực tiếp
+          + Video thể thao
+          + Dữ liệu bóng đá
+          + Hậu trường
+          + Các môn khác
+     * Văn hóa - Giải trí
+          + Thế giới sao
+          + Nhạc
+          + Phim - Truyền hình
+          + Sách
+          + Mỹ thuật - Sân khấu
+          + Di sản
+     * Đời sống
+          + Gia đình
+          + Chuyện lạ
+          + Ẩm thực
+          + Giới trẻ
+          + Mẹo vặt
+          + Tâm sự
+     * Tuần Việt Nam
+     * Sức khỏe
+          + Tin tức
+          + Làm đẹp
+          + Tư vấn sức khỏe
+          + Đàn ông
+          + Các loại bệnh
+     * Công nghệ
+          + Thị trường
+          + Chuyển đổi số
+          + Hạ tầng số
+          + An ninh mạng
+          + Sản phẩm
+          + AI
+     * Pháp luật
+          + Hồ sơ vụ án
+          + Tư vấn pháp luật
+          + Ký sự pháp đình
+     * Xe
+          + Xe mới
+          + Khám phá
+          + Sau tay lái
+          + Diễn đàn
+          + Tư vấn
+          + Đánh giá xe
+          + Giá xe
+          + Dữ liệu xe
+     * Bất động sản
+          + Dự án
+          + Nội thất
+          + Tư vấn
+          + Thị trường
+          + Nhà đẹp
+          + Cơ hội an cư
+     * Du lịch
+          + Chuyện của những dòng sông
+          + Đi đâu chơi đi
+          + Ăn Ăn Uống Uống
+          + Ngủ Ngủ Nghỉ Nghỉ
+     * Bạn đọc
+          + Hồi âm
+          + Chia sẻ
+          + Thơ
+          + Ngày mai tươi sáng
+     *
+
+   [icon_button_next-01.svg] [icon_button_next-01.svg]
+   (BUTTON) VietNamNet
+   ____________________ (BUTTON) search icon
+   ____________________ (BUTTON) search.png
+     *
+     * Chính trị
+     * Thời sự
+     * Kinh doanh
+     * Dân tộc và Tôn giáo
+     * Thể thao
+     * Giáo dục
+     * Thế giới
+     * Đời sống
+     * Văn hóa - Giải trí
+     * Sức khỏe
+     * Công nghệ
+     * Pháp luật
+     * Ô tô xe máy
+     * Du lịch
+     * Bất động sản
+     * Bạn đọc
+     * Tuần Việt Nam
+     * logo htvn
+     * Toàn văn
+     * Công nghiệp hỗ trợ
+     * Bảo vệ người tiêu dùng
+     * Thị trường tiêu dùng
+     * Giảm nghèo bền vững
+     * Nông thôn mới
+     * Dân tộc thiểu số và miền núi
+     * Nội dung chuyên đề
+     * English
+     * Talks
+     * Đính chính
+     * Hồ sơ
+     * Ảnh
+     * Video
+     * Multimedia
+     * Podcast
+     * 24h qua
+     * Lịch vạn niên
+
+     * Tuyến bài
+     * Sự kiện
+
+     * Cơ quan chủ quản: Bộ Dân tộc và Tôn giáo
+     * Số giấy phép: 146/GP-BVHTTDL, cấp ngày 17/10/2025
+     * Tổng biên tập: Nguyễn Văn Bá
+
+     * Liên hệ tòa soạn
+
+     * Địa chỉ: Tầng 18, Toà nhà Cục Viễn thông (VNTA), 68 Dương Đình
+       Nghệ, phường Cầu Giấy, TP. Hà Nội.
+     * Điện thoại: 02439369898 - Hotline: 0923457788
+     * Email: vietnamnet@vietnamnet.vn
+     * © 1997 Báo VietNamNet. All rights reserved.
+     * Chỉ được phát hành lại thông tin từ website này khi có sự đồng ý
+       bằng văn bản của báo VietNamNet.
+
+     * Liên hệ quảng cáo
+
+     * Công ty Cổ phần Truyền thông VietNamNet
+     * Hotline: 0919 405 885 (Hà Nội) - 0919 435 885 (Tp.HCM)
+     * Email: contact@vietnamnet.vn
+     * Báo giá: http://vads.vn
+     * Hỗ trợ kỹ thuật: support@tech.vietnamnet.vn
+
+     * Tải ứng dụng
+     * Độc giả gửi bài
+     * Tuyển dụng
+
+     * Talks
+     * Hồ sơ
+     * Ảnh
+     * Video
+     * Multimedia
+     * Podcast
+     * 24h qua
+
+     * Tuyến bài
+     * Sự kiện nóng
+
+     * Liên hệ tòa soạn
+     * Liên hệ quảng cáo
+
+     * download app
+     * Độc giả gửi bài
+     * Tuyển dụng
+     * Lịch vạn niên
+
+   (BUTTON)
+   (BUTTON) icon
+   (BUTTON) (BUTTON) (BUTTON) Aa
+   (BUTTON) share facebook Facebook (BUTTON) share zalo
+   Zalo (BUTTON) share email Email (BUTTON) Sao chép liên kết
+   Aa Aa
+   (BUTTON) VietNamNet
+     * icon
+     * Công nghệ
+          + Chính trị
+          + Thời sự
+          + Kinh doanh
+          + Dân tộc và Tôn giáo
+          + Giáo dục
+          + Thế giới
+          + Thể thao
+          + Văn hóa - Giải trí
+          + Đời sống
+          + Sức khỏe
+          + Công nghệ
+          + Pháp luật
+          + Xe
+          + Bất động sản
+          + Du lịch
+          + Bạn đọc
+
+   Chủ Nhật, 12/09/2021 - 14:00
+
+Ứng dụng công nghệ gộp đưa Bến Tre về trạng thái ‘bình thường mới’
+
+   Sao chép liên kết
+   12/09/2021   14:00 (GMT+07:00)
+   icon
+
+   Từ 0h00 ngày 10/9/2021, 7/9 huyện, thành phố tỉnh Bến Tre bắt đầu trạng
+   thái “bình thường mới” theo Chỉ thị 15 với “Giấy thông hành” là QR code
+   xét nghiệm âm tính mẫu gộp và mẫu đại diện nhóm cư dân, hộ gia đình.
+   {keywords}
+
+   Đến 10/9/2021, trên toàn bộ tỉnh Bến Tre đã thực hiện xét nghiệm đồng
+   loạt qua nhiều vòng, cách nhau mỗi 72h cho 273.636 mẫu đại diện cho
+   1.094.544 nhân khẩu trên toàn tỉnh với ghi nhận 7 “vùng xanh an toàn”.
+   Hàng triệu người dân bắt đầu giai đoạn bình thường mới với ứng dụng
+   giải pháp công nghệ không tốn kém, trong khi chưa có đủ vắc xin.
+   {keywords}
+
+   Hơn 142 phường, xã tại tỉnh Bến Tre đã trở thành những “Pháo đài xanh”.
+   Chiến dịch “những pháo đài xanh” hiện đang hỗ trợ các doanh nghiệp trở
+   lại sản xuất an toàn tại 2 khu công nghiệp lớn Giao Long, An Hiệp và
+   gần 2.000 hộ sản xuất kinh doanh cá thể trên địa bàn huyện Châu Thành.
+   {keywords}
+
+   Trước đó, tại TP.Bến Tre cũng đã triển khai chiến dịch “Những pháo đài
+   xanh” với sự hỗ trợ của đoàn công tác Cục Công nghệ thông tin (CNTT) Bộ
+   Y tế và sự đồng hành của Tập đoàn Sovico, nhằm xây dựng những "pháo đài
+   xanh" giúp kiểm soát dịch bệnh, sớm đưa sản xuất, dịch vụ và đời sống
+   người dân trở lại trạng thái bình thường mới. Chương trình ứng dụng
+   công nghệ tổ chức xét nghiệm, theo dõi kết quả. Mỗi tổ chức, doanh
+   nghiệp, hộ gia đình, cá nhân có chứng nhận kết quả "Xét nghiệm Covid-19
+   âm tính" sẽ có QR code xác thực. QR code này sử dụng như "giấy thông
+   hành" để di chuyển, vận tải hàng hóa, tham gia hoạt động sản xuất kinh
+   doanh, dịch vụ thiết yếu theo quy định.
+   {keywords}
+
+   Đến nay các chợ đầu mối, chợ dân sinh, các doanh nghiệp sản xuất, dịch
+   vụ, giao thông vận tải... trên địa bàn TP. Bến Tre đã hoạt động trở lại
+   trong trạng thái bình thường mới.
+   {keywords}
+
+   Xuân Thạch
+   (BUTTON) Bình luận [chat(1).svg]
+   Sao chép liên kết
+     * Xem thêm về:
+     * QR Code
+     * Covid-19 Bến Tre
+
+Tin nổi bật
+
+     * Chính trị
+     * Thời sự
+     * Kinh doanh
+     * Dân tộc và Tôn giáo
+     * Thể thao
+     * Giáo dục
+     * Thế giới
+     * Đời sống
+     * Văn hóa - Giải trí
+     * Sức khỏe
+     * Công nghệ
+     * Pháp luật
+     * Ô tô xe máy
+     * Du lịch
+     * Bất động sản
+     * Bạn đọc
+     * Tuần Việt Nam
+     * logo htvn
+     * Toàn văn
+     * Công nghiệp hỗ trợ
+     * Bảo vệ người tiêu dùng
+     * Thị trường tiêu dùng
+     * Giảm nghèo bền vững
+     * Nông thôn mới
+     * Dân tộc thiểu số và miền núi
+     * Nội dung chuyên đề
+     * English
+     * Talks
+     * Hồ sơ
+     * Vietnamnet Premium
+     * Ảnh
+     * Video
+     * Multimedia
+     * Podcast
+     * 24h qua
+
+     * Tuyến bài
+     * Sự kiện
+
+   VietNamNet
+     * Cơ quan chủ quản: Bộ Dân Tộc và Tôn Giáo
+     * Số giấy phép: 146/GP-BVHTTDL, cấp ngày 17/10/2025
+     * Tổng biên tập: Nguyễn Văn Bá
+     * Liên hệ tòa soạn
+     * Địa chỉ: Tầng 18, Toà nhà Cục Viễn thông (VNTA), 68 Dương Đình
+       Nghệ, phường Cầu Giấy, TP. Hà Nội.
+     * Điện thoại: 02439369898 - Hotline: 0923457788
+     * Email: vietnamnet@vietnamnet.vn
+     * © 1997 Báo VietNamNet. All rights reserved. Chỉ được phát hành lại
+       thông tin từ website này khi có sự đồng ý bằng văn bản của báo
+       VietNamNet.
+
+     * Liên hệ quảng cáo
+     * Công ty Cổ phần Truyền thông VietNamNet
+     * Hotline: 0919405885 (Hà Nội) - 0919435885 (Tp.HCM)
+     * Email: contact@vietnamnet.vn
+     * Báo giá: http://vads.vn
+     * Hỗ trợ kỹ thuật: support@tech.vietnamnet.vn
+
+     * Theo dõi VietNamNet trên
+
+     * VietNamNet Facebook
+     * VietNamNet Youtube
+     * VietNamNet Tiktok
+     * VietNamNet twiter
+     * VietNamNet Zalo
+
+   Tải ứng dụng Độc giả gửi bài Tuyển dụng
+
+   back_to_top
+
+   IFRAME: https://newsbox.mic.gov.vn/headlines/vnn/
+
+   [detail?id=774215&w=000003]

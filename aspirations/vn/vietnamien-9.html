@@ -1,0 +1,897 @@
+<!DOCTYPE html>
+<html lang="vi" prefix="og: https://ogp.me/ns#" class="loading-site no-js">
+<head><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>class RocketLazyLoadScripts{constructor(e){this.triggerEvents=e,this.eventOptions={passive:!0},this.userEventListener=this.triggerListener.bind(this),this.delayedScripts={normal:[],async:[],defer:[]},this.allJQueries=[]}_addUserInteractionListener(e){this.triggerEvents.forEach((t=>window.addEventListener(t,e.userEventListener,e.eventOptions)))}_removeUserInteractionListener(e){this.triggerEvents.forEach((t=>window.removeEventListener(t,e.userEventListener,e.eventOptions)))}triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}async _loadEverythingNow(){this._delayEventListeners(),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async),await this._triggerDOMContentLoaded(),await this._triggerWindowLoad(),window.dispatchEvent(new Event("rocket-allScriptsLoaded"))}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((e=>{e.hasAttribute("src")?e.hasAttribute("async")&&!1!==e.async?this.delayedScripts.async.push(e):e.hasAttribute("defer")&&!1!==e.defer||"module"===e.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(e):this.delayedScripts.normal.push(e):this.delayedScripts.normal.push(e)}))}async _transformScript(e){return await this._requestAnimFrame(),new Promise((t=>{const n=document.createElement("script");let r;[...e.attributes].forEach((e=>{let t=e.nodeName;"type"!==t&&("data-rocket-type"===t&&(t="type",r=e.nodeValue),n.setAttribute(t,e.nodeValue))})),e.hasAttribute("src")?(n.addEventListener("load",t),n.addEventListener("error",t)):(n.text=e.text,t()),e.parentNode.replaceChild(n,e)}))}async _loadScriptsFromList(e){const t=e.shift();return t?(await this._transformScript(t),this._loadScriptsFromList(e)):Promise.resolve()}_preloadAllScripts(){var e=document.createDocumentFragment();[...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async].forEach((t=>{const n=t.getAttribute("src");if(n){const t=document.createElement("link");t.href=n,t.rel="preload",t.as="script",e.appendChild(t)}})),document.head.appendChild(e)}_delayEventListeners(){let e={};function t(t,n){!function(t){function n(n){return e[t].eventsToRewrite.indexOf(n)>=0?"rocket-"+n:n}e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},eventsToRewrite:[]},t.addEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(n)}function n(e,t){let n=e[t];Object.defineProperty(e,t,{get:()=>n||function(){},set(r){e["rocket"+t]=n=r}})}t(document,"DOMContentLoaded"),t(window,"DOMContentLoaded"),t(window,"load"),t(window,"pageshow"),t(document,"readystatechange"),n(document,"onreadystatechange"),n(window,"onload"),n(window,"onpageshow")}_delayJQueryReady(e){let t=window.jQuery;Object.defineProperty(window,"jQuery",{get:()=>t,set(n){if(n&&n.fn&&!e.allJQueries.includes(n)){n.fn.ready=n.fn.init.prototype.ready=function(t){e.domReadyFired?t.bind(document)(n):document.addEventListener("rocket-DOMContentLoaded",(()=>t.bind(document)(n)))};const t=n.fn.on;n.fn.on=n.fn.init.prototype.on=function(){if(this[0]===window){function e(e){return e.split(" ").map((e=>"load"===e||0===e.indexOf("load.")?"rocket-jquery-load":e)).join(" ")}"string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=e(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{delete Object.assign(arguments[0],{[e(t)]:arguments[0][t]})[t]}))}return t.apply(this,arguments),this},e.allJQueries.push(n)}t=n}})}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._requestAnimFrame(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._requestAnimFrame(),window.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._requestAnimFrame(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._requestAnimFrame(),document.rocketonreadystatechange&&document.rocketonreadystatechange()}async _triggerWindowLoad(){await this._requestAnimFrame(),window.dispatchEvent(new Event("rocket-load")),await this._requestAnimFrame(),window.rocketonload&&window.rocketonload(),await this._requestAnimFrame(),this.allJQueries.forEach((e=>e(window).trigger("rocket-jquery-load"))),window.dispatchEvent(new Event("rocket-pageshow")),await this._requestAnimFrame(),window.rocketonpageshow&&window.rocketonpageshow()}_handleDocumentWrite(){const e=new Map;document.write=document.writeln=function(t){const n=document.currentScript,r=document.createRange(),i=n.parentElement;let o=e.get(n);void 0===o&&(o=n.nextSibling,e.set(n,o));const a=document.createDocumentFragment();r.setStart(a,0),a.appendChild(r.createContextualFragment(t)),i.insertBefore(a,o)}}async _requestAnimFrame(){return new Promise((e=>requestAnimationFrame(e)))}static run(){const e=new RocketLazyLoadScripts(["keydown","mousemove","touchmove","touchstart","touchend","wheel"]);e._addUserInteractionListener(e)}}RocketLazyLoadScripts.run();
+</script>
+	<meta charset="UTF-8" />
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="https://xanhvietnam.vn/xmlrpc.php" />
+
+	<script type="rocketlazyloadscript">(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+            <script type="rocketlazyloadscript" data-cfasync="false">
+                window._EPYT_ = window._EPYT_ || {
+                    ajaxurl: "https://xanhvietnam.vn/wp-admin/admin-ajax.php",
+                    security: "cb75cd5bc1",
+                    gallery_scrolloffset: 20,
+                    eppathtoscripts: "https://xanhvietnam.vn/wp-content/plugins/youtube-embed-plus/scripts/",
+                    eppath: "https://xanhvietnam.vn/wp-content/plugins/youtube-embed-plus/",
+                    epresponsiveselector: ["iframe.__youtube_prefs_widget__"],
+                    version: "14.2.3",
+                    epdovol: true,
+                    evselector: 'iframe.__youtube_prefs__[src]',
+                    ajax_compat: true,
+                    maxres_facade: 'eager',
+                    ytapi_load: 'light',
+                    pause_others: false,
+                    facade_mode: false,
+                    not_live_on_channel: false,
+                    stopMobileBuffer: true                };</script>
+            	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel="preload" href="https://xanhvietnam.vn/wp-content/plugins/rate-my-post/public/css/fonts/ratemypost.ttf" type="font/ttf" as="font" crossorigin="anonymous"><meta name="viewport" content="width=device-width, initial-scale=1" />
+<!-- Tối ưu hóa công cụ tìm kiếm bởi Rank Math PRO - https://rankmath.com/ -->
+<title>XANH VIỆT NAM - Công ty cổ phần phát triển khoa học công nghệ Xanh Việt Nam</title><style id="rocket-critical-css">.menu-item i._mi{display:inline-block;vertical-align:middle}.menu-item i._mi{width:auto;height:auto;margin-top:-.265em;font-size:1.2em;line-height:1}.menu-item i._before{margin-right:.25em}.wpcf7 .screen-reader-response{position:absolute;overflow:hidden;clip:rect(1px,1px,1px,1px);clip-path:inset(50%);height:1px;width:1px;margin:-1px;padding:0;border:0;word-wrap:normal!important}.wpcf7 .hidden-fields-container{display:none}.wpcf7 form .wpcf7-response-output{margin:2em 0.5em 1em;padding:0.2em 1em;border:2px solid #00a0d2}.wpcf7 form.init .wpcf7-response-output{display:none}.wpcf7-form-control-wrap{position:relative}@keyframes spin{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}.wpcf7 input[type="email"],.wpcf7 input[type="tel"]{direction:ltr}html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;font-family:sans-serif}body{margin:0}header,main,section{display:block}a{background-color:transparent}b,strong{font-weight:inherit;font-weight:bolder}img{border-style:none}svg:not(:root){overflow:hidden}button,input,select,textarea{font:inherit}button,input,select{overflow:visible}button,select{text-transform:none}[type=submit],button{-webkit-appearance:button}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}button:-moz-focusring,input:-moz-focusring{outline:1px dotted ButtonText}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}textarea{overflow:auto}[type=checkbox]{box-sizing:border-box;padding:0}[type=search]{-webkit-appearance:textfield}[type=search]::-webkit-search-cancel-button,[type=search]::-webkit-search-decoration{-webkit-appearance:none}*,:after,:before,html{box-sizing:border-box}html{background-attachment:fixed}body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;color:#777}img{display:inline-block;height:auto;max-width:100%;vertical-align:middle}p:empty{display:none}a,button,input{touch-action:manipulation}iframe{max-width:100%}.col{margin:0;padding:0 15px 30px;position:relative;width:100%}.col-inner{background-position:50% 50%;background-repeat:no-repeat;background-size:cover;flex:1 0 auto;margin-left:auto;margin-right:auto;position:relative;width:100%}@media screen and (min-width:850px){.col:first-child .col-inner{margin-left:auto;margin-right:0}.col+.col .col-inner{margin-left:0;margin-right:auto}}@media screen and (max-width:849px){.col{padding-bottom:30px}}.small-12,.small-columns-1>.col{flex-basis:100%;max-width:100%}@media screen and (min-width:550px){.medium-columns-3>.col{flex-basis:33.3333333333%;max-width:33.3333333333%}}@media screen and (min-width:850px){.large-12{flex-basis:100%;max-width:100%}.large-columns-3>.col{flex-basis:33.3333333333%;max-width:33.3333333333%}}.container,.row{margin-left:auto;margin-right:auto;width:100%}.container{padding-left:15px;padding-right:15px}.container,.row{max-width:1080px}.flex-row{align-items:center;display:flex;flex-flow:row nowrap;justify-content:space-between;width:100%}.flex-row-col{display:flex;flex-direction:column;justify-content:flex-start}.header .flex-row{height:100%}.flex-col{max-height:100%}.flex-grow{-ms-flex-negative:1;-ms-flex-preferred-size:auto!important;flex:1}.flex-center{margin:0 auto}.flex-left{margin-right:auto}.flex-right{margin-left:auto}@media (-ms-high-contrast:none){.nav>li>a>i{top:-1px}}.row{display:flex;flex-flow:row wrap;width:100%}.section{align-items:center;display:flex;flex-flow:row;min-height:auto;padding:30px 0;position:relative;width:100%}.section-bg{overflow:hidden}.section-bg,.section-content{width:100%}.section-content{z-index:1}.nav p{margin:0;padding-bottom:0}.nav,.nav ul:not(.nav-dropdown){margin:0;padding:0}.nav{align-items:center;display:flex;flex-flow:row wrap;width:100%}.nav,.nav>li{position:relative}.nav>li{display:inline-block;list-style:none;margin:0 7px;padding:0}.nav>li>a{align-items:center;display:inline-flex;flex-wrap:wrap;padding:10px 0}.nav-small.nav>li.html{font-size:.75em}.nav-center{justify-content:center}.nav-left{justify-content:flex-start}.nav-right{justify-content:flex-end}@media (max-width:849px){.medium-nav-center{justify-content:center}}.nav>li>a{color:hsla(0,0%,40%,.85)}.nav>li.active>a{color:hsla(0,0%,7%,.85)}.nav li:first-child{margin-left:0!important}.nav li:last-child{margin-right:0!important}.nav-uppercase>li>a{font-weight:bolder;letter-spacing:.02em;text-transform:uppercase}@media (min-width:850px){.nav-divided>li{margin:0 .7em}}li.html form,li.html input,li.html select{margin:0}.nav.nav-vertical{flex-flow:column}.nav.nav-vertical li{list-style:none;margin:0;width:100%}.nav-vertical>li{align-items:center;display:flex;flex-flow:row wrap}.nav-vertical>li>a{align-items:center;display:flex;flex-grow:1;width:auto}.nav-vertical>li.html{padding-bottom:1em;padding-top:1em}.nav-sidebar.nav-vertical>li+li{border-top:1px solid #ececec}.nav-vertical>li+li{border-top:1px solid #ececec}.badge{backface-visibility:hidden;display:table;height:2.8em;width:2.8em;z-index:20}.badge.top{left:0}.badge-inner{background-color:var(--fs-color-primary);color:#fff;display:table-cell;font-weight:bolder;height:100%;line-height:.85;padding:2px;text-align:center;vertical-align:middle;white-space:nowrap;width:100%}.badge-outline .badge-inner{background-color:#fff;border:2px solid;color:var(--fs-color-primary)}.badge-outline{margin-left:-.4em}.box{margin:0 auto;position:relative;width:100%}.box-image{height:auto;margin:0 auto;overflow:hidden;position:relative}.box-image img{margin:0 auto;max-width:100%;width:100%}.button,button,input[type=submit]{background-color:transparent;border:1px solid transparent;border-radius:0;box-sizing:border-box;color:currentColor;display:inline-block;font-size:.97em;font-weight:bolder;letter-spacing:.03em;line-height:2.4em;margin-right:1em;margin-top:0;max-width:100%;min-height:2.5em;padding:0 1.2em;position:relative;text-align:center;text-decoration:none;text-rendering:optimizeLegibility;text-shadow:none;text-transform:uppercase;vertical-align:middle}.button.is-outline{line-height:2.19em}.button,input[type=submit]{background-color:var(--fs-color-primary);border-color:rgba(0,0,0,.05);color:#fff}.button.is-outline{background-color:transparent;border:2px solid}.is-outline{color:silver}.primary,input[type=submit]{background-color:var(--fs-color-primary)}.secondary{background-color:var(--fs-color-secondary)}.text-center .button:first-of-type{margin-left:0!important}.text-center .button:last-of-type{margin-right:0!important}.header-button{display:inline-block}.header-button .button{margin:0}.flex-col .button,.flex-col button,.flex-col input{margin-bottom:0}.is-divider{background-color:rgba(0,0,0,.1);display:block;height:3px;margin:1em 0;max-width:30px;width:100%}form{margin-bottom:0}input[type=email],input[type=password],input[type=search],input[type=tel],input[type=text],select,textarea{background-color:#fff;border:1px solid #ddd;border-radius:0;box-shadow:inset 0 1px 2px rgba(0,0,0,.1);box-sizing:border-box;color:#333;font-size:.97em;height:2.507em;max-width:100%;padding:0 .75em;vertical-align:middle;width:100%}@media (max-width:849px){input[type=email],input[type=password],input[type=search],input[type=tel],input[type=text],select,textarea{font-size:1rem}}input[type=email],input[type=search],input[type=tel],input[type=text],textarea{-webkit-appearance:none;-moz-appearance:none;appearance:none}textarea{min-height:120px;padding-top:.7em}label{display:block;font-size:.9em;font-weight:700;margin-bottom:.4em}fieldset{border-width:0;padding:0}input[type=checkbox]{display:inline;font-size:16px;margin-right:10px}select{-webkit-appearance:none;-moz-appearance:none;background-color:#fff;background-image:url("data:image/svg+xml;charset=utf8, %3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%23333' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-chevron-down'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");background-position:right .45em top 50%;background-repeat:no-repeat;background-size:auto 16px;border-radius:0;box-shadow:inset 0 -1.4em 1em 0 rgba(0,0,0,.02);display:block;padding-right:1.4em}select.resize-select{width:55px}@media (-ms-high-contrast:none),screen and (-ms-high-contrast:active){select::-ms-expand{display:none}}i[class^=icon-]{speak:none!important;display:inline-block;font-display:block;font-family:fl-icons!important;font-style:normal!important;font-variant:normal!important;font-weight:400!important;line-height:1.2;margin:0;padding:0;position:relative;text-transform:none!important}.button i,button i{top:-1.5px;vertical-align:middle}.button.icon{display:inline-block;margin-left:.12em;margin-right:.12em;min-width:2.5em;padding-left:.6em;padding-right:.6em}.button.icon i{font-size:1.2em}.button.icon.is-small{border-width:1px}.button.icon.is-small i{top:-1px}.button.icon.circle,.button.icon.round{padding-left:0;padding-right:0}.button.icon.circle>i,.button.icon.round>i{margin:0 8px}.button.icon.circle>i:only-child,.button.icon.round>i:only-child{margin:0}.nav>li>a>i{font-size:20px;vertical-align:middle}.nav>li>a>i+span{margin-left:5px}.nav>li>a>i.icon-menu{font-size:1.9em}.nav>li.has-icon>a>i{min-width:1em}.nav-vertical>li>a>i{font-size:16px;opacity:.6}[data-icon-label]{position:relative}[data-icon-label="0"]:after{display:none}[data-icon-label]:after{background-color:var(--fs-color-secondary);border-radius:99px;box-shadow:1px 1px 3px 0 rgba(0,0,0,.3);color:#fff;content:attr(data-icon-label);font-family:Arial,Sans-serif!important;font-size:11px;font-style:normal;font-weight:bolder;height:17px;letter-spacing:-.5px;line-height:17px;min-width:17px;opacity:.9;padding-left:2px;padding-right:2px;position:absolute;right:-10px;text-align:center;top:-10px;z-index:1}.button [data-icon-label]:after{right:-12px;top:-12px}img{opacity:1}.img,.img .img-inner{position:relative}.img .img-inner{overflow:hidden}.img,.img img{width:100%}.image-cover{background-position:50% 50%;background-size:cover;height:auto;overflow:hidden;padding-top:100%;position:relative}.image-cover img{bottom:0;font-family:"object-fit:cover;";height:100%;left:0;-o-object-fit:cover;object-fit:cover;-o-object-position:50% 50%;object-position:50% 50%;position:absolute;right:0;top:0;width:100%}.lightbox-content{background-color:#fff;box-shadow:3px 3px 20px 0 rgba(0,0,0,.15);margin:0 auto;max-width:875px;position:relative}.lightbox-content .lightbox-inner{padding:30px 20px}.mfp-hide{display:none!important}.loading-spin{position:relative}.loading-spin{animation:spin .6s linear infinite;border-bottom:3px solid rgba(0,0,0,.1)!important;border-left:3px solid var(--fs-color-primary);border-radius:50%;border-right:3px solid rgba(0,0,0,.1)!important;border-top:3px solid rgba(0,0,0,.1)!important;content:"";font-size:10px;height:30px;margin:0 auto;opacity:.8;text-indent:-9999em;width:30px}.dark.loading-spin{border:3px solid rgba(0,0,0,.1)!important;border-left-color:#fff!important}.loading-spin.centered{left:50%;margin-left:-15px;margin-top:-15px;position:absolute;top:50%;z-index:99}.loading-spin{border-radius:50%;height:30px;width:30px}@keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}label{color:#222}.slider-wrapper{position:relative}.slider-wrapper:last-child,.slider>.img{margin-bottom:0}.row-slider,.slider{position:relative;scrollbar-width:none}.slider:not(.flickity-enabled){-ms-overflow-style:-ms-autohiding-scrollbar;overflow-x:scroll;overflow-y:hidden;white-space:nowrap;width:auto}.row-slider::-webkit-scrollbar,.slider::-webkit-scrollbar{height:0!important;width:0!important}.row.row-slider:not(.flickity-enabled){display:block}.slider:not(.flickity-enabled)>*{display:inline-block!important;vertical-align:top;white-space:normal!important}.slider>div:not(.col){width:100%}.slider-nav-reveal{overflow:hidden;padding-top:0}a{color:var(--fs-experimental-link-color);text-decoration:none}a.plain{color:currentColor}ul{list-style:disc}ul{margin-top:0;padding:0}ul ul{margin:1.5em 0 1.5em 3em}li{margin-bottom:.6em}.button,button,fieldset,input,select,textarea{margin-bottom:1em}form,p,ul{margin-bottom:1.3em}form p{margin-bottom:.5em}body{line-height:1.6}h1,h3{color:#555;margin-bottom:.5em;margin-top:0;text-rendering:optimizeSpeed;width:100%}h1{font-size:1.7em}h1{line-height:1.3}h3{font-size:1.25em}@media (max-width:549px){h1{font-size:1.4em}h3{font-size:1em}}p{margin-top:0}h1>span{-webkit-box-decoration-break:clone;box-decoration-break:clone}.uppercase{letter-spacing:.05em;line-height:1.05;text-transform:uppercase}.is-normal{font-weight:400}.uppercase{line-height:1.2;text-transform:uppercase}.is-small,.is-small.button{font-size:.8em}.is-xsmall{font-size:.7em}.nav>li>a{font-size:.8em}.nav>li.html{font-size:.85em}[data-text-color=alert]{color:var(--fs-color-alert)!important}.container:after,.row:after{clear:both;content:"";display:table}@media (min-width:850px){.show-for-medium{display:none!important}}@media (max-width:849px){.hide-for-medium{display:none!important}}.full-width{display:block;max-width:100%!important;padding-left:0!important;padding-right:0!important;width:100%!important}.mb-0{margin-bottom:0!important}.pb{padding-bottom:30px}.pt{padding-top:30px}.inner-padding{padding:30px}.text-left{text-align:left}.text-center{text-align:center}.text-center .is-divider,.text-center>div{margin-left:auto;margin-right:auto}.relative{position:relative!important}.absolute{position:absolute!important}.fixed{position:fixed!important;z-index:12}.top{top:0}.bottom,.fill{bottom:0}.fill{height:100%;left:0;margin:0!important;padding:0!important;position:absolute;right:0;top:0}.circle{border-radius:999px!important;-o-object-fit:cover;object-fit:cover}.round{border-radius:5px}.z-1{z-index:21}.z-top{z-index:9995}.flex{display:flex}.no-scrollbar{-ms-overflow-style:-ms-autohiding-scrollbar;scrollbar-width:none}.no-scrollbar::-webkit-scrollbar{height:0!important;width:0!important}.screen-reader-text{clip:rect(1px,1px,1px,1px);height:1px;overflow:hidden;position:absolute!important;width:1px}.dark{color:#f1f1f1}.nav-dark .nav>li.html{color:#fff}:root{--flatsome-scroll-padding-top:calc(var(--flatsome--header--sticky-height, 0px) + var(--wp-admin--admin-bar--height, 0px))}html{overflow-x:hidden;scroll-padding-top:var(--flatsome-scroll-padding-top)}@supports (overflow:clip){body{overflow-x:clip}}#main,#wrapper{background-color:#fff;position:relative}.header,.header-wrapper{background-position:50% 0;background-size:cover;position:relative;width:100%;z-index:1001}.header-bg-color{background-color:hsla(0,0%,100%,.9)}.header-top{align-items:center;display:flex;flex-wrap:no-wrap}.header-bg-color,.header-bg-image{background-position:50% 0}.header-top{background-color:var(--fs-color-primary);min-height:20px;position:relative;z-index:11}.header-main{position:relative;z-index:10}.top-divider{border-top:1px solid;margin-bottom:-1px;opacity:.1}.badge.post-date{top:7%}.wpcf7{color:#333;position:relative}.wpcf7 p{margin:0;padding:0}.wpcf7 br{display:none}.wpcf7 .wpcf7-form-control-wrap{display:block}.wpcf7 .wpcf7-response-output{border-radius:10px;margin:5px 0 0}html{background-color:#5b5b5b}.back-to-top{bottom:20px;margin:0;opacity:0;right:20px;transform:translateY(30%)}.logo{line-height:1;margin:0}.logo a{color:var(--fs-color-primary);display:block;font-size:32px;font-weight:bolder;margin:0;text-decoration:none;text-transform:uppercase}.logo img{display:block;width:auto}.header-logo-dark{display:none!important}.logo-left .logo{margin-left:0;margin-right:30px}@media screen and (max-width:849px){.header-inner .nav{flex-wrap:nowrap}.medium-logo-center .flex-left{flex:1 1 0;order:1}.medium-logo-center .logo{margin:0 15px;order:2;text-align:center}.medium-logo-center .logo img{margin:0 auto}.medium-logo-center .flex-right{flex:1 1 0;order:3}}.sidebar-menu .search-form{display:block!important}.searchform-wrapper form{margin-bottom:0}.sidebar-menu .search-form{padding:5px 0;width:100%}.searchform-wrapper:not(.form-flat) .submit-button{border-bottom-left-radius:0!important;border-top-left-radius:0!important}.searchform{position:relative}.searchform .button.icon{margin:0}.searchform .button.icon i{font-size:1.2em}.searchform-wrapper{width:100%}@media (max-width:849px){.searchform-wrapper{font-size:1rem}}.section-title-container{margin-bottom:1.5em}.section-title{align-items:center;display:flex;flex-flow:row wrap;justify-content:space-between;position:relative;width:100%}.section-title span{text-transform:uppercase}.section-title b{background-color:currentColor;display:block;flex:1;height:2px;opacity:.1}.section-title-center span{margin:0 15px}.section-title-center span{text-align:center}.icon-menu:before{content:""}.icon-shopping-basket:before{content:""}.icon-angle-up:before{content:""}.icon-search:before{content:""}.woocommerce-form-login .button{margin-bottom:0}.form-row-wide{clear:both}.woocommerce-form input[type=password]{padding:0 2em 0 .75em}#login-form-popup .woocommerce-form{margin-bottom:0}#login-form-popup .account-container.lightbox-inner>.account-login-inner{padding-left:15px;padding-right:15px}.woocommerce-mini-cart__empty-message{text-align:center}.cart-popup-title>span{display:block;font-size:1.125em}.cart-popup-inner{display:flex;flex-direction:column;padding-bottom:0}.cart-popup-inner>:last-child{margin-bottom:30px}.cart-popup-inner .widget_shopping_cart{margin-bottom:0}.cart-popup-inner .widget_shopping_cart,.cart-popup-inner .widget_shopping_cart_content{display:flex;flex:1;flex-direction:column}@media (min-height:500px){.cart-popup-inner--sticky{min-height:calc(100vh - var(--wp-admin--admin-bar--height, 0px))}}.ux-mini-cart-empty{gap:30px;padding:15px 0}.ux-mini-cart-empty .woocommerce-mini-cart__empty-message{margin-bottom:0}@import "https://xanhvietnam.vn/wp-content/themes/flatsome-child/assets/css/addon.css";.screen-reader-text{clip:rect(1px,1px,1px,1px);word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;overflow-wrap:normal!important;padding:0;position:absolute!important;width:1px}</style><link rel="preload" href="https://xanhvietnam.vn/wp-content/cache/min/1/69e736653ee5ff6809fc6ca24cd59fb7.css" data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" media="all" data-minify="1" />
+<meta name="description" content="VINASAY - Máy sấy Việt Nam Đồng hành cùng nông sản Việt, Máy sấy lạnh, máy sấy nhiệt, máy sấy trái cây, máy sấy nông sản."/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://xanhvietnam.vn" />
+<meta property="og:locale" content="vi_VN" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="XANH VIỆT NAM - Công ty cổ phần phát triển khoa học công nghệ Xanh Việt Nam" />
+<meta property="og:description" content="VINASAY - Máy sấy Việt Nam Đồng hành cùng nông sản Việt, Máy sấy lạnh, máy sấy nhiệt, máy sấy trái cây, máy sấy nông sản." />
+<meta property="og:url" content="https://xanhvietnam.vn" />
+<meta property="og:site_name" content="XANH VIỆT NAM - Công ty cổ phần phát triển khoa học công nghệ Xanh Việt Nam" />
+<meta property="og:updated_time" content="2025-08-28T14:46:43+07:00" />
+<meta property="article:published_time" content="2014-12-09T07:22:07+07:00" />
+<meta property="article:modified_time" content="2025-08-28T14:46:43+07:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="XANH VIỆT NAM - Công ty cổ phần phát triển khoa học công nghệ Xanh Việt Nam" />
+<meta name="twitter:description" content="VINASAY - Máy sấy Việt Nam Đồng hành cùng nông sản Việt, Máy sấy lạnh, máy sấy nhiệt, máy sấy trái cây, máy sấy nông sản." />
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://xanhvietnam.vn/#organization","name":"Techmart VietNam - K\u1ef9 Ngh\u1ec7 Xanh Vi\u1ec7t Nam","url":"https://xanhvietnam.vn"},{"@type":"WebSite","@id":"https://xanhvietnam.vn/#website","url":"https://xanhvietnam.vn","name":"Techmart VietNam - K\u1ef9 Ngh\u1ec7 Xanh Vi\u1ec7t Nam","publisher":{"@id":"https://xanhvietnam.vn/#organization"},"inLanguage":"vi","potentialAction":{"@type":"SearchAction","target":"https://xanhvietnam.vn/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://xanhvietnam.vn#webpage","url":"https://xanhvietnam.vn","name":"XANH VI\u1ec6T NAM - C\u00f4ng ty c\u1ed5 ph\u1ea7n ph\u00e1t tri\u1ec3n khoa h\u1ecdc c\u00f4ng ngh\u1ec7 Xanh Vi\u1ec7t Nam","datePublished":"2014-12-09T07:22:07+07:00","dateModified":"2025-08-28T14:46:43+07:00","about":{"@id":"https://xanhvietnam.vn/#organization"},"isPartOf":{"@id":"https://xanhvietnam.vn/#website"},"inLanguage":"vi"},{"@type":"Person","@id":"https://xanhvietnam.vn#author","name":"K\u1ef9 Ngh\u1ec7 Xanh Vi\u1ec7t Nam","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/48b4c132fb341148978caa260168e5c95e1fa3cbdd070ef2152641b52360734e?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/48b4c132fb341148978caa260168e5c95e1fa3cbdd070ef2152641b52360734e?s=96&amp;d=mm&amp;r=g","caption":"K\u1ef9 Ngh\u1ec7 Xanh Vi\u1ec7t Nam","inLanguage":"vi"},"worksFor":{"@id":"https://xanhvietnam.vn/#organization"}},{"@type":"Article","headline":"XANH VI\u1ec6T NAM - C\u00f4ng ty c\u1ed5 ph\u1ea7n ph\u00e1t tri\u1ec3n khoa h\u1ecdc c\u00f4ng ngh\u1ec7 Xanh Vi\u1ec7t Nam","datePublished":"2014-12-09T07:22:07+07:00","dateModified":"2025-08-28T14:46:43+07:00","author":{"@id":"https://xanhvietnam.vn#author","name":"K\u1ef9 Ngh\u1ec7 Xanh Vi\u1ec7t Nam"},"publisher":{"@id":"https://xanhvietnam.vn/#organization"},"description":"VINASAY - M\u00e1y s\u1ea5y Vi\u1ec7t Nam \u0110\u1ed3ng h\u00e0nh c\u00f9ng n\u00f4ng s\u1ea3n Vi\u1ec7t, M\u00e1y s\u1ea5y l\u1ea1nh, m\u00e1y s\u1ea5y nhi\u1ec7t, m\u00e1y s\u1ea5y tr\u00e1i c\u00e2y, m\u00e1y s\u1ea5y n\u00f4ng s\u1ea3n.","name":"XANH VI\u1ec6T NAM - C\u00f4ng ty c\u1ed5 ph\u1ea7n ph\u00e1t tri\u1ec3n khoa h\u1ecdc c\u00f4ng ngh\u1ec7 Xanh Vi\u1ec7t Nam","@id":"https://xanhvietnam.vn#richSnippet","isPartOf":{"@id":"https://xanhvietnam.vn#webpage"},"inLanguage":"vi","mainEntityOfPage":{"@id":"https://xanhvietnam.vn#webpage"}}]}</script>
+<!-- /Plugin SEO WordPress Rank Math -->
+
+
+<link rel='prefetch' href='https://xanhvietnam.vn/wp-content/themes/flatsome/assets/js/flatsome.js?ver=e1ad26bd5672989785e1' />
+<link rel='prefetch' href='https://xanhvietnam.vn/wp-content/themes/flatsome/assets/js/chunk.slider.js?ver=3.19.14' />
+<link rel='prefetch' href='https://xanhvietnam.vn/wp-content/themes/flatsome/assets/js/chunk.popups.js?ver=3.19.14' />
+<link rel='prefetch' href='https://xanhvietnam.vn/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.19.14' />
+<link rel='prefetch' href='https://xanhvietnam.vn/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=dd6035ce106022a74757' />
+<link rel="alternate" type="application/rss+xml" title="Dòng thông tin XANH VIỆT NAM - Công ty cổ phần phát triển khoa học công nghệ Xanh Việt Nam &raquo;" href="https://xanhvietnam.vn/feed" />
+<link rel="alternate" type="application/rss+xml" title="XANH VIỆT NAM - Công ty cổ phần phát triển khoa học công nghệ Xanh Việt Nam &raquo; Dòng bình luận" href="https://xanhvietnam.vn/comments/feed" />
+
+
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px;--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color)}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+</style>
+
+
+
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+
+
+<style id='__EPYT__style-inline-css' type='text/css'>
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+</style>
+
+<style id='flatsome-main-inline-css' type='text/css'>
+@font-face {
+				font-family: "fl-icons";
+				font-display: block;
+				src: url(https://xanhvietnam.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot?v=3.19.14);
+				src:
+					url(https://xanhvietnam.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot#iefix?v=3.19.14) format("embedded-opentype"),
+					url(https://xanhvietnam.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2?v=3.19.14) format("woff2"),
+					url(https://xanhvietnam.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf?v=3.19.14) format("truetype"),
+					url(https://xanhvietnam.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff?v=3.19.14) format("woff"),
+					url(https://xanhvietnam.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.19.14#fl-icons) format("svg");
+			}
+</style>
+
+
+<style id='rocket-lazyload-inline-css' type='text/css'>
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;cursor:pointer;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:72px;width:72px;left:50%;top:50%;margin-left:-36px;margin-top:-36px;position:absolute;background:url(https://xanhvietnam.vn/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat;cursor:pointer}
+</style>
+            <script type="rocketlazyloadscript" data-cfasync="false">
+                window._EPYT_ = window._EPYT_ || {
+                    ajaxurl: "https://xanhvietnam.vn/wp-admin/admin-ajax.php",
+                    security: "cb75cd5bc1",
+                    gallery_scrolloffset: 20,
+                    eppathtoscripts: "https://xanhvietnam.vn/wp-content/plugins/youtube-embed-plus/scripts/",
+                    eppath: "https://xanhvietnam.vn/wp-content/plugins/youtube-embed-plus/",
+                    epresponsiveselector: ["iframe.__youtube_prefs_widget__"],
+                    version: "14.2.3",
+                    epdovol: true,
+                    evselector: 'iframe.__youtube_prefs__[src]',
+                    ajax_compat: true,
+                    maxres_facade: 'eager',
+                    ytapi_load: 'light',
+                    pause_others: false,
+                    facade_mode: false,
+                    not_live_on_channel: false,
+                    stopMobileBuffer: true                };</script>
+            <script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js" defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/plugins/related-posts-thumbnails/assets/js/front.min.js?ver=4.3.1" id="rpt_front_style-js" defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/cache/min/1/wp-content/plugins/related-posts-thumbnails/assets/js/lazy-load.js?ver=1756351338" id="rpt-lazy-load-js" defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.10.1.3" id="jquery-blockui-js" data-wp-strategy="defer" defer></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Xem gi\u1ecf h\u00e0ng","cart_url":"https:\/\/xanhvietnam.vn\/gio-hang.html","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=10.1.3" id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.1.3" id="js-cookie-js" data-wp-strategy="defer" defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/cache/min/1/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.js?ver=1756351338" id="__ytprefs__-js" defer></script>
+<link rel="https://api.w.org/" href="https://xanhvietnam.vn/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://xanhvietnam.vn/wp-json/wp/v2/pages/2195" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://xanhvietnam.vn/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.3" />
+<link rel='shortlink' href='https://xanhvietnam.vn/' />
+        <style>
+            #related_posts_thumbnails li {
+                border-right: 1px solid #dddddd;
+                background-color: #ffffff            }
+
+            #related_posts_thumbnails li:hover {
+                background-color: #eeeeee;
+            }
+
+            .relpost_content {
+                font-size: 14px;
+                color: #333333;
+            }
+
+            .relpost-block-single {
+                background-color: #ffffff;
+                border-right: 1px solid #dddddd;
+                border-left: 1px solid #dddddd;
+                margin-right: -1px;
+            }
+
+            .relpost-block-single:hover {
+                background-color: #eeeeee;
+            }
+        </style>
+
+        <!-- FAVICON-->
+<link rel="apple-touch-icon" sizes="57x57" href="Favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="Favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="Favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="Favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="Favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="Favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="Favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="Favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="Favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="Favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="Favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="Favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="Favicon/favicon-16x16.png">
+<link rel="manifest" href="Favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="Favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style id="custom-css" type="text/css">:root {--primary-color: #2b874c;--fs-color-primary: #2b874c;--fs-color-secondary: #f4a300;--fs-color-success: #2e7d32;--fs-color-alert: #d32f2f;--fs-experimental-link-color: #2b874c;--fs-experimental-link-color-hover: #f4a300;}.tooltipster-base {--tooltip-color: #fff;--tooltip-bg-color: #000;}.off-canvas-right .mfp-content, .off-canvas-left .mfp-content {--drawer-width: 300px;}.off-canvas .mfp-content.off-canvas-cart {--drawer-width: 360px;}.container-width, .full-width .ubermenu-nav, .container, .row{max-width: 1230px}.row.row-collapse{max-width: 1200px}.row.row-small{max-width: 1222.5px}.row.row-large{max-width: 1260px}.sticky-add-to-cart--active, #wrapper,#main,#main.dark{background-color: #f3f3f3}.header-main{height: 70px}#logo img{max-height: 70px}#logo{width:190px;}#logo a{max-width:190px;}.header-bottom{min-height: 50px}.header-top{min-height: 22px}.transparent .header-main{height: 30px}.transparent #logo img{max-height: 30px}.has-transparent + .page-title:first-of-type,.has-transparent + #main > .page-title,.has-transparent + #main > div > .page-title,.has-transparent + #main .page-header-wrapper:first-of-type .page-title{padding-top: 60px;}.header.show-on-scroll,.stuck .header-main{height:70px!important}.stuck #logo img{max-height: 70px!important}.search-form{ width: 90%;}.header-bg-color {background-color: rgba(255,255,255,0.9)}.header-bottom {background-color: #138447}.top-bar-nav > li > a{line-height: 16px }.header-main .nav > li > a{line-height: 16px }.stuck .header-main .nav > li > a{line-height: 50px }.header-bottom-nav > li > a{line-height: 16px }@media (max-width: 549px) {.header-main{height: 70px}#logo img{max-height: 70px}}.nav-dropdown{font-size:100%}.header-top{background-color:#2b874c!important;}.blog-wrapper{background-color: #ffffff;}body{color: #1a1a1a}h1,h2,h3,h4,h5,h6,.heading-font{color: #2b874c;}body{font-size: 105%;}body{font-family: Roboto, sans-serif;}body {font-weight: 400;font-style: normal;}.nav > li > a {font-family: Roboto, sans-serif;}.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-family: Roboto, sans-serif;}.nav > li > a,.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-weight: 700;font-style: normal;}h1,h2,h3,h4,h5,h6,.heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{font-family: Roboto, sans-serif;}h1,h2,h3,h4,h5,h6,.heading-font,.banner h1,.banner h2 {font-weight: 700;font-style: normal;}.alt-font{font-family: "Dancing Script", sans-serif;}.alt-font {font-weight: 400!important;font-style: normal!important;}.header:not(.transparent) .top-bar-nav > li > a {color: #2b874c;}.header:not(.transparent) .top-bar-nav.nav > li > a:hover,.header:not(.transparent) .top-bar-nav.nav > li.active > a,.header:not(.transparent) .top-bar-nav.nav > li.current > a,.header:not(.transparent) .top-bar-nav.nav > li > a.active,.header:not(.transparent) .top-bar-nav.nav > li > a.current{color: #f4a300;}.top-bar-nav.nav-line-bottom > li > a:before,.top-bar-nav.nav-line-grow > li > a:before,.top-bar-nav.nav-line > li > a:before,.top-bar-nav.nav-box > li > a:hover,.top-bar-nav.nav-box > li.active > a,.top-bar-nav.nav-pills > li > a:hover,.top-bar-nav.nav-pills > li.active > a{color:#FFF!important;background-color: #f4a300;}.header:not(.transparent) .header-nav-main.nav > li > a {color: #2b874c;}.header:not(.transparent) .header-nav-main.nav > li > a:hover,.header:not(.transparent) .header-nav-main.nav > li.active > a,.header:not(.transparent) .header-nav-main.nav > li.current > a,.header:not(.transparent) .header-nav-main.nav > li > a.active,.header:not(.transparent) .header-nav-main.nav > li > a.current{color: #f4a300;}.header-nav-main.nav-line-bottom > li > a:before,.header-nav-main.nav-line-grow > li > a:before,.header-nav-main.nav-line > li > a:before,.header-nav-main.nav-box > li > a:hover,.header-nav-main.nav-box > li.active > a,.header-nav-main.nav-pills > li > a:hover,.header-nav-main.nav-pills > li.active > a{color:#FFF!important;background-color: #f4a300;}.header:not(.transparent) .header-bottom-nav.nav > li > a{color: #ffffff;}.is-divider{background-color: #e0e0e0;}.shop-page-title.featured-title .title-bg{background-image: url(https://techmartvietnam.com.vn/wp-content/uploads/2021/08/future-building-construction-engineering-project.jpg);}@media screen and (min-width: 550px){.products .box-vertical .box-image{min-width: 247px!important;width: 247px!important;}}.footer-1{background-color: #ffffff}.footer-2{background-color: #232f3e}.absolute-footer, html{background-color: #ffffff}.nav-vertical-fly-out > li + li {border-top-width: 1px; border-top-style: solid;}/* Custom CSS */.grecaptcha-badge { visibility: hidden; }.label-new.menu-item > a:after{content:"Mới";}.label-hot.menu-item > a:after{content:"Nổi bật";}.label-sale.menu-item > a:after{content:"Giảm giá";}.label-popular.menu-item > a:after{content:"Phổ biến";}</style><style id="kirki-inline-styles">/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://xanhvietnam.vn/wp-content/fonts/roboto/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://xanhvietnam.vn/wp-content/fonts/roboto/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://xanhvietnam.vn/wp-content/fonts/roboto/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://xanhvietnam.vn/wp-content/fonts/roboto/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* math */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://xanhvietnam.vn/wp-content/fonts/roboto/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2) format('woff2');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://xanhvietnam.vn/wp-content/fonts/roboto/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2) format('woff2');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://xanhvietnam.vn/wp-content/fonts/roboto/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://xanhvietnam.vn/wp-content/fonts/roboto/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://xanhvietnam.vn/wp-content/fonts/roboto/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://xanhvietnam.vn/wp-content/fonts/roboto/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://xanhvietnam.vn/wp-content/fonts/roboto/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://xanhvietnam.vn/wp-content/fonts/roboto/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://xanhvietnam.vn/wp-content/fonts/roboto/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* math */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://xanhvietnam.vn/wp-content/fonts/roboto/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2) format('woff2');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://xanhvietnam.vn/wp-content/fonts/roboto/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2) format('woff2');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://xanhvietnam.vn/wp-content/fonts/roboto/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://xanhvietnam.vn/wp-content/fonts/roboto/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://xanhvietnam.vn/wp-content/fonts/roboto/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* vietnamese */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://xanhvietnam.vn/wp-content/fonts/dancing-script/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Rep8ltA.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://xanhvietnam.vn/wp-content/fonts/dancing-script/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3ROp8ltA.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://xanhvietnam.vn/wp-content/fonts/dancing-script/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup8.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript><script type="rocketlazyloadscript">
+/*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
+(function(w){"use strict";if(!w.loadCSS){w.loadCSS=function(){}}
+var rp=loadCSS.relpreload={};rp.support=(function(){var ret;try{ret=w.document.createElement("link").relList.supports("preload")}catch(e){ret=!1}
+return function(){return ret}})();rp.bindMediaToggle=function(link){var finalMedia=link.media||"all";function enableStylesheet(){link.media=finalMedia}
+if(link.addEventListener){link.addEventListener("load",enableStylesheet)}else if(link.attachEvent){link.attachEvent("onload",enableStylesheet)}
+setTimeout(function(){link.rel="stylesheet";link.media="only x"});setTimeout(enableStylesheet,3000)};rp.poly=function(){if(rp.support()){return}
+var links=w.document.getElementsByTagName("link");for(var i=0;i<links.length;i++){var link=links[i];if(link.rel==="preload"&&link.getAttribute("as")==="style"&&!link.getAttribute("data-loadcss")){link.setAttribute("data-loadcss",!0);rp.bindMediaToggle(link)}}};if(!rp.support()){rp.poly();var run=w.setInterval(rp.poly,500);if(w.addEventListener){w.addEventListener("load",function(){rp.poly();w.clearInterval(run)})}else if(w.attachEvent){w.attachEvent("onload",function(){rp.poly();w.clearInterval(run)})}}
+if(typeof exports!=="undefined"){exports.loadCSS=loadCSS}
+else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
+</script></head>
+
+<body class="home wp-singular page-template page-template-page-blank page-template-page-blank-php page page-id-2195 wp-theme-flatsome wp-child-theme-flatsome-child theme-flatsome ot-vertical-menu ot-menu-show-home woocommerce-no-js lightbox nav-dropdown-has-arrow nav-dropdown-has-shadow nav-dropdown-has-border">
+
+
+<a class="skip-link screen-reader-text" href="#main">Bỏ qua nội dung</a>
+
+<div id="wrapper">
+
+	
+	<header id="header" class="header has-sticky sticky-jump">
+		<div class="header-wrapper">
+			<div id="top-bar" class="header-top hide-for-sticky nav-dark">
+    <div class="flex-row container">
+      <div class="flex-col hide-for-medium flex-left">
+          <ul class="nav nav-left medium-nav-center nav-small  nav-divided">
+              <li class="html custom html_topbar_left">CÔNG TY CỔ PHẦN PHÁT TRIỂN KHOA HỌC CÔNG NGHỆ XANH VIỆT NAM</li>          </ul>
+      </div>
+
+      <div class="flex-col hide-for-medium flex-center">
+          <ul class="nav nav-center nav-small  nav-divided">
+                        </ul>
+      </div>
+
+      <div class="flex-col hide-for-medium flex-right">
+         <ul class="nav top-bar-nav nav-right nav-small  nav-divided">
+                        </ul>
+      </div>
+
+            <div class="flex-col show-for-medium flex-grow">
+          <ul class="nav nav-center nav-small mobile-nav  nav-divided">
+              <li class="html custom html_topbar_left">CÔNG TY CỔ PHẦN PHÁT TRIỂN KHOA HỌC CÔNG NGHỆ XANH VIỆT NAM</li>          </ul>
+      </div>
+      
+    </div>
+</div>
+<div id="masthead" class="header-main ">
+      <div class="header-inner flex-row container logo-left medium-logo-center" role="navigation">
+
+          <!-- Logo -->
+          <div id="logo" class="flex-col logo">
+            
+<!-- Header logo -->
+<a href="https://xanhvietnam.vn/" title="XANH VIỆT NAM &#8211; Công ty cổ phần phát triển khoa học công nghệ Xanh Việt Nam - XANH VIỆT NAM &#8211; Website của Công ty cổ phần phát triển khoa học công nghệ Xanh Việt Nam" rel="home">
+		<img width="1786" height="402" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201786%20402'%3E%3C/svg%3E" class="header_logo header-logo" alt="XANH VIỆT NAM &#8211; Công ty cổ phần phát triển khoa học công nghệ Xanh Việt Nam" data-lazy-src="https://xanhvietnam.vn/wp-content/uploads/2025/08/3-Logo_Ngang-PNG.png"/><noscript><img width="1786" height="402" src="https://xanhvietnam.vn/wp-content/uploads/2025/08/3-Logo_Ngang-PNG.png" class="header_logo header-logo" alt="XANH VIỆT NAM &#8211; Công ty cổ phần phát triển khoa học công nghệ Xanh Việt Nam"/></noscript><img  width="1786" height="402" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201786%20402'%3E%3C/svg%3E" class="header-logo-dark" alt="XANH VIỆT NAM &#8211; Công ty cổ phần phát triển khoa học công nghệ Xanh Việt Nam" data-lazy-src="https://xanhvietnam.vn/wp-content/uploads/2025/08/3-Logo_Ngang-PNG.png"/><noscript><img  width="1786" height="402" src="https://xanhvietnam.vn/wp-content/uploads/2025/08/3-Logo_Ngang-PNG.png" class="header-logo-dark" alt="XANH VIỆT NAM &#8211; Công ty cổ phần phát triển khoa học công nghệ Xanh Việt Nam"/></noscript></a>
+          </div>
+
+          <!-- Mobile Left Elements -->
+          <div class="flex-col show-for-medium flex-left">
+            <ul class="mobile-nav nav nav-left ">
+              <li class="nav-icon has-icon">
+  		<a href="#" data-open="#main-menu" data-pos="left" data-bg="main-menu-overlay" data-color="" class="is-small" aria-label="Menu" aria-controls="main-menu" aria-expanded="false">
+
+		  <i class="icon-menu" ></i>
+		  		</a>
+	</li>
+            </ul>
+          </div>
+
+          <!-- Left Elements -->
+          <div class="flex-col hide-for-medium flex-left
+            flex-grow">
+            <ul class="header-nav header-nav-main nav nav-left  nav-divided nav-uppercase" >
+              <li class="html custom html_nav_position_text_top">	<div id="say-mau"
+	     class="lightbox-by-id lightbox-content mfp-hide lightbox-white "
+	     style="max-width:630px ;padding:27px">
+		<h3 class="crayon-line crayon-striped-line" style="text-align: center;">ĐĂNG KÝ SẤY MẪU</h3>
+<div class="crayon-line crayon-striped-line" style="text-align: center;"><span style="color: #555555; text-align: center; font-size: 14.4px;">Bạn đang cần sấy mẫu sản phẩm của mình. Hãy để lại thông tin chúng tôi sẽ liên hệ lại ngay.</span></div>
+<div id="crayon-612f46f47160d318689909-8" class="crayon-line crayon-striped-line">
+<div id="crayon-612f46f47160d318689909-8" class="crayon-line crayon-striped-line" style="text-align: left;">
+
+<iframe loading="lazy" src="about:blank" width="100%" height="500px" frameborder="0" marginwidth="0" marginheight="0" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://kynghexanh.getflycrm.com/api/forms/viewform/?key=ieIJil1jiXtkdwp7bS4VgZS56v0MVx6ucEAwO2VGPIdi0KMlGt">Loading ...</iframe><noscript><iframe src="https://kynghexanh.getflycrm.com/api/forms/viewform/?key=ieIJil1jiXtkdwp7bS4VgZS56v0MVx6ucEAwO2VGPIdi0KMlGt" width="100%" height="500px" frameborder="0" marginwidth="0" marginheight="0">Loading ...</iframe></noscript>
+
+</div>
+</div>	</div>
+	
+	
+	<div id="bao-gia"
+	     class="lightbox-by-id lightbox-content mfp-hide lightbox-white "
+	     style="max-width:630px ;padding:27px">
+		<h3 class="crayon-line crayon-striped-line" style="text-align: center;">LIÊN HỆ BÁO GIÁ</h3>
+<div class="crayon-line crayon-striped-line" style="text-align: center;"><a title="Xanh Việt Nam" href="https://xanhvietnam.vn" data-schema-attribute=""><strong>Xanh Việt Nam</strong></a> rất vui khi nhận được sự quan tâm của Quý khách. Hãy để lại thông tin, chúng tôi sẽ nhanh chóng kết nối và hỗ trợ tận tình.</div>
+<div></div>
+
+<div class="wpcf7 no-js" id="wpcf7-f6679-o1" lang="vi" dir="ltr" data-wpcf7-id="6679">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f6679-o1" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
+<fieldset class="hidden-fields-container"><input type="hidden" name="_wpcf7" value="6679" /><input type="hidden" name="_wpcf7_version" value="6.1.1" /><input type="hidden" name="_wpcf7_locale" value="vi" /><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f6679-o1" /><input type="hidden" name="_wpcf7_container_post" value="0" /><input type="hidden" name="_wpcf7_posted_data_hash" value="" /><input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</fieldset>
+<p><span class="wpcf7-form-control-wrap" data-name="hovaten"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Họ Tên Bạn*" value="" type="text" name="hovaten" /></span><br />
+<span class="wpcf7-form-control-wrap" data-name="diachi"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Địa Chỉ*" value="" type="text" name="diachi" /></span><br />
+<span class="wpcf7-form-control-wrap" data-name="sodienthoai"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Số điện thoại*" value="" type="tel" name="sodienthoai" /></span><br />
+<span class="wpcf7-form-control-wrap" data-name="Email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-text wpcf7-validates-as-email" aria-invalid="false" placeholder="Email (nếu cần gửi qua mail)" value="" type="email" name="Email" /></span><br />
+<span class="wpcf7-form-control-wrap" data-name="spbaogia"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Sản phẩm cần báo giá*" value="" type="text" name="spbaogia" /></span><br />
+<span class="wpcf7-form-control-wrap" data-name="yeucaukhac"><textarea cols="40" rows="10" maxlength="2000" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Yêu cầu chi tiết" name="yeucaukhac"></textarea></span><br />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="YÊU CẦU BÁO GIÁ" /><br />
+<span class="wpcf7-form-control-wrap" data-name="acceptance-385"><span class="wpcf7-form-control wpcf7-acceptance"><span class="wpcf7-list-item"><label><input type="checkbox" name="acceptance-385" value="1" checked="checked" aria-invalid="false" /><span class="wpcf7-list-item-label">Bằng việc gửi thông tin, nghĩa là bạn đồng ý với <a href="/chinh-sach-quyen-rieng-tu.html" target="_blank">Chính sách quyền riêng tư</a> của Chúng tôi.</span></label></span></span></span>
+</p><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+	</div>
+	
+	</li><li id="menu-item-2210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2195 current_page_item menu-item-2210 active menu-item-design-default"><a href="https://xanhvietnam.vn/" aria-current="page" class="nav-top-link">Trang chủ</a></li>
+<li id="menu-item-2211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2211 menu-item-design-default"><a href="https://xanhvietnam.vn/gioi-thieu.html" class="nav-top-link">Giới thiệu</a></li>
+<li id="menu-item-8068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8068 menu-item-design-default"><a href="https://xanhvietnam.vn/san-pham.html" class="nav-top-link">Sản phẩm</a></li>
+<li id="menu-item-2220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2220 menu-item-design-default"><a href="https://xanhvietnam.vn/tin-tuc.html" class="nav-top-link"><i class="_mi _before dashicons dashicons-portfolio" aria-hidden="true"></i><span>Tin tức</span></a></li>
+<li id="menu-item-2225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2225 menu-item-design-default"><a href="https://xanhvietnam.vn/lien-he.html" class="nav-top-link"><i class="_mi _before dashicons dashicons-email" aria-hidden="true"></i><span>Liên hệ</span></a></li>
+            </ul>
+          </div>
+
+          <!-- Right Elements -->
+          <div class="flex-col hide-for-medium flex-right">
+            <ul class="header-nav header-nav-main nav nav-right  nav-divided nav-uppercase">
+                          </ul>
+          </div>
+
+          <!-- Mobile Right Elements -->
+          <div class="flex-col show-for-medium flex-right">
+            <ul class="mobile-nav nav nav-right ">
+              <li class="cart-item has-icon">
+
+<div class="header-button">
+		<a href="https://xanhvietnam.vn/gio-hang.html" class="header-cart-link icon primary button circle is-small off-canvas-toggle nav-top-link" title="Giỏ hàng" data-open="#cart-popup" data-class="off-canvas-cart" data-pos="right" >
+
+    <i class="icon-shopping-basket"
+    data-icon-label="0">
+  </i>
+  </a>
+</div>
+
+  <!-- Cart Sidebar Popup -->
+  <div id="cart-popup" class="mfp-hide">
+  <div class="cart-popup-inner inner-padding cart-popup-inner--sticky">
+      <div class="cart-popup-title text-center">
+          <span class="heading-font uppercase">Giỏ hàng</span>
+          <div class="is-divider"></div>
+      </div>
+	  <div class="widget_shopping_cart">
+		  <div class="widget_shopping_cart_content">
+			  
+
+	<div class="ux-mini-cart-empty flex flex-row-col text-center pt pb">
+				<div class="ux-mini-cart-empty-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" style="opacity:.1;height:80px;">
+				<path d="M8.5 0C6.7 0 5.3 1.2 5.3 2.7v2H2.1c-.3 0-.6.3-.7.7L0 18.2c0 .4.2.8.6.8h15.7c.4 0 .7-.3.7-.7v-.1L15.6 5.4c0-.3-.3-.6-.7-.6h-3.2v-2c0-1.6-1.4-2.8-3.2-2.8zM6.7 2.7c0-.8.8-1.4 1.8-1.4s1.8.6 1.8 1.4v2H6.7v-2zm7.5 3.4 1.3 11.5h-14L2.8 6.1h2.5v1.4c0 .4.3.7.7.7.4 0 .7-.3.7-.7V6.1h3.5v1.4c0 .4.3.7.7.7s.7-.3.7-.7V6.1h2.6z" fill-rule="evenodd" clip-rule="evenodd" fill="currentColor"></path>
+			</svg>
+		</div>
+				<p class="woocommerce-mini-cart__empty-message empty">Chưa có sản phẩm trong giỏ hàng.</p>
+					<p class="return-to-shop">
+				<a class="button primary wc-backward" href="https://xanhvietnam.vn/san-pham.html">
+					Quay trở lại cửa hàng				</a>
+			</p>
+				</div>
+
+
+		  </div>
+	  </div>
+               </div>
+  </div>
+
+</li>
+            </ul>
+          </div>
+
+      </div>
+
+            <div class="container"><div class="top-divider full-width"></div></div>
+      </div>
+
+<div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div>		</div>
+	</header>
+
+	
+	<main id="main" class="">
+
+
+<div id="content" role="main" class="content-area">
+
+		
+			<span class="scroll-to" data-label="Scroll to: #welcome" data-bullet="true" data-link="#welcome" data-title="Welcome Banner" ><a name="welcome"></a></span>
+
+  <div class="banner has-hover is-full-height has-parallax" id="banner-1159802716">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill" data-parallax="-2" data-parallax-container=".banner" data-parallax-background>
+            <img fetchpriority="high" decoding="async" width="1200" height="650" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20650'%3E%3C/svg%3E" class="bg attachment-original size-original" alt="Khoa học công nghệ Xanh Việt Nam" data-lazy-src="https://xanhvietnam.vn/wp-content/uploads/2025/08/KHCN-Xanh-Viet-Nam.webp" /><noscript><img fetchpriority="high" decoding="async" width="1200" height="650" src="https://xanhvietnam.vn/wp-content/uploads/2025/08/KHCN-Xanh-Viet-Nam.webp" class="bg attachment-original size-original" alt="Khoa học công nghệ Xanh Việt Nam" /></noscript>                        <div class="overlay"></div>            
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+   <div id="text-box-1429936884" class="text-box banner-layer x50 md-x50 lg-x50 y20 md-y20 lg-y20 res-text">
+                                <div class="text-box-content text dark">
+              
+              <div class="text-inner text-center">
+                  
+<h1 class="lead">XANH VIỆT NAM</h1>
+<h3 class="alt-font">Công nghệ &#8211; đổi mới &#8211; phát triển bền vững</h3>
+<div class="is-divider divider clearfix" ></div>
+<p class="lead">Xanh Việt Nam tiên phong trong nghiên cứu và ứng dụng công nghệ xanh vào sản xuất và đời sống. Chúng tôi mang đến các giải pháp toàn diện trong lĩnh vực năng lượng tái tạo, môi trường, nông nghiệp và chế biến thực phẩm, góp phần xây dựng một Việt Nam xanh – sạch – hiện đại.</p>
+              </div>
+           </div>
+                            
+<style>
+#text-box-1429936884 {
+  width: 60%;
+}
+#text-box-1429936884 .text-box-content {
+  font-size: 100%;
+}
+@media (min-width:550px) {
+  #text-box-1429936884 {
+    width: 63%;
+  }
+}
+</style>
+    </div>
+ 
+        </div>
+      </div>
+
+            
+<style>
+#banner-1159802716 {
+  padding-top: 100%;
+}
+#banner-1159802716 .overlay {
+  background-color: rgba(0, 0, 0, 0.26);
+}
+</style>
+  </div>
+
+
+
+			
+		
+</div>
+
+
+
+</main>
+
+<footer id="footer" class="footer-wrapper">
+
+	
+<!-- FOOTER 1 -->
+
+<!-- FOOTER 2 -->
+
+
+
+<div class="absolute-footer light medium-text-center text-center">
+  <div class="container clearfix">
+
+    
+    <div class="footer-primary pull-left">
+            <div class="copyright-footer">
+        Copyright ® 2025. <b><a href="/">Công ty cổ phần phát triển KHCN Xanh Việt Nam. </a></b>All rights reserved.      </div>
+          </div>
+  </div>
+</div>
+
+<a href="#top" class="back-to-top button icon invert plain fixed bottom z-1 is-outline round hide-for-medium" id="top-link" aria-label="Lên đầu trang"><i class="icon-angle-up" ></i></a>
+
+</footer>
+
+</div>
+
+<div id="main-menu" class="mobile-sidebar no-scrollbar mfp-hide">
+
+	
+	<div class="sidebar-menu no-scrollbar ">
+
+		
+					<ul class="nav nav-sidebar nav-vertical nav-uppercase" data-tab="1">
+				<li class="header-search-form search-form html relative has-icon">
+	<div class="header-search-form-wrapper">
+		<div class="searchform-wrapper ux-search-box relative is-normal"><form role="search" method="get" class="searchform" action="https://xanhvietnam.vn/">
+	<div class="flex-row relative">
+					<div class="flex-col search-form-categories">
+				<select class="search_categories resize-select mb-0" name="product_cat"><option value="" selected='selected'>Danh Mục</option><option value="tu-van-thiet-ke">Tư vấn thiết kế</option></select>			</div>
+						<div class="flex-col flex-grow">
+			<label class="screen-reader-text" for="woocommerce-product-search-field-0">Tìm kiếm:</label>
+			<input type="search" id="woocommerce-product-search-field-0" class="search-field mb-0" placeholder="Tìm kiếm&hellip;" value="" name="s" />
+			<input type="hidden" name="post_type" value="product" />
+					</div>
+		<div class="flex-col">
+			<button type="submit" value="Tìm kiếm" class="ux-search-submit submit-button secondary button icon mb-0" aria-label="Gửi">
+				<i class="icon-search" ></i>			</button>
+		</div>
+	</div>
+	<div class="live-search-results text-left z-top"></div>
+</form>
+</div>	</div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2195 current_page_item menu-item-2210"><a href="https://xanhvietnam.vn/" aria-current="page">Trang chủ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2211"><a href="https://xanhvietnam.vn/gioi-thieu.html">Giới thiệu</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8068"><a href="https://xanhvietnam.vn/san-pham.html">Sản phẩm</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2220"><a href="https://xanhvietnam.vn/tin-tuc.html"><i class="_mi _before dashicons dashicons-portfolio" aria-hidden="true"></i><span>Tin tức</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2225"><a href="https://xanhvietnam.vn/lien-he.html"><i class="_mi _before dashicons dashicons-email" aria-hidden="true"></i><span>Liên hệ</span></a></li>
+<li class="html custom html_topbar_right">Email: info@kynghexanh.com</li>			</ul>
+		
+		
+	</div>
+
+	
+</div>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/flatsome-child\/*","\/wp-content\/themes\/flatsome\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+    <div id="login-form-popup" class="lightbox-content mfp-hide">
+            	<div class="woocommerce">
+      		<div class="woocommerce-notices-wrapper"></div>
+<div class="account-container lightbox-inner">
+
+	
+			<div class="account-login-inner">
+
+				<h3 class="uppercase">Đăng nhập</h3>
+
+				<form class="woocommerce-form woocommerce-form-login login" method="post" novalidate>
+
+					
+					<p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+						<label for="username">Tên tài khoản hoặc địa chỉ email&nbsp;<span class="required" aria-hidden="true">*</span><span class="screen-reader-text">Bắt buộc</span></label>
+						<input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="" required aria-required="true" />					</p>
+					<p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+						<label for="password">Mật khẩu&nbsp;<span class="required" aria-hidden="true">*</span><span class="screen-reader-text">Bắt buộc</span></label>
+						<input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password" required aria-required="true" />
+					</p>
+
+					
+					<p class="form-row">
+						<label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
+							<input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever" /> <span>Ghi nhớ mật khẩu</span>
+						</label>
+						<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="f49395c57f" /><input type="hidden" name="_wp_http_referer" value="/" />						<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Đăng nhập">Đăng nhập</button>
+					</p>
+					<p class="woocommerce-LostPassword lost_password">
+						<a href="https://xanhvietnam.vn/my-account.html/lost-password">Quên mật khẩu?</a>
+					</p>
+
+					
+				</form>
+			</div>
+
+			
+</div>
+
+		</div>
+      	    </div>
+  	<script type="rocketlazyloadscript" data-rocket-type='text/javascript'>
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--primary: #2b874c;--wp--preset--color--secondary: #f4a300;--wp--preset--color--success: #2e7d32;--wp--preset--color--alert: #d32f2f;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){margin-left: auto !important;margin-right: auto !important;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: none;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-color{color: var(--wp--preset--color--primary) !important;}.has-secondary-color{color: var(--wp--preset--color--secondary) !important;}.has-success-color{color: var(--wp--preset--color--success) !important;}.has-alert-color{color: var(--wp--preset--color--alert) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-background-color{background-color: var(--wp--preset--color--primary) !important;}.has-secondary-background-color{background-color: var(--wp--preset--color--secondary) !important;}.has-success-background-color{background-color: var(--wp--preset--color--success) !important;}.has-alert-background-color{background-color: var(--wp--preset--color--alert) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-border-color{border-color: var(--wp--preset--color--primary) !important;}.has-secondary-border-color{border-color: var(--wp--preset--color--secondary) !important;}.has-success-border-color{border-color: var(--wp--preset--color--success) !important;}.has-alert-border-color{border-color: var(--wp--preset--color--alert) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=1756351338" id="swv-js" defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="contact-form-7-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2024-08-11 13:44:17+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"This contact form is placed in the wrong place.":["Bi\u1ec3u m\u1eabu li\u00ean h\u1ec7 n\u00e0y \u0111\u01b0\u1ee3c \u0111\u1eb7t sai v\u1ecb tr\u00ed."],"Error:":["L\u1ed7i:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/xanhvietnam.vn\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/js/index.js?ver=1756351338" id="contact-form-7-js" defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/cache/min/1/wp-content/plugins/ot-flatsome-vertical-menu/assets/vendor/superfish/hoverIntent.js?ver=1756351338" id="ot-hoverIntent-js" defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/plugins/ot-flatsome-vertical-menu/assets/vendor/superfish/superfish.min.js?ver=1.2.3" id="ot-superfish-js" defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/plugins/ot-flatsome-vertical-menu/assets/js/ot-vertical-menu.min.js?ver=1.2.3" id="ot-vertical-menu-js" defer></script>
+<script type="text/javascript" id="rate-my-post-js-extra">
+/* <![CDATA[ */
+var rmp_frontend = {"admin_ajax":"https:\/\/xanhvietnam.vn\/wp-admin\/admin-ajax.php","postID":"2195","noVotes":"No votes so far! Be the first to rate this post.","cookie":"You already voted! This vote will not be counted!","afterVote":"Thank you for rating this post!","notShowRating":"1","social":"2","feedback":"1","cookieDisable":"1","emptyFeedback":"Please insert your feedback in the box above!","hoverTexts":"2","preventAccidental":"1","grecaptcha":"1","siteKey":"","votingPriv":"1","loggedIn":"","positiveThreshold":"2","ajaxLoad":"1","disableClearCache":"1","nonce":"08f0899a51","is_not_votable":"false"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/plugins/rate-my-post/public/js/rate-my-post.min.js?ver=4.4.3" id="rate-my-post-js" defer></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_password_show":"Hi\u1ec3n th\u1ecb m\u1eadt kh\u1ea9u","i18n_password_hide":"\u1ea8n m\u1eadt kh\u1ea9u"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.1.3" id="woocommerce-js" data-wp-strategy="defer" defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="rocket-browser-checker-js-after">
+/* <![CDATA[ */
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-extra">
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/(.+\/)?feed\/?.+\/?|\/(?:.+\/)?embed\/|\/thanh-toan.html(.*)|\/gio-hang.html|\/my-account.html(.*)|\/(index\\.php\/)?wp\\-json(\/.*|$)|\/wp-admin\/|\/logout\/|\/wp-login.php","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|php|pdf|html|htm","siteUrl":"https:\/\/xanhvietnam.vn","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="rocket-preload-links-js-after">
+/* <![CDATA[ */
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js" defer></script>
+<script type="text/javascript" id="flatsome-js-js-extra">
+/* <![CDATA[ */
+var flatsomeVars = {"theme":{"version":"3.19.14"},"ajaxurl":"https:\/\/xanhvietnam.vn\/wp-admin\/admin-ajax.php","rtl":"","sticky_height":"70","stickyHeaderHeight":"0","scrollPaddingTop":"0","assets_url":"https:\/\/xanhvietnam.vn\/wp-content\/themes\/flatsome\/assets\/","lightbox":{"close_markup":"<button title=\"%title%\" type=\"button\" class=\"mfp-close\"><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-x\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"><\/line><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"><\/line><\/svg><\/button>","close_btn_inside":false},"user":{"can_edit_pages":false},"i18n":{"mainMenu":"Menu ch\u00ednh","toggleButton":"Chuy\u1ec3n \u0111\u1ed5i"},"options":{"cookie_notice_version":"1","swatches_layout":false,"swatches_disable_deselect":false,"swatches_box_select_event":false,"swatches_box_behavior_selected":false,"swatches_box_update_urls":"1","swatches_box_reset":false,"swatches_box_reset_limited":false,"swatches_box_reset_extent":false,"swatches_box_reset_time":300,"search_result_latency":"0"},"is_mini_cart_reveal":"1"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/cache/min/1/wp-content/themes/flatsome/assets/js/flatsome.js?ver=1756351338" id="flatsome-js-js" defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/cache/min/1/wp-content/themes/flatsome/inc/integrations/wp-rocket/flatsome-wp-rocket.js?ver=1756351338" id="flatsome-wp-rocket-js" defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/cache/min/1/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=1756351338" id="flatsome-live-search-js" defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=10.1.3" id="sourcebuster-js-js" defer></script>
+<script type="text/javascript" id="wc-order-attribution-js-extra">
+/* <![CDATA[ */
+var wc_order_attribution = {"params":{"lifetime":1.0e-5,"session":30,"base64":false,"ajaxurl":"https:\/\/xanhvietnam.vn\/wp-admin\/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=10.1.3" id="wc-order-attribution-js" defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LeMS7UrAAAAAK6jZ6ThQDsi4i-Vjf6EqHza41Je&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="wpcf7-recaptcha-js-before">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {
+    "sitekey": "6LeMS7UrAAAAAK6jZ6ThQDsi4i-Vjf6EqHza41Je",
+    "actions": {
+        "homepage": "homepage",
+        "contactform": "contactform"
+    }
+};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/cache/min/1/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=1756351338" id="wpcf7-recaptcha-js" defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/cache/min/1/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=1756351338" id="flatsome-theme-woocommerce-js-js" defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/cache/min/1/wp-content/plugins/youtube-embed-plus/scripts/fitvids.js?ver=1756351338" id="__ytprefsfitvids__-js" defer></script>
+<script type="text/javascript" id="wc-cart-fragments-js-extra">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_ae4b958ee8076f076a46ea72129cd8f2","fragment_name":"wc_fragments_ae4b958ee8076f076a46ea72129cd8f2","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=10.1.3" id="wc-cart-fragments-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="zxcvbn-async-js-extra">
+/* <![CDATA[ */
+var _zxcvbnSettings = {"src":"https:\/\/xanhvietnam.vn\/wp-includes\/js\/zxcvbn.min.js"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js" defer></script>
+<script type="text/javascript" id="password-strength-meter-js-extra">
+/* <![CDATA[ */
+var pwsL10n = {"unknown":"M\u1eadt kh\u1ea9u m\u1ea1nh kh\u00f4ng x\u00e1c \u0111\u1ecbnh","short":"R\u1ea5t y\u1ebfu","bad":"Y\u1ebfu","good":"Trung b\u00ecnh","strong":"M\u1ea1nh","mismatch":"M\u1eadt kh\u1ea9u kh\u00f4ng kh\u1edbp"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="password-strength-meter-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2025-06-22 05:02:50+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%1$s \u0111\u00e3 ng\u1eebng ho\u1ea1t \u0111\u1ed9ng t\u1eeb phi\u00ean b\u1ea3n %2$s! S\u1eed d\u1ee5ng thay th\u1ebf b\u1eb1ng %3$s."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-admin/js/password-strength-meter.min.js?ver=6.8.3" id="password-strength-meter-js" defer></script>
+<script type="text/javascript" id="wc-password-strength-meter-js-extra">
+/* <![CDATA[ */
+var wc_password_strength_meter_params = {"min_password_strength":"3","stop_checkout":"","i18n_password_error":"Vui l\u00f2ng nh\u1eadp m\u1eadt kh\u1ea9u m\u1ea1nh h\u01a1n.","i18n_password_hint":"G\u1ee3i \u00fd: M\u1eadt kh\u1ea9u ph\u1ea3i c\u00f3 \u00edt nh\u1ea5t 12 k\u00fd t\u1ef1. \u0110\u1ec3 n\u00e2ng cao \u0111\u1ed9 b\u1ea3o m\u1eadt, s\u1eed d\u1ee5ng ch\u1eef in hoa, in th\u01b0\u1eddng, ch\u1eef s\u1ed1 v\u00e0 c\u00e1c k\u00fd t\u1ef1 \u0111\u1eb7c bi\u1ec7t nh\u01b0 ! \" ? $ % ^ & )."};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://xanhvietnam.vn/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=10.1.3" id="wc-password-strength-meter-js" defer="defer" data-wp-strategy="defer"></script>
+<script>window.lazyLoadOptions={elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://xanhvietnam.vn/wp-content/plugins/wp-rocket/assets/js/lazyload/16.1/lazyload.min.js"></script><script>function lazyLoadThumb(e){var t='<img loading="lazy" data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<div class="play"></div>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.dataset.query.length?'':'&'+this.dataset.query;e.setAttribute("src",t.replace("ID",this.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.replaceChild(e,this)}document.addEventListener("DOMContentLoaded",function(){var e,t,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id),e.onclick=lazyLoadYoutubeIframe,a[t].appendChild(e)});</script>
+<script type="rocketlazyloadscript">"use strict";var wprRemoveCPCSS=function wprRemoveCPCSS(){var elem;document.querySelector('link[data-rocket-async="style"][rel="preload"]')?setTimeout(wprRemoveCPCSS,200):(elem=document.getElementById("rocket-critical-css"))&&"remove"in elem&&elem.remove()};window.addEventListener?window.addEventListener("load",wprRemoveCPCSS):window.attachEvent&&window.attachEvent("onload",wprRemoveCPCSS);</script><noscript><link rel="stylesheet" href="https://xanhvietnam.vn/wp-content/cache/min/1/69e736653ee5ff6809fc6ca24cd59fb7.css" media="all" data-minify="1" /></noscript></body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1767440122 -->

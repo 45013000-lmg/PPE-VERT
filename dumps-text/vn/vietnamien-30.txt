@@ -1,0 +1,597 @@
+
+   (BUTTON) Danh mục
+   logo
+   Giỏ hàng
+   Đăng nhập
+   Cửa hàng
+   Tin Tức
+   Mới về
+   Ưu đãi
+   Đồng phục
+   Winter Collection
+   SALE ĐẾN 60%
+   Nam
+   Nam
+   Nam
+   category
+   Áo khoác nam
+   (BUTTON)
+   Tất cả Áo khoác nam
+   Áo phao nam
+   Áo gió nam
+   Áo chống nắng nam
+   Áo vest nam
+   category
+   Áo giữ nhiệt nam
+   (BUTTON)
+   Tất cả Áo giữ nhiệt nam
+   category
+   Áo nam
+   (BUTTON)
+   Tất cả Áo nam
+   Áo polo nam
+   Áo sơ mi nam
+   Áo thun nam
+   Áo len nam
+   Áo hoodie - Áo nỉ nam
+   category
+   Quần nam
+   (BUTTON)
+   Tất cả Quần nam
+   Quần âu nam
+   Quần jeans nam
+   Quần short nam
+   Quần kaki nam
+   category
+   Đồ bộ nam
+   (BUTTON)
+   Tất cả Đồ bộ nam
+   Đồ bộ dài tay nam
+   Đồ bộ ngắn tay nam
+   Bộ thể thao nam
+   category
+   Đồ thể thao nam
+   (BUTTON)
+   Tất cả Đồ thể thao nam
+   Áo polo thể thao nam
+   Áo thun thể thao nam
+   Quần thể thao nam
+   category
+   Đồ mặc trong & Đồ lót nam
+   (BUTTON)
+   Tất cả Đồ mặc trong & Đồ lót nam
+   Áo ba lỗ nam
+   Quần lót nam
+   category
+   Phụ kiện nam
+   (BUTTON)
+   Tất cả Phụ kiện nam
+   Giày nam
+   Thắt lưng nam
+   Túi xách nam
+   Tất nam
+   Nữ
+   Nữ
+   Nữ
+   category
+   Áo khoác nữ
+   (BUTTON)
+   Tất cả Áo khoác nữ
+   Áo phao nữ
+   Áo gió nữ
+   Áo chống nắng nữ
+   Áo vest nữ
+   Áo măng tô nữ
+   category
+   Áo giữ nhiệt nữ
+   (BUTTON)
+   Tất cả Áo giữ nhiệt nữ
+   category
+   Áo nữ
+   (BUTTON)
+   Tất cả Áo nữ
+   Áo thun nữ
+   Áo sơ mi nữ
+   Áo polo nữ
+   Áo len nữ
+   Áo hoodie - Áo nỉ nữ
+   category
+   Quần nữ
+   (BUTTON)
+   Tất cả Quần nữ
+   Quần âu nữ
+   Quần jeans nữ
+   Quần short nữ
+   Quần kaki nữ
+   Quần nỉ nữ
+   category
+   Đồ bộ nữ
+   (BUTTON)
+   Tất cả Đồ bộ nữ
+   Đồ bộ dài tay nữ
+   Đồ bộ ngắn tay nữ
+   Bộ thể thao nữ
+   category
+   Đồ thể thao nữ
+   (BUTTON)
+   Tất cả Đồ thể thao nữ
+   Áo polo thể thao nữ
+   Áo thun thể thao nữ
+   category
+   Đồ mặc trong & Đồ lót nữ
+   (BUTTON)
+   Tất cả Đồ mặc trong & Đồ lót nữ
+   Áo ba lỗ - Áo hai dây nữ
+   Quần lót nữ
+   Áo bra nữ
+   category
+   Đầm và chân váy nữ
+   (BUTTON)
+   Tất cả Đầm và chân váy nữ
+   Chân váy nữ
+   Đầm nữ
+   category
+   Phụ kiện nữ
+   (BUTTON)
+   Tất cả Phụ kiện nữ
+   Giày nữ
+   Túi xách nữ
+   Tất nữ
+   Phụ kiện khác nữ
+   Trẻ em
+   Trẻ em
+   Trẻ em
+   category
+   Áo khoác trẻ em
+   (BUTTON)
+   Tất cả Áo khoác trẻ em
+   Áo phao trẻ em
+   Áo gió trẻ em
+   category
+   Áo giữ nhiệt trẻ em
+   (BUTTON)
+   Tất cả Áo giữ nhiệt trẻ em
+   category
+   Áo trẻ em
+   (BUTTON)
+   Tất cả Áo trẻ em
+   Áo sơ mi trẻ em
+   Áo polo trẻ em
+   Áo thun trẻ em
+   Áo len trẻ em
+   Áo hoodie - áo nỉ trẻ em
+   category
+   Quần trẻ em
+   (BUTTON)
+   Tất cả Quần trẻ em
+   Quần jeans trẻ em
+   Quần short trẻ em
+   Quần nỉ trẻ em
+   Quần kaki trẻ em
+   Quần dài trẻ em
+   category
+   Đồ bộ trẻ em
+   (BUTTON)
+   Tất cả Đồ bộ trẻ em
+   Đồ bộ dài tay trẻ em
+   Đồ bộ ngắn tay trẻ em
+   category
+   Đồ mặc trong trẻ em
+   (BUTTON)
+   Tất cả Đồ mặc trong trẻ em
+   category
+   Sản phẩm khác
+   (BUTTON)
+   Tất cả Sản phẩm khác
+   Đầm và chân váy bé gái
+   category
+   Phụ kiện trẻ em
+   (BUTTON)
+   Tất cả Phụ kiện trẻ em
+   Tất trẻ em
+   Bộ sưu tập
+   Bộ sưu tập
+   img
+
+   BST ÁO PHAO 4S
+   img
+
+   BST ÁO GIÓ ĐA NĂNG
+   img
+
+   ÁO GIỮ NHIỆT XTRA-HEAT™
+   img
+
+   BST JEAN FLEX
+   img
+
+   BST BUSINESS CASUAL
+   img
+
+   BST SPORT NHẸ TÊNH
+   img
+
+   BST EVERYDAY BASIC
+   img
+
+   BST PEACEFUL SUMMER
+   logo
+   ____________________
+
+Giải mã từ A-Z ý nghĩa của màu xanh lá cây trong cuộc sống
+
+    1. /Trang chủ
+    2. /Blog
+    3. /Tin Tức Tổng Hợp
+    4. /Chi tiết
+
+   Giải mã từ A-Z ý nghĩa của màu xanh lá cây trong cuộc sống
+
+   Tin Tức Tổng HợpNgày đăng:
+
+   Danh mục
+
+   [y-nghia-cua-mau-xanh-la-cay-yodyvn.jpg]
+
+   Không chỉ tượng trưng cho thiên nhiên, sự tươi mới, màu xanh lá còn có
+   khả năng mang lại cảm giác dễ chịu, thư giãn. Dưới đây, YODY sẽ giải mã
+   ý nghĩa của màu xanh lá cây.
+
+1. Màu xanh lá cây là gì? Khám phá về màu xanh lá
+
+   Khái niệm về màu xanh lá cây
+
+   Khái niệm về màu xanh lá cây
+
+   Màu xanh lá cây là một gam màu trong quy trình màu sắc RGB (Red, Green,
+   Blue) thường được sử dụng trong công nghiệp đồ họa và hiển thị. Trong
+   hệ thống này, màu xanh lá cây thường được tạo ra bằng cách kết hợp
+   nhiều lượng ánh sáng màu xanh (green) hơn so với ánh sáng đỏ (red) và
+   ánh sáng xanh (blue).
+
+   Màu xanh lá cây là biểu tượng của sự tươi mới và sức sống trong tự
+   nhiên. Khi nói đến cây cỏ và lá cây, màu xanh thường liên kết với quá
+   trình quang hợp, nơi cây xanh lợi dụng ánh sáng mặt trời để tạo năng
+   lượng. Điều này làm cho màu xanh lá cây trở thành biểu tượng của sự
+   sống và sinh sôi.
+
+   Màu xanh lá cây cũng thường được sử dụng để tạo ra không gian thoải mái
+   và thư giãn trong thiết kế nội thất. Nó có khả năng tạo cảm giác mát mẻ
+   và yên bình, giúp tăng cường tinh thần tích cực và sự kết nối với thiên
+   nhiên.
+
+   Tổng cộng, màu xanh lá cây không chỉ là một gam màu, mà còn là nguồn
+   cảm hứng vô tận trong nghệ thuật, thiết kế và cuộc sống hàng ngày, đại
+   diện cho sự tươi mới và sức sống của thiên nhiên.
+
+2. Những biến thể thường gặp của màu xanh lá
+
+   Bảng màu xanh lá cây
+
+   Bảng màu xanh lá cây
+
+   Màu xanh lá cây có đa dạng sắc độ từ sáng đến tối, và dưới đây là một
+   số biến thể mà bạn thường xuyên gặp:
+     * Xanh Lá Đậm: Một sắc độ đậm của màu xanh lá cây, thường gặp trong
+       cảnh quan tự nhiên và được liên kết với sự mạnh mẽ và ổn định.
+     * Xanh Rêu: Một màu xanh tối hơn, thường xuất hiện trong các khu rừng
+       ẩm ướt và có thể mang đến cảm giác bí ẩn và huyền bí.
+     * Xanh Lơ: Kết hợp giữa màu xanh lá cây và màu xanh lam, tạo ra một
+       sắc thái độc đáo và thu hút.
+     * Xanh Lá Mạ: Vẫn là màu xanh lá cây nhưng có pha thêm một chút màu
+       vàng, tạo ra một không gian tươi mới và ấm áp.
+     * Xanh Ô Liu: Một màu xanh lá cây có pha trộn với màu nâu, tạo ra một
+       sắc thái ấm cúng và sang trọng.
+     * Xanh Bạc Hà: Một màu xanh nhạt với tông hơi xanh dương, thường mang
+       đến cảm giác dễ chịu và nhẹ nhàng.
+     * Xanh Mộc: Một sắc độ màu xanh đậm, thường được sử dụng để thể hiện
+       sức mạnh và sự ổn định.
+     * Xanh Aquamarine: Một biến thể của xanh dương có pha màu xanh lá
+       cây, tạo ra một màu sắc tinh tế và thanh lịch.
+
+3. Màu xanh lá tượng trưng cho điều gì?
+
+   ý nghĩa của màu xanh lá cây
+
+   Màu xanh tượng trưng cho sự tươi mới
+
+   Màu xanh lá cây đã từ lâu trở thành biểu tượng của nhiều ý nghĩa tích
+   cực và đa dạng trong quan niệm văn hóa và tôn giáo. Trong triết lý cổ
+   điển, màu xanh lá cây thường được coi là biểu tượng cho nông nghiệp, sự
+   tươi mới và thịnh vượng. Màu này không chỉ đơn thuần là sự phản ánh của
+   môi trường tự nhiên mà còn mang theo ý nghĩa về sự ấm no và màu mỡ
+   trong cuộc sống.
+
+   Màu xanh lá cây còn là biểu tượng của sự khởi đầu mới, đại diện cho sự
+   bắt đầu mới trong cuộc sống. Sự yên bình và thư giãn cũng được gắn liền
+   với màu xanh lá cây, tạo nên một không gian gần gũi và trấn an.
+
+   Theo quan niệm của nhiều tôn giáo, màu xanh lá cây trở thành biểu tượng
+   của sự thuần khiết và trí tuệ. Đây không chỉ là một gam màu đẹp mắt mà
+   còn mang theo ý nghĩa tích cực về sự tinh khiết tâm hồn và sự sáng tạo.
+
+   Ngoài ra, màu xanh lá cây cũng có thể được sử dụng để diễn đạt về những
+   đặc điểm tích cực, nhưng đôi khi cũng được áp dụng để miêu tả những
+   phẩm chất tiêu cực như thiếu kinh nghiệm, ganh tỵ hoặc sự keo kiệt.
+   Điều này thể hiện tính đa chiều và linh hoạt của ý nghĩa màu sắc trong
+   văn hóa và ngôn ngữ.
+
+4. Tìm hiểu ý nghĩa của màu xanh lá trong nhiều khía cạnh của cuộc sống
+
+   Màu xanh lá một trong những màu phổ biến và thường gặp nhất trong cuộc
+   sống. Tuy nhiên không phải ai cũng thực sự hiểu được ý nghĩa của màu
+   xanh lá. Hãy cùng YODY khám phá nhé!
+
+4.1 Ý nghĩa chung của màu xanh lá
+
+   Ý nghĩa của màu xanh lá cây
+
+   Ý nghĩa của màu xanh lá cây
+
+   Phần lớn nhận định về ý nghĩa của màu xanh lá cây tập trung vào sự tái
+   sinh và sự phát triển. Màu xanh lá cây mang đến cảm giác tươi mới và sự
+   sống động. Chính vì thế, nó trở thành màu sắc chủ đạo đại diện cho vẻ
+   đẹp tự nhiên và hiện diện ở mọi góc cạnh của thế giới. Không chỉ đơn
+   giản là một gam màu, màu xanh lá cây còn là biểu tượng của sự an toàn
+   và ổn định. Điều này được thể hiện rõ qua việc hầu hết các hệ thống đèn
+   giao thông trên thế giới sử dụng màu xanh lá cây để chỉ đường và báo
+   hiệu an toàn.
+
+4.2 Ý nghĩa của màu xanh lá cây trong thiết kế nội thất
+
+   Ý nghĩa của màu xanh lá cây trong thiết kế nội thất
+
+   Ý nghĩa của màu xanh lá cây trong thiết kế nội thất
+
+   Màu xanh đóng một vai trò quan trọng trong thiết kế nội thất nhà ở,
+   không chỉ vì ý nghĩa tích cực mà nó mang lại mà còn vì các ưu điểm và
+   nhược điểm đặc biệt.
+
+   Ưu điểm:
+     * Màu xanh lá cây, với ý nghĩa về sự khởi đầu mới và phát triển,
+       thường được ưa chuộng để tạo ra không gian ấm no và thịnh vượng cho
+       gia chủ.
+     * Ý nghĩa của màu xanh lá cây còn biểu tượng cho sự ổn định, trạng
+       thái cân bằng và hài hoà cho không khí trong ngôi nhà.
+     * Trong thiết kế nhà, màu xanh lá cây có khả năng mang lại cảm giác
+       mát mẻ cho các thành viên trong gia đình.
+     * Sử dụng ý nghĩa của màu xanh lá cây trong trang trí nội thất có thể
+       thúc đẩy không gian sống trở nên hạnh phúc và khỏe mạnh, đặc biệt
+       khi kết hợp với việc trang trí cây xanh và thảm cỏ.
+
+   Nhược điểm:
+     * Màu xanh lá cây thuộc hành Mộc, phù hợp với gia chủ mệnh Mộc và
+       Hỏa, nhưng cần cân nhắc khi lựa chọn cho những người mệnh Kim hoặc
+       mệnh Thổ để tránh xung khắc và vận hạn.
+     * Sử dụng quá nhiều màu xanh lá cây có thể tạo cảm giác mệt mỏi và
+       khó chịu trong không gian sống.
+
+4.3 Ý nghĩa của màu xanh lá cây trong phong thuỷ
+
+   Ý nghĩa của màu xanh lá cây trong phong thuỷ
+
+   Ý nghĩa của màu xanh lá cây trong phong thuỷ
+
+   Một trong những ý nghĩa của màu xanh lá cây là biểu tượng của sự tươi
+   mới và sự phát triển. Màu này cũng được coi là một gam màu lý tưởng
+   trong phong thủy, nơi nó thường được gọi là Mộc. Theo quan niệm phong
+   thủy, người mang mệnh Mộc hoặc Hoả sẽ hưởng lợi lớn từ việc sử dụng màu
+   xanh lá cây.
+
+   Theo quy luật tương sinh, Mộc sinh ra Hoả, do đó, sự kết hợp giữa màu
+   xanh lá cây và mệnh Mộc hoặc Hoả được xem là vô cùng tích cực. Điều này
+   có thể mang lại nhiều may mắn và tài lộc cho những người thuộc mệnh này
+   khi họ chọn lựa gam màu xanh lá cây.
+
+   Ngược lại, đối với những người mang mệnh Kim hoặc Thổ, nên cân nhắc
+   trước khi áp dụng màu xanh lá cây trong không gian sống. Vì theo quan
+   niệm phong thủy, mối quan hệ giữa mệnh Mộc và các mệnh này có thể tạo
+   ra sự xung đột và mang lại những ảnh hưởng không lợi cho chủ nhân của
+   ngôi nhà.
+
+4.4 Ý nghĩa của màu xanh lá cây trong thời trang
+
+   Áo polo màu xanh lá cây
+
+   Áo polo màu xanh lá cây
+
+   Màu xanh lá cây thường mang đến cảm giác tươi mới, năng động và sôi
+   động. Điều này làm cho nó trở thành một lựa chọn phổ biến cho những bộ
+   trang phục dành cho các sự kiện ngoại ô, hoạt động ngoại ô hoặc những
+   dịp vui nhộn.
+
+   Màu xanh lá cây thường được liên kết với màu của cây cỏ và lá cây, tạo
+   ra một sự kết nối với thiên nhiên. Điều này có thể tạo ra cảm giác
+   thoải mái, thư giãn và gần gũi với môi trường tự nhiên.
+
+   Trong nhiều trường hợp, màu xanh lá cây được xem là biểu tượng của sự
+   trẻ trung và tràn đầy năng lượng. Điều này có thể làm cho nó trở thành
+   một lựa chọn phổ biến trong thời trang dành cho những người muốn truyền
+   tải hình ảnh năng động và tích cực.
+
+   Màu xanh lá cây thường được coi là một màu sắc thú vị, có khả năng tạo
+   hứng khởi và tăng cường tâm trạng. Điều này làm cho nó trở thành một
+   lựa chọn phổ biến khi các bạn trẻ muốn truyền năng lượng tích cực của
+   mình cho mọi người xung quanh.
+
+4.5 Ý nghĩa của màu xanh lá cây trong nhiều nền văn hoá khác nhau
+
+   Ý nghĩa của màu xanh lá cây trong nhiều nền văn hoá khác nhau
+
+   Ý nghĩa của màu xanh lá cây trong nhiều nền văn hoá khác nhau
+
+   Đối với mỗi nền văn hoá khác nhau, màu xanh lá cây lại có những ý nghĩa
+   vô cùng khác nhau. Trong nền văn hóa Trung Quốc, màu xanh lá cây thường
+   được hiểu là biểu tượng của sự không chung thủy và liên quan đến sấm
+   sét cũng như nguyên lý âm dương.
+
+   Ở nền văn hóa Israel, màu xanh lá cây mang theo mình ý nghĩa của việc
+   xuất hiện các điều không may mắn. Một quan điểm tương tự cũng tồn tại
+   trong một số nền văn hóa khác như Úc.
+
+   Trong văn hóa Hồi giáo, màu xanh lá cây đại diện cho sự cứu rỗi, tiên
+   tri và khôn ngoan.
+
+   Ở phương Tây, màu xanh lá cây có ý nghĩa rất đa dạng, từ sự may mắn,
+   tươi mới đến môi trường. Đồng thời, nó còn mang theo ý nghĩa về sự giàu
+   có và ghen tỵ.
+
+   Trên nền văn hóa Trung Đông, màu xanh lá cây lại được hiểu là biểu
+   tượng của sự may mắn và sự sinh sôi. Đặc biệt, nó còn được xem là màu
+   sắc truyền thống của người Hồi giáo.
+
+5. Ứng dụng của màu xanh lá cây trong cuộc sống
+
+   Sau khi hiểu rõ được ý nghĩa của màu xanh lá chắc hẳn không ít bạn thắc
+   mắc màu này có ứng dụng như thế nào đúng không?
+
+4.1 Nội thất phòng ngủ
+
+   Phòng ngủ thiết kế màu xanh lục
+
+   Phòng ngủ thiết kế màu xanh lục
+
+   Việc sử dụng những chiếc đèn với ánh sáng xanh lá cây nhạt trong phòng
+   sẽ giúp cải thiện giấc ngủ hiệu quả. Ngoài ra, bạn có thể treo rèm cửa
+   hay sơn tường màu này trong phòng ngủ để có được hiệu quả tốt hơn.
+
+4.2 Y tế
+
+   Ứng dụng màu xanh lá cây
+
+   Ứng dụng màu xanh lá cây
+
+   Trong các bệnh viện, màu xanh lá cây thường được sử dụng để tạo ra
+   không gian tích cực, giúp giảm bớt lo lắng và hỗ trợ người bệnh trong
+   quá trình họ đối mặt với thử thách sức khỏe của mình.
+
+4.3 Thời trang
+
+   Ứng dụng áo polo trong thời trang
+
+   Ứng dụng áo polo trong thời trang
+
+   Có thể nói màu xanh lá màu không thể thiếu trong thiết kế thời trang.
+   Màu này được dùng để sản xuất từ áo thun cho đến áo sơ mi thanh
+   lịch.Những item thời trang có màu xanh lá thường xuất hiện vào mùa, khi
+   tiết trời nóng bức. Màu xanh lá cây sẽ đem lại cảm giác dễ chịu, mát mẻ
+   cho mọi người xung quanh.
+
+   Ngoài ra, nó cũng làm điểm nhấn trong phụ kiện như túi xách, giày dép
+   và đồ trang sức.
+
+TOP các sản phẩm hot nhất YODY
+
+4.4 Màu sơn
+
+   Màu sơn xanh lục
+
+   Màu sơn xanh lục
+
+   Ngoài những ứng dụng trên, màu xanh lá cũng được nhiều người lựa chọn
+   làm màu sơn. Màu xanh trong không gian nhà sẽ giúp giảm căng thẳng, đem
+   lại sự thư thái.
+
+4.5 Tốt cho tim
+
+   Màu xanh giúp giảm áp lực
+
+   Màu xanh giúp giảm áp lực
+
+   Hơn nữa, việc sử dụng màu xanh lá cây cũng có thể ảnh hưởng đến sức
+   khoẻ của hệ tim mạnh. Màu sắc này được cho là có khả năng điều hòa các
+   chức năng tim mạch, đồng thời hỗ trợ trong việc ổn định áp lực và kiểm
+   soát mức huyết áp, đồng thời kích thích hệ thống phòng vệ tự nhiên của
+   cơ thể.
+
+4.6 Thư giãn mắt
+
+   Màu xanh giúp thư giãn mắt
+
+   Màu xanh giúp thư giãn mắt
+
+   Đặc biệt, đối với những người làm việc văn phòng hoặc trong lĩnh vực
+   công nghệ thông tin, sử dụng máy tính liên tục có thể dẫn đến tình
+   trạng nhức mỏi và đau mắt. Thường, các chuyên gia y tế khuyến cáo việc
+   tạm nghỉ và nhìn vào một vật thể màu xanh lá cây trong vài phút. Hành
+   động này giúp mắt điều hoà và tạo ra cảm giác thoải mái, giảm bớt áp
+   lực mà công việc trên máy tính đặt lên mắt.
+
+   Phía trên là những chia sẻ của YODY về ý nghĩa của màu xanh lá cây. Hy
+   vọng qua bài blog này, các bạn có cái nhìn tổng quan hơn về màu xanh
+   lá, đồng thời tiếp thu thêm nhiều kiến thức thú vị về màu sắc trong
+   cuộc sống.
+
+   Danh mục
+
+   Đặt hàng
+
+   088 867 3788
+
+   Góp ý khiếu nại
+
+   1800 2086
+
+   Email
+
+   [email protected]
+
+   Địa chỉ
+
+   Đường An Định - Phường Việt Hoà - TP Hải Dương
+
+   YODY XIN CHÀO 💖
+
+   Chúng tôi luôn quý trọng và tiếp thu mọi ý kiến đóng góp từ khách hàng,
+   nhằm không ngừng cải thiện và nâng tầm trải nghiệm dịch vụ cũng như
+   chất lượng sản phẩm.
+   ____________________
+   (BUTTON) Gửi
+
+Hệ thống cửa hàng
+
+   (BUTTON)
+
+MUA SẮM
+
+Nam
+
+Nữ
+
+Trẻ em
+
+Đồng phục
+
+Tin tức
+
+   (BUTTON)
+
+DỊCH VỤ KHÁCH HÀNG
+
+Chính sách khách hàng thân thiết
+
+Chính sách đổi trả
+
+Chính sách bảo mật
+
+Chính sách thanh toán, giao nhận
+
+Chính sách đơn đồng phục
+
+Hướng dẫn chọn kích thước
+
+   (BUTTON)
+
+VỀ YODY
+
+Giới thiệu
+
+Tuyển dụng
+
+   @ CÔNG TY CỔ PHẦN THỜI TRANG YODY
+
+   Mã số doanh nghiệp: 0801206940. Giấy chứng nhận đăng ký doanh nghiệp do
+   Sở Kế hoạch và Đầu tư TP Hải Dương cấp lần đầu ngày 04/03/2017
+   footer-image footer-image
+
+   (BUTTON)

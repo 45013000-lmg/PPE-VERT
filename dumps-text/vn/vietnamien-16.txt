@@ -1,0 +1,556 @@
+   #Sửa đổi Wikipedia (vi) Nguồn cấp Atom của Wikipedia
+
+   Bước tới nội dung
+
+   [ ] Trình đơn chính
+   Trình đơn chính
+   (BUTTON) chuyển sang thanh bên (BUTTON) ẩn
+   Điều hướng
+     * Trang Chính
+     * Nội dung chọn lọc
+     * Bài viết ngẫu nhiên
+     * Thay đổi gần đây
+     * Báo lỗi nội dung
+
+   Tương tác
+     * Hướng dẫn
+     * Giới thiệu Wikipedia
+     * Cộng đồng
+     * Thảo luận chung
+     * Giúp sử dụng
+     * Liên lạc
+     * Tải lên tập tin
+
+   Wikipedia Bách khoa toàn thư mở
+   Tìm kiếm
+   ____________________
+   (BUTTON) Tìm kiếm
+
+   [ ] Giao diện
+
+     * Quyên góp
+     * Tạo tài khoản
+     * Đăng nhập
+
+   [ ] Công cụ cá nhân
+     * Quyên góp
+     * Tạo tài khoản
+     * Đăng nhập
+
+Nội dung
+
+   (BUTTON) chuyển sang thanh bên (BUTTON) ẩn
+     * Đầu
+     * 1 Cấu trúc hoá học
+     * 2 Hình ảnh
+     * 3 Tham khảo
+
+   [ ] Đóng mở mục lục
+
+Diệp lục
+
+   [ ] 98 ngôn ngữ
+     * Afrikaans
+     * Alemannisch
+     * العربية
+     * অসমীয়া
+     * Asturianu
+     * Авар
+     * Azərbaycanca
+     * Bahasa Indonesia
+     * Bahasa Melayu
+     * বাংলা
+     * 閩南語 / Bân-lâm-gí
+     * Башҡортса
+     * Беларуская
+     * Беларуская (тарашкевіца)
+     * Bosanski
+     * Български
+     * Català
+     * Чӑвашла
+     * Čeština
+     * Cymraeg
+     * Dansk
+     * الدارجة
+     * Deutsch
+     * Eesti
+     * Ελληνικά
+     * English
+     * Español
+     * Esperanto
+     * Euskara
+     * فارسی
+     * Français
+     * Gaeilge
+     * Galego
+     * ગુજરાતી
+     * 한국어
+     * Հայերեն
+     * हिन्दी
+     * Hrvatski
+     * Ido
+     * Íslenska
+     * Italiano
+     * עברית
+     * Jawa
+     * ಕನ್ನಡ
+     * ქართული
+     * Қазақша
+     * Kiswahili
+     * Kreyòl ayisyen
+     * Kurdî
+     * Latina
+     * Latviešu
+     * Lietuvių
+     * Lingua Franca Nova
+     * Magyar
+     * Македонски
+     * മലയാളം
+     * मराठी
+     * მარგალური
+     * مصرى
+     * Naijá
+     * Nederlands
+     * नेपाली
+     * 日本語
+     * Nordfriisk
+     * Norsk bokmål
+     * Norsk nynorsk
+     * Occitan
+     * Oromoo
+     * Oʻzbekcha / ўзбекча
+     * Polski
+     * Português
+     * Română
+     * Runa Simi
+     * Русский
+     * Shqip
+     * Simple English
+     * Slovenčina
+     * Slovenščina
+     * کوردی
+     * Српски / srpski
+     * Srpskohrvatski / српскохрватски
+     * Sunda
+     * Suomi
+     * Svenska
+     * Tagalog
+     * தமிழ்
+     * Татарча / tatarça
+     * తెలుగు
+     * ไทย
+     * Тоҷикӣ
+     * Türkçe
+     * Українська
+     * اردو
+     * Walon
+     * Winaray
+     * 吴语
+     * 粵語
+     * 中文
+
+   Sửa liên kết
+
+     * Bài viết
+     * Thảo luận
+
+   [ ] Tiếng Việt
+
+     * Đọc
+     * Sửa đổi
+     * Sửa mã nguồn
+     * Xem lịch sử
+
+   [ ] Công cụ
+   Công cụ
+   (BUTTON) chuyển sang thanh bên (BUTTON) ẩn
+   Tác vụ
+     * Đọc
+     * Sửa đổi
+     * Sửa mã nguồn
+     * Xem lịch sử
+
+   Chung
+     * Các liên kết đến đây
+     * Thay đổi liên quan
+     * Liên kết thường trực
+     * Thông tin trang
+     * Trích dẫn trang này
+     * Tạo URL rút gọn
+     * Tải mã QR
+
+   In và xuất
+     * Tạo một quyển sách
+     * Tải dưới dạng PDF
+     * Bản để in ra
+
+   Tại dự án khác
+     * Wikimedia Commons
+     * Khoản mục Wikidata
+
+   Giao diện
+   (BUTTON) chuyển sang thanh bên (BUTTON) ẩn
+   Bách khoa toàn thư mở Wikipedia
+   Bài viết này cần thêm chú thích nguồn gốc để kiểm chứng thông tin. Mời
+   bạn giúp hoàn thiện bài viết này bằng cách bổ sung chú thích tới các
+   nguồn đáng tin cậy. Các nội dung không có nguồn có thể bị nghi ngờ và
+   xóa bỏ. (Tìm hiểu cách thức và thời điểm xóa thông báo này)
+   [250px-Leaf_1_web.jpg] Diệp lục tố khiến lá có màu xanh lá cây
+
+   Chất diệp lục (diệp lục tố, chlorophyll) là sắc tố quang tổng hợp màu
+   xanh lá cây có ở thực vật, tảo, vi khuẩn lam. Từ này có nguồn gốc
+   Hán-Việt: Từ "diệp" là lá và "lục" là xanh. Ngoài chất diệp lục,
+   carotenoid, anthocyanin và xantophyl cũng là các sắc tố cảm quang được
+   tìm thấy ở thực vật và một số sinh vật quang tổng hợp khác. Các sắc tố
+   này được cố định trong màng lục lạp của lục lạp.
+
+   Chất diệp lục hấp thu mạnh nhất ánh sáng xanh dương và đỏ, kém ở phần
+   xanh lá của phổ điện từ, do đó màu của mô chứa chất diệp lục giống màu
+   của lá cây.
+   [250px-Leavessnipedale.jpg] Những chiếc lá có chứa diệp lục
+
+Cấu trúc hoá học
+
+   [sửa | sửa mã nguồn]
+
+   Sắc tố quan trọng nhất của diệp lục chứa một nguyên tử magiê (Mg) ở
+   trung tâm phân tử.
+   Diệp lục tố a Diệp lục tố b Diệp lục tố c1 Diệp lục tố c2 Diệp lục tố d
+   Diệp lục tố f
+   Công thức phân tử C[55]H[72]O[5]N[4]Mg C[55]H[70]O[6]N[4]Mg
+   C[35]H[30]O[5]N[4]Mg C[35]H[28]O[5]N[4]Mg C[54]H[70]O[6]N[4]Mg
+   C[55]H[70]O[6]N[4]Mg
+   Nhóm C3 -CH=CH[2] -CH=CH[2] -CH=CH[2] -CH=CH[2] -CHO -CH=CH[2]
+   Nhóm C7 -CH[3] -CHO -CH[3] -CH[3] -CH[3] -CH[3]
+   Nhóm C8 -CH[2]CH[3] -CH[2]CH[3] -CH[2]CH[3] -CH=CH[2] -CH[2]CH[3]
+   -CH[2]CH[3]
+   Nhóm C17 -CH[2]CH[2]COO-Phytyl -CH[2]CH[2]COO-Phytyl -CH=CHCOOH
+   -CH=CHCOOH -CH[2]CH[2]COO-Phytyl -CH[2]CH[2]COO-Phytyl
+   Liên kết C17-C18 Đơn Đơn Kép Đơn Kép Đơn
+   Tần suất Phổ biến Đa số các loài thực vật Các loại tảo khác nhau Các
+   loại tảo khác nhau Vi khuẩn lam (cyanobacteria) Vi khuẩn lam
+   [250px-Chlorophyll_structure.png] Cấu trúc chung của các diệp lục tố a,
+   b và d[250px-Chlorophyll_c.png] Cấu trúc chung của các diệp lục tố c1,
+   và c2
+
+Hình ảnh
+
+   [sửa | sửa mã nguồn]
+     * [120px-Black_Pearl_Plant.jpg]
+     * [120px-Chlorophyll_ab_spectra-en.svg.png]
+     * [120px-%28Bacterio%29Chlorophylls.png]
+     * [120px-Antenna_Complex.jpg]
+
+Tham khảo
+
+   [sửa | sửa mã nguồn]
+   Wikimedia Commons có thêm hình ảnh và phương tiện về Diệp lục.
+     * x
+     * t
+     * s
+
+   Thực vật học
+   Lịch sử thực vật học
+   Phân ngành
+     * Cổ thực vật học
+     * Cổ di chỉ thực vật học
+     * Thực vật dân tộc học
+     * Hình thái học thực vật
+     * Giải phẫu học thực vật
+     * Phân loại học thực vật
+          + Hệ thống học thực vật
+     * Sinh lý học thực vật
+     * Sinh thái học thực vật
+     * Địa lý thực vật học
+          + Địa thực vật học
+          + Hệ thực vật
+     * Hóa thực vật học
+     * Bệnh học thực vật
+     * Rêu học
+     * Tảo học
+     * Thụ mộc học
+     * Sinh học phát triển tiến hóa thực vật
+     * Thực vật học vũ trụ
+
+   [250px-Diversity_of_plants_%28Streptophyta%29_version_2.png]
+   Hình thái học
+   thực vật
+                   Tế bào
+     * Vách tế bào
+     * Thể vách
+     * Lạp thể
+     * Cầu sinh chất
+     * Không bào
+
+   Mô
+     * Mô phân sinh
+     * Mô dẫn
+          + Bó mạch
+          + Mạch gỗ
+          + Mạch rây
+     * Mô cơ bản
+          + Thịt lá
+     * Tượng tầng
+          + Tầng sinh bần
+          + Tầng sinh mạch
+     * Gỗ
+     * Cơ quan dự trữ
+
+   Cấu trúc
+   bề mặt
+     * Bần
+     * Lớp cutin
+     * Lớp sáp
+     * Biểu bì
+     * Khí khổng
+     * Tuyến mật
+     * Hệ thống tiết
+     * Lông, gai
+     * Túm lông
+          + Lông tiết keo
+
+                 Sinh dưỡng
+     * Rễ
+          + Rễ giả
+          + Rễ biến dạng
+     * Hệ chồi
+          + Chồi
+               o Chồi nách
+               o Chồi bên
+               o Chồi gốc
+               o Chồi nước
+          + Thân
+               o Nhánh
+               o Cuống
+               o Thân hành
+               o Thân rễ
+               o Thân biến dạng
+          + Lá
+               o Cuống lá
+               o Lá kèm
+               o Không cuống
+               o Lá biến dạng
+
+   Sinh sản
+   (Bào tử, hoa)
+     * Lá bào tử
+     * Sự phát triển của hoa
+     * Cụm hoa
+          + Cụm hoa vô hạn
+          + Cụm hoa hữu hạn
+     * Lá vảy
+          + Lá bắc
+     * Trục cụm hoa
+          + Cuống hoa
+          + Cán hoa
+     * Hoa
+          + Tiền khai hoa
+          + Vòng
+          + Tính đối xứng của hoa
+          + Hoa đồ
+          + Hoa thức
+     * Đế hoa
+          + Đế hoa rộng
+     * Bao hoa
+          + Tràng hoa
+               o Cánh môi
+          + Đài hoa
+     * Bộ nhụy
+          + Bầu nhụy
+               o Noãn
+          + Đầu nhụy
+     * Túi giao tử cái
+     * Bộ nhị
+          + Nhị
+          + Nhị lép
+          + Bao phấn
+               o Phấn hoa
+               o Khối phấn
+               o Buồng phấn
+               o Trung đới
+               o Hạt phấn
+          + Tầng nuôi dưỡng
+     * Trụ nhị nhụy
+     * Hoa giả
+     * Thể giao tử
+     * Thể bào tử
+     * Phôi
+     * Quả
+          + Giải phẫu quả
+          + Quả đơn
+          + Quả kép
+          + Quả phức
+          + Quả giả
+          + Thai sinh
+          + Bán thai sinh
+     * Hạt
+          + Sự hình thành hạt
+          + Sự phát tán hạt
+
+                  Dạng sống
+     * Hệ thống Raunkiær
+     * Trạng thái hoa hồng
+     * Thực vật đệm
+     * Dây leo
+          + Thân leo
+     * Cây bụi
+          + Cây bụi lùn
+          + Cây bụi bò lan
+     * Thực vật thân gỗ
+     * Thực vật thân thảo
+     * Thực vật mọng nước
+
+   Phân loại học
+   thực vật
+
+   Nghiên cứu
+   phân loại học
+   thực vật
+     * Lịch sử phân loại thực vật
+     * Tập mẫu cây
+     * Phân loại sinh học
+     * Danh pháp thực vật
+          + Tên thực vật
+          + Tên chính xác
+          + Trích dẫn tác giả
+          + Quy tắc Danh pháp của Quốc tế cho tảo, nấm và thực vật (ICN)
+          + - cho Cây Trồng (ICNCP)
+     * Bậc phân loại
+     * Hiệp hội cho Phân loại Thực vật Quốc tế (IAPT)
+     * Hệ thống phân loại thực vật
+          + Hệ thống Takhtajan
+          + Hệ thống APG II
+          + Hệ thống APG III
+     * Phân loại thực vật được gieo trồng
+          + Phân loại cam chanh
+          + Cultigen
+               o Giống cây trồng
+               o Nhóm cây trồng
+               o Giống hoa lan lai
+
+   Các nhóm
+   phân loại
+     * Sinh vật lạp thể cổ
+     * Thực vật có phôi
+          + Thực vật không mạch
+               o Rêu
+          + Thực vật có mạch
+               o Dương xỉ & Quyết
+               o Thực vật có hạt
+                    # Thực vật hạt trần
+                    # Thực vật có hoa
+
+   Nhóm phân
+   loại cũ
+     * Tảo
+     * Thực vật tản
+     * Thực vật hoa ẩn
+     * Thực vật thân–rễ
+
+     * Sinh lý học
+       thực vật
+     *
+       Nguyên liệu
+
+     * Dinh dưỡng
+     * Quang hợp
+          + Diệp lục
+          + Carotenoid
+               o Carotene
+               o Xanthophyll
+          + Flavonoid
+          + Anthocyanin
+          + Betalain
+     * Hormone thực vật
+     * Ưu thế ngọn
+     * Thoát hơi nước
+     * Áp suất trương
+     * Dòng khối nội bào
+     * Hạt aleurone
+     * Phytomelanin
+     * Đường
+     * Nhựa cây
+     * Tinh bột
+     * Cellulose
+     * Lignin
+     * Tanin
+     * Suberin
+
+   Sinh sản
+
+     * Tiến hóa
+     *
+       Sinh thái học
+
+     * Xen kẽ thế hệ
+     * Nang bào tử
+          + Bào tử
+          + Nang vi bào tử
+               o Vi bào tử
+          + Nang đại bào tử
+               o Đại bào tử
+     * Thụ phấn
+          + Động vật giao phấn
+          + Ống phấn
+     * Thụ tinh kép
+     * Nảy mầm
+     * Sinh sản sinh dưỡng
+     * Phát triển tiến hóa
+     * Lịch sử tiến hóa
+          + Niên biểu
+
+   Từ điển
+
+     * Thuật ngữ thực vật học
+     * Thuật ngữ hình thái thực vật học
+     * Từ vựng hình thái học thực vật
+
+   Thể loại
+
+   Stub icon
+
+   Bài viết về chủ đề sinh học này vẫn còn sơ khai. Bạn có thể giúp
+   Wikipedia mở rộng nội dung để bài được hoàn chỉnh hơn.
+
+     * x
+     * t
+     * s
+
+   Lấy từ
+   “https://vi.wikipedia.org/w/index.php?title=Diệp_lục&oldid=71911430”
+
+   Thể loại:
+     * Sơ khai sinh học
+     * Sắc tố quang hợp
+
+   Thể loại ẩn:
+     * Trang thiếu chú thích trong bài
+     * Tất cả bài viết sơ khai
+
+     * Trang này được sửa đổi lần cuối vào ngày 3 tháng 11 năm 2024,
+       07:50.
+     * Văn bản được phát hành theo Giấy phép Creative Commons Ghi
+       công–Chia sẻ tương tự; có thể áp dụng điều khoản bổ sung. Với việc
+       sử dụng trang web này, bạn chấp nhận Điều khoản Sử dụng và Quy định
+       quyền riêng tư. Wikipedia® là thương hiệu đã đăng ký của Wikimedia
+       Foundation, Inc., một tổ chức phi lợi nhuận.
+
+     * Chính sách quyền riêng tư
+     * Giới thiệu Wikipedia
+     * Lời phủ nhận
+     * Bộ Quy tắc Ứng xử Chung
+     * Lập trình viên
+     * Thống kê
+     * Tuyên bố về cookie
+     * Phiên bản di động
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Tìm kiếm
+   ____________________
+   (BUTTON) Tìm kiếm
+
+   [ ] Đóng mở mục lục
+   Diệp lục
+   (BUTTON) 98 ngôn ngữ Thêm đề tài

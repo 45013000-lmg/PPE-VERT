@@ -1,0 +1,75 @@
+
+   [ ] Đóng mở mục lục
+
+Xanh lá cây
+
+   [ ] 173 ngôn ngữ
+     * Afrikaans
+--
+   Bách khoa toàn thư mở Wikipedia
+
+   #008000
+   Xanh lá cây
+
+   Tọa độ phổ
+   Bước sóng 520–570 nm
+--
+   Nguồn sRGB approximation to NCS S 2060-G^[4]
+   B: Chuẩn hóa thành [0–255] (byte)
+
+   Xanh lá cây, xanh lá hay lục (tiếng Anh: green) là màu sắc trong tự
+   nhiên. Hầu hết các lá cây có màu xanh lá nhờ các chất diệp lục trong
+   cây. Đa số người thấy màu này khi nhìn vào hình bên.
+
+   Màu xanh lá cây có bước sóng từ 500-565 nm.
+
+Tọa độ màu
+
+--
+     * CMYK (c, m, y, k) = (100, 0, 100, 50)
+     * HSV (h, s, v) = (120, 100, 50)
+
+   [250px-Color_icon_green.svg.png] Các sắc thái của màu xanh lá cây
+
+Xem thêm
+
+--
+   ← Tần số cao hơn       Bước sóng dài hơn →
+   Nhìn thấy được
+   (quang học)
+   Tím · Xanh lam · Xanh lơ · Xanh lục · Vàng · Cam · Đỏ
+   Vi ba
+   Băng W · Băng V · Băng Q · Băng K[a] · Băng K · Băng K[u] · Băng X ·
+   Băng C · Băng S · Băng L
+--
+     * Cam
+     * Vàng
+     * Lục
+     * Xanh lơ
+     * Xanh dương
+     * Chàm
+     * Tím
+     * Tía
+--
+
+   Thuật ngữ
+   cơ bản
+     * Xanh dương
+     * Xanh lá cây
+     * Đỏ
+     * Vàng
+     * Hồng
+--
+     * Index of color-related articles
+
+   Lấy từ
+   “https://vi.wikipedia.org/w/index.php?title=Xanh_lá_cây&oldid=71756080”
+
+   Thể loại:
+     * Màu sắc
+--
+   (BUTTON) Tìm kiếm
+
+   [ ] Đóng mở mục lục
+   Xanh lá cây
+   (BUTTON) 173 ngôn ngữ Thêm đề tài

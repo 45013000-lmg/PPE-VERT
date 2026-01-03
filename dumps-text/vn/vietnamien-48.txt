@@ -1,0 +1,282 @@
+     * Tra cứu lộ trình
+     * Mua vé
+     * Giới thiệu [drop.png]
+          + Về VinBus
+          + Về Ebus
+          + Mạng lưới tuyến
+
+   placeholder+image
+     * Tin tức
+     * Tuyển dụng
+     * Liên hệ
+     * [icon_lang.png] vi [dropicon.png]
+          + en_US en
+          + vi vi
+
+   Tải app VinID tại đây
+   placeholder+image placeholder+image
+     *
+     *
+     *
+
+   Menu
+   placeholder+image
+   loading
+   Vinbus Vinbus Vinbus
+   Xe VinBus đang tới, chờ xíu nha
+
+   placeholder+image
+   Tìm đường xe buýt
+   Chọn vùng TP Hồ Chí Minh______
+   icon-location
+
+   Phú Quốc
+   icon-location
+
+   TP Hồ Chí Minh
+   icon-location
+
+   TP Hà Nội
+   icon-location
+
+   Nha Trang
+   Điểm đi ____________________
+   Điểm đến ____________________ (BUTTON) placeholder+image
+   (BUTTON)
+
+   Tìm đường
+   placeholder+image
+
+   Mua vé
+
+   Thông tin không hợp lệ, vui lòng chọn địa điểm được gợi ý.
+   placeholder+image
+
+   vinbus
+   Phụng sự từ trái tim
+   Vì cuộc sống tốt đẹp hơn cho mọi người
+   Kết nối giao thông xanh tương lai
+
+   vinbus
+   Phương tiện của tương lai
+   Xe buýt chạy bằng 100% điện - êm ái
+   không phát thải - không ồn ào
+
+   vinbus
+   Dịch vụ thân thiện
+   Dịch vụ tận tâm
+   Thái độ chuyên nghiệp, thân thiện
+
+   vinbus
+   Hòa tuyến Hà Nội
+   VinBus chính thức tham gia mạng lưới
+   Vận tải hành khách công cộng Hà Nội
+   placeholder+image
+
+Tin tức - sự kiện
+
+   Tin tức Vinbus/Vingroup
+
+   new
+   TP. HCM: VINBUS MIỄN VÉ TUYẾN D4 – 33 – 150 NHÂN DỊP LỄ TẾT DƯƠNG LỊCH
+   VÀ TẾT NGUYÊN ĐÁN 2026
+
+   Xem chi tiết
+
+   new
+   Thay đổi lộ trình tuyến VinBus mã HP1 và HP2 từ 15/11/2025
+   Từ ngày 15/11/2025, hệ thống VinBus chính thức triển khai phương án vận
+   hành mới cho hai tuyến xe buýt điện mang số hiệu HP1 và HP2, thay thế
+   cho các tuyến cũ nhằm tối ưu hóa hành trình, mở rộng vùng phục vụ và
+   mang lại trải nghiệm di chuyển thuận tiện, xanh - sạch - hiện đại hơn
+   cho hành khách.
+
+   Xem chi tiết
+
+   new
+   Ra mắt dịch vụ “xe điện học đường chuyên biệt” đầu tiên tại Việt Nam
+   Hà Nội, ngày 12/11/2025 – GSM và VinBus chính thức ra mắt School Bus –
+   dịch vụ “Xe điện học đường chuyên biệt” đầu tiên tại Việt Nam. Đây là
+   dòng xe chở khách duy nhất trên toàn quốc đáp ứng đầy đủ các tiêu chuẩn
+   kỹ thuật và an toàn dành cho xe đưa đón học sinh theo Luật Trật tự An
+   toàn Giao thông đường bộ 2024, với hệ thống tiện ích được thiết kế đặc
+   thù.
+
+   Xem chi tiết
+
+   new
+   [THÔNG BÁO] ĐIỀU CHỈNH LỘ TRÌNH VÀ TĂNG THỜI GIAN VẬN HÀNH CÁC TUYẾN
+   BUS PHỤC VỤ SỰ KIỆN WORLD TOUR (08–09/11/2025)
+   Để đảm bảo việc di chuyển thuận tiện trong thời gian diễn ra sự kiện
+   WORLD TOUR (08–09/11/2025), các tuyến OCP1, OCP2, OCT1 và OCT2 sẽ được
+   điều chỉnh lộ trình, bổ sung điểm dừng và tăng tần suất trong những
+   khung giờ nhất định.
+
+   Xem chi tiết
+   placeholder+image
+   placeholder+image
+   Tin tức ngành giao thông vận tải
+
+   new
+   HÀ NỘI MIỄN PHÍ VÉ XE BUÝT VÀ ĐƯỜNG SẮT ĐÔ THỊ DỊP KỶ NIỆM 80 NĂM QUỐC
+   KHÁNH
+   Nhằm phục vụ nhu cầu đi lại của người dân và du khách trong dịp Đại lễ
+   kỷ niệm 80 năm Quốc khánh nước Cộng hòa xã hội chủ nghĩa Việt Nam
+   (02/9/1945 – 02/9/2025), Hà Nội triển khai chính sách miễn phí vé các
+   phương tiện vận tải hành khách công cộng có trợ giá.
+
+   Xem chi tiết
+
+   new
+   Tập 12: Góc nhìn thú vị về giao thông Hà Nội
+   Có những thứ thú vị mà chỉ giao thông ở Việt Nam mới có, trong chương
+   trình Chặng Đường Xanh tuần này, hãy cùng MC Sơn Lâm khám phá những nét
+   đặc trưng thú vị và sự phát triển của giao thông qua con mắt của Cee
+   Jay
+
+   Xem chi tiết
+   placeholder+image
+   placeholder+image
+
+   Xem thêm
+   placeholder+image
+   Xe buýt<br>đưa đón
+   280+
+   Xe buýt
+   đưa đón
+   Tuyến<br>đường
+   30+
+   Tuyến
+   đường
+   Điểm kết nối
+   300+
+   Điểm kết nối
+   Khu vực <br> dịch vụ
+   05
+   Khu vực
+   dịch vụ
+   placeholder+image
+   placeholder+image
+   placeholder+image
+   placeholder+image
+   placeholder+image
+
+Giới thiệu
+
+   Là công ty đầu tiên tại Việt Nam cung cấp dịch vụ VTHKCC bằng xe buýt
+   điện, VinBus tự hào là đơn vị tiên phong nâng tầm trải nghiệm cho khách
+   hàng với chất lượng dịch vụ đẳng cấp, thân thiện và an toàn.
+
+   Với mục tiêu tăng sức hấp dẫn của giao thông công cộng, xe buýt điện
+   VinBus với công nghệ hiện đại, không khói bụi, không phát thải sẽ góp
+   phần giảm ô nhiễm môi trường, mang lại bầu không khí trong lành cho
+   Thành phố.
+
+   Vì một tương lai phát triển bền vững, VinBus luôn sẵn sàng “Phụng sự từ
+   trái tim”.
+
+   Xem chi tiết
+   placeholder+image
+
+5 Lợi thế
+của VinBus
+
+   placeholder+image
+   Thân thiện với môi trường
+   Xanh - Sạch - Đáng sống - Không khí thải - Không tiếng ồn. Vì một đô
+   thị như vậy, xe buýt điện VinBus sử dụng nguồn năng lượng sạch nhằm góp
+   phần cải thiện hệ thống giao thông công cộng. Hành khách sẽ được tiếp
+   cận với xu hướng kết nối xanh, thuận tiện, văn minh, thân thiện với môi
+   trường.
+   placeholder+image
+   Chất lượng dịch vụ hàng đầu
+   Với tinh thần “Phụng sự từ trái tim”, VinBus sẽ đem đến trải nghiệm
+   khác biệt cho hành khách với dịch vụ thân thiện, nhiều tiện ích công
+   nghệ hiện đại, hệ thống tra cứu tuyến đường và đánh giá chất lượng dịch
+   vụ tiện lợi trên VinID.
+   placeholder+image
+   Đội ngũ nhân lực lành nghề
+   Tất cả tài xế được đào tạo một cách bài bản, với tay nghề vững vàng
+   theo đúng tiêu chuẩn của VinBus. Được hỗ trợ bởi camera AI, khi tài xế
+   có dấu hiệu buồn ngủ, mất tập trung,... sẽ được cảnh báo ngay để điều
+   chỉnh hành vi, đảm bảo xe được vận hành an toàn.
+   placeholder+image
+   Doanh nghiệp vì xã hội
+   Mọi lợi nhuận thu về sẽ được tái đầu tư vào việc cải thiện cơ sở vật
+   chất và chất lượng dịch vụ. Với mô hình phi lợi nhuận, VinBus góp phần
+   xây dựng nền giao thông công cộng văn minh, hiện đại, lan tỏa và mở
+   rộng dịch vụ ra nhiều tỉnh thành để người Việt dễ dàng tận hưởng VTHKCC
+   chất lượng cao.
+   placeholder+image
+   Công nghệ tiên tiến
+   Yếu tố công nghệ được đề cao trong quá trình vận hành tại VinBus. Với
+   hệ thống quản lý xe, lịch trình xe, quản lý trạm sạc thông minh trong
+   thời gian thực, hệ thống công nghệ hiện đại của VinBus hỗ trợ việc vận
+   hành được hiệu quả, an toàn.
+
+5 Lợi thế
+của VinBus
+
+   placeholder+image
+
+Trải nghiệm
+trực tuyến
+
+   Tìm kiếm tuyến xe và điểm dừng dễ dàng
+   Tra cứu giá cước chính xác
+   Cùng trải nghiệm “Bản đồ thông minh” của VinBus để tìm ngay cho mình
+   một hành trình di chuyển thuận tiện và nhanh chóng nhất!
+
+   Trải nghiệm ngay
+   placeholder+image
+   Vinbus
+   placeholder+image
+
+Vì Việt Nam xanh
+
+   placeholder+image
+   6,036,380.1
+   6,036,380.1
+   Lượng CO2 giảm phát thải khi sử dụng xe buýt điện VinBus thay cho các
+   phương tiện khác
+   Tương đương lượng CO2 mà 277,280 cây xanh hấp thụ trong vòng 1 năm.
+
+   Chú thích:
+     * - Số lượng ước tính được cộng dồn mỗi ngày dựa trên tổng số km vận
+       hành của VinBus trên toàn quốc
+     * - 1 cây xanh trưởng thành hấp thụ trung bình 21.7 kg CO2 mỗi năm
+       (NC State University)
+
+   Vì Việt Nam xanh
+
+Đối tác
+
+   placeholder+image placeholder+image placeholder+image placeholder+image
+   placeholder+image placeholder+image placeholder+image placeholder+image
+   placeholder+image
+
+   placeholder+image
+   Công ty TNHH Dịch vụ Vận tải Sinh thái VinBus
+   © Bản quyền Vingroup 2018
+     * Chính sách bảo vệ thông tin cá nhân
+     * Tiêu chuẩn dịch vụ VinBus
+
+   placeholder+image
+     * Tra cứu lộ trình
+     * Giới thiệu
+     * Tin tức
+     * Tuyển dụng
+     * Liên hệ
+
+   placeholder+image
+   1900866663 lienhe@vinbus.vn
+   Head Office
+   Lô GSP03, Khu Đô thị Vinhomes Smart City, Tây Mỗ - Đại Mỗ, Nam Từ Liêm,
+   Hà Nội
+   placeholder+image MST/ĐKKD: 0108718068
+
+   Tải app VinBus để trải nghiệm tại đây
+   placeholder+image placeholder+image
+   Kết nối
+     *
+     *

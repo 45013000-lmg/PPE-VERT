@@ -1,0 +1,1755 @@
+   #Sửa đổi Wikipedia (vi) Nguồn cấp Atom của Wikipedia
+
+   Bước tới nội dung
+
+   [ ] Trình đơn chính
+   Trình đơn chính
+   (BUTTON) chuyển sang thanh bên (BUTTON) ẩn
+   Điều hướng
+     * Trang Chính
+     * Nội dung chọn lọc
+     * Bài viết ngẫu nhiên
+     * Thay đổi gần đây
+     * Báo lỗi nội dung
+
+   Tương tác
+     * Hướng dẫn
+     * Giới thiệu Wikipedia
+     * Cộng đồng
+     * Thảo luận chung
+     * Giúp sử dụng
+     * Liên lạc
+     * Tải lên tập tin
+
+   Wikipedia Bách khoa toàn thư mở
+   Tìm kiếm
+   ____________________
+   (BUTTON) Tìm kiếm
+
+   [ ] Giao diện
+
+     * Quyên góp
+     * Tạo tài khoản
+     * Đăng nhập
+
+   [ ] Công cụ cá nhân
+     * Quyên góp
+     * Tạo tài khoản
+     * Đăng nhập
+
+Nội dung
+
+   (BUTTON) chuyển sang thanh bên (BUTTON) ẩn
+     * Đầu
+     * 1 Từ nguyên
+     * 2 Lịch sử
+     * 3 Lục lạp
+       (BUTTON) Hiện/ẩn mục Lục lạp
+          + 3.1 Cấu tạo của lục lạp
+          + 3.2 Sắc tố quang hợp
+          + 3.3 Phổ hấp thụ của sắc tố
+     * 4 Pha sáng
+       (BUTTON) Hiện/ẩn mục Pha sáng
+          + 4.1 Điều kiện xảy ra và bản chất của pha sáng quá trình quang
+            hợp
+          + 4.2 Quang hệ PSI và PSII
+          + 4.3 Quang phân ly
+               o 4.3.1 Thí nghiệm của van Niel
+               o 4.3.2 Thí nghiệm đánh dấu phóng xạ
+               o 4.3.3 Phương trình tổng quát của quang phân ly
+          + 4.4 Chuỗi truyền electron thẳng hàng
+     * 5 Pha tối
+       (BUTTON) Hiện/ẩn mục Pha tối
+          + 5.1 Chu trình Calvin
+          + 5.2 Chu trình Hatch-Slack (C4)
+          + 5.3 Hô hấp sáng
+     * 6 Ý nghĩa và vai trò
+       (BUTTON) Hiện/ẩn mục Ý nghĩa và vai trò
+          + 6.1 Về mặt năng lượng và dinh dưỡng
+          + 6.2 Về mặt môi trường
+     * 7 Tham khảo
+     * 8 Liên kết ngoài
+
+   [ ] Đóng mở mục lục
+
+Quang hợp
+
+   [ ] 157 ngôn ngữ
+     * Afrikaans
+     * Alemannisch
+     * العربية
+     * Aragonés
+     * অসমীয়া
+     * Asturianu
+     * Avañe'ẽ
+     * Авар
+     * Azərbaycanca
+     * تۆرکجه
+     * Bahasa Hulontalo
+     * Bahasa Indonesia
+     * Bahasa Melayu
+     * বাংলা
+     * 閩南語 / Bân-lâm-gí
+     * Башҡортса
+     * Беларуская
+     * Беларуская (тарашкевіца)
+     * Madhurâ
+     * भोजपुरी
+     * Bikol Central
+     * བོད་ཡིག
+     * Bosanski
+     * Brezhoneg
+     * Български
+     * Буряад
+     * Català
+     * Cebuano
+     * Čeština
+     * ChiShona
+     * ChiTumbuka
+     * Cymraeg
+     * Dansk
+     * الدارجة
+     * Deutsch
+     * Eesti
+     * Ελληνικά
+     * English
+     * Español
+     * Esperanto
+     * Estremeñu
+     * Euskara
+     * فارسی
+     * Fiji Hindi
+     * Français
+     * Frysk
+     * Gaeilge
+     * Gaelg
+     * Gàidhlig
+     * Galego
+     * ГӀалгӀай
+     * ગુજરાતી
+     * 한국어
+     * Hausa
+     * Հայերեն
+     * हिन्दी
+     * Hrvatski
+     * Ido
+     * Ilokano
+     * Interlingua
+     * IsiXhosa
+     * Íslenska
+     * Italiano
+     * עברית
+     * Jawa
+     * ಕನ್ನಡ
+     * Kapampangan
+     * ქართული
+     * Қазақша
+     * Кыргызча
+     * Kiswahili
+     * Kreyòl ayisyen
+     * Kriyòl gwiyannen
+     * Kurdî
+     * ລາວ
+     * Latina
+     * Latviešu
+     * Лезги
+     * Lietuvių
+     * Limburgs
+     * Lombard
+     * Magyar
+     * मैथिली
+     * Македонски
+     * Malagasy
+     * മലയാളം
+     * मराठी
+     * Монгол
+     * မြန်မာဘာသာ
+     * Naijá
+     * Nederlands
+     * Nedersaksies
+     * नेपाली
+     * नेपाल भाषा
+     * 日本語
+     * Нохчийн
+     * Nordfriisk
+     * Norsk bokmål
+     * Norsk nynorsk
+     * Occitan
+     * Oromoo
+     * Oʻzbekcha / ўзбекча
+     * ਪੰਜਾਬੀ
+     * پنجابی
+     * پښتو
+     * ဘာသာမန်
+     * Piemontèis
+     * Plattdüütsch
+     * Polski
+     * Português
+     * Qaraqalpaqsha
+     * Română
+     * Runa Simi
+     * Русиньскый
+     * Русский
+     * Саха тыла
+     * संस्कृतम्
+     * سرائیکی
+     * Scots
+     * Shqip
+     * සිංහල
+     * Simple English
+     * سنڌي
+     * Slovenčina
+     * Slovenščina
+     * Soomaaliga
+     * کوردی
+     * Српски / srpski
+     * Srpskohrvatski / српскохрватски
+     * Sunda
+     * Suomi
+     * Svenska
+     * Tagalog
+     * தமிழ்
+     * Татарча / tatarça
+     * తెలుగు
+     * ไทย
+     * Тоҷикӣ
+     * ᏣᎳᎩ
+     * Türkçe
+     * Українська
+     * اردو
+     * ئۇيغۇرچە / Uyghurche
+     * Vèneto
+     * Vepsän kel’
+     * Võro
+     * 文言
+     * Winaray
+     * 吴语
+     * ייִדיש
+     * Yorùbá
+     * 粵語
+     * Zazaki
+     * Žemaitėška
+     * 中文
+     * Batak Mandailing
+     * ရခိုင်
+
+   Sửa liên kết
+
+     * Bài viết
+     * Thảo luận
+
+   [ ] Tiếng Việt
+
+     * Đọc
+     * Sửa đổi
+     * Sửa mã nguồn
+     * Xem lịch sử
+
+   [ ] Công cụ
+   Công cụ
+   (BUTTON) chuyển sang thanh bên (BUTTON) ẩn
+   Tác vụ
+     * Đọc
+     * Sửa đổi
+     * Sửa mã nguồn
+     * Xem lịch sử
+
+   Chung
+     * Các liên kết đến đây
+     * Thay đổi liên quan
+     * Liên kết thường trực
+     * Thông tin trang
+     * Trích dẫn trang này
+     * Tạo URL rút gọn
+     * Tải mã QR
+
+   In và xuất
+     * Tạo một quyển sách
+     * Tải dưới dạng PDF
+     * Bản để in ra
+
+   Tại dự án khác
+     * Wikimedia Commons
+     * Wikiquote
+     * Khoản mục Wikidata
+
+   Giao diện
+   (BUTTON) chuyển sang thanh bên (BUTTON) ẩn
+   Đây là một bài viết cơ bản. Nhấn vào đây để biết thêm thông tin.
+   Bách khoa toàn thư mở Wikipedia
+
+   Bài viết này cần thêm chú thích nguồn gốc để kiểm chứng thông tin. Mời
+   bạn giúp hoàn thiện bài viết này bằng cách bổ sung chú thích tới các
+   nguồn đáng tin cậy. Các nội dung không có nguồn có thể bị nghi ngờ và
+   xóa bỏ. (Tìm hiểu cách thức và thời điểm xóa thông báo này)
+   [250px-Leaf_1_web.jpg] Lá cây: nơi thực hiện quá trình quang hợp ở thực
+   vật.
+
+   Quang tổng hợp hay gọi tắt là quang hợp là quá trình thu nhận và chuyển
+   hóa năng lượng ánh sáng Mặt trời của thực vật, tảo và một số vi khuẩn
+   để tạo ra hợp chất hữu cơ phục vụ bản thân cũng như làm nguồn thức ăn
+   cho hầu hết các sinh vật trên Trái Đất. Quang hợp trong thực vật thường
+   liên quan đến chất tố diệp lục màu xanh lá cây và tạo ra oxy như một
+   sản phẩm phụ.^[1]
+
+   Năng lượng hóa học này được lưu trữ trong các phân tử carbohydrate như
+   đường, và được tổng hợp từ carbon dioxide và nước. Trong hầu hết các
+   trường hợp, oxy cũng được tạo ra như là một sản phẩm phụ. Hầu hết các
+   thực vật, tảo và vi khuẩn cyanobacteria thực hiện quang hợp, và các
+   sinh vật như vậy được gọi là sinh vật quang dưỡng. Quang hợp giúp duy
+   trì nồng độ oxy trong không khí và cung cấp tất cả các hợp chất hữu cơ
+   và hầu hết các năng lượng cần thiết cho sự sống trên Trái Đất.^[1]
+
+   Mặc dù quá trình quang hợp được thực hiện khác nhau với các loài thực
+   vật khác nhau, quá trình này luôn luôn bắt đầu khi năng lượng từ ánh
+   sáng được hấp thụ bởi các protein được gọi là "trung tâm phản ứng quang
+   hợp" có chứa chất diệp lục (và các Tế bào sắc tố có màu khác). Ở thực
+   vật, các protein này được tổ chức bên trong các bào quan gọi là lục
+   lạp, có nhiều nhất trong các tế bào lá, trong khi ở vi khuẩn các
+   protein này được nhúng vào trong màng sinh chất (màng tế bào). Trong
+   các phản ứng phụ thuộc vào ánh sáng trên, một số năng lượng được sử
+   dụng để tách các electron từ các chất thích hợp như nước, sản xuất khí
+   oxy. Thêm vào đó, hai hợp chất tiếp tục được tạo ra: nicotinamide
+   adenine dinucleotide phosphate (NADPH) và adenosine triphosphate (ATP),
+   các "đơn vị tiền tệ năng lượng" của các tế bào.
+   [250px-Simple_photosynthesis_overview.svg.png] Tóm tắt quá trình quang
+   tổng hợp (photosynthesis): quang hợp bao gồm hai pha: pha sáng xảy ra ở
+   thylakoid, còn pha tối xảy ra ở chất nền stroma lục lạp.
+
+   Ở thực vật, tảo và vi khuẩn lam, đường được sản xuất bởi một chuỗi các
+   phản ứng không phụ thuộc vào ánh sáng, được gọi là chu trình Calvin,
+   nhưng một số vi khuẩn sử dụng các cơ chế khác nhau, chẳng hạn như chu
+   trình Krebs ngược. Trong chu trình Calvin, khí carbon dioxide được tích
+   hợp vào các hợp chất carbon hữu cơ đã có sẵn, chẳng hạn như ribulose
+   bisphosphate (RuBP).^[2] Sử dụng ATP và NADPH được các phản ứng phụ
+   thuộc vào ánh sáng tạo ra, kết quả là các hợp chất này sau đó được giảm
+   và loại bỏ để hình thành carbohydrate cao hơn như glucose.
+
+   Trong các chuỗi thức ăn tự nhiên, các sinh vật quang dưỡng (sống nhờ
+   nguồn năng lượng do quang hợp) thường là những mắt xích đầu tiên; nghĩa
+   là các sinh vật còn lại đều sử dụng sản phẩm của quá trình quang hợp
+   phục vụ nhu cầu dinh dưỡng của chúng. Do vậy, quang hợp là chuỗi phản
+   ứng hóa học quan trọng bậc nhất trên Trái Đất, vì nó tạo năng lượng cho
+   sự sống trong sinh quyển. Quá trình quang hợp cũng sản sinh ra khí oxy,
+   tạo nên một bầu khí quyển chứa nhiều oxy cho Trái Đất, một bầu khí
+   quyển vốn dĩ chỉ chứa nitơ và cácbônic trước khi có sinh vật quang
+   dưỡng.
+
+   Ở thực vật, quá trình quang hợp chủ yếu được thực hiện nhờ diệp lục
+   (chlorophyll nghĩa là diệp lục; chloro- nghĩa là thứ có màu xanh lục.
+   Sắc tố này thường chứa trong các bào quan gọi là lục lạp. Mặc dù, hầu
+   hết các phần của nhiều loài thực vật đều có màu xanh, năng lượng của
+   quá trình quang hợp chủ yếu được thu nhận từ lá. Quá trình quang hợp
+   của thực vật, tảo và vi khuẩn lam (cyanobacteria) sử dụng chlorophyll
+   và sản sinh ra oxy. Một số loài vi khuẩn quang dưỡng không sử dụng
+   chlorophyll mà dùng một sắc tố tương tự gọi là bacteriochlorophylls và
+   quá trình quang hợp của các vi khuẩn này không sản sinh oxy.
+
+Từ nguyên
+
+   [sửa | sửa mã nguồn]
+
+   Chữ Hán: 光総合, 光合, tiếng Anh là Photosynthesis bắt nguồn từ tiếng Hy Lạp
+   φῶς: phōs (ánh sáng) và σύνθεσις: synthesis (đặt cùng nhau). Do đó quá
+   trình này có tên quang hợp (光合), gồm hai chữ quang (光) - "ánh sáng", và
+   hợp (合) - "nhóm lại". Tiếng Hy Lạp cũng tương tự, từ φῶς (tức phōs)
+   nghĩa là "ánh sáng", và σύνθεσις (tức synthesis) nghĩa là "tổng hợp
+   lại".^[3]^[4]^[5]
+
+Lịch sử
+
+   [sửa | sửa mã nguồn]
+
+   Các sinh vật đầu tiên trên Trái Đất xuất hiện từ cách đây khoảng 3 - 4
+   tỉ năm tổng hợp thức ăn cho chúng từ những vật chất vô cơ bằng sự hóa
+   tổng hợp (chemosynthesis), tức là lấy năng lượng từ các phản ứng hóa
+   học từ các chất vô cơ như H[2], NH[4], H[2]S. Ngày nay, các sinh vật
+   này vẫn còn tồn tại trong những môi trường rất đặc biệt như trong các
+   hố xí, suối nước nóng có lưu huỳnh và các miệng núi lửa trên các sàn
+   đại dương, được gọi là các sinh vật yếm khí. Sau đó xuất hiện nhóm sinh
+   vật có khả năng hấp thu năng lượng ánh sáng mặt trời để tổng hợp ra các
+   hợp chất hữu cơ phức tạp, sự quang tổng hợp (photosynthesis), thường
+   được gọi tắt là sự quang hợp, đây là một quá trình sinh học, chuyển
+   năng lượng ánh sáng thành năng lượng hóa học. Các sinh vật quang hợp
+   đầu tiên này không tạo ra oxy.
+   [500px-Calvin_cycle_background_vi.svg.png] Chu trình Calvin
+
+   Về sau một số sinh vật có khả năng sử dụng nước cho sự quang hợp, tạo
+   ra O[2], dần dần tích tụ trong khí quyển, một số sinh vật tiến hóa khác
+   có khả năng sử dụng O[2] xúc tác trong các phản ứng để giải phóng năng
+   lượng trong các phân tử thức ăn. Quá trình này được gọi là sự hô hấp
+   hiếu khí (aerobic respiration). Sự quang hợp sử dụng CO[2] và H[2]O tạo
+   ra từ sự hô hấp hiếu khí và sự hô hấp hiếu khí thì sử dụng thức ăn và
+   O[2] sinh ra từ sự quang hợp.
+
+   Cả hai loại sinh vật này được gọi chung là sinh vật tự dưỡng-tự tổng
+   hợp chất hữu cơ từ vật chất vô cơ, phân biệt với sinh vật dị dưỡng phải
+   lấy thức ăn hữu cơ từ môi trường chung quanh, chúng tiêu thụ các sinh
+   vật tự dưỡng.
+
+Lục lạp
+
+   [sửa | sửa mã nguồn]
+   [250px-Chloroplast_%28numbers_version%29.svg.png] Cấu tạo của một lục
+   lạp trong tế bào thực vật trong đó (1) granum (2) màng lục lạp bao gồm
+   (3) màng ngoài, (4) xoang gian màng và (5) màng trong. (6) Thylakoid
+   bao gồm (7) xoang thylakoid và (8) màng thylakoid. (10) Chất nền stroma
+   (11) DNA vòng, trần của lục lạp (12) Ribosome (14) Hạt tinh bột
+
+   Để hiểu chi tiết về lục lạp, hãy tham khảo bài viết Lục lạp.
+
+Cấu tạo của lục lạp
+
+   [sửa | sửa mã nguồn]
+
+   Lục lạp là một bào quan đặc biệt của tế bào (đặc biệt là thực vật),
+   giúp chuyển hóa và dự trữ năng lượng photon ánh sáng dưới dạng các liên
+   kết trong phân tử glucose. Giống ty thể, màng lục lạp được cấu tạo bởi
+   hai lớp màng phospholipid kép nhưng màng trong không xẻ khúc mạnh thành
+   các mào, mesosome... mà hai lớp màng khá bằng phẳng. Bên trong lục lạp
+   được bao bọc bởi chất nền stroma, chứa hệ enzyme tham gia vào pha tối
+   quá trình quang hợp.
+
+   Thylakoid cấu tạo bởi lớp phospholipid kép, màng thylakoid chứa các
+   phức hệ quang hợp (sắc tố quang hợp), nơi thực hiện chuỗi truyền
+   electron (thẳng hàng hoặc vòng) nhằm bơm proton H^+ từ chất nền vào
+   xoang thylakoid để bơm qua protein ATP synthase tổng hợp nên ATP cho
+   nhằm phục vụ cho pha tối quá trình quang hợp. Thylakoid xếp chồng lên
+   nhau tạo thành hạt grana (granum).
+
+   Bên cạnh đó, tương tự như ty thể, lục lạp có DNA vòng trần cho nên có
+   khả năng nhân đôi độc lập với nhân tế bào. Ribosome của lục lạp cũng
+   khá đặc biệt là ribosome 70S (giống như ribosome của vi khuẩn) trong đó
+   ribosome của sinh vật nhân thực là 80S.
+
+   Ở động vật, do không có lục lạp nên cacbohydrate không được tổng hợp từ
+   lục lạp. Tuy nhiên, ta cũng có bào quan khác tương tự thay thế đó chính
+   là lưới nội chất (ER) trơn, là nơi tổng hợp nên lipid, cacbohydrate cho
+   tế bào, dự trữ cation Ca^2+ và khử độc cho tế bào.
+
+Sắc tố quang hợp
+
+   [sửa | sửa mã nguồn]
+
+   Có khá nhiều loại sắc tố quang hợp như diệp lục, carotenoid, phycoblin,
+   anthocyanine... Hầu hết chúng đều có bản chất là lipid (steroid) nên có
+   tính kị nước do đó chúng hầu như không tan trong nước (ngoại trừ
+   anthocyanine, có trong củ dền, tan mạnh trong nước do nó không có bản
+   chất là lipid). Ở thực vật, sắc tố quang hợp chính là chlorophyll (mà
+   cụ thể là chlorophyll a), các sắc tố phụ như chlorophyll b,
+   caroteinoid, phycobilin... có vai trò hấp thụ năng lượng photon và
+   truyền cho chlorophyll a trung tâm, bên cạnh đó sắc tố phụ cũng góp
+   phần sưởi ấm cho tế bào.
+
+Phổ hấp thụ của sắc tố
+
+   [sửa | sửa mã nguồn]
+
+   Phổ hấp thụ của sắc tố là câu trả lời thích hợp nhất cho câu hỏi: "Tại
+   sao lá cây có màu xanh?" và đáp án này đến từ chlorophyll của lục lạp
+   trong tế bào lá cây (cụ thể là tế bào mô giậu). Ánh sáng lưỡng tính tức
+   vừa có tính chất sóng vừa có tính chất hạt (hạt photon ánh sáng), và
+   mối quan hệ giữa bước sóng và năng lượng photon tỉ lệ nghịch với nhau.
+   Nghĩa là ánh sáng có bước sóng càng nhỏ, năng lượng photon càng lớn như
+   ánh sáng tím (có bước sóng ngắn trong các vùng ánh sáng nên năng lượng
+   cao gấp đôi ánh sáng đỏ). Ánh sáng trắng là hỗn hợp của nhiều vùng màu
+   xếp từ bước sóng dài đến ngắn là đỏ, cam, vàng, lục, lam, chàm và tím.
+   Chlorophyll hấp thụ ánh sáng đỏ và tím mạnh nhất còn ánh sáng xanh hấp
+   thụ kém nhất (gần như không hấp thụ). Do đó khi chiếu ánh sáng trắng
+   vào chlorophyll thì chỉ có ánh sáng xanh lục không bị hấp thụ và phản
+   xạ lại nên ta nhìn thấy lá cây có màu xanh. Nếu loại bỏ ánh sáng xanh
+   lục thì quá trình quang hợp diễn ra vẫn bình thường, không ảnh hưởng
+
+Pha sáng
+
+   [sửa | sửa mã nguồn]
+   Bài chi tiết: Chuỗi chuyền điện tử
+
+Điều kiện xảy ra và bản chất của pha sáng quá trình quang hợp
+
+   [sửa | sửa mã nguồn]
+   [250px-Chloroplast_in_leaf_of_Anemone_sp_TEM_12000x.png] Ảnh chụp hiển
+   vi điện tử của một lục lạp: chồng grana được tạo bởi thylakoid - nơi
+   xảy ra pha sáng quá trình quang hợp
+
+   Pha sáng quá trình quang hợp xảy ra dưới tác dụng của ánh sáng. Ở tế
+   bào thực vật, quá trình này diễn ra ở thylakoid trong lục lạp. Pha sáng
+   thực chất là quá trình phosphoryl hóa (để tổng hợp ATP, adenosine
+   triphosphate) và quá trình tổng hợp nên NADPH nhằm cung cấp năng lượng
+   cho pha tối quá trình quang hợp. Vậy bản chất của pha sáng là chuyển
+   năng lượng từ photon ánh sáng sang phân tử ATP, NADPH[2] mà cụ thể là
+   dưới dạng các liên kết hóa học trong ATP (liên kết cao năng của nhóm
+   phosphate) và NADPH[2].
+
+Quang hệ PSI và PSII
+
+   [sửa | sửa mã nguồn]
+
+   Quang hệ là phức hệ của protein với các sắc tố quang hợp. Mỗi quang hệ
+   bao gồm các sắc tố phụ (như carotenoid, chlorophyll b...), đôi
+   chlorophyll a trung tâm và một chất nhận electron sơ cấp. Có hai loại
+   chlorophyll a trung tâm là P680 (tức chlorophyll a hoạt động hiệu quả
+   nhất ở ánh sáng có bước sóng là 680) và P700 (tức chlorophyll a hoạt
+   động tốt nhất ở ánh sáng có bước sóng là 700). Vậy quang hệ PSII thì
+   đôi chlorophyll a trung tâm là P680, còn quang hệ PSI thì đôi
+   chlorophyll a trung tâm là P700 (thứ tự I, II chỉ ra thời điểm phát
+   hiện ra, nhưng quang hệ PSII hoạt động trước quang hệ PSI).
+
+Quang phân ly
+
+   [sửa | sửa mã nguồn]
+   Bài chi tiết: Quang phân ly
+
+   Xét phương trình đơn giản của quang hợp như sau:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mn>6</mn> <mspace width="thinmathspace" /> <msubsup> <mtext>CO</mtext>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mspace width="0pt" height="0pt" depth=".2em"
+   /> </mrow> </msubsup> <mo>+</mo> <mn>12</mn> <mspace
+   width="thinmathspace" /> <msubsup> <mtext>H</mtext> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mspace width="0pt" height="0pt" depth=".2em"
+   /> </mrow> </msubsup> <mtext>O</mtext> <mrow class="MJX-TeXAtom-REL">
+   <munderover> <mo>→</mo> <mpadded width="+0.611em" lspace="0.278em"
+   voffset="-.24em"> <mrow class="MJX-TeXAtom-ORD"> <mi>c</mi> <mi>h</mi>
+   <mi>l</mi> <mi>o</mi> <mi>r</mi> <mi>o</mi> <mi>p</mi> <mi>h</mi>
+   <mi>y</mi> <mi>l</mi> <mi>l</mi> </mrow> </mpadded> <mpadded
+   width="+0.611em" lspace="0.278em" voffset=".15em"> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>p</mi> <mi>h</mi> <mi>o</mi> <mi>t</mi>
+   <mi>o</mi> <mi>n</mi> </mrow> </mpadded> </munderover> </mrow>
+   <msubsup> <mtext>C</mtext> <mrow class="MJX-TeXAtom-ORD"> <mn>6</mn>
+   </mrow> <mrow class="MJX-TeXAtom-ORD"> <mspace width="0pt" height="0pt"
+   depth=".2em" /> </mrow> </msubsup> <msubsup> <mtext>H</mtext> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>12</mn> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mspace width="0pt" height="0pt" depth=".2em"
+   /> </mrow> </msubsup> <msubsup> <mtext>O</mtext> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>6</mn> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mspace width="0pt" height="0pt" depth=".2em"
+   /> </mrow> </msubsup> <mo>+</mo> <mn>6</mn> <mspace
+   width="thinmathspace" /> <msubsup> <mtext>O</mtext> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mspace width="0pt" height="0pt" depth=".2em"
+   /> </mrow> </msubsup> <mrow class="MJX-TeXAtom-ORD"> <mo
+   stretchy="false">↑</mo> </mrow> <mo>+</mo> <mn>6</mn> <mspace
+   width="thinmathspace" /> <msubsup> <mtext>H</mtext> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mspace width="0pt" height="0pt" depth=".2em"
+   /> </mrow> </msubsup> <mtext>O</mtext> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\ce {6CO_2 +
+   12H_2O ->[{photon}][{chlorophyll}] C_6H_12O_6 + 6O_2 ^ +
+   6H2O}}}</annotation> </semantics> :MATH]
+   {\displaystyle {6\,\mathrm {CO} {\vphantom
+   {A}}_{\smash[{t}]{2}}{}+{}12\,\mathrm {H} {\vphantom
+   {A}}_{\smash[{t}]{2}}\mathrm {O} {}\mathrel
+   {\xrightarrow[{\text{chlorophyll}}]{\text{photon}}} {}\mathrm {C}
+   {\vphantom {A}}_{\smash[{t}]{6}}\mathrm {H} {\vphantom
+   {A}}_{\smash[{t}]{12}}\mathrm {O} {\vphantom
+   {A}}_{\smash[{t}]{6}}{}+{}6\,\mathrm {O} {\vphantom
+   {A}}_{\smash[{t}]{2}}\uparrow {}{}+{}6\,\mathrm {H} {\vphantom
+   {A}}_{\smash[{t}]{2}}\mathrm {O} }}
+
+   Trước đây, người ta quan niệm rằng khí oxy sinh ra từ quá trình quang
+   hợp do sự phân hủy của CO[2] thành khí O[2] và C. Sau đấy C liên kết
+   với các phân tử nước H[2]O tạo thành đường glucose cần thiết cho sinh
+   vật C[6]H[12]O[6] và một số carbohydrate C[m](H[2]O)[n] như đường
+   fructose
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>C</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>6</mn> </mrow> </msub> <msub> <mi>H</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>12</mn> </mrow> </msub> <msub>
+   <mi>O</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>6</mn> </mrow> </msub>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   C_{6}H_{12}O_{6}}</annotation> </semantics> :MATH]
+   {\displaystyle C_{6}H_{12}O_{6}} . Tuy nhiên, một số nhà khoa học đã
+   phản đối quan niệm truyền thống này. Họ tiến hành nhiều thí nghiệm để
+   phản bác lí thuyết ấy và cuối cùng họ đã thành công. Dưới đây là hai
+   thí nghiệm tiêu biểu khẳng định khí O[2] không sinh ra từ CO[2] mà từ
+   H[2]O.
+
+Thí nghiệm của van Niel
+
+   [sửa | sửa mã nguồn]
+
+   Trong những năm 30 của thế kỉ XX, giáo sư C. B van Niel từ trường đại
+   học Stanford, Hoa Kỳ đã tiến hành thí nghiệm như sau: ông nuôi cấy vi
+   khuẩn lưu huỳnh tía Chromatiales trong môi trường có CO[2]. Vi khuẩn
+   này là vi khuẩn có kiểu dinh dưỡng quang tự dưỡng nhưng không giống
+   thực vật hay vi khuẩn lam, chúng không sử dụng H[2]O mà thay vào đó là
+   hydro sulfide H[2]S cho quá trình quang tự dưỡng của chúng như sau:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mn>6</mn> <mspace width="thinmathspace" /> <msubsup> <mtext>CO</mtext>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mspace width="0pt" height="0pt" depth=".2em"
+   /> </mrow> </msubsup> <mo>+</mo> <mn>12</mn> <mspace
+   width="thinmathspace" /> <msubsup> <mtext>H</mtext> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mspace width="0pt" height="0pt" depth=".2em"
+   /> </mrow> </msubsup> <mtext>S</mtext> <mrow class="MJX-TeXAtom-REL">
+   <munderover> <mo>→</mo> <mpadded width="+0.611em" lspace="0.278em"
+   voffset="-.24em"> <mrow class="MJX-TeXAtom-ORD"> <mi>c</mi> <mi>h</mi>
+   <mi>l</mi> <mi>o</mi> <mi>r</mi> <mi>o</mi> <mi>p</mi> <mi>h</mi>
+   <mi>y</mi> <mi>l</mi> <mi>l</mi> </mrow> </mpadded> <mpadded
+   width="+0.611em" lspace="0.278em" voffset=".15em"> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>p</mi> <mi>h</mi> <mi>o</mi> <mi>t</mi>
+   <mi>o</mi> <mi>n</mi> </mrow> </mpadded> </munderover> </mrow>
+   <msubsup> <mtext>C</mtext> <mrow class="MJX-TeXAtom-ORD"> <mn>6</mn>
+   </mrow> <mrow class="MJX-TeXAtom-ORD"> <mspace width="0pt" height="0pt"
+   depth=".2em" /> </mrow> </msubsup> <msubsup> <mtext>H</mtext> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>12</mn> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mspace width="0pt" height="0pt" depth=".2em"
+   /> </mrow> </msubsup> <msubsup> <mtext>O</mtext> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>6</mn> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mspace width="0pt" height="0pt" depth=".2em"
+   /> </mrow> </msubsup> <mo>+</mo> <mn>12</mn> <mspace
+   width="thinmathspace" /> <mtext>S</mtext> <mrow
+   class="MJX-TeXAtom-ORD"> <mo stretchy="false">↓</mo> </mrow> <mo>+</mo>
+   <mn>6</mn> <mspace width="thinmathspace" /> <msubsup> <mtext>H</mtext>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mspace width="0pt" height="0pt" depth=".2em"
+   /> </mrow> </msubsup> <mtext>O</mtext> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\ce {6CO2 +
+   12H2S ->[{photon}][{chlorophyll}] C_6H_12O_6 + 12S v +
+   6H_2O}}}</annotation> </semantics> :MATH]
+   {\displaystyle {6\,\mathrm {CO} {\vphantom
+   {A}}_{\smash[{t}]{2}}{}+{}12\,\mathrm {H} {\vphantom
+   {A}}_{\smash[{t}]{2}}\mathrm {S} {}\mathrel
+   {\xrightarrow[{\text{chlorophyll}}]{\text{photon}}} {}\mathrm {C}
+   {\vphantom {A}}_{\smash[{t}]{6}}\mathrm {H} {\vphantom
+   {A}}_{\smash[{t}]{12}}\mathrm {O} {\vphantom
+   {A}}_{\smash[{t}]{6}}{}+{}12\,\mathrm {S} \downarrow {}{}+{}6\,\mathrm
+   {H} {\vphantom {A}}_{\smash[{t}]{2}}\mathrm {O} }}
+
+   Bacteriachlorophyll (khuẩn diệp lục) là một chlorophyll được sử dụng
+   trong quá trình quang hợp ở nhóm vi sinh vật này. Vậy theo quan niệm
+   truyền thống nếu O[2] sinh ra từ CO[2] thì ở vi khuẩn lưu huỳnh tía
+   người ta phải tìm thấy khí O[2] sinh ra. Nhưng ở nhóm vi sinh vật này,
+   CO[2] không sinh ra khí O[2] mà thay vào đó tạo ra các giọt màu vàng
+   của lưu huỳnh S. Vậy lưu huỳnh được sinh ra do H[2]S phân li ra S.
+
+   Van Niel giải thích rằng vi khuẩn phân ly H[2]S và dùng các proton H^+,
+   electron e^- để tạo ra đường và giải phóng O[2] như một sản phẩm phụ.
+
+   Từ đấy, xét lại phương trình quang hợp của thực vật, tương tự có thể
+   kết luận rằng O[2] sinh ra do H[2]O phân li ra tạo thành hay H[2]O phân
+   li ra O[2] nhằm lấy hydro để tổng hợp nên carbonhydrate và thải khí
+   O[2]như sản phẩm phụ. Đồng thời, van Niel cũng rút ra được phương trình
+   chung cho quá trình quang hợp ở sinh vật quang tự dưỡng:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msubsup> <mtext>CO</mtext> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> <mrow class="MJX-TeXAtom-ORD"> <mspace width="0pt" height="0pt"
+   depth=".2em" /> </mrow> </msubsup> <mo>+</mo> <mn>2</mn> <mspace
+   width="thinmathspace" /> <msubsup> <mtext>H</mtext> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mspace width="0pt" height="0pt" depth=".2em"
+   /> </mrow> </msubsup> <mtext>X</mtext> <mo stretchy="false">⟶</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mo stretchy="false">[</mo> <msubsup>
+   <mtext>CH</mtext> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mspace width="0pt" height="0pt"
+   depth=".2em" /> </mrow> </msubsup> <mtext>O</mtext> <mo
+   stretchy="false">]</mo> </mrow> <mo>+</mo> <msubsup> <mtext>H</mtext>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mspace width="0pt" height="0pt" depth=".2em"
+   /> </mrow> </msubsup> <mtext>O</mtext> <mo>+</mo> <mn>2</mn> <mspace
+   width="thinmathspace" /> <mtext>X</mtext> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\ce {CO_2 +
+   2H_2X -> [CH_2O] + H_2O + 2X}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\mathrm {CO} {\vphantom
+   {A}}_{\smash[{t}]{2}}{}+{}2\,\mathrm {H} {\vphantom
+   {A}}_{\smash[{t}]{2}}\mathrm {X} {}\mathrel {\longrightarrow }
+   {}[\mathrm {CH} {\vphantom {A}}_{\smash[{t}]{2}}\mathrm {O}
+   ]{}+{}\mathrm {H} {\vphantom {A}}_{\smash[{t}]{2}}\mathrm {O}
+   {}+{}2\,\mathrm {X} }}
+
+Thí nghiệm đánh dấu phóng xạ
+
+   [sửa | sửa mã nguồn]
+
+   Gần hai mươi năm sau khi van Niel đưa ra giả thuyết, các nhà khoa học
+   đã chứng minh giả thuyết ấy là đúng nhờ sử dụng oxy-18
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mmultiscripts> <mtext>O</mtext> <none /> <none /> <mprescripts />
+   <mn>8</mn> <mn>18</mn> </mmultiscripts> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\ce
+   {^{18}_{8}O}}}</annotation> </semantics> :MATH]
+   {\displaystyle {{\vphantom {A}}_{\hphantom {8}}^{\hphantom {18}}{\mkern
+   {-1.5mu}}{\vphantom {A}}_{{\vphantom {2}}{\llap
+   {\smash[{t}]{8}}}}^{{\smash[{t}]{\vphantom {2}}}{\llap {18}}}\mathrm
+   {O} }} , một đồng vị nặng để quan sát đường di chuyển của nguyên tử oxy
+   trong quá trình quang hợp. Nếu đánh dấu đồng vị ^18O vào nguyên tử oxy
+   trong phân tử CO[2] thì khí oxy sinh ra không có ^18O mà thay vào đó
+   lại thấy ở carbohydrate C[6]H[12]O[6] sinh ra và nước H[2]O giải phóng
+   ra. Nhưng nếu đánh dấu đồng vị ^18O vào nguyên tử oxy trong phân tử
+   H[2]O thì lại chỉ tìm thấy duy nhất ^18O khí O[2] sinh ra.
+
+   Vậy khí O[2] sinh ra do H[2]O phân ly tạo thành.
+
+Phương trình tổng quát của quang phân ly
+
+   [sửa | sửa mã nguồn]
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msubsup> <mtext>H</mtext> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> <mrow class="MJX-TeXAtom-ORD"> <mspace width="0pt" height="0pt"
+   depth=".2em" /> </mrow> </msubsup> <mtext>O</mtext> <mrow
+   class="MJX-TeXAtom-REL"> <mover> <mo>→</mo> <mpadded width="+0.611em"
+   lspace="0.278em" voffset=".15em"> <mrow class="MJX-TeXAtom-ORD">
+   <mi>q</mi> <mi>u</mi> <mi>a</mi> <mi>n</mi> <mi>g</mi> <mi>n</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>ă</mo> </mrow> <mi>n</mi> <mi>g</mi>
+   </mrow> </mpadded> </mover> </mrow> <mn>2</mn> <mspace
+   width="thinmathspace" /> <msup> <mtext>H</mtext> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>+</mo> </mrow> </msup> <mo>+</mo>
+   <mn>2</mn> <mspace width="thinmathspace" /> <msup> <mtext>e</mtext>
+   <mrow class="MJX-TeXAtom-ORD"> <mo>−</mo> </mrow> </msup> <mo>+</mo>
+   <mstyle displaystyle="false" scriptlevel="0"> <mfrac> <mn>1</mn>
+   <mn>2</mn> </mfrac> </mstyle> <msubsup> <mtext>O</mtext> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mspace width="0pt" height="0pt" depth=".2em"
+   /> </mrow> </msubsup> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\ce {H_2O ->[{quang năng}]
+   2H^+ + 2e^- + 1/2O_2}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\mathrm {H} {\vphantom {A}}_{\smash[{t}]{2}}\mathrm {O}
+   {}\mathrel {\xrightarrow {\text{quang năng}} } {}2\,\mathrm {H}
+   {\vphantom {A}}^{+}{}+{}2\,\mathrm {e} {\vphantom
+   {A}}^{-}{}+{}{\mathchoice {\textstyle {\frac {1}{2}}}{\frac
+   {1}{2}}{\frac {1}{2}}{\frac {1}{2}}}\,\mathrm {O} {\vphantom
+   {A}}_{\smash[{t}]{2}}}}
+
+   Trong đó hai proton H^+ tham gia vào chuỗi truyền electron còn 2
+   electron sẽ bổ sung cho đôi chlorophyll a P680 trung tâm của quang hệ
+   II, còn khí O[2] thải ra ngoài môi trường.
+
+Chuỗi truyền electron thẳng hàng
+
+   [sửa | sửa mã nguồn]
+
+   Chuỗi truyền electron thẳng hàng là chuỗi truyền electron phổ biến ở
+   thực vật. Quá trình ấy được tóm tắt bằng sơ đồ chữ Z như sau:
+
+   [Z-scheme.png]
+    1. Photon ánh sáng va chạm vào phân tử sắc tố của quang hệ PSII khiến
+       electron của phân tử ấy bị kích thích bật lên mức năng lượng cao
+       hơn. Nhưng nhanh chóng electron lại bị sụt thế, "rơi" lại vị trí
+       ban đầu và năng lượng tiếp tục chuyền cho phân tử khác. Phân tử khi
+       nhận năng lượng, electron của phân tử ấy bị kích thích và tiếp tục
+       bị bật lên mức năng lượng cao hơn rồi nhanh chóng sụt xuống ban
+       đầu. Quá trình này tiếp diễn nhau tạo thành một chuỗi liên tục đến
+       khi năng lượng được truyền tới cặp phân tử chlorophyll a trung tâm
+       P680 của PSII.
+    2. [500px-Thylakoid_membrane_3_vi.svg.png] Chuỗi truyền electron thẳng
+       hàng ở màng thylakoids tổng hợp ATP cho pha tối (quang phosphoryl
+       hóa)Đôi phân tử chlorophyll P680 bị kích thích khiến cặp electron
+       bị bật lên mức năng lượng cao hơn. Tuy nhiên, cặp electron này
+       không quay trở về vị trí ban đầu mà bị chất nhận electron sơ cấp
+       hút. Vậy cặp chlorophyll P680 bị mất electron trở thành cation
+       P680^+.
+    3. Cation P680^+ là chất oxy hóa cực mạnh nên H[2]O phân ly thành hai
+       proton H^+, hai electron e^- và phân tử O[2]. Hai electron này được
+       bổ sung cho cation P680^+ trở thành phân tử bình thường P680
+    4. Cùng lúc ấy, ánh sáng cũng kích thích các phân tử sắc tố của quang
+       hệ PSI đến khi đôi phân tử chlorophyll a trung tâm của PSI là P700
+       bị kích thích khiến electron bị bật lên chất nhận electron sơ cấp
+       của PSI. Đôi chlorophyll a P700 bị mất electron nên trở thành chất
+       oxy hóa P700^+.
+    5. Đôi electron từ chất nhận electron sơ cấp của PSII sẽ được chuyền
+       tới đôi P700^+ của PSI biến P700^+ thành P700 thông qua các chất
+       vận chuyển electron là pheophytin, plastoquinone, phức hợp
+       cytochrome b[6]f, plastocyanin.
+    6. Sự sụt thế của electron thông qua chuỗi chuyền electron cung cấp
+       năng lượng cho sự tổng hợp ATP. Khi electron di chuyển thông qua
+       phức hệ cytochrome đã xác lập sự bơm proton đã xác lập gradient mà
+       về sau được sử dụng cho cơ chế hóa thẩm.
+    7. Đôi electron từ chất nhận electron sơ cấp của PSI tiếp tục xuôi
+       theo chuỗi truyền electron thứ hai thông qua protein ferredoxin.
+       (Chuỗi chuyền này không tạo ra sự chênh lệch về nồng độ proton nên
+       không tạo ra ATP).
+    8. Enzyme NADP^+ reductase xúc tác NADP^+ bị khử thành NADPH nhờ đôi
+       electron và hai proton H^+.
+
+Pha tối
+
+   [sửa | sửa mã nguồn]
+   Khái quát về chu trình Calvin - Benson
+
+   Pha tối (Light-independent reaction) của quá trình quang hợp là tập hợp
+   một chuỗi các phản ứng hóa sinh xảy ra ở chất nền (stroma) của lục lạp
+   mà không cần điều kiện ánh sáng (có thể xảy ra trong tối) nhưng lại có
+   quan hệ mật thiết với pha sáng thông qua sản phẩm từ phản ứng sáng là
+   NADPH (Nicotinamide adenine dinucleotide phosphate) và ATP (adenosine
+   triphosphate). Hầu hết phản ứng tối của thực vật gắn liền với chu trình
+   Calvin (gọi đầy đủ là chu trình Calvin - Benson - Bassham hay còn gọi
+   là chu trình C3).
+
+Chu trình Calvin
+
+   [sửa | sửa mã nguồn]
+
+   Chu trình Calvin được chia làm ba pha cơ bản:
+     * Pha cố định CO[2]: ba phân tử Ribulose-1,5-diphosphate (viết tắt
+       RuBP) kết hợp với ba phân tử carbon dioxide tạo ra ba phân tử trung
+       gian C6 nhờ enzyme Ribulose-1,5-diphosphate carboxylase oxygenase
+       (viết tắt RuBisCO). Pha cố định CO2 Pha cố định CO[2]Tuy nhiên
+       đường C6 không bền nên dễ dàng phân hủy thành sáu phân tử
+       3-phosphoglycerate (viết tắt 3-PGA, 3PG, PGA hoặc PGLA). Người ta
+       xem đường 3-PGA là sản phẩm cố định CO[2] đầu tiên.
+     * Pha khử: Sáu phân tử 3-PGA, mỗi phân tử nhận thêm một nhóm
+       phosphate từ ATP biến thành 1,3-biphosphoglycerate. Tiếp theo một
+       đôi electron từ NADPH khử 1,3-biophosphateglycerate và mỗi phân tử
+       này mất đi một nhóm phosphate biến thành hai phân tử
+       glyceraldehyde-3-phosphate (viết tắt G3P) Pha khử Pha khửVậy tạo ra
+       tổng cộng sáu phân tử G3P, một phân tử G3P tách ra khỏi chu trình
+       và tham gia vào tạo glucose và hợp chất hữu cơ khác. Năm phân tử
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <msubsup> <mtext>G</mtext> <mrow class="MJX-TeXAtom-ORD">
+       <mn>3</mn> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mspace
+       width="0pt" height="0pt" depth=".2em" /> </mrow> </msubsup>
+       <mtext>P</mtext> </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle {\ce
+       {G3P}}}</annotation> </semantics> :MATH]
+       {\displaystyle {\mathrm {G} {\vphantom {A}}_{\smash[{t}]{3}}\mathrm
+       {P} }} còn lại vẫn tiếp tục tham gia chu trình C3.
+     * Pha tái tạo chất nhận CO[2] (RuBP) năm phân tử G3P còn lại sẽ biến
+       thành ba phân tử RuBP va tiêu tốn 3 ATP như sau: Pha tái tạo chất
+       nhận Pha tái tạo chất nhậnDưới đây trình bày chuỗi phản ứng biến
+       G3P thành RuBP:
+
+    1. Enzyme triose phosphate isomerase sẽ biến tất cả đường G3P ngược
+       lại thành phân tử đường 3-carbon, dihydroxyacetone phosphate
+       (DHAP).
+    2. Enzyme adolase và fructose-1,6-bisphosphatase biến đổi một phân tử
+       G3P và một phân tử DHAP thành fructose 6-phosphate (6C, kí hiệu
+       F6P), một nhóm phosphate bị loại bỏ ở phản ứng này.
+    3. Cố định phân tử CO[2] còn lại, đồng thời sinh ra hai phân tử G3P.
+    4. Hai carbon của F6P bị enzyme transketolase loại bỏ, tạo thành
+       erythrose-4-phosphate. Hai phân tử trên transketolase được thêm vào
+       một G3P, tạo thành đường ketose xylulose-5-phosphate (Xu5P)
+    5. E4P và một DHAP sẽ được chuyển thành sedoheptulose-1,7-biphosphate
+       (đường C7) thông qua enzyme aldolase.
+    6. Enzme Sedoheptulose-1,7-bisphosphatase phân hủy
+       sedoheptulose-1,7-bisphosphate thành sedoheptulose-7-phosphate
+       (viết tắt S7P) đồng thời giải phóng một gốc phosphate vô cơ.
+    7. Phân tử CO[2] được cố định sinh ra thêm hai phân tử G3P. Đường
+       ketose S7P bị enzyme transketolase loại bỏ 2 carbon tạo ra
+       ribose-5-phosphate (viết tắt R5P) và 2 carbon ấy được chuyển tới
+       một phân tử G3P tạo ra phân tử Xu5P còn lại. Còn lại một phân tử
+       G3P vừa sinh ra ở đầu phản ứng số 7 cùng với ba phân tử pentose
+       được sản sinh sẽ được chuyển hóa thành đường Ru5P.
+    8. R5P sẽ chuyển hóa thành ribulose-5-phophate (Ru5P) nhờ enzyme
+       phosphopentose isomerase. Xu5P cũng được chuyển hóa thành Ru5P nhờ
+       enzyme phosphopentose epimerase.
+    9. Cuối cùng, enzyme phosphoribulokinase sẽ gắn nhóm phosphate từ ATP
+       vào phân tử RuP tạo thành RuBP.
+
+   Vậy thông qua chu trình Calvin, CO[2] được sử dụng triệt để nhằm tạo ra
+   sản phẩm cho thực vật đồng thời giải phóng ra ADP (adenosine
+   diphosphate) và NADP^+ là nguyên liệu cho pha sáng.
+   [330px-C4_photosynthesis_is_less_complicated_vi.svg.png] Ngô (Zea mays)
+   là một thực vật C4 tiêu biểu. Trên đây trình bày giải phẫu của lá ngô
+   phù hợp với chức năng sinh lí quang hợp của nó.
+
+Chu trình Hatch-Slack (C4)
+
+   [sửa | sửa mã nguồn]
+   Bài chi tiết: Thực vật C4 và Thực vật CAM
+
+   Ở một số thực vật như thực vật C4 hay thực vật CAM thì sản phẩm cố định
+   CO[2] đầu tiên không phải là 3-PGA mà là một chất khác là hợp chất hữu
+   cơ 4 carbon là oxaloacetate (4C). Chất oxaloacetate tham gia vào một
+   chuỗi phản ứng rồi giải phóng ra CO[2]. Lúc này CO[2] mới tham gia chu
+   trình Calvin. Ở thực vật C4, chu trình Hatch-Slack xảy ra ở tế bào mô
+   giậu còn chu trình calvin xảy ra ở tế bào bao bó mạch. Cụ thể chu trình
+   này như sau:
+     * Phân tử CO[2] tác dụng với hợp chất 3 carbon phosphoenol pyruvate
+       (PEP) nhờ enzyme PEP carboxylase tạo ra sản phẩm cố định CO[2] là
+       hợp chất 4 carbon oxaloacetate.
+     * Oxaloacetate gắn H^+ lấy từ NADPH tạo ra malate (hợp chất 4 carbon)
+     * Malate sẽ bị phân tách thành CO[2] và pyruvate (hợp chất 3 carbon).
+       CO[2] sẽ đi vào chu trình Calvin.
+     * Pyruvate sẽ tác dụng với ATP tạo ra PEP.
+       [330px-HatchSlackpathway.png] Ở thực vật C4, chu trình Hatch-Slack
+       xảy ra ở tế bào mô giậu (tế bào thịt lá) còn chu trình Calvin xảy
+       ra ở tế bào bao bó mạch.
+       Đối thực vật CAM, quá trình pha tối diễn ra ở tế bào chuyên biệt
+       gọi là nhu mô. Cấu tạo của chúng phù hợp với khí hậu nóng bức, khô
+       hạn như hoang mạc, bán hoang mạc, vùng nhiệt đới... tức ban ngày
+       chúng phải đóng khí khổng lại để ngăn chặn mất nước trong cơ thể
+       còn ban đêm thì mới mở khí khổng ra. Tuy nhiên khi đóng khí khổng
+       lại thì chúng không thể hút khí carbonic từ môi trường nên đối với
+       thực vật CAM, chúng sẽ hút khí carbon dioxide vào ban đêm khi khí
+       khổng đang mở. Carbon dioxide sẽ dược dự trữ trong cơ thể dưới dạng
+       malate nhờ chu trình Hatch-Slack, ban ngày thì chúng mới có thể
+       thực hiện chu trình Calvin. Do đó, đối với thực vật CAM: chu trình
+       Hatch-Slack diễn ra vào ban đêm còn chu trình Calvin diễn ra vào
+       ban ngày.
+
+   Chu trình Hatch-Slack có tác dụng như dự trữ CO[2] trong cơ thể thực
+   vật nhằm cung cấp nguyên liệu CO[2] cho chu trình Calvin. Nhờ thế mà
+   thực vật C4 và thực vật CAM sẽ không bị thiếu hụt khí CO[2] cho chu
+   trình Calvin. Còn đối với thực vật C3 (tức chất cố định CO[2] đầu tiên
+   là 3-PGA) không có chu trình Hatch-Slack có thể thiếu hụt CO[2] trong
+   một số trường hợp nhất định và lúc đó sẽ gây ra hiện tượng hô hấp sáng
+   sẽ trình bày rõ ở mục sau.
+
+   Chu trình Hatch-Slack được đặt tên nhằm vinh danh hai nhà khoa học là
+   Marshall Davidson Hatch và C. R. Slack, những người đã làm sáng tỏ
+   chúng ở nước Úc vào năm 1966. Chu trình Hatch-Slack cũng thường được
+   gọi phổ biến là chu trình C4.
+
+Hô hấp sáng
+
+   [sửa | sửa mã nguồn]
+   Bài chi tiết: Hô hấp sáng
+   [330px-Simplified_photorespiration_diagram.svg.png] Tóm tắt hô hấp sáng
+   (trong tiếng Anh là Photorespiration) và chu trình Calvin ở thực vật
+   C3.
+
+   Trong những ngày khô nóng, thực vật bắt buộc phải đóng khí khổng lại
+   nhằm tránh mất nước hay gây ra hiện tượng xitoriz (hiện tượng xitoriz
+   là hiện tượng xảy ra khi tế bào mất nước quá nhanh do môi trường không
+   khí khô, lúc đó thể tích tế bào giảm nhanh do đó tế bào nhăn nheo lại
+   nhưng chất nguyên sinh vẫn không tách khỏi thành tế bào). Do đó, lá cây
+   không thể hút được khí CO[2] từ môi trường bên ngoài. Trong đó chu
+   trình Calvin vẫn tiếp tục sử dụng khí CO[2] và quá trình quang phân li
+   trong pha sáng tiếp tục diễn ra.
+
+   Vậy, khi đó nồng độ CO[2] trong tế bào giảm nhưng nồng độ O[2] tiếp tục
+   tăng. Vậy làm thế nào để có thể tăng nồng độ CO[2] trong tế bào? Lúc
+   này enzyme RuBisCO sẽ không cố định CO[2] vào chất RuBP mà thay vào đó
+   sẽ cố định O[2] gây ra hiện tượng hô hấp sáng. Sản phẩm khí của hô hấp
+   sáng bao gồm khí CO[2] và NH[3].
+    1. RuBP tác dụng với khí O[2] thông qua enzyme RuBisCO tạo ra
+       2-phosphoglycolate và 3-PGA (3-PGA sẽ tham gia chu trình Calvin)
+       còn 2-phosphoglycolate sẽ được loại bỏ hai nhóm phosphate vô cơ
+       (P[i]) thành glycolate nhờ enzyme phosphoglycolate phosphatase rồi
+       vận chuyển tới bào quan peroxisome trong tế bào.
+    2. Glycolate sẽ tác dụng với phân tử O[2] dưới tác dụng của enzyme
+       glycolate-oxydase (GOD) sẽ bị chuyển hóa thành glyoxylate đồng thời
+       tạo ra phân tử hydro peroxid H[2]O[2]. Phân tử H[2]O[2] nhanh chóng
+       bị enzyme catalase trong peroxisome phân giải thành H[2]O và O[2].
+       Phân tử glyoxylate kết hợp với NH[2] sẽ được enzyme
+       glutamate-glyoxylate aminotranferase (GGT) biến đổi thành hai phân
+       tử acid amine glycine.
+    3. Phân tử acid amine glycine được vận chuyển tới ty thể, tại đây một
+       phân tử glycine được biến đổi giải phóng CO[2], NH[4]^+ đồng thời
+       khử NAD^+ thành NADH nhờ enzyme glycine dercarboxylase (GDC) rồi
+       tác dụng với phân tử acid amine glycine còn lại trở thành acid
+       amine serine. Serine được vận chuyển về peroxisome.
+       [500px-Photorespiration.svg.png] Chi tiết quá trình hô hấp sáng ở
+       thực vật
+    4. Tại peroxisime, acid amine tiếp tục bị enzyme serin-glyoxylate
+       aminotranferase (SGT) biến đổi thành hydroxipyruvate.
+       Hydroxipyruvate tiếp tục bị biến đổi thành glycerate nhờ enzyme
+       hydroxipyruvate reductase (HPR) đồng thời oxy hóa NADH thành NAD^+.
+       Glycerate được vận chuyển vào lục lạp trở lại rồi biến đổi thành
+       3-PGA nhờ enzyme glycerate kinase (GLYK) đồng thời biến đổi ATP
+       thành ADP. Chất 3-PGA tiếp tục tham gia chu trình Calvin.
+    5. NH[4]^+ sinh ra từ glycune (mục 3) sẽ vận chuyển về lục lạp rồi kết
+       hợp với 2-oxo-glytarate biến đổi thành acid glutamic, một loại acid
+       amine, nhờ enzyme glutamate synthase - glutamine synthetase. Axit
+       glutamic sẽ bị phân hủy thành NH[2] (NH[2] tham gia vào quá trình
+       tạo acid amine glycine ở mục 2) và 2-oxo-glytarate. 2-oxo-glytarate
+       sẽ tiếp tục quay trở lại tạo axit glutamic.
+
+   Hô hấp sáng làm giảm sản phẩm quang hợp do sử dụng chất nhận CO[2] ban
+   đầu RuBP là nguyên liệu cho quá trình oxi hoá trên. Do đó, xét cả ba
+   quá trình trong pha tối, thực vật C4 có năng suất cao nhất còn thực vật
+   CAM có năng suất thấp nhất.
+
+Ý nghĩa và vai trò
+
+   [sửa | sửa mã nguồn]
+
+Về mặt năng lượng và dinh dưỡng
+
+   [sửa | sửa mã nguồn]
+
+   Về mặt năng lượng, quang tổng hợp có bản chất là quá trình hóa vật chất
+   và năng lượng chuyển đổi quang năng thành năng lượng hóa năng và tích
+   trữ trong các liên kết của glucose và các loại đường khác. Do đó về mặt
+   sinh thái, thì mức năng lượng tích trữ trong sinh vật sản xuất (thực
+   vật) là cao nhất. Đồng thời quá trình quang hợp là cửa ngõ để năng
+   lượng được hấp thụ trong hệ sinh thái và di chuyển qua các bậc dinh
+   dưỡng cao hơn.
+
+   Về mặt dinh dưỡng - sinh thái, quang hợp là quá trình đồng hóa tổng hợp
+   chất hữu cơ dinh dưỡng từ các chất vô cơ cần thiết cho thực vật, thậm
+   chí còn cung cấp chất dinh dưỡng cho các sinh vật hóa dị dưỡng ăn thực
+   vật. Do đó, thực vật thường là sinh vật sản xuất trong chuỗi và lưới
+   thức ăn. Nếu loại bỏ thực vật ra khỏi chuỗi thức ăn của hệ sinh thái
+   thì có thể khiến cho các sinh vật tiêu thụ khác (trong đó có loài
+   người) không thể tồn tại được.
+
+   Về mặt địa hóa - sinh thái, quang hợp là một nhân tố quyết định giúp
+   thực vật có mặt trong chu trình carbon toàn cầu bằng cách hấp thụ
+   carbon dioxide sử dụng trong quá trình tự dưỡng của mình.
+
+Về mặt môi trường
+
+   [sửa | sửa mã nguồn]
+
+   Khí oxy được thải ra ngoài môi trường thông qua quá trình quang phân li
+   giúp giữ vững nồng độ khí oxy trong khí quyển quanh mức 21%, một lượng
+   đủ và cần thiết để sinh giới tồn tại và phát triển. Đồng thời trong quá
+   trình quang hợp, thực vật còn hút khí CO[2] không những tạo ra sản phẩm
+   là tinh bột mà còn giúp điều hòa nồng độ khí CO[2] trong khí quyển.
+
+Tham khảo
+
+   [sửa | sửa mã nguồn]
+    1. ^ ^a ^b Bryant DA, Frigaard NU (2006). "Prokaryotic photosynthesis
+       and phototrophy illuminated". Trends Microbiol. Quyển 14 số 11.
+       tr. 488–96. doi:10.1016/j.tim.2006.09.001. ISSN 0966-842X.
+       PMID 16997562.
+    2. ^ Reece J, Urry L, Cain M, Wasserman S, Minorsky P, Jackson R.
+       Biology . Upper Saddle River, NJ: Pearson Education. tr. 235, 244.
+       ISBN 0-321-73975-2. "This initial incorporation of carbon into
+       organic compounds is known as carbon fixation."{{Chú thích sách}}:
+       Quản lý CS1: nhiều tên: danh sách tác giả (liên kết)
+    3. ^ "photosynthesis". Online Etymology Dictionary.
+    4. ^ φῶς. Liddell, Henry George; Scott, Robert; A Greek–English
+       Lexicon at the Perseus Project
+    5. ^ σύνθεσις. Liddell, Henry George; Scott, Robert; A Greek–English
+       Lexicon at the Perseus Project
+
+Liên kết ngoài
+
+   [sửa | sửa mã nguồn]
+   Wikiquote có bộ sưu tập danh ngôn về:
+   Quang hợp
+     * Tư liệu liên quan tới Photosynthesis tại Wikimedia Commons
+
+     * x
+     * t
+     * s
+
+   Thực vật học
+
+   Lịch sử thực vật học
+
+   Phân ngành
+
+     * Cổ thực vật học
+     * Cổ di chỉ thực vật học
+     * Thực vật dân tộc học
+     * Hình thái học thực vật
+     * Giải phẫu học thực vật
+     * Phân loại học thực vật
+          + Hệ thống học thực vật
+     * Sinh lý học thực vật
+     * Sinh thái học thực vật
+     * Địa lý thực vật học
+          + Địa thực vật học
+          + Hệ thực vật
+     * Hóa thực vật học
+     * Bệnh học thực vật
+     * Rêu học
+     * Tảo học
+     * Thụ mộc học
+     * Sinh học phát triển tiến hóa thực vật
+     * Thực vật học vũ trụ
+
+   [250px-Diversity_of_plants_%28Streptophyta%29_version_2.png]
+
+   Hình thái học
+   thực vật
+
+                   Tế bào
+     * Vách tế bào
+     * Thể vách
+     * Lạp thể
+     * Cầu sinh chất
+     * Không bào
+
+   Mô
+     * Mô phân sinh
+     * Mô dẫn
+          + Bó mạch
+          + Mạch gỗ
+          + Mạch rây
+     * Mô cơ bản
+          + Thịt lá
+     * Tượng tầng
+          + Tầng sinh bần
+          + Tầng sinh mạch
+     * Gỗ
+     * Cơ quan dự trữ
+
+   Cấu trúc
+   bề mặt
+     * Bần
+     * Lớp cutin
+     * Lớp sáp
+     * Biểu bì
+     * Khí khổng
+     * Tuyến mật
+     * Hệ thống tiết
+     * Lông, gai
+     * Túm lông
+          + Lông tiết keo
+
+                 Sinh dưỡng
+     * Rễ
+          + Rễ giả
+          + Rễ biến dạng
+     * Hệ chồi
+          + Chồi
+               o Chồi nách
+               o Chồi bên
+               o Chồi gốc
+               o Chồi nước
+          + Thân
+               o Nhánh
+               o Cuống
+               o Thân hành
+               o Thân rễ
+               o Thân biến dạng
+          + Lá
+               o Cuống lá
+               o Lá kèm
+               o Không cuống
+               o Lá biến dạng
+
+   Sinh sản
+   (Bào tử, hoa)
+     * Lá bào tử
+     * Sự phát triển của hoa
+     * Cụm hoa
+          + Cụm hoa vô hạn
+          + Cụm hoa hữu hạn
+     * Lá vảy
+          + Lá bắc
+     * Trục cụm hoa
+          + Cuống hoa
+          + Cán hoa
+     * Hoa
+          + Tiền khai hoa
+          + Vòng
+          + Tính đối xứng của hoa
+          + Hoa đồ
+          + Hoa thức
+     * Đế hoa
+          + Đế hoa rộng
+     * Bao hoa
+          + Tràng hoa
+               o Cánh môi
+          + Đài hoa
+     * Bộ nhụy
+          + Bầu nhụy
+               o Noãn
+          + Đầu nhụy
+     * Túi giao tử cái
+     * Bộ nhị
+          + Nhị
+          + Nhị lép
+          + Bao phấn
+               o Phấn hoa
+               o Khối phấn
+               o Buồng phấn
+               o Trung đới
+               o Hạt phấn
+          + Tầng nuôi dưỡng
+     * Trụ nhị nhụy
+     * Hoa giả
+     * Thể giao tử
+     * Thể bào tử
+     * Phôi
+     * Quả
+          + Giải phẫu quả
+          + Quả đơn
+          + Quả kép
+          + Quả phức
+          + Quả giả
+          + Thai sinh
+          + Bán thai sinh
+     * Hạt
+          + Sự hình thành hạt
+          + Sự phát tán hạt
+
+                  Dạng sống
+     * Hệ thống Raunkiær
+     * Trạng thái hoa hồng
+     * Thực vật đệm
+     * Dây leo
+          + Thân leo
+     * Cây bụi
+          + Cây bụi lùn
+          + Cây bụi bò lan
+     * Thực vật thân gỗ
+     * Thực vật thân thảo
+     * Thực vật mọng nước
+
+   Phân loại học
+   thực vật
+
+   Nghiên cứu
+   phân loại học
+   thực vật
+     * Lịch sử phân loại thực vật
+     * Tập mẫu cây
+     * Phân loại sinh học
+     * Danh pháp thực vật
+          + Tên thực vật
+          + Tên chính xác
+          + Trích dẫn tác giả
+          + Quy tắc Danh pháp của Quốc tế cho tảo, nấm và thực vật (ICN)
+          + - cho Cây Trồng (ICNCP)
+     * Bậc phân loại
+     * Hiệp hội cho Phân loại Thực vật Quốc tế (IAPT)
+     * Hệ thống phân loại thực vật
+          + Hệ thống Takhtajan
+          + Hệ thống APG II
+          + Hệ thống APG III
+     * Phân loại thực vật được gieo trồng
+          + Phân loại cam chanh
+          + Cultigen
+               o Giống cây trồng
+               o Nhóm cây trồng
+               o Giống hoa lan lai
+
+   Các nhóm
+   phân loại
+     * Sinh vật lạp thể cổ
+     * Thực vật có phôi
+          + Thực vật không mạch
+               o Rêu
+          + Thực vật có mạch
+               o Dương xỉ & Quyết
+               o Thực vật có hạt
+                    # Thực vật hạt trần
+                    # Thực vật có hoa
+
+   Nhóm phân
+   loại cũ
+     * Tảo
+     * Thực vật tản
+     * Thực vật hoa ẩn
+     * Thực vật thân–rễ
+
+     * Sinh lý học
+       thực vật
+     *
+       Nguyên liệu
+
+     * Dinh dưỡng
+     * Quang hợp
+          + Diệp lục
+          + Carotenoid
+               o Carotene
+               o Xanthophyll
+          + Flavonoid
+          + Anthocyanin
+          + Betalain
+     * Hormone thực vật
+     * Ưu thế ngọn
+     * Thoát hơi nước
+     * Áp suất trương
+     * Dòng khối nội bào
+     * Hạt aleurone
+     * Phytomelanin
+     * Đường
+     * Nhựa cây
+     * Tinh bột
+     * Cellulose
+     * Lignin
+     * Tanin
+     * Suberin
+
+   Sinh sản
+
+     * Tiến hóa
+     *
+       Sinh thái học
+
+     * Xen kẽ thế hệ
+     * Nang bào tử
+          + Bào tử
+          + Nang vi bào tử
+               o Vi bào tử
+          + Nang đại bào tử
+               o Đại bào tử
+     * Thụ phấn
+          + Động vật giao phấn
+          + Ống phấn
+     * Thụ tinh kép
+     * Nảy mầm
+     * Sinh sản sinh dưỡng
+     * Phát triển tiến hóa
+     * Lịch sử tiến hóa
+          + Niên biểu
+
+   Từ điển
+
+     * Thuật ngữ thực vật học
+     * Thuật ngữ hình thái thực vật học
+     * Từ vựng hình thái học thực vật
+
+   Thể loại
+
+     * x
+     * t
+     * s
+
+   Sinh thái học: Hệ sinh thái mẫu: Các thành phần dinh dưỡng
+
+   Tổng quan
+
+     * Abiotic component
+     * Abiotic stress
+     * Tập tính
+     * Chu trình sinh địa hóa
+     * Biomass
+     * Biotic component
+     * Biotic stress
+     * Carrying capacity
+     * Competition
+     * Hệ sinh thái
+     * Sinh thái học hệ sinh thái
+     * Mô hình hệ sinh thái
+     * Loài chủ chốt
+     * Tập tính ăn ở động vật
+     * Metabolic theory of ecology
+     * Năng suất
+     * Resource
+
+   Sinh vật sản xuất
+
+     * Hóa tổng hợp
+     * Foundation species
+     * Mixotrophs
+     * Myco-heterotrophy
+     * Mycotroph
+     * Organotrophs
+     * Sinh vật hóa dưỡng
+     * Sinh vật quang dưỡng
+
+     * Sinh vật quang dị dưỡng
+     * Sinh vật tự dưỡng
+     * Quang hợp
+     * Photosynthetic efficiency
+     * Primary nutritional groups
+     * Primary production
+
+   Sinh vật tiêu thụ
+
+     * Động vật ăn thịt đầu bảng
+     * Bacterivore
+     * Động vật ăn thịt
+     * Chemoorganotroph
+     * Foraging
+     * Generalist and specialist species
+     * Intraguild predation
+     * Động vật ăn cỏ
+     * Sinh vật dị dưỡng
+     * Heterotrophic nutrition
+     * Động vật ăn côn trùng
+     * Mesopredators
+     * Mesopredator release hypothesis
+     * Động vật ăn tạp
+     * Optimal foraging theory
+     * Săn mồi
+     * Prey switching
+
+   Sinh vật phân hủy
+
+     * Chemoorganoheterotrophy
+     * Phân hủy
+     * Sinh vật ăn mùn bã
+     * Detritus
+
+   Vi sinh vật
+
+     * Cổ khuẩn
+     * Thể thực khuẩn
+     * Environmental microbiology
+     * Lithoautotroph
+     * Lithotrophy
+     * Microbial cooperation
+     * Microbial ecology
+     * Microbial food web
+     * Microbial intelligence
+     * Microbial loop
+     * Microbial mat
+     * Microbial metabolism
+     * Phage ecology
+
+   Lưới thức ăn
+
+     * Biomagnification
+     * Ecological efficiency
+     * Kim tự tháp sinh thái
+     * Dòng năng lượng
+     * Chuỗi thức ăn
+     * Bậc dinh dưỡng
+
+   Lưới thức ăn điển hình
+
+     * Lỗ phun lạnh
+     * Miệng phun thủy nhiệt
+     * Intertidal
+     * Rừng tảo bẹ
+     * Hồ
+     * North Pacific Subtropical Gyre
+     * Sông
+     * San Francisco Estuary
+     * Soil
+     * Tide pool
+
+   Quá trình
+
+     * Ascendency
+     * Bioaccumulation
+     * Cascade effect
+     * Climax community
+     * Competitive exclusion principle
+     * Consumer-resource systems
+     * Copiotrophs
+     * Dominance
+     * Ecological network
+     * Diễn thế sinh thái
+     * Chất lượng năng lượng
+     * Energy Systems Language
+     * f-ratio
+     * Hệ số chuyển đổi thức ăn
+     * Feeding frenzy
+     * Mesotrophic soil
+     * Nutrient cycle
+     * Oligotroph
+     * Paradox of the plankton
+     * Trophic cascade
+     * Trophic mutualism
+     * Trophic state index
+
+   Phòng ngự/Phản công
+
+     * Màu sắc động vật
+     * Cơ chế tự vệ của động vật
+     * Ngụy trang
+     * Deimatic behaviour
+     * Herbivore adaptations to plant defense
+     * Bắt chước
+     * Plant defense against herbivory
+     * Predator avoidance in schooling fish
+
+     * x
+     * t
+     * s
+
+   Sinh thái học: Hệ sinh thái mẫu: Các thành phần khác
+
+   Sinh thái học quần thể
+
+     * Abundance
+     * Allee effect
+     * Depensation
+     * Ecological yield
+     * Effective population size
+     * Intraspecific competition
+     * Hàm Lôgit
+     * Mô hình phát triển Malthus
+     * Maximum sustainable yield
+     * Overpopulation in wild animals
+     * Overexploitation
+     * Population cycle
+     * Population dynamics
+     * Population modeling
+     * Population size
+     * Phương trình Lotka–Volterra
+     * Recruitment
+     * Resilience
+     * Small population size
+     * Stability
+
+   Các loài
+
+     * Đa dạng sinh học
+     * Density-dependent inhibition
+     * Ecological effects of biodiversity
+     * Ecological extinction
+     * Các loài đặc hữu
+     * Flagship species
+     * Gradient analysis
+     * Indicator species
+     * Loài du nhập
+     * Loài xâm lấn
+     * Latitudinal gradients in species diversity
+     * Minimum viable population
+     * Neutral theory
+     * Occupancy–abundance relationship
+     * Population viability analysis
+     * Priority effect
+     * Rapoport's rule
+     * Relative abundance distribution
+     * Relative species abundance
+     * Species diversity
+     * Species homogeneity
+     * Species richness
+     * Phân bố loài
+     * Species-area curve
+     * Loài bảo trợ
+
+   Tác động giữa các loài
+
+     * Antibiosis
+     * Tương tác sinh học
+     * Commensalism
+     * Community ecology
+     * Ecological facilitation
+     * Cạnh tranh khác loài
+     * Mutualism
+     * Storage effect
+     * Ký sinh
+     * Cộng sinh
+
+   Sinh thái học không gian
+
+     * Địa lý sinh học
+     * Cross-boundary subsidy
+     * Ecocline
+     * Ecotone
+     * Ecotype
+     * Disturbance
+     * Edge effects
+     * Foster's rule
+     * Habitat fragmentation
+     * Ideal free distribution
+     * Intermediate Disturbance Hypothesis
+     * Island biogeography
+     * Landscape ecology
+     * Landscape epidemiology
+     * Landscape limnology
+     * Metapopulation
+     * Patch dynamics
+     * r/K selection theory
+     * Source–sink dynamics
+
+   Ổ
+
+     * Ổ sinh thái
+     * Ecological trap
+     * Kỹ sư hệ sinh thái
+     * Environmental niche modelling
+     * Guild
+     * Sinh cảnh
+     * Sinh cảnh đại dương
+     * Limiting similarity
+     * Niche apportionment models
+     * Niche construction
+     * Niche differentiation
+
+   Các mạng lưới khác
+
+     * Assembly rules
+     * Bateman's principle
+     * Bioluminescence
+     * Ecological collapse
+     * Ecological debt
+     * Ecological deficit
+     * Ecological energetics
+     * Ecological indicator
+     * Ecological threshold
+     * Ecosystem diversity
+     * Nguyên lý đột sinh
+     * Extinction debt
+     * Kleiber's law
+     * Quy luật cực tiểu của Liebig
+     * Marginal value theorem
+     * Thorson's rule
+     * Xerosere
+
+   Khác
+
+     * Allometry
+     * Alternative stable state
+     * Cân bằng sinh thái
+     * Biological data visualization
+     * Constructal theory
+     * Ecocline
+     * Ecological economics
+     * Dấu chân sinh thái
+     * Ecological forecasting
+     * Ecological humanities
+     * Ecological stoichiometry
+     * Ecopath
+     * Ecosystem based fisheries
+     * Endolith
+     * Evolutionary ecology
+     * Functional ecology
+     * Industrial ecology
+     * Macroecology
+     * Microecosystem
+     * Môi trường tự nhiên
+     * Regime shift
+     * Systems ecology
+     * Urban ecology
+     * Theoretical ecology
+
+     * x
+     * t
+     * s
+
+   Trao đổi chất, dị hóa, đồng hóa
+
+   Thông tin chung
+
+     * Con đường chuyển hóa
+     * Mạng lưới chuyển hóa
+     * Nhóm dinh dưỡng chính
+
+   [250px-Metabolism-en.svg.png]
+   [250px-Catabolism_schematic.svg.png]
+   [250px-Catabolism%2C_energy_carriers_and_anabolism.png]
+
+   Chuyển hóa
+   năng lượng
+
+   Hô hấp tế bào
+     * Đường phân → Khử carbonxyl pyruvate → Chu trình Krebs → Phosphoryl
+       hóa oxy hóa (Chuỗi chuyền điện tử + ATP synthase)
+
+   Hô hấp yếm khí
+     * Chất nhận điện tử không phải là oxy
+
+   Lên men
+     * Đường phân →
+     * Phosphoryl hóa mức cơ chất
+          + ABE
+          + Ethanol
+          + Acid lactic
+
+   Con đường
+   đặc hiệu
+
+   Chuyển hóa protein
+     * Tổng hợp protein
+     * Dị hóa
+
+   Chuyển hóa
+   carbohydrate
+   (Dị hóa
+   carbohydrate
+   và đồng hóa)
+   Ở người
+     * Đường phân ⇄ Tân tạo đường
+
+     * Phân giải đường ⇄ Tạo đường
+
+     * Con đường pentose phosphate
+     * Fructolysis
+     * Galactolysis
+
+     * Glycosyl hóa
+          + liên kết N
+          + liên kết O
+
+   Không có ở người
+     * Quang hợp
+     * Quang hợp không thải oxy
+     * Hóa tổng hợp
+     * Cố định carbon
+
+     * Chuyển hóa xylose
+     * Phóng xạ dưỡng
+
+   Chuyển hóa lipid
+   (lipolysis,
+   lipogenesis)
+   Chuyển hóa acid béo
+     * Phân giải acid béo (Beta oxi hóa)
+     * Tổng hợp acid béo
+
+   Other
+     * Chuyến hóa steroid
+     * Chuyến hóa sphingolipid
+     * Chuyến hóa eicosanoid
+     * Ketosis
+     * Vận chuyển ngược cholesterol
+
+   Amino acid
+     * Tổng hợp amino axít
+     * Chu trình urê
+
+   Đồng hóa
+   nucleotide
+     * Đồng hóa purine
+     * Cứu vãn nucleotide
+     * Chuyến hóa pyrimidine
+
+   Khác
+     * Đồng hóa kim loại
+          + Đồng hóa sắt ở người
+     * Đồng hóa etanol
+
+   Cơ sở dữ liệu tiêu đề chuẩn Sửa dữ liệu tại Wikidata
+   Quốc tế
+     * GND
+
+   Quốc gia
+     * Hoa Kỳ
+     * Pháp
+     * BnF data
+     * Nhật Bản
+     * Cộng hòa Séc
+     * Israel
+
+   Khác
+     * Yale LUX
+
+   Lấy từ
+   “https://vi.wikipedia.org/w/index.php?title=Quang_hợp&oldid=73696920”
+
+   Thể loại:
+     * Quang hợp
+     * Nông học
+     * Sinh lý học thực vật
+     * Thực vật học
+     * Trao đổi chất
+     * Hô hấp tế bào
+     * Quá trình sinh học
+     * Hệ thống sinh thái
+     * Dinh dưỡng ở thực vật
+     * Sinh học lượng tử
+
+   Thể loại ẩn:
+     * Quản lý CS1: nhiều tên: danh sách tác giả
+     * Bài viết có văn bản tiếng Hy Lạp cổ (tới 1453)
+     * Bài cơ bản
+     * Trang thiếu chú thích trong bài
+     * Bài viết có bản mẫu Hatnote trỏ đến một trang không tồn tại
+     * Bài cơ bản dài trung bình
+
+     * Trang này được sửa đổi lần cuối vào ngày 19 tháng 7 năm 2025,
+       10:47.
+     * Văn bản được phát hành theo Giấy phép Creative Commons Ghi
+       công–Chia sẻ tương tự; có thể áp dụng điều khoản bổ sung. Với việc
+       sử dụng trang web này, bạn chấp nhận Điều khoản Sử dụng và Quy định
+       quyền riêng tư. Wikipedia® là thương hiệu đã đăng ký của Wikimedia
+       Foundation, Inc., một tổ chức phi lợi nhuận.
+
+     * Chính sách quyền riêng tư
+     * Giới thiệu Wikipedia
+     * Lời phủ nhận
+     * Bộ Quy tắc Ứng xử Chung
+     * Lập trình viên
+     * Thống kê
+     * Tuyên bố về cookie
+     * Phiên bản di động
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Tìm kiếm
+   ____________________
+   (BUTTON) Tìm kiếm
+
+   [ ] Đóng mở mục lục
+   Quang hợp
+   (BUTTON) 157 ngôn ngữ Thêm đề tài

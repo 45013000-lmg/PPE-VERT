@@ -1,0 +1,467 @@
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TFBCTP
+
+   The store will not work correctly when cookies are disabled.
+
+   JavaScript dường như bị vô hiệu trong trình duyệt của bạn. Để có trải
+   nghiệm tốt nhất trên trang web của chúng tôi, đảm bảo bật Javascript
+   trong trình duyệt của bạn.
+
+   Toggle Nav Liên Á
+    1. Hệ Thống Cửa Hàng
+    2. Hỗ Trợ KH
+         1. Hotline 1800 9003
+         2. Câu Hỏi Thường Gặp
+         3. Theo Dõi Đơn Hàng
+    3. Bảo Hành
+         1. Kích Hoạt Bảo Hành
+         2. Yêu Cầu Bảo Hành
+         3. Tra Cứu Bảo Hành
+         4. Chính Sách Bảo Hành
+         5. Hướng Dẫn Sử Dụng
+    4. Hiểu Về Liên Á
+         1. Giới thiệu
+         2. Công nghệ
+         3. Tin tức
+         4. Ngủ ngon
+    5. Hội Viên L'AVIP
+
+    1. Tài khoản
+         1. L'A
+         2. Đăng nhập / Đăng ký
+         3. Thông tin
+         4. Sổ địa chỉ
+         5. Đơn hàng của tôi
+         6. Đăng xuất
+
+     * Nệm
+          +
+               o Nệm cao su
+               o Nệm lò xo
+               o Nệm cao su hybrid
+               o Nệm gấp đa năng
+               o Topper cao su
+               o Tấm bảo vệ nệm
+               o Nệm tiện dụng
+            [nem-cao-su-thumb-menu.jpg]
+     * Drap
+          +
+               o Tencel
+               o Premium cotton
+               o Cotton
+               o Ruột chăn chần gòn
+            [Web_Banner_Drap_Lush_800_x_400.jpg]
+     * Gối
+          +
+               o Gối cao su
+               o Gối gòn
+               o Áo gối
+            [goi-cao-su-thumb-menu.jpg]
+     * Sản Phẩm Cho Bé
+          +
+               o Nệm cho bé
+               o Gối cho bé
+               o Chăn cho bé
+               o Nôi giường cho bé
+            [nem-tre-em-trang-thumb-menu.jpg]
+     * Nội Thất
+          +
+               o Giường ngủ
+               o Ghế đuôi giường
+               o Ghế sofa
+               o Bàn trà sofa
+               o Ghế đôn tròn
+            [giuong-ngu-thumb-menu.jpg]
+     * Khách Sạn
+     * Vệ Sinh Nệm - Sofa
+          +
+               o Dịch vụ vệ sinh nệm
+               o Dịch vụ vệ sinh sofa
+               o Đăng ký dịch vụ
+
+   ____________________ (BUTTON) (BUTTON)
+   {{cart.items_qty}}
+   L'A
+   (BUTTON)
+   Giỏ hàng Thanh toán
+                    Tạm Tính
+                    Giảm Giá
+                 Phí Vận Chuyển
+   {{ cart.summary.invoice_discount.title }}
+   {{ cart.summary.referral_discount.title }}
+    {{ cart.summary.scheme_discount.title }}
+    {{ cart.summary.exchange_point.title }}
+   {{ cart.summary.birthday_discount.title }}
+                   Tổng Tiền
+     __________________________________________________________________
+
+    1. {{item.name}} {{item.name}}
+       [javascript]
+       [javascript]
+
+        {{data.label}}
+                {{data.value}}
+
+       {{item.message}}
+       (BUTTON) ____________________ (BUTTON)
+       Chỉnh sửa
+       Xóa
+
+   (BUTTON)
+   Bạn không có sản phẩm trong giỏ hàng.
+   (BUTTON)
+   Bạn có muốn loại bỏ sản phẩm {{delete_item.name}} ?
+   (BUTTON) Đồng ý (BUTTON) Hủy bỏ
+   Menu
+
+   Tài khoản
+     * Trang chủ
+
+     Tin Công Ty
+
+     Màu xanh lá cây: Ý nghĩa đằng sau sắc màu của thiên nhiên
+
+Màu xanh lá cây: Ý nghĩa đằng sau sắc màu của thiên nhiên
+
+   màu xanh lá cây
+   Đăng trên: Ngủ Ngon
+
+Mục Lục
+
+   Sắc xanh của cỏ cây hoa lá luôn mang một ý nghĩa đặc biệt hướng về cội
+   nguồn của sự sống, khơi dậy sự bình yên và ngập tràn hy vọng trong tâm
+   hồn. Có thể vì vậy, màu xanh lá cây ngày càng được ứng dụng nhiều trong
+   các phong cách thiết kế, mang lại cảm giác trẻ trung và tràn đầy sức
+   sống khi khoác lên mình màu sắc của thiên nhiên. Các bạn hãy cùng LIÊN
+   Á tìm hiểu chi tiết hơn về tông màu của tự nhiên qua bài viết bên dưới
+   nhé!
+
+1. Tổng quan về màu xanh lá cây
+
+   Màu xanh lá cây nằm giữa xanh lam và vàng trong dải ánh sáng. Đây là
+   màu sắc gắn liền với thiên nhiên, biểu tượng cho sự sống và tái sinh
+   cũng như khởi đầu đầy hy vọng.
+
+   ý nghĩa màu xanh lá
+
+   Màu xanh lá cây gắn liền với sự sống thiên nhiên
+
+   Màu xanh lá cây còn được xem là màu của sự chữa lành, giúp xoa dịu tâm
+   trí và khơi dậy nguồn năng lượng tích cực. Về mặt thị giác, đây cũng là
+   một trong những màu "dễ chịu" nhất đối với mắt người do nằm ở vùng
+   trung tâm phổ quang - nơi võng mạc ít bị căng thẳng nhất khi tiếp nhận
+   ánh sáng.
+
+2. Nguồn gốc của màu xanh lá cây
+
+   ý nghĩa của màu xanh lá
+
+   Màu xanh lá cây biểu trưng cho sự sống
+
+   Màu xanh lá cây được xem là biểu tượng đặc trưng của rừng núi thiên
+   nhiên. Hầu hết cây cối trong tự nhiên đều mang sắc xanh nhờ vào một
+   loại sắc tố có tên gọi là diệp lục, đóng vai trò quan trọng trong quá
+   trình quang hợp và nuôi dưỡng sự sống của thực vật.
+
+3. Có bao nhiêu tông màu xanh lá cây?
+
+   màu xanh lá tượng trưng cho điều gì
+
+   Màu xanh lá cây cùng nhiều sắc độ
+
+   Các sắc độ phổ biến của màu xanh lá cây gồm:
+     * Xanh lá đậm: Thường xuất hiện trong thiên nhiên, mang cảm giác ổn
+       định và vững chắc.
+     * Xanh rêu: Tông màu trầm, gợi sự tĩnh lặng và cổ điển.
+     * Xanh lá mạ: Sáng hơn màu xanh nguyên bản với chút sắc vàng, tạo cảm
+       giác tươi mới và trẻ trung.
+     * Xanh ô liu: Mang sắc xanh pha nâu, phù hợp với những không gian ấm
+       cúng và sang trọng.
+     * Xanh bạc hà: Nhẹ nhàng và mát mắt, thường dùng trong các thiết kế
+       hiện đại.
+     * Xanh mộc: Đậm hơn xanh lá thông thường, mang đến cảm giác chắc chắn
+       và tràn đầy sức sống.
+     * Xanh lơ: Là sự kết hợp giữa xanh lá và xanh lam tạo nên vẻ đẹp tinh
+       tế.
+
+4. Ý nghĩa của màu xanh lá cây
+
+4.1 Tình yêu
+
+   Màu xanh lá mang đến sự dịu dàng, an yên và một chút hy vọng âm thầm.
+   Sắc xanh này gợi nhớ đến những mối quan hệ được vun đắp mỗi ngày, phát
+   triển một cách tự nhiên như cây cối. Tình yêu gắn liền với màu xanh lá
+   cây thường xuất phát từ sự tin tưởng và thấu hiểu.
+
+   ý nghĩa màu xanh lá cây
+
+   Tình yêu màu xanh lá xuất phát từ sự thấu hiểu nhau
+
+   Đó là khi hai người lựa chọn đồng hành cùng nhau qua những điều nhỏ bé
+   trong cuộc sống, thay vì chạy theo những cảm xúc bốc đồng. Cũng giống
+   như thiên nhiên không ngừng tái sinh, tình yêu mang màu xanh lá là thứ
+   có thể chữa lành, mang lại cảm giác an toàn cũng như vững vàng niềm tin
+   hơn tương lai.
+
+4.2 Phong thủy
+
+   Trong phong thủy ngũ hành, xanh lá là màu hợp mệnh Mộc và Hỏa giúp gia
+   tăng vận khí, thu hút may mắn và tài lộc. Tuy nhiên, nếu bạn thuộc mệnh
+   Kim hoặc Thổ thì cần cân nhắc trước khi chọn gam màu này.
+
+   ý nghĩa của màu xanh lá cây
+
+   Gia chủ mệnh Mộc nên thiết kế nhà theo màu xanh lá cây
+
+   Mộc khắc Kim và áp chế Thổ, nên việc sử dụng quá nhiều màu xanh lá cây
+   có thể gây mất cân bằng về năng lượng phong thủy, ảnh hưởng đến tâm
+   trạng hoặc tài vận.
+
+4.3 Văn hóa
+
+   Tại Trung Quốc, màu xanh lá cây không mang lại cảm giác tích cực như
+   nhiều người vẫn nghĩ. Trong dân gian, nó gắn với hình ảnh chiếc mũ xanh
+   - biểu tượng liên quan đến sự phản bội trong tình cảm. Ở Israel, màu
+   xanh lá cây thường bị liên tưởng đến những điều kém may mắn, một quan
+   điểm cũng xuất hiện ở một vài quốc gia khác như Úc. Ngược lại trong thế
+   giới Hồi giáo, màu xanh lá lại mang ý nghĩa thiêng liêng, tượng trưng
+   cho sự khôn ngoan, sự cứu rỗi và sự gắn kết tâm linh.
+
+   màu xanh lá cây tượng trưng cho điều gì
+
+   Người phương Tây nghĩ rằng màu xanh là điềm báo tốt
+
+   Tại các nước phương Tây, ý nghĩa của màu xanh lá cây phong phú hơn rất
+   nhiều. Nó có thể là dấu hiệu của sự may mắn, tươi mới cũng như gắn bó
+   mật thiết với môi trường thiên nhiên. Tuy nhiên, đồng thời nó cũng đại
+   diện cho cảm xúc như lòng ghen tỵ hay sự thèm muốn. Còn ở Trung Đông,
+   màu xanh lá thường mang hàm ý tích cực - biểu tượng của sự sinh sôi,
+   phát triển và thịnh vượng.
+
+5. Ứng dụng của màu xanh lá cây trong cuộc sống
+
+5.1 Thiết kế nội thất
+
+   Màu xanh lá cây gợi lên hình ảnh của sự khởi đầu mới mẻ và quá trình
+   phát triển vững vàng. Nhờ ý nghĩa tích cực này, gam màu xanh thường
+   được nhiều người lựa chọn trong thiết kế nhà cửa.
+
+   màu xanh lá cây có ý nghĩa gì
+
+   Mẫu drap xanh đậm sang trọng
+
+   Đồ nội thất có màu lá tạo cảm giác mát mẻ dễ chịu, góp phần làm cho
+   ngôi nhà trở thành nơi ấm áp tràn ngập sinh khí cho cả gia đình.
+
+5.2 Thời trang
+
+   Màu xanh lá cây mang đến cảm giác tươi mới và tràn đầy sức sống, là lựa
+   chọn lý tưởng cho những trang phục hướng đến sự năng động, đặc biệt
+   trong các hoạt động ngoài trời hay dịp dạo chơi cuối tuần. Gắn liền với
+   hình ảnh cây cỏ, sắc xanh này dễ dàng tạo nên sự kết nối gần gũi với
+   thiên nhiên.
+
+   màu xanh lá cây trong thời trang
+
+   Trang phục màu xanh mang nét năng động
+
+   Nhìn vào một khoảng xanh, con người như được thả lỏng và tiếp thêm sinh
+   lực sau những bộn bề. Có lẽ vì thế mà dù ở thời đại nào, màu xanh lá
+   cây vẫn luôn giữ được vị trí riêng trong lòng mỗi người. LIÊN Á hy vọng
+   bạn đã hiểu rõ hơn về sắc xanh lá cây, đồng thời từ đó dâng trào khơi
+   gợi cảm hứng thiết kế cho căn phòng của riêng bạn.
+     *
+     *
+
+Sản phẩm liên quan
+
+   Drap Caressa 3483170
+
+Drap Caressa 3483170
+
+   Nâng niu giấc nồng
+   Chất liệu tencel tự nhiên, phù hợp:
+     * Người sở hữu làn da nhạy cảm
+     * Mát lạnh và mềm mượt như lụa
+     * Đa dạng màu sắc, hoa văn
+
+   6.026.000 ₫ 6.550.000 ₫
+   Drap OLIO 3983931
+
+Drap OLIO 3983931
+
+   Bản phối sang trọng
+   Chất liệu cotton cao cấp, phù hợp:
+     * Người sở hữu làn da nhạy cảm
+     * Mát mẻ, thoáng khí, mềm mướt
+     * Thiết kế màu đơn sắc hiện đại
+
+   3.818.000 ₫ 4.150.000 ₫
+
+Có thể bạn quan tâm
+
+   mau xam Màu xám: Ý nghĩa đằng sau sắc màu hiện đại và sành điệu
+   mau nau Màu nâu: Ý nghĩa đằng sau sắc màu ấm áp và bình yên
+   mau hong Màu hồng: Ý nghĩa đằng sau sắc màu dễ thương và nhẹ nhàng
+   mau trang Màu trắng: Ý nghĩa đằng sau sắc màu thuần khiết trang nhã
+   Danh mục
+     * Khuyến Mãi (11)
+     * Tin Tức (22)
+     * Ngủ Ngon (550)
+     * Tuyển Dụng (7)
+
+   Các bài viết khác
+     * ctkm thang 1 2026
+       Ngủ lành mỗi đêm - Ấm êm mỗi ngày
+       Khoảnh khắc khởi đầu của một năm mới, cũng là lúc mỗi người cần
+       dành thời gian làm mới không gian sống và chăm sóc lại nhịp sinh
+       hoạt sau những bộn bề.
+     * xanh thien thanh
+       Màu xanh thiên thanh: Ý nghĩa đằng sau sắc màu của bầu trời
+       Ý nghĩa của màu xanh thiên thanh cùng cách ứng dụng xanh thiên
+       thanh trong thiết kế để tạo nên không gian trẻ trung và tươi sáng.
+     * mau ivory
+       Màu ivory: Ý nghĩa đằng sau màu sắc tinh tế và trang nhã
+       Ý nghĩa của các màu ivory cùng cách ứng dụng các tông màu ivory
+       trong thiết kế để tạo nên không gian thanh lịch và trang nhã.
+     * mau retro
+       Màu retro: Ý nghĩa đằng sau các sắc màu hoài cổ và mộc mạc
+       Ý nghĩa của các màu retro cùng cách ứng dụng các tông màu retro
+       trong thiết kế để tạo nên không gian cổ điển và mộc mạc.
+     * mau neon
+       Màu neon: Ý nghĩa đằng sau các sắc màu huỳnh quang nổi bật
+       Ý nghĩa của các màu neon và cách ứng dụng các tông màu neon trong
+       thiết kế để tạo nên không gian vừa bắt mắt vừa nổi bật.
+
+   TRỤ SỞ CHÍNH
+   CÔNG TY TNHH TM & SX NỆM MOUSSE LIÊN Á
+     * Địa chỉ: 181 Nguyễn Văn Trỗi, P. Phú Nhuận, Thành phố Hồ Chí Minh
+     * Liên hệ mua hàng:
+       1800 9003
+     * Chăm sóc khách hàng & hỗ trợ đại lý:
+       1800 9004
+     * Mail: cskh@liena.vn
+
+   Giấy chứng nhận đăng ký doanh nghiệp số 0302082048 do Sở Kế Hoạch và
+   Đầu Tư Thành phố Hồ Chí Minh cấp lần đầu vào ngày 28/08/2000
+   Đã thông báo bộ công thương
+   Phương thức thanh toán
+    1. Visa Card
+    2. Master Card
+    3. JCB Card
+    4. Tiền Mặt
+    5. Internet Banking
+    6. Trả Góp
+
+   Về chúng tôi
+     * Giới thiệu
+     * Chính sách
+     * Đăng ký bảo hành
+     * Danh sách cửa hàng
+     * Câu hỏi thường gặp
+     * Blog
+     * Tuyển dụng
+
+   Danh mục sản phẩm
+     * Nệm cao su
+     * Nệm lò xo
+     * Drap
+     * Topper
+     * Gối
+     * Sản phẩm cho bé
+     * Nội thất
+
+   Kết nối với chúng tôi
+     * Lien 'A Youtube
+     * Lien 'A Youtube
+     * Lien 'A Youtube
+
+   Quan tâm Zalo OA Liên Á
+   Quan Tâm Zalo Liên Á
+   CÔNG TY TNHH THƯƠNG MẠI & SẢN XUẤT NỆM MOUSSE LIÊN Á
+   Giấy chứng nhận đăng ký doanh nghiệp số 0302082048 do Sở Kế Hoạch và
+   Đầu Tư Thành phố Hồ Chí Minh cấp lần đầu vào ngày 28/08/2000
+   Đã thông báo bộ công thương
+   Phương thức thanh toán
+    1. Visa Card
+    2. Master Card
+    3. JCB Card
+    4. Tiền Mặt
+    5. Internet Banking
+    6. Trả Góp
+
+   (BUTTON)
+   L'A
+   {{error_msg}}
+
+   Đăng nhập / Đăng ký
+
+   Điện thoại
+   ____________________
+
+   (BUTTON) Tiếp tục
+
+   Đăng nhập
+
+   Xin vui lòng điền mã đã gửi đến số điện thoại của bạn, {{phone}}
+
+   ____________________
+   Bạn không nhận được mã ? Gửi lại
+   Vui lòng chờ để gửi lại (giây): {{current_resend_time}}
+
+   (BUTTON) Xác nhận
+   {{success_msg}}
+   Trở Lại
+   (BUTTON) Đóng lại Tài khoản của tôi
+
+   Chat Button
+
+   Khuyến mãi (BUTTON)
+   ____________________ (BUTTON)
+   L'A
+   Không tìm thấy mã khuyến mãi !
+
+Khuyến mãi đã áp dụng
+
+    1. {{coupon.name}}
+       {{coupon.desc}}
+       (BUTTON) (BUTTON)
+
+Khuyến mãi có thể áp dụng
+
+    1. {{coupon.name}}
+       {{coupon.desc}}
+       (BUTTON) (BUTTON)
+
+Khuyến mãi khác
+
+    1. {{coupon.name}}
+       {{coupon.desc}}
+
+   Không tìm thấy mã khuyến mãi !
+   {{selected_coupon.name}}
+   {{selected_coupon.description}}
+   Hiệu lực đến : {{selected_coupon.to_date}}
+   {{selected_coupon.long_desc}}
+   (BUTTON) Trở Lại (BUTTON) Áp dụng khuyến mãi (BUTTON) Bỏ khuyến mãi
+   (BUTTON) Không thể áp dụng
+   Mã Giới Thiệu (BUTTON)
+   L'A
+   {{error_msg}}
+
+   Xin vui lòng nhập mã giới thiệu:
+   ____________________
+   {{referral_code}}
+
+   (BUTTON) Áp dụng (BUTTON) Hủy bỏ
+   Đổi Điểm (BUTTON)
+   L'A
+   {{ error_msg }}
+
+   Điểm quy đổi:
+   {{ formatNumber(loyalty?.loyalty_redeemable_points) }}
+   Điểm quy đổi đã sử dụng:
+   {{ formatNumber(loyalty?.loyalty_points_used) }}
+   Điểm áp dụng cho đơn này:
+   ____________________
+
+   (BUTTON) Áp dụng (BUTTON) Đóng
