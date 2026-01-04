@@ -7,7 +7,7 @@ import numpy as np
 from PIL import Image
 from wordcloud import WordCloud
 
-# Placez les mots à l'endroit correct en arrière-plan.
+
 def auto_invert_if_needed(mask: np.ndarray) -> np.ndarray:
 
     black_ratio = np.mean(mask < 10)
@@ -19,7 +19,7 @@ def auto_invert_if_needed(mask: np.ndarray) -> np.ndarray:
     return mask
 
 
-# Définir les paramètres
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--text", required=True) # fichier texte d'entrée
@@ -35,8 +35,7 @@ def main():
     text = Path(args.text).read_text(encoding="utf-8", errors="ignore")
     text = text.lower()
 
-    # Prétraitement spécifique au vietnamien - garder les mots composés avec underscores
-    # Remplacer les underscores par des espaces seulement pour WordCloud
+    
     text = re.sub(r"_", " ", text)
 
     # Charger le mask
@@ -69,7 +68,6 @@ def main():
         prefer_horizontal=args.prefer_horizontal,
         collocations=False,
         stopwords=stop,
-        # Éviter le problème TrueType en n'utilisant aucune police
     ).generate(text)
 
     def white_color_func(*args, **kwargs):

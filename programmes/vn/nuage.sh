@@ -14,7 +14,6 @@ set -e
 TEXT=$sortie_corpus
 MASK="$ROOT_DIR/nuage/mask.png"
 OUT="$ROOT_DIR/nuage/vn.png"
-FONT="$ROOT_DIR/assets/VPSHOLUT.TTF"
 
 MAX_WORDS=4000
 MIN_FONT=6
