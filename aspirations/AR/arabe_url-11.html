@@ -1,0 +1,1121 @@
+<!DOCTYPE html>
+<html lang="ar" alang="ar">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+<!-- Latest compiled and minified CSS -->
+
+    <title>إعجاز القرآن في علم النبات </title>
+    <meta name="keywords" content=" معهد القرآن الكريم ">
+    <meta name="description" content=" معهد القرآن الكريم ">
+    <meta property="og:title" content="إعجاز القرآن في علم النبات " />
+    <meta property="og:image" content="https://quran.alkafeel.net/res/img/default.jpg" />
+    <meta property="og:description" content="   " />
+    <meta property="og:url" content="https://quran.alkafeel.net/research/13" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content=" معهد القرآن الكريم">
+    <link rel="icon" type="image/x-icon" href="https://alkafeel.net/favicon.ico">
+
+    <link rel="stylesheet" href="https://quran.alkafeel.net/res/css/libs.css">
+    <link rel="stylesheet" href="https://quran.alkafeel.net/res/player/player.css">
+    <link rel="stylesheet" href="https://quran.alkafeel.net/css/fancybox.css">
+    <link rel="stylesheet" href="https://quran.alkafeel.net/res/css/quran.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"
+        integrity="sha512-AA1Bzp5Q0K1KanKKmvN/4d3IRKVlv9PYgwFPvm32nPO6QS8yH1HO7LbgB1pgiOxPtfeg5zEn2ba64MUcqJx6CA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+        <style>
+        .dir {
+            direction: rtl !important;
+        }
+
+        .ta {
+            text-align: right !important;
+        }
+
+        .contents>aside .glogo>p {
+            font-family: 'bbc nassim', Arial, sans-serif !important;
+        }
+
+        /* >>>>>>>>>> set basic font family <<<<<<<<<<<<<*/
+        body {
+            font-family: 'Noto Kufi Arabic', Arial, sans-serif !important;
+        }
+
+        header .tsbar .title {
+            font-family: 'Noto Kufi Arabic', Arial, sans-serif !important;
+        }
+
+        .mlist form .submit {
+            font-family: 'Noto Kufi Arabic', Arial, sans-serif !important;
+        }
+
+        .register form .submit {
+            font-family: 'Noto Kufi Arabic', Arial, sans-serif !important;
+        }
+
+        input::-webkit-input-placeholder,
+        textarea::-webkit-input-placeholder {
+            font-family: 'bbc nassim', Arial, sans-serif !important;
+        }
+
+        input::-moz-placeholder,
+        textarea::-moz-placeholder {
+            font-family: 'bbc nassim', Arial, sans-serif !important;
+        }
+
+        input:-ms-input-placeholder,
+        textarea:-ms-input-placeholder {
+            font-family: 'bbc nassim', Arial, sans-serif !important;
+        }
+
+        input:-moz-placeholder,
+        textarea:-moz-placeholder {
+            font-family: 'bbc nassim', Arial, sans-serif !important;
+        }
+
+        /* Noto Kufi Arabic */
+        @font-face {
+            font-family: 'Noto Kufi Arabic';
+            font-display: fallback;
+            src: url('https://alkafeel.net/quran/res/font/Noto_Kufi_Arabic/NotoKufiArabic-Regular.eot');
+            src: url('https://alkafeel.net/quran/res/font/Noto_Kufi_Arabic/NotoKufiArabic-Regular.eot?#iefix') format('embedded-opentype'),
+                url('https://alkafeel.net/quran/res/font/Noto_Kufi_Arabic/NotoKufiArabic-Regular.woff2') format('woff2'),
+                url('https://alkafeel.net/quran/res/font/Noto_Kufi_Arabic/NotoKufiArabic-Regular.woff') format('woff'),
+                url('https://alkafeel.net/quran/res/font/Noto_Kufi_Arabic/NotoKufiArabic-Regular.ttf') format('truetype');
+        }
+
+        /* BBC Nassim */
+        @font-face {
+            font-family: 'bbc nassim';
+            font-display: fallback;
+            src: url('https://alkafeel.net/quran/res/font/bbc_nassim/bbc-nassim-regular.eot');
+            src: url('https://alkafeel.net/quran/res/font/bbc_nassim/bbc-nassim-regular.eot?#iefix') format('embedded-opentype'),
+                url('https://alkafeel.net/quran/res/font/bbc_nassim/bbc-nassim-regular.woff') format('woff'),
+                url('https://alkafeel.net/quran/res/font/bbc_nassim/bbc-nassim-regular.ttf') format('truetype');
+        }
+
+        .mejs__container {
+            background: #fff !important;
+        }
+
+        .mejs__controls:not([style*="display: none"]) {
+            background: gray !important;
+        }
+
+        .mejs__button>button {}
+    </style>
+
+    <style>
+        @media (min-width: 320px) and (max-width: 767px) {
+            .desktop {
+                display: none !important;
+            }
+        }
+    </style>
+    <script>
+        function loadStyles() {
+            document.querySelectorAll('link[data-dynamic]').forEach(function(link) {
+                link.remove();
+            });
+
+            // تحديد رابط CSS بناءً على عرض الشاشة
+            var link = document.createElement('link');
+            link.rel = 'stylesheet';
+            link.setAttribute('data-dynamic', 'true');
+
+            if (window.innerWidth >= 767) {
+                link.href = "https://quran.alkafeel.net/res/css/quran.css";
+                // document.head.appendChild(createLinkElement('res/css/libs.css'));
+                // document.head.appendChild(createLinkElement('res/player/player.css'));
+            } else if (window.innerWidth >= 320 && window.innerWidth <= 767) {
+                // link.href = 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css';
+                // document.head.appendChild(createLinkElement(asset('res/css/quran.css')));
+                document.head.appendChild(createLinkElement("https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"));
+                document.head.appendChild(createLinkElement("https://quran.alkafeel.net/css/style.css"));
+                document.head.appendChild(createLinkElement("https://quran.alkafeel.net/css/fancybox.css"));
+                document.head.appendChild(createLinkElement(
+                    'https://fonts.googleapis.com/css2?family=Almarai&display=swap'));
+                document.head.appendChild(createLinkElement(
+                    'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css'));
+                document.head.appendChild(createLinkElement( 'https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css'));
+                document.head.appendChild(createLinkElement( "https://quran.alkafeel.net/res/css/quran_mobile.css" ));
+
+                function createLinkElement(href) {
+                    var newLink = document.createElement('link');
+                    newLink.rel = 'stylesheet';
+                    newLink.href = href;
+                    return newLink;
+                }
+            }
+
+
+            // إضافة الرابط الجديد إلى <head>
+            if (link.href) {
+                document.head.appendChild(link);
+            }
+        }
+
+        loadStyles();
+        window.addEventListener('resize', loadStyles);
+    </script>
+</head>
+
+<body class="dir">
+    <div class="warpper cont_ma desktop">
+        <div class="container2">
+            <div class="tbar"></div>
+            <section class="contents ">
+                <aside><div class="glogo desktop">
+    <a href="/" class="logo icon" title="الصفحة الرئيسية"></a>
+    <p>إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ</p>
+    <div class="book icon"></div>
+</div>
+<div class="menu">
+    <div class="title">القرآن الكريم</div>
+    <a href="https://quran.alkafeel.net/quran" title="القرآن الكريم">القرآن الكريم</a>
+    <a href="https://quran.alkafeel.net/video_cat/8" title="دروس قرآنية">دروس قرآنية</a>
+    <a href="https://quran.alkafeel.net/video_cat/7" title="محاضرات قرآنية">محاضرات قرآنية</a>
+    <a href="https://quran.alkafeel.net/research" title="بحوث ودراسات">بحوث ودراسات</a>
+    <a href="https://quran.alkafeel.net/articles" title="مقالات">مقالات</a>
+    <a href="" style="display:none;" title="مواعيد الدورات الخاصة">مواعيد الدورات الخاصة</a>
+    <a href="" style="display:none;" title="استمارة التسجيل">استمارة التسجيل</a>
+    <a href="https://quran.alkafeel.net/audio/cat/1" title="تلاوات مرتلة">تلاوات مرتلة</a>
+    <a href="https://quran.alkafeel.net/audio/cat/2" title="تلاوة مجودة">تلاوة مجودة</a>
+    <a href="https://quran.alkafeel.net/reports" title="تقارير">تقارير</a>
+    <a href="#" class="gotocontact" title="اتصل بنا">اتصل بنا</a>
+</div>
+
+<div class="rform222"></div>
+<div class="mlist">
+    <div class="title">القائمة البريدية</div>
+    <div class="icon"></div>
+    <p>اشترك بالقائمة البريدية ليصلك جديدنا</p>
+
+
+    <form action="https://quran.alkafeel.net/mlist" method="POST">
+        <input type="hidden" name="_token" value="HybHkcN3Lvjx8FIDWmRbfemjy885RojODONwT6Or" autocomplete="off">        <input type="email" name="email" class="email" placeholder="البريد الالكتروني" maxlength="50" autocomplete="off" required>
+        <input type="submit" value="ارسال" class="submit">
+    </form>
+
+    
+</div>
+
+
+
+
+
+<div id="map" style="background: #e7ab2c; width: 200px; height: 200px; border: #e7ab2c 1px solid"></div>
+
+
+<script>
+    function initMap() {
+      var uluru = {lat: 32.617957, lng: 44.0329243};
+      var map = new google.maps.Map(document.getElementById('map'), {
+        zoom: 16,
+        center: uluru
+      });
+      var marker = new google.maps.Marker({
+        position: uluru,
+        map: map,
+        draggable: true
+      });
+
+      marker.addListener('click', function() {
+        window.open('https://www.google.com/maps?q=' + uluru.lat + ',' + uluru.lng, '_blank');
+      });
+    }
+  </script></aside>
+                <section>
+                    <header><div class="mbar">
+    <div class="tsbar">
+        <div class="title">العتبة العباسية المقدسة / معهد القرآن الكريم</div>
+        <div class="search">
+            <div class="field">
+                <input type="text" placeholder="بحث" autocomplete="off" value="">
+            </div>
+            <div class="icon"></div>
+        </div>
+    </div>
+    <nav>
+        <div class="index">
+            <a href="https://quran.alkafeel.net" title="الصفحة الرئيسية">الصفحة الرئيسية</a>
+        </div>
+        <div class="quran">
+            <a href="https://quran.alkafeel.net/quran" title="القرآن الكريم">القرآن الكريم</a>
+        </div>
+        <div class="news">
+            <a href="https://quran.alkafeel.net/news" title="الأخبار">الأخبار</a>
+            <ul>
+                <a href="https://quran.alkafeel.net/news?cat=13" title="أخبار المعهد">أخبار المعهد</a>
+                <a href="https://quran.alkafeel.net/news?cat=14" title="أخبار محلية وعالمية">أخبار محلية وعالمية</a>
+            </ul>
+        </div>
+        <div class="articles">
+            <a href="https://quran.alkafeel.net/articles" title="مقالات">مقالات</a>
+        </div>
+        <div class="meetings">
+            <a href="https://quran.alkafeel.net/meetings" title="لقاءات">لقاءات</a>
+        </div>
+        <div class="media">
+            <a href="#" title="الوسائط">الوسائط</a>
+            <ul>
+                <a href="https://quran.alkafeel.net/video" title="المكتبة المرئية">المكتبة المرئية</a>
+                <a href="https://quran.alkafeel.net/photo" title="المكتبة المصورة">المكتبة المصورة</a>
+                <a href="https://quran.alkafeel.net/audio" title="المكتبة الصوتية">المكتبة الصوتية</a>
+            </ul>
+        </div>
+        <div class="art">
+            <a href="https://quran.alkafeel.net/art" title="أعمال فنية قرآنية">أعمال فنية قرآنية</a>
+            <ul>
+                <a href="https://quran.alkafeel.net/art_cat?cat=10" title="خطوط">خطوط</a>
+                <a href="https://quran.alkafeel.net/art_cat?cat=12" title="تصاميم">تصاميم</a>
+                <a href="https://quran.alkafeel.net/art_cat?cat=11" title="رسم">رسم</a>
+            </ul>
+        </div>
+        <div class="issues">
+            <a href="https://quran.alkafeel.net/issues" title="اصدارات المعهد">اصدارات المعهد</a>
+            <ul>
+                <a href="https://quran.alkafeel.net/issues_cat?cat=16" title="كتب">كتب</a>
+                <a href="https://quran.alkafeel.net/issues_cat?cat=15" title="مجلات">مجلات</a>
+                <a href="https://quran.alkafeel.net/issues_cat?cat=17" title="دوريات">دوريات</a>
+            </ul>
+        </div>
+        <div class="about">
+            <a href="https://quran.alkafeel.net/about" title="من نحن">من نحن</a>
+        </div>
+    </nav>
+</div></header>
+                    <article>
+
+
+                            <section class="research">
+        <div class="title">
+            <p>أنت في الصفحة : بحوث</p>
+        </div>
+        <div class="cat">
+            <div class="marked" onclick="">بحوث</div>
+        </div>
+        <div class="items">
+            <div class="item">
+                <div class="title">إعجاز القرآن في علم النبات</div>
+                <script data-pagespeed-no-defer="">
+                    (function() {
+                        for (var g = "function" == typeof Object.defineProperties ? Object.defineProperty : function(b, c, a) {
+                                    if (a.get || a.set) throw new TypeError("ES3 does not support getters and setters.");
+                                    b != Array.prototype && b != Object.prototype && (b[c] = a.value)
+                                }, h = "undefined" != typeof window && window === this ? this : "undefined" != typeof global &&
+                                null != global ? global : this, k = ["String", "prototype", "repeat"], l = 0; l < k.length -
+                            1; l++) {
+                            var m = k[l];
+                            m in h || (h[m] = {});
+                            h = h[m]
+                        }
+                        var n = k[k.length - 1],
+                            p = h[n],
+                            q = p ? p : function(b) {
+                                var c;
+                                if (null == this) throw new TypeError(
+                                    "The 'this' value for String.prototype.repeat must not be null or undefined");
+                                c = this + "";
+                                if (0 > b || 1342177279 < b) throw new RangeError("Invalid count value");
+                                b |= 0;
+                                for (var a = ""; b;)
+                                    if (b & 1 && (a += c), b >>>= 1) c += c;
+                                return a
+                            };
+                        q != p && null != q && g(h, n, {
+                            configurable: !0,
+                            writable: !0,
+                            value: q
+                        });
+                        var t = this;
+
+                        function u(b, c) {
+                            var a = b.split("."),
+                                d = t;
+                            a[0] in d || !d.execScript || d.execScript("var " + a[0]);
+                            for (var e; a.length && (e = a.shift());) a.length || void 0 === c ? d[e] ? d = d[e] : d = d[e] = {} :
+                                d[e] = c
+                        };
+
+                        function v(b) {
+                            var c = b.length;
+                            if (0 < c) {
+                                for (var a = Array(c), d = 0; d < c; d++) a[d] = b[d];
+                                return a
+                            }
+                            return []
+                        };
+
+                        function w(b) {
+                            var c = window;
+                            if (c.addEventListener) c.addEventListener("load", b, !1);
+                            else if (c.attachEvent) c.attachEvent("onload", b);
+                            else {
+                                var a = c.onload;
+                                c.onload = function() {
+                                    b.call(this);
+                                    a && a.call(this)
+                                }
+                            }
+                        };
+                        var x;
+
+                        function y(b, c, a, d, e) {
+                            this.h = b;
+                            this.j = c;
+                            this.l = a;
+                            this.f = e;
+                            this.g = {
+                                height: window.innerHeight || document.documentElement.clientHeight || document.body
+                                    .clientHeight,
+                                width: window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth
+                            };
+                            this.i = d;
+                            this.b = {};
+                            this.a = [];
+                            this.c = {}
+                        }
+
+                        function z(b, c) {
+                            var a, d, e = c.getAttribute("data-pagespeed-url-hash");
+                            if (a = e && !(e in b.c))
+                                if (0 >= c.offsetWidth && 0 >= c.offsetHeight) a = !1;
+                                else {
+                                    d = c.getBoundingClientRect();
+                                    var f = document.body;
+                                    a = d.top + ("pageYOffset" in window ? window.pageYOffset : (document.documentElement || f
+                                        .parentNode || f).scrollTop);
+                                    d = d.left + ("pageXOffset" in window ? window.pageXOffset : (document.documentElement || f
+                                        .parentNode || f).scrollLeft);
+                                    f = a.toString() + "," + d;
+                                    b.b.hasOwnProperty(f) ? a = !1 : (b.b[f] = !0, a = a <= b.g.height && d <= b.g.width)
+                                } a && (b.a.push(e), b.c[e] = !0)
+                        }
+                        y.prototype.checkImageForCriticality = function(b) {
+                            b.getBoundingClientRect && z(this, b)
+                        };
+                        u("pagespeed.CriticalImages.checkImageForCriticality", function(b) {
+                            x.checkImageForCriticality(b)
+                        });
+                        u("pagespeed.CriticalImages.checkCriticalImages", function() {
+                            A(x)
+                        });
+
+                        function A(b) {
+                            b.b = {};
+                            for (var c = ["IMG", "INPUT"], a = [], d = 0; d < c.length; ++d) a = a.concat(v(document
+                                .getElementsByTagName(c[d])));
+                            if (a.length && a[0].getBoundingClientRect) {
+                                for (d = 0; c = a[d]; ++d) z(b, c);
+                                a = "oh=" + b.l;
+                                b.f && (a += "&n=" + b.f);
+                                if (c = !!b.a.length)
+                                    for (a += "&ci=" + encodeURIComponent(b.a[0]), d = 1; d < b.a.length; ++d) {
+                                        var e = "," + encodeURIComponent(b.a[d]);
+                                        131072 >= a.length + e.length && (a += e)
+                                    }
+                                b.i && (e = "&rd=" + encodeURIComponent(JSON.stringify(B())), 131072 >= a.length + e.length && (a +=
+                                    e), c = !0);
+                                C = a;
+                                if (c) {
+                                    d = b.h;
+                                    b = b.j;
+                                    var f;
+                                    if (window.XMLHttpRequest) f = new XMLHttpRequest;
+                                    else if (window.ActiveXObject) try {
+                                        f = new ActiveXObject("Msxml2.XMLHTTP")
+                                    } catch (r) {
+                                        try {
+                                            f = new ActiveXObject("Microsoft.XMLHTTP")
+                                        } catch (D) {}
+                                    }
+                                    f && (f.open("POST", d + (-1 == d.indexOf("?") ? "?" : "&") + "url=" + encodeURIComponent(b)), f
+                                        .setRequestHeader("Content-Type", "application/x-www-form-urlencoded"), f.send(a))
+                                }
+                            }
+                        }
+
+                        function B() {
+                            var b = {},
+                                c;
+                            c = document.getElementsByTagName("IMG");
+                            if (!c.length) return {};
+                            var a = c[0];
+                            if (!("naturalWidth" in a && "naturalHeight" in a)) return {};
+                            for (var d = 0; a = c[d]; ++d) {
+                                var e = a.getAttribute("data-pagespeed-url-hash");
+                                e && (!(e in b) && 0 < a.width && 0 < a.height && 0 < a.naturalWidth && 0 < a.naturalHeight || e in
+                                    b && a.width >= b[e].o && a.height >= b[e].m) && (b[e] = {
+                                    rw: a.width,
+                                    rh: a.height,
+                                    ow: a.naturalWidth,
+                                    oh: a.naturalHeight
+                                })
+                            }
+                            return b
+                        }
+                        var C = "";
+                        u("pagespeed.CriticalImages.getBeaconData", function() {
+                            return C
+                        });
+                        u("pagespeed.CriticalImages.Run", function(b, c, a, d, e, f) {
+                            var r = new y(b, c, a, e, f);
+                            x = r;
+                            d && w(function() {
+                                window.setTimeout(function() {
+                                    A(r)
+                                }, 0)
+                            })
+                        });
+                    })();
+                    pagespeed.CriticalImages.Run('/ngx_pagespeed_beacon', 'https://alkafeel.net/quran/research?i=20', 'nbbZP-3RzZ',
+                        false, false, 'ORfTyFqQiAQ');
+                </script><img
+                    src="https://quran.alkafeel.net/res/img/research/576e8a1d45dcd8eb003cbc31bc98b3e2/576e8a1d45dcd8eb003cbc31bc98b3e2-middle.jpg"
+                    alt="إعجاز القرآن في علم النبات" data-pagespeed-url-hash="144268351"
+                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                <div class="author">الباحث :  حسين فاضل الحلو</div><br>
+                تأريخ النشر : 2020-02-20 17:56:24<br><br>
+                <div class="text">(وَهُوَ الَّذِي أَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ نَبَاتَ كُلِّ شَيْءٍ فَأَخْرَجْنَا مِنْهُ خَضِرًا نُّخْرِجُ مِنْهُ حَبًّا مُّتَرَاكِبًا وَمِنَ النَّخْلِ مِن طَلْعِهَا قِنْوَانٌ دَانِيَةٌ وَجَنَّاتٍ مِّنْ أَعْنَابٍ وَالزَّيْتُونَ وَالرُّمَّانَ مُشْتَبِهًا وَغَيْرَ مُتَشَابِهٍ ۗ انظُرُوا إِلَىٰ ثَمَرِهِ إِذَا أَثْمَرَ وَيَنْعِهِ ۚ إِنَّ فِي ذَٰلِكُمْ لَآيَاتٍ لِّقَوْمٍ يُؤْمِنُونَ) [الأنعام: 99]
+إن الذي يتأمل في مخلوقات الله ولاسيما النباتات التي تمدنا بالغذاء يتعجب كيف نشأت كل هذه النباتات ومم نشأت. ويعجب أكثر عندما يعلم بأن المادة الأساسية لجميع نباتات الأرض هي الماء. فعندما ينزل المطر على الأرض يختلط مع التراب وتنشأ قوى تدافع وتجاذب بين ذرات الماء وذرات التراب، وينتج عن ذلك ازدياد في حجم التراب. إذن قوى التجاذب والتدافع تتسبب باهتزاز ذرات التراب وزيادة حجمها. وهذه حقيقة علمية نراها اليوم واضحة جلية. ولكن زمن نزول القرآن لم يكن أحد يعلم شيئا عن هذا الأمر. إلا أن القرآن كتاب العجائب يحدثنا بدقة عن هذه المراحل بالتسلسل العلمي، يقول تعالى: (وَتَرَى الْأَرْضَ هَامِدَةً فَإِذَا أَنزَلْنَا عَلَيْهَا الْمَاءَ اهْتَزَّتْ وَرَبَتْ وَأَنبَتَتْ مِن كُلِّ زَوْجٍ بَهِيجٍ) (الحج 5)
+وانظر إلى التعبير الدقيق (هامدة)، فالأرض الجافة لا تتوقف فيها الحركة نهائيا بل هنالك حركة لذرات التراب ولكنها هامدة أي ضعيفة جدا. فإذا ما نزل عليها الماء وهذا يحدث أولا ثم وهذا يحدث ثانيا، وبعد ذلك يختزن التراب الماء في داخله لفترة طويلة مما يؤمن الغذاء باستمرار لهذه النباتات.
+لقد أودع الله تعالى خاصية التمدد واختزان الماء في جزيئات التراب ولولا هذه الصفة لم تستمر الحياة أبدا. فقد اكتشف العلماء أن التراب يتميز بتخزينه كميات ضخمة من الماء يمكن أن تبقى لسنوات طويلة. كما أن الآية الكريمة تحدثت بدقة علمية تامة عن مراحل الإنبات، فالرحلة تبدأ بإنزال الماء على هذه الأرض حيث يمتزج هذا الماء بذرات التراب، لتبدأ هذه الذرات بالاهتزاز المستمر مما ينتج عنه زيادة في حجم التراب وتمدده. وبعد ذلك تبدأ الحبوب الموجودة في التراب بامتصاص هذا الماء وتبدأ بالتمدد أيضا والنمو وتبدأ عملية الإنبات ومن عظمة القرآن أنه لخص كل هذه المراحل بثلاث كلمات فقط: (اهتزت وربت وأنبتت)!!! وفي الأيام الأخيرة كثر الاهتمام بشؤون البيئة، وأدرك العلماء أهمية التوازن البيئي وأثره على حياة الكائنات من نبات وحيوان وإنسان، وبشكل خاص بعد الكميات الضخمة من الملوثات التي أفرزتها حضارة القرن العشرين. قبل عدة عقود لم يكن هنالك تلوث يذكر، ولكن في السنوات الماضية زاد عدد المصانع في العالم وزاد عدد وسائل النقل وهذه تنتج كميات ضخمة من المواد الملوثة التي تسبب أمراضا خطيرة أهمها السرطان. هذا التلوث أثر بشكل كبير على الكائنات المائية كالأسماك، وكذلك على الحيوانات وكذلك على النباتات. ولكن من فضل الله تعالى ورحمته بخلقه أنه أودع في هذه النباتات وسائل لتنقية الهواء من المواد السامة.
+فكما نعلم تستهلك النباتات لصنع غذائها وثمارها غاز الكربون من الهواء، وتجري في داخلها عملية تسمى بالتركيب الضوئي تركب من خلالها المادة الخضراء التي يركب منها النبات الحب والثمار.
+بنتيجة هذه العملية يطلق النبات الأكسجين الذي يستفيد منه الإنسان في عملية التنفس. والعجيب أن كمية النباتات على وجه الأرض مناسبة لحجم الغلاف الجوي.
+هنالك توازن دقيق بين ما يأخذه الإنسان وبين ما يطلقه النبات من الأكسجين. وتوازن آخر بين ما يطلقه الإنسان من غاز الكربون وبين ما يأخذه النبات من هذا الغاز. وسبحان الله! هذا التوازن الدقيق تحدث عنه القرآن في عصر لم يكن هنالك أي علم عن توازن البيئة. يقول تعالى: (الْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا فِيهَا مِن كُلِّ شَيْءٍ مَّوْزُونٍ) [الحجر: 19].
+وانظر معي إلى دقة ألفاظ القرآن وتعابيره العلمية، وهذا يدل على أن هنالك ميزانًا لنسب النباتات على الأرض، ونسبة ما تمتصه من الكربون ونسبة ما تطلقه من الأكسجين.
+وهذه النسب قاسها العلماء حديثا بكل دقة. وعلى سبيل المثال فإن نسبة الأكسجين في الغلاف الجوي هي (21) بالمئة تقريبا. ولو زادت هذه النسبة لاحترقت الأرض مع أول شرارة، ولو نقصت هذه النسبة قليلا لماتت الكائنات اختناقا! أما نسبة غاز الكربون في الغلاف الجوي فهي أقل من (1) بالمئة. ولو زادت هذه النسبة لتسمم البشر وماتوا جميعا، ولو نقصت لماتت النباتات وتوقفت الحياة. لذلك هنالك توازن دقيق في هذه النباتات وهذا ما تحدث عنه القرآن: ولكن عندما ندخل إلى كل خلية من خلايا أي نبات أخضر على وجه الأرض، ماذا نشاهد؟
+إننا نشاهد تركيبًا مستمرًا للمادة الخضراء. ومن هذه المادة تخرج الحبوب والثمار وهنا نجد للقرآن العظيم حديثًا أيضًا عن هذه العمليات الدقيقة:
+وَهُوَ الَّذِي أَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ نَبَاتَ كُلِّ شَيْءٍ فَأَخْرَجْنَا مِنْهُ خَضِرًا نُّخْرِجُ مِنْهُ حَبًّا مُّتَرَاكِبًا وَمِنَ النَّخْلِ مِن طَلْعِهَا قِنْوَانٌ دَانِيَةٌ وَجَنَّاتٍ مِّنْ أَعْنَابٍ وَالزَّيْتُونَ وَالرُّمَّانَ مُشْتَبِهًا وَغَيْرَ مُتَشَابِهٍ ۗ انظُرُوا إِلَىٰ ثَمَرِهِ إِذَا أَثْمَرَ وَيَنْعِهِ ۚ إِنَّ فِي ذَٰلِكُمْ لَآيَاتٍ لِّقَوْمٍ يُؤْمِنُونَ) [الأنعام: 99].
+فقد أكد القرآن أن تشكل المادة الخضراء يتم أولا ثم يتم إخراج الثمار والحبوب منها. وهذا ما أثبتته الأبحاث الحديثة.
+ونتساءل: هل قام محمد صلى الله عليه وآله بدراسة تركيب النبات وفحصه بالمجاهر الإلكترونية؟ وما الذي يدعو هذا الرسول الكريم للدخول في هذه القضايا العلمية التخصصية الدقيقة؟
+إن المصدر الذي تلقى منه رسول الله صلى الله عليه وآله هذه العلوم هو الله تعالى الذي خاطب البشر جميعا وأكد لهم أنه هو الذي علّمه هذا العلم.
+إن القرآن تحدّث عن علم النبات في كثير من آياته، ويكفي أن نعلم بأن القرآن هو أول كتاب قرر وجود الأزواج في عالم النبات قبل العلم الحديث بقرون طويلة. يقول سبحانه وتعالى: (سُبْحَانَ الَّذِي خَلَقَ الْأَزْوَاجَ كُلَّهَا مِمَّا تُنبِتُ الْأَرْضُ وَمِنْ أَنفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ) [يس: 36]. 
+                    
+                </div>
+                <div class="gallery">
+                    <div class="cat">
+                        <div class="self marked" onclick="">
+                            الصور المرفقة (0 صورة)
+                        </div>
+                    </div>
+                    <div class="imgs" itemscope="" itemtype="http://schema.org/ImageGallery" data-pswp-uid="1">
+                                                <div class="no_result">لا توجد اي صور متوفرة حاليا.</div>
+                    
+                     
+                   
+
+                    </div>
+                </div>
+                <div class="comments">
+                    <div class="cat">
+                        <div class="self marked" onclick="">تعليقات القرآء (0 تعليق)</div>
+                    </div>
+                    <div class="Ucomments">
+                                                    <div class="no_result">لاتوجد اي تعليقات حاليا.</div>
+                                            </div>
+                    <p>ملاحظة: لطفا التعليق يخضع لمراجعة الادارة قبل النشر</p>
+                    <form id="comment" action="https://quran.alkafeel.net/research_comments" method="POST">
+                        <input type="hidden" name="act" value="addcomment">
+                        <input type="hidden" name="sid" value="576e8a1d45dcd8eb003cbc31bc98b3e2">
+                        <input type="hidden" name="cat" value="research">
+                        <input name="name" class="name" type="text" placeholder="الاسم" maxlength="50"
+                            autocomplete="off" required="">
+                        <input name="email" class="email" type="email" placeholder="البريد الالكتروني" maxlength="50"
+                            autocomplete="off" required="">
+                        <textarea name="comment" class="message" placeholder="نص التعليق" autocomplete="off" required=""></textarea>
+                        <input class="submit" type="submit" value="ارســــال">
+                    </form>
+                    <div class="ajax">
+                        <div class="loading">
+                            <div class="icon"></div>
+                            <p>جاري التحميل ...</p>
+                        </div>
+                        <div class="result"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        $(document).ready(function() {
+            $("#comment").submit(function(e) {
+                e.preventDefault();
+                var form = $(this);
+                var formData = form.serialize();
+
+                $.ajax({
+                    type: 'POST',
+                    url: 'https://quran.alkafeel.net/research_comments',
+                    data: formData,
+                    success: function(response) {
+                        console.log(response);
+                        form.find('.error-message').remove();
+
+                        Swal.fire({
+                            icon: 'success',
+                            title: 'تمت إضافة البيانات بنجاح',
+                            showConfirmButton: false,
+                            timer: 1500
+                        });
+                        form.trigger('reset');
+                    },
+                    error: function(error) {
+                        console.log(error);
+                        var errors = error.responseJSON.errors;
+                        $.each(errors, function(key, value) {
+                            var inputField = $('[name="' + key + '"]');
+                            inputField.siblings('.error-message').remove();
+
+                            inputField.after(
+                                '<span class="error-message" style="color: red;">' +
+                                value + '</span>');
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+
+
+
+                        <aside><div class="social">
+    <a href="https://t.me/quranlmamAbbas" class="icon telegram" title="Telegram" target="_blank"></a>
+    <a href="https://www.youtube.com/channel/UC6XozMXhFyymGQwoqmq_3tQ" class="icon youtube" title="Youtube" target="_blank"></a>
+    
+    <a href="https://www.facebook.com/Q.K.U.ImamAbbas/" class="icon fbook" title="Facebook" target="_blank"></a>
+    <a href="https://twitter.com/alkafeel_quran" class="icon twitter" title="Twitter" target="_blank"></a>
+    <a href="https://www.instagram.com/quran.alkafeel" class="icon insta" title="Instagram" target="_blank"></a>
+</div>
+<div class="apps">
+    <div class="title">التعليم الالكتروني</div>
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            
+            <div class="swiper-slide">
+                <a href="http://alkafeel.net/quran/register.php" target="_blank" title="استمارات التسجيل على الدورات">
+                    <img src="https://alkafeel.net/quran/res/img/apps/ghcyu765dgd9935f29acc5.jpg" alt="استمارات التسجيل على الدورات" />
+                    <p>اضغط هنا لاستمارات التسجيل</p>
+                </a>
+            </div>
+
+        </div>
+        <div class="swiper-pagination"></div>
+        <div class="swiper-button-next  swiper-button-black"></div>
+        <div class="swiper-button-prev  swiper-button-black"></div>
+    </div>
+</div>
+<div class="adds">
+    <div class="title">اعلانات مبوبة</div>
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <a href="https://forms.gle/LCJeKhaFAap6LEK19" title="المجمع العلمي يعلن عن انطلاق التسجيل في مشروع القارئ المفسّر"  target="_blank">
+                    <img src="https://alkafeel.net/quran/res/img/adds/36b2eeafd1f6ce999af53d81cfd78bb3.jpg" alt="المجمع العلمي يعلن عن انطلاق التسجيل في مشروع القارئ المفسّر" />
+                </a>
+            </div>
+        
+            <div class="swiper-slide">
+                <a href="https://www.facebook.com/Q.K.U.ImamAbbas/" title="الفيبسوك"  target="_blank">
+                    <img src="https://alkafeel.net/quran/res/img/adds/4a734aad89fd8bf1793da93ee0a70fd2.jpg" alt="الفيبسوك" />
+                </a>
+            </div>
+        </div>
+        <div class="swiper-pagination"></div>
+    </div>
+</div>
+<div class="issues">
+    <p>اصدارات المعهد</p>
+    <div class="items">
+
+                    <div id="pSoYZqrKz6ha5ebP" class="item" onclick="">
+                <div>
+                    <div class="poster" style="background-image:url(https://quran.alkafeel.net/res/img/issues/pSoYZqrKz6ha5ebP-icon.jpg)"></div>
+                    <div class="info">
+                        <div class="title">مجلة الفرقان</div>
+                        <div class="num">26</div>
+                    </div>
+                </div>
+            </div>
+                    <div id="d31a27b4351beeb6825024ad913e4140" class="item" onclick="">
+                <div>
+                    <div class="poster" style="background-image:url(https://quran.alkafeel.net/res/img/issues/d31a27b4351beeb6825024ad913e4140-icon.jpg)"></div>
+                    <div class="info">
+                        <div class="title">مجلة الفرقان</div>
+                        <div class="num">العدد 25</div>
+                    </div>
+                </div>
+            </div>
+                    <div id="22f55facb2fddaddaef1febff7bed757" class="item" onclick="">
+                <div>
+                    <div class="poster" style="background-image:url(https://quran.alkafeel.net/res/img/issues/22f55facb2fddaddaef1febff7bed757-icon.jpg)"></div>
+                    <div class="info">
+                        <div class="title">مجلة الفرقان</div>
+                        <div class="num">العدد 24</div>
+                    </div>
+                </div>
+            </div>
+        
+
+        
+    </div>
+</div></aside>
+                    </article>
+                    
+                </section>
+            </section>
+            <section class="Photoswipe">
+                <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="pswp__bg"></div>
+                    <div class="pswp__scroll-wrap">
+                        <div class="pswp__container">
+                            <div class="pswp__item"></div>
+                            <div class="pswp__item"></div>
+                            <div class="pswp__item"></div>
+                        </div>
+                        <div class="pswp__ui pswp__ui--hidden">
+                            <div class="pswp__top-bar">
+                                <div class="pswp__counter"></div>
+                                <button class="pswp__button pswp__button--close" title="خروج"></button>
+                                <button class="pswp__button pswp__button--share" title="مشاركة"></button>
+                                <button class="pswp__button pswp__button--fs" title="عرض ملئ الشاشة"></button>
+                                <button class="pswp__button pswp__button--zoom" title="تكبير - تصغير"></button>
+                                <div class="pswp__preloader">
+                                    <div class="pswp__preloader__icn">
+                                        <div class="pswp__preloader__cut">
+                                            <div class="pswp__preloader__donut"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                                <div class="pswp__share-tooltip"></div>
+                            </div>
+                            <button class="pswp__button pswp__button--arrow--left" title="السابق"></button>
+                            <button class="pswp__button pswp__button--arrow--right" title="القادم"></button>
+                            <div class="pswp__caption">
+                                <div class="pswp__caption__center"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+            <footer><div class="info ">
+    <div class="sites">
+        <p>مواقع العتبات</p>
+        <div class="items">
+            <a href="http://www.imamali-a.com/" target="_blank">العتبة العلوية المقدسة</a>
+            <a href="http://www.imamhussain.org/" target="_blank">العتبة الحسينية المقدسة</a>
+            <a href="http://news.aqr.ir/ar" target="_blank">العتبة الرضوية المقدسة</a>
+            <a href="http://www.aljawadain.org/" target="_blank">العتبة الكاظمية المقدسة</a>
+            <a href="http://askarian.iq/" target="_blank">العتية العسكرية المقدسة</a>
+            <a href="http://masjed-alkufa.net/" target="_blank">جامع الكوفة</a>
+        </div>
+    </div>
+    <div class="logo"><div class="icon"></div></div>
+    <div class="contact">
+        <p>اتصل بنا</p>
+        <form id="" action="https://quran.alkafeel.net/contact" method="POST">
+            <input type="hidden" name="_token" value="HybHkcN3Lvjx8FIDWmRbfemjy885RojODONwT6Or" autocomplete="off">            
+            <input name="name" class="name" type="text" placeholder="الاسم" maxlength="50" autocomplete="off" required>
+            <input name="subject" class="subject" type="text" placeholder="عنوان الرسالة" maxlength="50" autocomplete="off" required>
+            <input name="email" class="email" type="email" placeholder="البريد الالكتروني" maxlength="50" autocomplete="off" required>
+            <textarea name="msg" class="message" placeholder="نص الرسالة" autocomplete="off" required></textarea>
+            
+            <input class="submit" type="submit" value="ارســــال" />
+        </form>
+                <div class="ajax">
+            <div class="loading">
+                <div class="icon"></div>
+                <p>جاري التحميل ...</p>
+            </div>
+            <div class="result"></div>
+        </div>
+    </div>
+</div>
+<p>حقوق النشر محفوظة لقسم الشؤون الفكرية والثقافية - معهد القرآن الكريم في العتبة العباسية المقدسة</p>
+
+
+<script>
+
+    $(document).ready(function() {
+        $("#contact").submit(function(e) {
+            e.preventDefault();
+            var form = $(this);
+            var formData = form.serialize();
+    
+            $.ajax({
+                type: 'POST',
+                url: 'https://quran.alkafeel.net/contact',
+                data: formData,
+                success: function(response) {
+                    console.log(response);
+                    form.find('.error-message').remove();
+    
+    
+        swal.fire({
+            icon: 'success',
+            title: 'تمت إضافة البيانات بنجاح',
+            showConfirmButton: false,
+            timer: 1500
+        });
+                    form.trigger('reset');
+                },
+                error: function(error) {
+                    console.log(error);
+                    var errors = error.responseJSON.errors;
+                    $.each(errors, function(key, value) {
+                        var inputField = $('[name="' + key + '"]');
+                        inputField.siblings('.error-message').remove();
+    
+                        inputField.after('<span class="error-message" style="color: red;">' + value + '</span>'); // عرض الخطأ بلون أحمر
+                    });
+                }
+            });
+        });
+    });
+    
+    </script>
+</footer>
+
+        </div>
+    </div>
+    <section class="notify">
+        <div class="message">
+            <div class="nonetwork">
+              <div class="icon"></div>
+              <p>
+                حدث خطأ بالاتصال !<br>ستتم اعادة المحاولة بعد <b>10</b>  ثوان ...              </p>
+            </div>
+            <div class="ecode">
+              <div class="icon loading"></div>
+              <p></p>
+            </div>
+          </div>
+          <div class="ajax">
+            <div class="loading">
+              <div class="icon"></div>
+              <p>جاري التحميل ...</p>
+            </div>
+            <div class="result">
+          
+            </div>
+          </div>
+    </section>
+
+
+    <div class="mobile" style="margin-top: 100px">
+        <header>
+            <div id="sticky-header" class="menu-area transparent-header">
+    <div class="container custom-container">
+        <div class="row">
+            <div class="col-12">
+                <div class="mobile-nav-toggler"><i class="fas fa-bars"></i>
+
+                </div>
+                <div class="mbar" style="display: block !important;">
+                    <div class="tsbar">
+                        
+                        <div class="search">
+                            <div class="field" style="display: none;">
+                                <input type="text" placeholder="بحث" autocomplete="off" value="">
+                            </div>
+                            <div class="icon">
+                                <i class="fas fa-search text-dark"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                <div class="menu-wrap">
+                    <nav class="menu-nav show">
+                        <div class="logo mt-2">
+                            <a href="https://quran.alkafeel.net">
+                                <img src="https://quran.alkafeel.net/img/logo.png" alt="Logo">
+                            </a>
+                        </div>
+                        <div class="navbar-wrap main-menu d-none d-lg-flex">
+                            <ul class="navigation">
+                                
+                                <li class="active"><a href="https://quran.alkafeel.net">الر ئيسية</a></li>
+
+                                <li><a href="https://quran.alkafeel.net/quran">القرآن الكريم</a></li>
+                                <li><a href="https://quran.alkafeel.net/news">الأخبار</a></li>
+                                <li><a href="https://quran.alkafeel.net/articles">مقالات</a></li>
+                                <li><a href="https://quran.alkafeel.net/meetings">لقاءات</a></li>
+                                <li class="menu-item-has-children"><a href="#">الوسائط</a>
+                                    <ul class="submenu">
+                                        <li><a href="https://quran.alkafeel.net/video">المكتبة المرئية</a></li>
+                                        <li><a href="https://quran.alkafeel.net/photo">المكتبة المصورة</a></li>
+                                        <li><a href="https://quran.alkafeel.net/audio">المكتبة الصوتية</a></li>
+                                    </ul>
+                                </li>
+                                <li class="menu-item-has-children"><a href="https://quran.alkafeel.net/art">أعمال فنية قرآنية</a>
+                                    <ul class="submenu">
+                                        <li><a href="https://quran.alkafeel.net/art_cat?cat=10">خطوط</a></li>
+                                        <li><a href="https://quran.alkafeel.net/art_cat?cat=12">تصاميم</a></li>
+                                        <li><a href="https://quran.alkafeel.net/art_cat?cat=11">رسم</a></li>
+                                    </ul>
+                                </li>
+                                <li class="menu-item-has-children"><a href="https://quran.alkafeel.net/issues">اصدارات المعهد</a>
+                                    <ul class="submenu">
+                                        <li><a href="https://quran.alkafeel.net/issues_cat?cat=16">كتب</a></li>
+                                        <li><a href="https://quran.alkafeel.net/issues_cat?cat=15">مجلات</a></li>
+                                        <li><a href="https://quran.alkafeel.net/issues_cat?cat=17">دوريات</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="https://quran.alkafeel.net/research">بحوث ودراسات</a></li>
+                                <li><a href="https://quran.alkafeel.net/reports">تقارير</a></li>
+                                <li><a href="https://quran.alkafeel.net/about">من نحن</a></li>
+                            </ul>
+                        </div>
+                        <div class="header-action d-none d-md-block">
+                            <ul>
+                                <li class="header-search"><a href="#" data-toggle="modal"
+                                        data-target="#search-modal"><i class="fas fa-search"></i></a></li>
+
+
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+
+                <!-- Mobile Menu  -->
+                <div class="mobile-menu">
+                    <div class="close-btn"><i class="fas fa-times"></i></div>
+
+                    <nav class="menu-box">
+                        <div class="nav-logo"><a href="https://quran.alkafeel.net"><img src="https://quran.alkafeel.net/img/logo.png" alt="" title=""></a>
+                        </div>
+                        <div class="menu-outer">
+                            <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
+                        </div>
+                        <div class="social-links">
+                            <ul class="clearfix">
+                                <li><a href="https://twitter.com/alkafeel_quran" class="icon twitter" title="Twitter" target="_blank"><span class="fab fa-twitter"></span></a></li>
+                                <li><a href="https://www.facebook.com/Q.K.U.ImamAbbas/" class="icon fbook" title="Facebook" target="_blank"><span class="fab fa-facebook-square"></span></a></li>
+                                <li><a href="https://www.instagram.com/quran.alkafeel" class="icon insta" title="Instagram" target="_blank"><span class="fab fa-instagram"></span></a></li>
+                                <li><a href="https://www.youtube.com/channel/UC6XozMXhFyymGQwoqmq_3tQ" class="icon youtube" title="Youtube" target="_blank"><span class="fab fa-youtube"></span></a></li>
+                                <li><a href="https://t.me/quranlmamAbbas" class="icon telegram" title="Telegram" target="_blank"><span class="fab fa-telegram"></span></a></li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+                <div class="menu-backdrop"></div>
+                <!-- End Mobile Menu -->
+
+                <!-- Modal Search -->
+                <div class="modal fade" id="search-modal" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <form>
+                                <input type="text" placeholder="ابحث هنا . . . ">
+                                <button><i class="fas fa-search"></i></button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <!-- Modal Search-end -->
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="marquee d-block d-lg-none">
+    <nav class="marquee_cont">
+        <a href="https://quran.alkafeel.net" class="marquee_item"><span class="font font-weight-bold">الرئيسية</span></a>
+        <a href="https://quran.alkafeel.net/quran" class="marquee_item"><span class="font font-weight-bold">القرآن الكريم</span></a>
+        <a href="https://quran.alkafeel.net/news" class="marquee_item"><span class="font font-weight-bold">اخبار ونشاطات</span></a>
+        <a href="https://quran.alkafeel.net/articles" class="marquee_item"><span class="font font-weight-bold">مقالات</span></a>
+        <a href="https://quran.alkafeel.net/meetings" class="marquee_item"><span class="font font-weight-bold">لقاءات</span></a>
+        <a href="https://quran.alkafeel.net/issues" class="marquee_item"><span class="font font-weight-bold">الاصدارات</span></a>
+        <a href="https://quran.alkafeel.net/video" class="marquee_item"><span class="font font-weight-bold">المكتبة المرئية</span></a>
+        <a href="https://quran.alkafeel.net/photo" class="marquee_item"><span class="font font-weight-bold">المكتبة المصورة</span></a>
+        <a href="https://quran.alkafeel.net/audio" class="marquee_item"><span class="font font-weight-bold">المكتبة الصوتية</span></a>
+    </nav>
+</div>        </header>
+
+            <div class="title m-3 mb-1">
+        <h6 class="font-bold py-2 line-height">إعجاز القرآن في علم النبات
+        </h6>
+    </div>
+    <div class="m-3 justify">
+        <img src="https://quran.alkafeel.net/res/img/research/576e8a1d45dcd8eb003cbc31bc98b3e2/576e8a1d45dcd8eb003cbc31bc98b3e2-middle.jpg" class="w-100"
+            alt="Image 1">
+        <div class="d-flex justify-content-between">
+            <h6 class="font-bold my-2">تاريخ النشر 2020-02-20</h6>
+
+            <div class="social-links d-flex">
+                <ul class="clearfix d-flex p-0 my-2">
+                    <li><a href="https://twitter.com/intent/tweet?text=https://quran.alkafeel.net/research/13" target="_blank"><span
+                                class="fab fa-twitter mx-2 text-secondary h4"></span></a></li>
+                    <li><a href="https://www.facebook.com/share.php?u=https://quran.alkafeel.net/research/13" target="_blank"><span
+                                class="fab fa-facebook-square  text-secondary h4 mx-2"></span></a>
+                    </li>
+                    <li><a href="https://telegram.me/share/url?url=https://quran.alkafeel.net/research/13" target="_blank"><span
+                                class="fab fa-telegram mx-2 text-secondary h4"></span></a></li>
+                    <li><a href="https://wa.me/?text=https://quran.alkafeel.net/research/13" target="_blank"><span
+                                class="fab fa-whatsapp mx-2 text-secondary h4"></span></a></li>
+                </ul>
+            </div>
+        </div>
+        <p class="py-2">
+            (وَهُوَ الَّذِي أَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ نَبَاتَ كُلِّ شَيْءٍ فَأَخْرَجْنَا مِنْهُ خَضِرًا نُّخْرِجُ مِنْهُ حَبًّا مُّتَرَاكِبًا وَمِنَ النَّخْلِ مِن طَلْعِهَا قِنْوَانٌ دَانِيَةٌ وَجَنَّاتٍ مِّنْ أَعْنَابٍ وَالزَّيْتُونَ وَالرُّمَّانَ مُشْتَبِهًا وَغَيْرَ مُتَشَابِهٍ ۗ انظُرُوا إِلَىٰ ثَمَرِهِ إِذَا أَثْمَرَ وَيَنْعِهِ ۚ إِنَّ فِي ذَٰلِكُمْ لَآيَاتٍ لِّقَوْمٍ يُؤْمِنُونَ) [الأنعام: 99]
+إن الذي يتأمل في مخلوقات الله ولاسيما النباتات التي تمدنا بالغذاء يتعجب كيف نشأت كل هذه النباتات ومم نشأت. ويعجب أكثر عندما يعلم بأن المادة الأساسية لجميع نباتات الأرض هي الماء. فعندما ينزل المطر على الأرض يختلط مع التراب وتنشأ قوى تدافع وتجاذب بين ذرات الماء وذرات التراب، وينتج عن ذلك ازدياد في حجم التراب. إذن قوى التجاذب والتدافع تتسبب باهتزاز ذرات التراب وزيادة حجمها. وهذه حقيقة علمية نراها اليوم واضحة جلية. ولكن زمن نزول القرآن لم يكن أحد يعلم شيئا عن هذا الأمر. إلا أن القرآن كتاب العجائب يحدثنا بدقة عن هذه المراحل بالتسلسل العلمي، يقول تعالى: (وَتَرَى الْأَرْضَ هَامِدَةً فَإِذَا أَنزَلْنَا عَلَيْهَا الْمَاءَ اهْتَزَّتْ وَرَبَتْ وَأَنبَتَتْ مِن كُلِّ زَوْجٍ بَهِيجٍ) (الحج 5)
+وانظر إلى التعبير الدقيق (هامدة)، فالأرض الجافة لا تتوقف فيها الحركة نهائيا بل هنالك حركة لذرات التراب ولكنها هامدة أي ضعيفة جدا. فإذا ما نزل عليها الماء وهذا يحدث أولا ثم وهذا يحدث ثانيا، وبعد ذلك يختزن التراب الماء في داخله لفترة طويلة مما يؤمن الغذاء باستمرار لهذه النباتات.
+لقد أودع الله تعالى خاصية التمدد واختزان الماء في جزيئات التراب ولولا هذه الصفة لم تستمر الحياة أبدا. فقد اكتشف العلماء أن التراب يتميز بتخزينه كميات ضخمة من الماء يمكن أن تبقى لسنوات طويلة. كما أن الآية الكريمة تحدثت بدقة علمية تامة عن مراحل الإنبات، فالرحلة تبدأ بإنزال الماء على هذه الأرض حيث يمتزج هذا الماء بذرات التراب، لتبدأ هذه الذرات بالاهتزاز المستمر مما ينتج عنه زيادة في حجم التراب وتمدده. وبعد ذلك تبدأ الحبوب الموجودة في التراب بامتصاص هذا الماء وتبدأ بالتمدد أيضا والنمو وتبدأ عملية الإنبات ومن عظمة القرآن أنه لخص كل هذه المراحل بثلاث كلمات فقط: (اهتزت وربت وأنبتت)!!! وفي الأيام الأخيرة كثر الاهتمام بشؤون البيئة، وأدرك العلماء أهمية التوازن البيئي وأثره على حياة الكائنات من نبات وحيوان وإنسان، وبشكل خاص بعد الكميات الضخمة من الملوثات التي أفرزتها حضارة القرن العشرين. قبل عدة عقود لم يكن هنالك تلوث يذكر، ولكن في السنوات الماضية زاد عدد المصانع في العالم وزاد عدد وسائل النقل وهذه تنتج كميات ضخمة من المواد الملوثة التي تسبب أمراضا خطيرة أهمها السرطان. هذا التلوث أثر بشكل كبير على الكائنات المائية كالأسماك، وكذلك على الحيوانات وكذلك على النباتات. ولكن من فضل الله تعالى ورحمته بخلقه أنه أودع في هذه النباتات وسائل لتنقية الهواء من المواد السامة.
+فكما نعلم تستهلك النباتات لصنع غذائها وثمارها غاز الكربون من الهواء، وتجري في داخلها عملية تسمى بالتركيب الضوئي تركب من خلالها المادة الخضراء التي يركب منها النبات الحب والثمار.
+بنتيجة هذه العملية يطلق النبات الأكسجين الذي يستفيد منه الإنسان في عملية التنفس. والعجيب أن كمية النباتات على وجه الأرض مناسبة لحجم الغلاف الجوي.
+هنالك توازن دقيق بين ما يأخذه الإنسان وبين ما يطلقه النبات من الأكسجين. وتوازن آخر بين ما يطلقه الإنسان من غاز الكربون وبين ما يأخذه النبات من هذا الغاز. وسبحان الله! هذا التوازن الدقيق تحدث عنه القرآن في عصر لم يكن هنالك أي علم عن توازن البيئة. يقول تعالى: (الْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا فِيهَا مِن كُلِّ شَيْءٍ مَّوْزُونٍ) [الحجر: 19].
+وانظر معي إلى دقة ألفاظ القرآن وتعابيره العلمية، وهذا يدل على أن هنالك ميزانًا لنسب النباتات على الأرض، ونسبة ما تمتصه من الكربون ونسبة ما تطلقه من الأكسجين.
+وهذه النسب قاسها العلماء حديثا بكل دقة. وعلى سبيل المثال فإن نسبة الأكسجين في الغلاف الجوي هي (21) بالمئة تقريبا. ولو زادت هذه النسبة لاحترقت الأرض مع أول شرارة، ولو نقصت هذه النسبة قليلا لماتت الكائنات اختناقا! أما نسبة غاز الكربون في الغلاف الجوي فهي أقل من (1) بالمئة. ولو زادت هذه النسبة لتسمم البشر وماتوا جميعا، ولو نقصت لماتت النباتات وتوقفت الحياة. لذلك هنالك توازن دقيق في هذه النباتات وهذا ما تحدث عنه القرآن: ولكن عندما ندخل إلى كل خلية من خلايا أي نبات أخضر على وجه الأرض، ماذا نشاهد؟
+إننا نشاهد تركيبًا مستمرًا للمادة الخضراء. ومن هذه المادة تخرج الحبوب والثمار وهنا نجد للقرآن العظيم حديثًا أيضًا عن هذه العمليات الدقيقة:
+وَهُوَ الَّذِي أَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ نَبَاتَ كُلِّ شَيْءٍ فَأَخْرَجْنَا مِنْهُ خَضِرًا نُّخْرِجُ مِنْهُ حَبًّا مُّتَرَاكِبًا وَمِنَ النَّخْلِ مِن طَلْعِهَا قِنْوَانٌ دَانِيَةٌ وَجَنَّاتٍ مِّنْ أَعْنَابٍ وَالزَّيْتُونَ وَالرُّمَّانَ مُشْتَبِهًا وَغَيْرَ مُتَشَابِهٍ ۗ انظُرُوا إِلَىٰ ثَمَرِهِ إِذَا أَثْمَرَ وَيَنْعِهِ ۚ إِنَّ فِي ذَٰلِكُمْ لَآيَاتٍ لِّقَوْمٍ يُؤْمِنُونَ) [الأنعام: 99].
+فقد أكد القرآن أن تشكل المادة الخضراء يتم أولا ثم يتم إخراج الثمار والحبوب منها. وهذا ما أثبتته الأبحاث الحديثة.
+ونتساءل: هل قام محمد صلى الله عليه وآله بدراسة تركيب النبات وفحصه بالمجاهر الإلكترونية؟ وما الذي يدعو هذا الرسول الكريم للدخول في هذه القضايا العلمية التخصصية الدقيقة؟
+إن المصدر الذي تلقى منه رسول الله صلى الله عليه وآله هذه العلوم هو الله تعالى الذي خاطب البشر جميعا وأكد لهم أنه هو الذي علّمه هذا العلم.
+إن القرآن تحدّث عن علم النبات في كثير من آياته، ويكفي أن نعلم بأن القرآن هو أول كتاب قرر وجود الأزواج في عالم النبات قبل العلم الحديث بقرون طويلة. يقول سبحانه وتعالى: (سُبْحَانَ الَّذِي خَلَقَ الْأَزْوَاجَ كُلَّهَا مِمَّا تُنبِتُ الْأَرْضُ وَمِنْ أَنفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ) [يس: 36].
+        </p>
+    </div>
+
+    <div class="main-photo m-3" style=" display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 1rem;">
+                    <div class="no_result">لا توجد اي صور متوفرة حاليا.</div>
+        
+    </div>
+
+
+        <footer class="footer-section">
+            <div class="container">
+    <hr>
+
+    <div class="footer-content pt-5 pb-5">
+        <div class="row">
+            <div class="col-xl-4 col-lg-4 mb-50">
+                <div class="footer-widget">
+                    <div class="footer-logo">
+                        <a href="#">
+                            <img src="https://quran.alkafeel.net/img/w-logo.png" alt="Logo">
+                        </a>
+                    </div>
+                    <div class="footer-text">
+                        <p>صرحٌ قرآنيّ مبارك، ومنار علم، حمل بين طياته رسالة مقدّسة، وهي رسالة تعليم القرآن
+                            الكريم، وأخذ على عاتقه نشر علوم كتاب الله المجيد ومفاهيمه وحملة الرسالة وخزان العلم
+                            أهل بيت النّبيّ  في كلِّ بقعة من بقاع الوطن، فمنذ أن شعَّ نوره في الخامس عشر من شهر
+                            رجب الأصب 1431هـ</p>
+                    </div>
+                    <div class="footer-social-icon my-3">
+                        <span>تابعونا على وسائل التواصل</span>
+                        <a href="https://www.facebook.com/Q.K.U.ImamAbbas/" target="_blank"><i class="fab fa-brands fa-facebook" style="font-size: 40px"></i></a>
+                        <a href="https://twitter.com/alkafeel_quran" target="_blank"><i class="fab fa-brands fa-twitter" style="font-size: 40px"></i></a>
+                        <a href="https://t.me/quranlmamAbbas" target="_blank"><i class="fab fa-telegram telegram-bg" style="font-size: 40px"></i></a>
+                        <a href="https://www.youtube.com/channel/UC6XozMXhFyymGQwoqmq_3tQ" target="_blank"><i class="fab fa-youtube youtube-bg" style="font-size: 40px"></i></a>
+                        <a href="https://www.instagram.com/quran.alkafeel" target="_blank"><i class="fab fa-instagram instagram-bg" style="font-size: 40px"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
+                <div class="footer-widget">
+                    <div class="footer-widget-heading">
+                        <h3>ابواب الموقع</h3>
+                    </div>
+                    <ul>
+                        <li><a href="https://quran.alkafeel.net">الرئيسية</a></li>
+                        <li><a href="https://quran.alkafeel.net/news">الاخبار</a></li>
+                        <li><a href="https://quran.alkafeel.net/articles">المقالات</a></li>
+                        <li><a href="https://quran.alkafeel.net/photo">المكتبة المصورة</a></li>
+                        <li><a href="https://quran.alkafeel.net/video">المكتبة الفيديوية</a></li>
+                        <li><a href="https://quran.alkafeel.net/audio">المكتبة الصوتية</a></li>
+                        <li><a href="https://quran.alkafeel.net/quran">القران الكريم</a></li>
+                        <li><a href="https://alkafeel.net/quran/res/rar/quranDOC.rar">تحميل المصحف</a></li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="footer-cta pt-5 pb-5">
+        <div class="row m-0">
+            
+            <div class="col-xl-4 col-md-4 m-3">
+                <div class="single-cta">
+                    <i class="far fa-envelope-open"></i>
+                    <div class="cta-text">
+                        <h4>البريد الإلكتروني</h4>
+                        <span>alquranalkareem313@gmail.com</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="copyright-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center text-lg-left">
+                <div class="copyright-text">
+                    <p>حقوق النشر &copy; معهد القرآن الكريم </p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+        </footer>
+    </div>
+
+    
+    
+
+
+
+    <script defer src="https://quran.alkafeel.net/js/jquery-3.6.0.min.js?v112"></script>
+    <script defer src="https://quran.alkafeel.net/res/js/libs.js?v112"></script>
+    <script defer src="https://quran.alkafeel.net/res/player/player.js?v112"></script>
+    <script defer src="https://quran.alkafeel.net/res/js/quran.js?v20"></script>
+    
+    
+    
+	<script  src="https://quran.alkafeel.net/js/jquery-3.6.0.min.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCrYE4UwetlufokfD320p9OtNdzfNdLMu8&callback=initMap">
+
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous">
+	</script>
+	<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+	<script src="https://quran.alkafeel.net/js/script.js"></script>
+	<script src="https://quran.alkafeel.net/js/fancybox.js"></script>
+    
+
+    
+
+</body>
+
+</html>

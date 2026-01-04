@@ -1,0 +1,997 @@
+	<!DOCTYPE html>
+		<!--[if IE 8]>
+	<html class="ie ie8" dir="rtl" lang="ar" prefix="og: https://ogp.me/ns#"> <![endif]-->
+	<!--[if IE 9]>
+	<html class="ie ie9" dir="rtl" lang="ar" prefix="og: https://ogp.me/ns#"> <![endif]-->
+	<!--[if gt IE 9]><!-->
+<html dir="rtl" lang="ar" prefix="og: https://ogp.me/ns#"> <!--<![endif]-->
+	<head><meta charset="UTF-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>(()=>{class RocketLazyLoadScripts{constructor(){this.v="2.0.3",this.userEvents=["keydown","keyup","mousedown","mouseup","mousemove","mouseover","mouseenter","mouseout","mouseleave","touchmove","touchstart","touchend","touchcancel","wheel","click","dblclick","input","visibilitychange"],this.attributeEvents=["onblur","onclick","oncontextmenu","ondblclick","onfocus","onmousedown","onmouseenter","onmouseleave","onmousemove","onmouseout","onmouseover","onmouseup","onmousewheel","onscroll","onsubmit"]}async t(){this.i(),this.o(),/iP(ad|hone)/.test(navigator.userAgent)&&this.h(),this.u(),this.l(this),this.m(),this.k(this),this.p(this),this._(),await Promise.all([this.R(),this.L()]),this.lastBreath=Date.now(),this.S(this),this.P(),this.D(),this.O(),this.M(),await this.C(this.delayedScripts.normal),await this.C(this.delayedScripts.defer),await this.C(this.delayedScripts.async),this.F("domReady"),await this.T(),await this.j(),await this.I(),this.F("windowLoad"),await this.A(),window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this.everythingLoaded=!0,this.lastTouchEnd&&await new Promise((t=>setTimeout(t,500-Date.now()+this.lastTouchEnd))),this.H(),this.F("all"),this.U(),this.W()}i(){this.CSPIssue=sessionStorage.getItem("rocketCSPIssue"),document.addEventListener("securitypolicyviolation",(t=>{this.CSPIssue||"script-src-elem"!==t.violatedDirective||"data"!==t.blockedURI||(this.CSPIssue=!0,sessionStorage.setItem("rocketCSPIssue",!0))}),{isRocket:!0})}o(){window.addEventListener("pageshow",(t=>{this.persisted=t.persisted,this.realWindowLoadedFired=!0}),{isRocket:!0}),window.addEventListener("pagehide",(()=>{this.onFirstUserAction=null}),{isRocket:!0})}h(){let t;function e(e){t=e}window.addEventListener("touchstart",e,{isRocket:!0}),window.addEventListener("touchend",(function i(o){Math.abs(o.changedTouches[0].pageX-t.changedTouches[0].pageX)<10&&Math.abs(o.changedTouches[0].pageY-t.changedTouches[0].pageY)<10&&o.timeStamp-t.timeStamp<200&&(o.target.dispatchEvent(new PointerEvent("click",{target:o.target,bubbles:!0,cancelable:!0,detail:1})),event.preventDefault(),window.removeEventListener("touchstart",e,{isRocket:!0}),window.removeEventListener("touchend",i,{isRocket:!0}))}),{isRocket:!0})}q(t){this.userActionTriggered||("mousemove"!==t.type||this.firstMousemoveIgnored?"keyup"===t.type||"mouseover"===t.type||"mouseout"===t.type||(this.userActionTriggered=!0,this.onFirstUserAction&&this.onFirstUserAction()):this.firstMousemoveIgnored=!0),"click"===t.type&&t.preventDefault(),this.savedUserEvents.length>0&&(t.stopPropagation(),t.stopImmediatePropagation()),"touchstart"===this.lastEvent&&"touchend"===t.type&&(this.lastTouchEnd=Date.now()),"click"===t.type&&(this.lastTouchEnd=0),this.lastEvent=t.type,this.savedUserEvents.push(t)}u(){this.savedUserEvents=[],this.userEventHandler=this.q.bind(this),this.userEvents.forEach((t=>window.addEventListener(t,this.userEventHandler,{passive:!1,isRocket:!0})))}U(){this.userEvents.forEach((t=>window.removeEventListener(t,this.userEventHandler,{passive:!1,isRocket:!0}))),this.savedUserEvents.forEach((t=>{t.target.dispatchEvent(new window[t.constructor.name](t.type,t))}))}m(){this.eventsMutationObserver=new MutationObserver((t=>{const e="return false";for(const i of t){if("attributes"===i.type){const t=i.target.getAttribute(i.attributeName);t&&t!==e&&(i.target.setAttribute("data-rocket-"+i.attributeName,t),i.target["rocket"+i.attributeName]=new Function("event",t),i.target.setAttribute(i.attributeName,e))}"childList"===i.type&&i.addedNodes.forEach((t=>{if(t.nodeType===Node.ELEMENT_NODE)for(const i of t.attributes)this.attributeEvents.includes(i.name)&&i.value&&""!==i.value&&(t.setAttribute("data-rocket-"+i.name,i.value),t["rocket"+i.name]=new Function("event",i.value),t.setAttribute(i.name,e))}))}})),this.eventsMutationObserver.observe(document,{subtree:!0,childList:!0,attributeFilter:this.attributeEvents})}H(){this.eventsMutationObserver.disconnect(),this.attributeEvents.forEach((t=>{document.querySelectorAll("[data-rocket-"+t+"]").forEach((e=>{e.setAttribute(t,e.getAttribute("data-rocket-"+t)),e.removeAttribute("data-rocket-"+t)}))}))}k(t){Object.defineProperty(HTMLElement.prototype,"onclick",{get(){return this.rocketonclick||null},set(e){this.rocketonclick=e,this.setAttribute(t.everythingLoaded?"onclick":"data-rocket-onclick","this.rocketonclick(event)")}})}S(t){function e(e,i){let o=e[i];e[i]=null,Object.defineProperty(e,i,{get:()=>o,set(s){t.everythingLoaded?o=s:e["rocket"+i]=o=s}})}e(document,"onreadystatechange"),e(window,"onload"),e(window,"onpageshow");try{Object.defineProperty(document,"readyState",{get:()=>t.rocketReadyState,set(e){t.rocketReadyState=e},configurable:!0}),document.readyState="loading"}catch(t){console.log("WPRocket DJE readyState conflict, bypassing")}}l(t){this.originalAddEventListener=EventTarget.prototype.addEventListener,this.originalRemoveEventListener=EventTarget.prototype.removeEventListener,this.savedEventListeners=[],EventTarget.prototype.addEventListener=function(e,i,o){o&&o.isRocket||!t.B(e,this)&&!t.userEvents.includes(e)||t.B(e,this)&&!t.userActionTriggered||e.startsWith("rocket-")||t.everythingLoaded?t.originalAddEventListener.call(this,e,i,o):t.savedEventListeners.push({target:this,remove:!1,type:e,func:i,options:o})},EventTarget.prototype.removeEventListener=function(e,i,o){o&&o.isRocket||!t.B(e,this)&&!t.userEvents.includes(e)||t.B(e,this)&&!t.userActionTriggered||e.startsWith("rocket-")||t.everythingLoaded?t.originalRemoveEventListener.call(this,e,i,o):t.savedEventListeners.push({target:this,remove:!0,type:e,func:i,options:o})}}F(t){"all"===t&&(EventTarget.prototype.addEventListener=this.originalAddEventListener,EventTarget.prototype.removeEventListener=this.originalRemoveEventListener),this.savedEventListeners=this.savedEventListeners.filter((e=>{let i=e.type,o=e.target||window;return"domReady"===t&&"DOMContentLoaded"!==i&&"readystatechange"!==i||("windowLoad"===t&&"load"!==i&&"readystatechange"!==i&&"pageshow"!==i||(this.B(i,o)&&(i="rocket-"+i),e.remove?o.removeEventListener(i,e.func,e.options):o.addEventListener(i,e.func,e.options),!1))}))}p(t){let e;function i(e){return t.everythingLoaded?e:e.split(" ").map((t=>"load"===t||t.startsWith("load.")?"rocket-jquery-load":t)).join(" ")}function o(o){function s(e){const s=o.fn[e];o.fn[e]=o.fn.init.prototype[e]=function(){return this[0]===window&&t.userActionTriggered&&("string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=i(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{const e=arguments[0][t];delete arguments[0][t],arguments[0][i(t)]=e}))),s.apply(this,arguments),this}}if(o&&o.fn&&!t.allJQueries.includes(o)){const e={DOMContentLoaded:[],"rocket-DOMContentLoaded":[]};for(const t in e)document.addEventListener(t,(()=>{e[t].forEach((t=>t()))}),{isRocket:!0});o.fn.ready=o.fn.init.prototype.ready=function(i){function s(){parseInt(o.fn.jquery)>2?setTimeout((()=>i.bind(document)(o))):i.bind(document)(o)}return t.realDomReadyFired?!t.userActionTriggered||t.fauxDomReadyFired?s():e["rocket-DOMContentLoaded"].push(s):e.DOMContentLoaded.push(s),o([])},s("on"),s("one"),s("off"),t.allJQueries.push(o)}e=o}t.allJQueries=[],o(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=>e,set(t){o(t)}})}P(){const t=new Map;document.write=document.writeln=function(e){const i=document.currentScript,o=document.createRange(),s=i.parentElement;let n=t.get(i);void 0===n&&(n=i.nextSibling,t.set(i,n));const c=document.createDocumentFragment();o.setStart(c,0),c.appendChild(o.createContextualFragment(e)),s.insertBefore(c,n)}}async R(){return new Promise((t=>{this.userActionTriggered?t():this.onFirstUserAction=t}))}async L(){return new Promise((t=>{document.addEventListener("DOMContentLoaded",(()=>{this.realDomReadyFired=!0,t()}),{isRocket:!0})}))}async I(){return this.realWindowLoadedFired?Promise.resolve():new Promise((t=>{window.addEventListener("load",t,{isRocket:!0})}))}M(){this.pendingScripts=[];this.scriptsMutationObserver=new MutationObserver((t=>{for(const e of t)e.addedNodes.forEach((t=>{"SCRIPT"!==t.tagName||t.noModule||t.isWPRocket||this.pendingScripts.push({script:t,promise:new Promise((e=>{const i=()=>{const i=this.pendingScripts.findIndex((e=>e.script===t));i>=0&&this.pendingScripts.splice(i,1),e()};t.addEventListener("load",i,{isRocket:!0}),t.addEventListener("error",i,{isRocket:!0}),setTimeout(i,1e3)}))})}))})),this.scriptsMutationObserver.observe(document,{childList:!0,subtree:!0})}async j(){await this.J(),this.pendingScripts.length?(await this.pendingScripts[0].promise,await this.j()):this.scriptsMutationObserver.disconnect()}D(){this.delayedScripts={normal:[],async:[],defer:[]},document.querySelectorAll("script[type$=rocketlazyloadscript]").forEach((t=>{t.hasAttribute("data-rocket-src")?t.hasAttribute("async")&&!1!==t.async?this.delayedScripts.async.push(t):t.hasAttribute("defer")&&!1!==t.defer||"module"===t.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(t):this.delayedScripts.normal.push(t):this.delayedScripts.normal.push(t)}))}async _(){await this.L();let t=[];document.querySelectorAll("script[type$=rocketlazyloadscript][data-rocket-src]").forEach((e=>{let i=e.getAttribute("data-rocket-src");if(i&&!i.startsWith("data:")){i.startsWith("//")&&(i=location.protocol+i);try{const o=new URL(i).origin;o!==location.origin&&t.push({src:o,crossOrigin:e.crossOrigin||"module"===e.getAttribute("data-rocket-type")})}catch(t){}}})),t=[...new Map(t.map((t=>[JSON.stringify(t),t]))).values()],this.N(t,"preconnect")}async $(t){if(await this.G(),!0!==t.noModule||!("noModule"in HTMLScriptElement.prototype))return new Promise((e=>{let i;function o(){(i||t).setAttribute("data-rocket-status","executed"),e()}try{if(navigator.userAgent.includes("Firefox/")||""===navigator.vendor||this.CSPIssue)i=document.createElement("script"),[...t.attributes].forEach((t=>{let e=t.nodeName;"type"!==e&&("data-rocket-type"===e&&(e="type"),"data-rocket-src"===e&&(e="src"),i.setAttribute(e,t.nodeValue))})),t.text&&(i.text=t.text),t.nonce&&(i.nonce=t.nonce),i.hasAttribute("src")?(i.addEventListener("load",o,{isRocket:!0}),i.addEventListener("error",(()=>{i.setAttribute("data-rocket-status","failed-network"),e()}),{isRocket:!0}),setTimeout((()=>{i.isConnected||e()}),1)):(i.text=t.text,o()),i.isWPRocket=!0,t.parentNode.replaceChild(i,t);else{const i=t.getAttribute("data-rocket-type"),s=t.getAttribute("data-rocket-src");i?(t.type=i,t.removeAttribute("data-rocket-type")):t.removeAttribute("type"),t.addEventListener("load",o,{isRocket:!0}),t.addEventListener("error",(i=>{this.CSPIssue&&i.target.src.startsWith("data:")?(console.log("WPRocket: CSP fallback activated"),t.removeAttribute("src"),this.$(t).then(e)):(t.setAttribute("data-rocket-status","failed-network"),e())}),{isRocket:!0}),s?(t.fetchPriority="high",t.removeAttribute("data-rocket-src"),t.src=s):t.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(t.text)))}}catch(i){t.setAttribute("data-rocket-status","failed-transform"),e()}}));t.setAttribute("data-rocket-status","skipped")}async C(t){const e=t.shift();return e?(e.isConnected&&await this.$(e),this.C(t)):Promise.resolve()}O(){this.N([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}N(t,e){this.trash=this.trash||[];let i=!0;var o=document.createDocumentFragment();t.forEach((t=>{const s=t.getAttribute&&t.getAttribute("data-rocket-src")||t.src;if(s&&!s.startsWith("data:")){const n=document.createElement("link");n.href=s,n.rel=e,"preconnect"!==e&&(n.as="script",n.fetchPriority=i?"high":"low"),t.getAttribute&&"module"===t.getAttribute("data-rocket-type")&&(n.crossOrigin=!0),t.crossOrigin&&(n.crossOrigin=t.crossOrigin),t.integrity&&(n.integrity=t.integrity),t.nonce&&(n.nonce=t.nonce),o.appendChild(n),this.trash.push(n),i=!1}})),document.head.appendChild(o)}W(){this.trash.forEach((t=>t.remove()))}async T(){try{document.readyState="interactive"}catch(t){}this.fauxDomReadyFired=!0;try{await this.G(),document.dispatchEvent(new Event("rocket-readystatechange")),await this.G(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.G(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this.G(),window.dispatchEvent(new Event("rocket-DOMContentLoaded"))}catch(t){console.error(t)}}async A(){try{document.readyState="complete"}catch(t){}try{await this.G(),document.dispatchEvent(new Event("rocket-readystatechange")),await this.G(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.G(),window.dispatchEvent(new Event("rocket-load")),await this.G(),window.rocketonload&&window.rocketonload(),await this.G(),this.allJQueries.forEach((t=>t(window).trigger("rocket-jquery-load"))),await this.G();const t=new Event("rocket-pageshow");t.persisted=this.persisted,window.dispatchEvent(t),await this.G(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}catch(t){console.error(t)}}async G(){Date.now()-this.lastBreath>45&&(await this.J(),this.lastBreath=Date.now())}async J(){return document.hidden?new Promise((t=>setTimeout(t))):new Promise((t=>requestAnimationFrame(t)))}B(t,e){return e===document&&"readystatechange"===t||(e===document&&"DOMContentLoaded"===t||(e===window&&"DOMContentLoaded"===t||(e===window&&"load"===t||e===window&&"pageshow"===t)))}static run(){(new RocketLazyLoadScripts).t()}}RocketLazyLoadScripts.run()})();</script>
+				
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="pingback" href="https://qaseda.com/xmlrpc.php"/>
+
+		
+<!-- تحسين مُحركات البحث بواسطة رانك ماث برو (Rank Math PRO)-  https://s.rankmath.com/home -->
+<title>العين الخضراء - | موقع قصيدة</title>
+<link crossorigin data-rocket-preconnect href="https://www.googletagmanager.com" rel="preconnect">
+<link crossorigin data-rocket-preconnect href="https://fonts.googleapis.com" rel="preconnect">
+<link crossorigin data-rocket-preconnect href="https://pagead2.googlesyndication.com" rel="preconnect">
+<link crossorigin data-rocket-preconnect href="https://fundingchoicesmessages.google.com" rel="preconnect">
+<link data-rocket-preload as="style" href="https://fonts.googleapis.com/css?family=Cairo%3A400%7CAmiri%3A400%7CFrank%20Ruhl%20Libre%3A700&#038;display=swap" rel="preload">
+<link href="https://fonts.googleapis.com/css?family=Cairo%3A400%7CAmiri%3A400%7CFrank%20Ruhl%20Libre%3A700&#038;display=swap" media="print" onload="this.media=&#039;all&#039;" rel="stylesheet">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cairo%3A400%7CAmiri%3A400%7CFrank%20Ruhl%20Libre%3A700&#038;display=swap"></noscript><link rel="preload" data-rocket-preload as="image" href="https://qaseda.com/wp-content/uploads/2023/05/the-online-post-header-bg.png" fetchpriority="high">
+<meta name="description" content="جاءت وفي يدها دفتر صغير ورغبت إلى الشاعر أن يكتب شعرا في عينيها فإلى صباح عينيها الخضراوين هذه الحروف قالت ألا تكتب في..."/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://qaseda.com/nizarqabbani/%d8%a7%d9%84%d8%b9%d9%8a%d9%86-%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7%d8%a1/" />
+<meta property="og:locale" content="ar_AR" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="العين الخضراء - | موقع قصيدة" />
+<meta property="og:description" content="جاءت وفي يدها دفتر صغير  
+ ورغبت إلى الشاعر أن يكتب شعرا  
+ في عينيها  
+ فإلى صباح عينيها الخضراوين  
+ هذه الحروف  
+ قالت ألا تكتب في..." />
+<meta property="og:url" content="https://qaseda.com/nizarqabbani/%d8%a7%d9%84%d8%b9%d9%8a%d9%86-%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7%d8%a1/" />
+<meta property="og:site_name" content="موقع قصيدة" />
+<meta property="article:tag" content="قصائد غزل" />
+<meta property="article:section" content="سوريا" />
+<meta property="og:updated_time" content="2024-05-28T16:46:08+00:00" />
+<meta property="og:image" content="https://qaseda.com/wp-content/uploads/العين-الخضراء-1.webp" />
+<meta property="og:image:secure_url" content="https://qaseda.com/wp-content/uploads/العين-الخضراء-1.webp" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="675" />
+<meta property="og:image:alt" content="قصيدة العين الخضراء" />
+<meta property="og:image:type" content="image/webp" />
+<meta property="article:published_time" content="2024-03-23T11:10:07+00:00" />
+<meta property="article:modified_time" content="2024-05-28T16:46:08+00:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="العين الخضراء - | موقع قصيدة" />
+<meta name="twitter:description" content="جاءت وفي يدها دفتر صغير  
+ ورغبت إلى الشاعر أن يكتب شعرا  
+ في عينيها  
+ فإلى صباح عينيها الخضراوين  
+ هذه الحروف  
+ قالت ألا تكتب في..." />
+<meta name="twitter:image" content="https://qaseda.com/wp-content/uploads/العين-الخضراء-1.webp" />
+<meta name="twitter:label1" content="كُتب بواسطة" />
+<meta name="twitter:data1" content="نزار قباني" />
+<meta name="twitter:label2" content="مدة القراءة" />
+<meta name="twitter:data2" content="أقل من دقيقة" />
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://qaseda.com/#person","name":"\u0645\u0648\u0642\u0639 \u0642\u0635\u064a\u062f\u0629","logo":{"@type":"ImageObject","@id":"https://qaseda.com/#logo","url":"https://qaseda.com/wp-content/uploads/Favicons-Apple-iPad-Icon.png","contentUrl":"https://qaseda.com/wp-content/uploads/Favicons-Apple-iPad-Icon.png","caption":"\u0645\u0648\u0642\u0639 \u0642\u0635\u064a\u062f\u0629","inLanguage":"ar","width":"521","height":"521"},"image":{"@type":"ImageObject","@id":"https://qaseda.com/#logo","url":"https://qaseda.com/wp-content/uploads/Favicons-Apple-iPad-Icon.png","contentUrl":"https://qaseda.com/wp-content/uploads/Favicons-Apple-iPad-Icon.png","caption":"\u0645\u0648\u0642\u0639 \u0642\u0635\u064a\u062f\u0629","inLanguage":"ar","width":"521","height":"521"}},{"@type":"WebSite","@id":"https://qaseda.com/#website","url":"https://qaseda.com","name":"\u0645\u0648\u0642\u0639 \u0642\u0635\u064a\u062f\u0629","alternateName":"\u0642\u0635\u064a\u062f\u0629","publisher":{"@id":"https://qaseda.com/#person"},"inLanguage":"ar"},{"@type":"ImageObject","@id":"https://qaseda.com/wp-content/uploads/\u0627\u0644\u0639\u064a\u0646-\u0627\u0644\u062e\u0636\u0631\u0627\u0621-1.webp","url":"https://qaseda.com/wp-content/uploads/\u0627\u0644\u0639\u064a\u0646-\u0627\u0644\u062e\u0636\u0631\u0627\u0621-1.webp","width":"1200","height":"675","caption":"\u0642\u0635\u064a\u062f\u0629 \u0627\u0644\u0639\u064a\u0646 \u0627\u0644\u062e\u0636\u0631\u0627\u0621","inLanguage":"ar"},{"@type":"BreadcrumbList","@id":"https://qaseda.com/nizarqabbani/%d8%a7%d9%84%d8%b9%d9%8a%d9%86-%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7%d8%a1/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://qaseda.com","name":"\u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629"}},{"@type":"ListItem","position":"2","item":{"@id":"https://qaseda.com/c/%d8%b3%d9%88%d8%b1%d9%8a%d8%a7/","name":"\u0633\u0648\u0631\u064a\u0627"}},{"@type":"ListItem","position":"3","item":{"@id":"https://qaseda.com/nizarqabbani/%d8%a7%d9%84%d8%b9%d9%8a%d9%86-%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7%d8%a1/","name":"\u0627\u0644\u0639\u064a\u0646 \u0627\u0644\u062e\u0636\u0631\u0627\u0621"}}]},{"@type":"WebPage","@id":"https://qaseda.com/nizarqabbani/%d8%a7%d9%84%d8%b9%d9%8a%d9%86-%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7%d8%a1/#webpage","url":"https://qaseda.com/nizarqabbani/%d8%a7%d9%84%d8%b9%d9%8a%d9%86-%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7%d8%a1/","name":"\u0627\u0644\u0639\u064a\u0646 \u0627\u0644\u062e\u0636\u0631\u0627\u0621 - | \u0645\u0648\u0642\u0639 \u0642\u0635\u064a\u062f\u0629","datePublished":"2024-03-23T11:10:07+00:00","dateModified":"2024-05-28T16:46:08+00:00","isPartOf":{"@id":"https://qaseda.com/#website"},"primaryImageOfPage":{"@id":"https://qaseda.com/wp-content/uploads/\u0627\u0644\u0639\u064a\u0646-\u0627\u0644\u062e\u0636\u0631\u0627\u0621-1.webp"},"inLanguage":"ar","breadcrumb":{"@id":"https://qaseda.com/nizarqabbani/%d8%a7%d9%84%d8%b9%d9%8a%d9%86-%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7%d8%a1/#breadcrumb"}},{"@type":"Person","@id":"https://qaseda.com/author/nizarqabbani/","name":"\u0646\u0632\u0627\u0631 \u0642\u0628\u0627\u0646\u064a","url":"https://qaseda.com/author/nizarqabbani/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/b64a1d3200396c2226f0da1cc319d4c8de66ab0f54dc3999e60d7a5dcb16107f?s=96&amp;d=https%3A%2F%2Fqaseda.com%2Fwp-content%2Fuploads%2F2023%2F06%2FUser-Avatar-Qaseda-150x150.png&amp;r=g","url":"https://secure.gravatar.com/avatar/b64a1d3200396c2226f0da1cc319d4c8de66ab0f54dc3999e60d7a5dcb16107f?s=96&amp;d=https%3A%2F%2Fqaseda.com%2Fwp-content%2Fuploads%2F2023%2F06%2FUser-Avatar-Qaseda-150x150.png&amp;r=g","caption":"\u0646\u0632\u0627\u0631 \u0642\u0628\u0627\u0646\u064a","inLanguage":"ar"}},{"@type":"BlogPosting","headline":"\u0627\u0644\u0639\u064a\u0646 \u0627\u0644\u062e\u0636\u0631\u0627\u0621 - | \u0645\u0648\u0642\u0639 \u0642\u0635\u064a\u062f\u0629","keywords":"\u0627\u0644\u0639\u064a\u0646 \u0627\u0644\u062e\u0636\u0631\u0627\u0621,\u0646\u0632\u0627\u0631 \u0642\u0628\u0627\u0646\u064a","datePublished":"2024-03-23T11:10:07+00:00","dateModified":"2024-05-28T16:46:08+00:00","articleSection":"\u0633\u0648\u0631\u064a\u0627","author":{"@id":"https://qaseda.com/author/nizarqabbani/","name":"\u0646\u0632\u0627\u0631 \u0642\u0628\u0627\u0646\u064a"},"publisher":{"@id":"https://qaseda.com/#person"},"description":"\u062c\u0627\u0621\u062a \u0648\u0641\u064a \u064a\u062f\u0647\u0627 \u062f\u0641\u062a\u0631 \u0635\u063a\u064a\u0631 \u0648\u0631\u063a\u0628\u062a \u0625\u0644\u0649 \u0627\u0644\u0634\u0627\u0639\u0631 \u0623\u0646 \u064a\u0643\u062a\u0628 \u0634\u0639\u0631\u0627 \u0641\u064a \u0639\u064a\u0646\u064a\u0647\u0627 \u0641\u0625\u0644\u0649 \u0635\u0628\u0627\u062d \u0639\u064a\u0646\u064a\u0647\u0627 \u0627\u0644\u062e\u0636\u0631\u0627\u0648\u064a\u0646 \u0647\u0630\u0647 \u0627\u0644\u062d\u0631\u0648\u0641 \u0642\u0627\u0644\u062a \u0623\u0644\u0627 \u062a\u0643\u062a\u0628 \u0641\u064a...","name":"\u0627\u0644\u0639\u064a\u0646 \u0627\u0644\u062e\u0636\u0631\u0627\u0621 - | \u0645\u0648\u0642\u0639 \u0642\u0635\u064a\u062f\u0629","@id":"https://qaseda.com/nizarqabbani/%d8%a7%d9%84%d8%b9%d9%8a%d9%86-%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7%d8%a1/#richSnippet","isPartOf":{"@id":"https://qaseda.com/nizarqabbani/%d8%a7%d9%84%d8%b9%d9%8a%d9%86-%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7%d8%a1/#webpage"},"image":{"@id":"https://qaseda.com/wp-content/uploads/\u0627\u0644\u0639\u064a\u0646-\u0627\u0644\u062e\u0636\u0631\u0627\u0621-1.webp"},"inLanguage":"ar","mainEntityOfPage":{"@id":"https://qaseda.com/nizarqabbani/%d8%a7%d9%84%d8%b9%d9%8a%d9%86-%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7%d8%a1/#webpage"}}]}</script>
+<!-- /إضافة تحسين محركات البحث لووردبريس Rank Math -->
+
+
+<!-- Better Open Graph, Schema.org & Twitter Integration -->
+<meta property="og:locale" content="ar"/>
+<meta property="og:site_name" content="موقع قصيدة"/>
+<meta property="og:url" content="https://qaseda.com/nizarqabbani/%d8%a7%d9%84%d8%b9%d9%8a%d9%86-%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7%d8%a1/"/>
+<meta property="og:title" content="العين الخضراء"/>
+<meta property="og:image" content="https://qaseda.com/wp-content/uploads/العين-الخضراء-1-1024x576.webp"/>
+<meta property="og:image:alt" content="العين الخضراء,قصائد غزل,شعر غزل,شعر عن الغزل"/>
+<meta property="article:section" content="سوريا"/>
+<meta property="article:tag" content="قصائد غزل"/>
+<meta property="og:description" content="&quot;جاءت وفي يدها دفتر صغير...  
+ ورغبت إلى الشاعر أن يكتب شعراً  
+ في عينيها..."/>
+<meta property="og:type" content="article"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:url" content="https://qaseda.com/nizarqabbani/%d8%a7%d9%84%d8%b9%d9%8a%d9%86-%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7%d8%a1/"/>
+<meta name="twitter:title" content="العين الخضراء"/>
+<meta name="twitter:description" content="&quot;جاءت وفي يدها دفتر صغير...  
+ ورغبت إلى الشاعر أن يكتب شعراً  
+ في عينيها..."/>
+<meta name="twitter:image" content="https://qaseda.com/wp-content/uploads/العين-الخضراء-1-1024x576.webp"/>
+<meta name="twitter:image:alt" content="العين الخضراء,قصائد غزل,شعر غزل,شعر عن الغزل"/>
+<!-- / Better Open Graph, Schema.org & Twitter Integration. -->
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//pagead2.googlesyndication.com' />
+<link rel='dns-prefetch' href='//fundingchoicesmessages.google.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="موقع قصيدة &laquo; الخلاصة" href="https://qaseda.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="موقع قصيدة &laquo; خلاصة التعليقات" href="https://qaseda.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="موقع قصيدة &laquo; العين الخضراء خلاصة التعليقات" href="https://qaseda.com/nizarqabbani/%d8%a7%d9%84%d8%b9%d9%8a%d9%86-%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7%d8%a1/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://qaseda.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fqaseda.com%2Fnizarqabbani%2F%25d8%25a7%25d9%2584%25d8%25b9%25d9%258a%25d9%2586-%25d8%25a7%25d9%2584%25d8%25ae%25d8%25b6%25d8%25b1%25d8%25a7%25d8%25a1%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://qaseda.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fqaseda.com%2Fnizarqabbani%2F%25d8%25a7%25d9%2584%25d8%25b9%25d9%258a%25d9%2586-%25d8%25a7%25d9%2584%25d8%25ae%25d8%25b6%25d8%25b1%25d8%25a7%25d8%25a1%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<link rel='stylesheet' id='wp-block-library-rtl-css' href='https://qaseda.com/wp-includes/css/dist/block-library/style-rtl.min.css?ver=6.9' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id='ce4wp-subscribe-style-inline-css' type='text/css'>
+.wp-block-ce4wp-subscribe{max-width:840px;margin:0 auto}.wp-block-ce4wp-subscribe .title{margin-bottom:0}.wp-block-ce4wp-subscribe .subTitle{margin-top:0;font-size:0.8em}.wp-block-ce4wp-subscribe .disclaimer{margin-top:5px;font-size:0.8em}.wp-block-ce4wp-subscribe .disclaimer .disclaimer-label{margin-left:10px}.wp-block-ce4wp-subscribe .inputBlock{width:100%;margin-bottom:10px}.wp-block-ce4wp-subscribe .inputBlock input{width:100%}.wp-block-ce4wp-subscribe .inputBlock label{display:inline-block}.wp-block-ce4wp-subscribe .submit-button{margin-top:25px;display:block}.wp-block-ce4wp-subscribe .required-text{display:inline-block;margin:0;padding:0;margin-left:0.3em}.wp-block-ce4wp-subscribe .onSubmission{height:0;max-width:840px;margin:0 auto}.wp-block-ce4wp-subscribe .firstNameSummary .lastNameSummary{text-transform:capitalize}.wp-block-ce4wp-subscribe .ce4wp-inline-notification{display:flex;flex-direction:row;align-items:center;padding:13px 10px;width:100%;height:40px;border-style:solid;border-color:orange;border-width:1px;border-left-width:4px;border-radius:3px;background:rgba(255,133,15,0.1);flex:none;order:0;flex-grow:1;margin:0px 0px}.wp-block-ce4wp-subscribe .ce4wp-inline-warning-text{font-style:normal;font-weight:normal;font-size:16px;line-height:20px;display:flex;align-items:center;color:#571600;margin-left:9px}.wp-block-ce4wp-subscribe .ce4wp-inline-warning-icon{color:orange}.wp-block-ce4wp-subscribe .ce4wp-inline-warning-arrow{color:#571600;margin-left:auto}.wp-block-ce4wp-subscribe .ce4wp-banner-clickable{cursor:pointer}.ce4wp-link{cursor:pointer}
+
+.no-flex{display:block}.sub-header{margin-bottom:1em}
+
+
+/*# sourceURL=https://qaseda.com/wp-content/plugins/creative-mail-by-constant-contact/assets/js/block/subscribe.css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link data-minify="1" rel='stylesheet' id='bs-icons-css' href='https://qaseda.com/wp-content/cache/min/1/wp-content/themes/publisher/includes/libs/better-framework/assets/css/bs-icons.css?ver=1767208379' type='text/css' media='all' />
+<link rel='stylesheet' id='better-social-counter-css' href='https://qaseda.com/wp-content/plugins/better-social-counter/css/style.min.css?ver=1.13.2' type='text/css' media='all' />
+<link rel='stylesheet' id='better-social-counter-rtl-css' href='https://qaseda.com/wp-content/plugins/better-social-counter/css/rtl.min.css?ver=1.13.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bf-slick-css' href='https://qaseda.com/wp-content/themes/publisher/includes/libs/better-framework/assets/css/slick.min.css?ver=3.15.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pretty-photo-css' href='https://qaseda.com/wp-content/cache/background-css/1/qaseda.com/wp-content/themes/publisher/includes/libs/better-framework/assets/css/pretty-photo.min.css?ver=3.15.0&wpr_t=1767356470' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-libs-css' href='https://qaseda.com/wp-content/themes/publisher/css/theme-libs.min.css?ver=7.11.0' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='fontawesome-css' href='https://qaseda.com/wp-content/cache/min/1/wp-content/themes/publisher/includes/libs/better-framework/assets/css/font-awesome.min.css?ver=1767208379' type='text/css' media='all' />
+<link rel='stylesheet' id='publisher-css' href='https://qaseda.com/wp-content/themes/publisher/style-7.11.0.min.css?ver=7.11.0' type='text/css' media='all' />
+<link rel='stylesheet' id='publisher-rtl-css' href='https://qaseda.com/wp-content/themes/publisher/rtl.min.css?ver=7.11.0' type='text/css' media='all' />
+<link rel='stylesheet' id='vc-rtl-grid-css' href='https://qaseda.com/wp-content/themes/publisher//css/vc-rtl-grid.min.css?ver=7.11.0' type='text/css' media='all' />
+
+<link rel='stylesheet' id='publisher-theme-the-online-post-css' href='https://qaseda.com/wp-content/themes/publisher/includes/styles/the-online-post/style.min.css?ver=7.11.0' type='text/css' media='all' />
+<style id='rocket-lazyload-inline-css' type='text/css'>
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:var(--wpr-bg-92a31903-85fa-4647-85e2-05660da360e7) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}
+/*# sourceURL=rocket-lazyload-inline-css */
+</style>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://qaseda.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://qaseda.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js" data-rocket-defer defer></script>
+<link rel="https://api.w.org/" href="https://qaseda.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://qaseda.com/wp-json/wp/v2/posts/265350" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://qaseda.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9" />
+<link rel='shortlink' href='https://qaseda.com/?p=265350' />
+<meta name="generator" content="Site Kit by Google 1.168.0" /><!-- Google adsense -->
+<script type="rocketlazyloadscript" async data-rocket-src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8683963646266316"
+     crossorigin="anonymous"></script>
+     
+<meta name="yandex-verification" content="84a4a67effada9af" />
+
+
+<!-- Google Tag Manager -->
+<script type="rocketlazyloadscript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WZDKJ4TD');</script>
+<!-- End Google Tag Manager -->			<link rel="shortcut icon" href="https://qaseda.com/wp-content/uploads/Favicons.png">			<link rel="apple-touch-icon" href="https://qaseda.com/wp-content/uploads/Favicons-Apple-iPhone-Icon.png">			<link rel="apple-touch-icon" sizes="114x114" href="https://qaseda.com/wp-content/uploads/Favicons-Apple-iPhone-Retina-Icon.png">			<link rel="apple-touch-icon" sizes="72x72" href="https://qaseda.com/wp-content/uploads/Favicons-Apple-iPad-Icon.png">			<link rel="apple-touch-icon" sizes="144x144" href="https://qaseda.com/wp-content/uploads/Favicons-Apple-iPhone-Retina-Icon.png">
+<!-- Google AdSense meta tags added by Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- End Google AdSense meta tags added by Site Kit -->
+<meta name="generator" content="Elementor 3.34.0; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+
+<!-- Google AdSense snippet added by Site Kit -->
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" async="async" data-rocket-src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8683963646266316&amp;host=ca-host-pub-2644536267352236" crossorigin="anonymous"></script>
+
+<!-- End Google AdSense snippet added by Site Kit -->
+
+<!-- Google AdSense Ad Blocking Recovery snippet added by Site Kit -->
+<script type="rocketlazyloadscript" async data-rocket-src="https://fundingchoicesmessages.google.com/i/pub-8683963646266316?ers=1" nonce="j1itntYptoVIqKzbA1-NWQ"></script><script type="rocketlazyloadscript" nonce="j1itntYptoVIqKzbA1-NWQ">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
+<!-- End Google AdSense Ad Blocking Recovery snippet added by Site Kit -->
+
+<!-- Google AdSense Ad Blocking Recovery Error Protection snippet added by Site Kit -->
+<script type="rocketlazyloadscript">(function(){'use strict';function aa(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}}var ba="function"==typeof Object.defineProperties?Object.defineProperty:function(a,b,c){if(a==Array.prototype||a==Object.prototype)return a;a[b]=c.value;return a};
+function ca(a){a=["object"==typeof globalThis&&globalThis,a,"object"==typeof window&&window,"object"==typeof self&&self,"object"==typeof global&&global];for(var b=0;b<a.length;++b){var c=a[b];if(c&&c.Math==Math)return c}throw Error("Cannot find global object");}var da=ca(this);function k(a,b){if(b)a:{var c=da;a=a.split(".");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&null!=b&&ba(c,a,{configurable:!0,writable:!0,value:b})}}
+function ea(a){return a.raw=a}function m(a){var b="undefined"!=typeof Symbol&&Symbol.iterator&&a[Symbol.iterator];if(b)return b.call(a);if("number"==typeof a.length)return{next:aa(a)};throw Error(String(a)+" is not an iterable or ArrayLike");}function fa(a){for(var b,c=[];!(b=a.next()).done;)c.push(b.value);return c}var ha="function"==typeof Object.create?Object.create:function(a){function b(){}b.prototype=a;return new b},n;
+if("function"==typeof Object.setPrototypeOf)n=Object.setPrototypeOf;else{var q;a:{var ia={a:!0},ja={};try{ja.__proto__=ia;q=ja.a;break a}catch(a){}q=!1}n=q?function(a,b){a.__proto__=b;if(a.__proto__!==b)throw new TypeError(a+" is not extensible");return a}:null}var ka=n;
+function r(a,b){a.prototype=ha(b.prototype);a.prototype.constructor=a;if(ka)ka(a,b);else for(var c in b)if("prototype"!=c)if(Object.defineProperties){var d=Object.getOwnPropertyDescriptor(b,c);d&&Object.defineProperty(a,c,d)}else a[c]=b[c];a.A=b.prototype}function la(){for(var a=Number(this),b=[],c=a;c<arguments.length;c++)b[c-a]=arguments[c];return b}k("Number.MAX_SAFE_INTEGER",function(){return 9007199254740991});
+k("Number.isFinite",function(a){return a?a:function(b){return"number"!==typeof b?!1:!isNaN(b)&&Infinity!==b&&-Infinity!==b}});k("Number.isInteger",function(a){return a?a:function(b){return Number.isFinite(b)?b===Math.floor(b):!1}});k("Number.isSafeInteger",function(a){return a?a:function(b){return Number.isInteger(b)&&Math.abs(b)<=Number.MAX_SAFE_INTEGER}});
+k("Math.trunc",function(a){return a?a:function(b){b=Number(b);if(isNaN(b)||Infinity===b||-Infinity===b||0===b)return b;var c=Math.floor(Math.abs(b));return 0>b?-c:c}});k("Object.is",function(a){return a?a:function(b,c){return b===c?0!==b||1/b===1/c:b!==b&&c!==c}});k("Array.prototype.includes",function(a){return a?a:function(b,c){var d=this;d instanceof String&&(d=String(d));var e=d.length;c=c||0;for(0>c&&(c=Math.max(c+e,0));c<e;c++){var f=d[c];if(f===b||Object.is(f,b))return!0}return!1}});
+k("String.prototype.includes",function(a){return a?a:function(b,c){if(null==this)throw new TypeError("The 'this' value for String.prototype.includes must not be null or undefined");if(b instanceof RegExp)throw new TypeError("First argument to String.prototype.includes must not be a regular expression");return-1!==this.indexOf(b,c||0)}});/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+var t=this||self;function v(a){return a};var w,x;a:{for(var ma=["CLOSURE_FLAGS"],y=t,z=0;z<ma.length;z++)if(y=y[ma[z]],null==y){x=null;break a}x=y}var na=x&&x[610401301];w=null!=na?na:!1;var A,oa=t.navigator;A=oa?oa.userAgentData||null:null;function B(a){return w?A?A.brands.some(function(b){return(b=b.brand)&&-1!=b.indexOf(a)}):!1:!1}function C(a){var b;a:{if(b=t.navigator)if(b=b.userAgent)break a;b=""}return-1!=b.indexOf(a)};function D(){return w?!!A&&0<A.brands.length:!1}function E(){return D()?B("Chromium"):(C("Chrome")||C("CriOS"))&&!(D()?0:C("Edge"))||C("Silk")};var pa=D()?!1:C("Trident")||C("MSIE");!C("Android")||E();E();C("Safari")&&(E()||(D()?0:C("Coast"))||(D()?0:C("Opera"))||(D()?0:C("Edge"))||(D()?B("Microsoft Edge"):C("Edg/"))||D()&&B("Opera"));var qa={},F=null;var ra="undefined"!==typeof Uint8Array,sa=!pa&&"function"===typeof btoa;function G(){return"function"===typeof BigInt};var H=0,I=0;function ta(a){var b=0>a;a=Math.abs(a);var c=a>>>0;a=Math.floor((a-c)/4294967296);b&&(c=m(ua(c,a)),b=c.next().value,a=c.next().value,c=b);H=c>>>0;I=a>>>0}function va(a,b){b>>>=0;a>>>=0;if(2097151>=b)var c=""+(4294967296*b+a);else G()?c=""+(BigInt(b)<<BigInt(32)|BigInt(a)):(c=(a>>>24|b<<8)&16777215,b=b>>16&65535,a=(a&16777215)+6777216*c+6710656*b,c+=8147497*b,b*=2,1E7<=a&&(c+=Math.floor(a/1E7),a%=1E7),1E7<=c&&(b+=Math.floor(c/1E7),c%=1E7),c=b+wa(c)+wa(a));return c}
+function wa(a){a=String(a);return"0000000".slice(a.length)+a}function ua(a,b){b=~b;a?a=~a+1:b+=1;return[a,b]};var J;J="function"===typeof Symbol&&"symbol"===typeof Symbol()?Symbol():void 0;var xa=J?function(a,b){a[J]|=b}:function(a,b){void 0!==a.g?a.g|=b:Object.defineProperties(a,{g:{value:b,configurable:!0,writable:!0,enumerable:!1}})},K=J?function(a){return a[J]|0}:function(a){return a.g|0},L=J?function(a){return a[J]}:function(a){return a.g},M=J?function(a,b){a[J]=b;return a}:function(a,b){void 0!==a.g?a.g=b:Object.defineProperties(a,{g:{value:b,configurable:!0,writable:!0,enumerable:!1}});return a};function ya(a,b){M(b,(a|0)&-14591)}function za(a,b){M(b,(a|34)&-14557)}
+function Aa(a){a=a>>14&1023;return 0===a?536870912:a};var N={},Ba={};function Ca(a){return!(!a||"object"!==typeof a||a.g!==Ba)}function Da(a){return null!==a&&"object"===typeof a&&!Array.isArray(a)&&a.constructor===Object}function P(a,b,c){if(!Array.isArray(a)||a.length)return!1;var d=K(a);if(d&1)return!0;if(!(b&&(Array.isArray(b)?b.includes(c):b.has(c))))return!1;M(a,d|1);return!0}Object.freeze(new function(){});Object.freeze(new function(){});var Ea=/^-?([1-9][0-9]*|0)(\.[0-9]+)?$/;var Q;function Fa(a,b){Q=b;a=new a(b);Q=void 0;return a}
+function R(a,b,c){null==a&&(a=Q);Q=void 0;if(null==a){var d=96;c?(a=[c],d|=512):a=[];b&&(d=d&-16760833|(b&1023)<<14)}else{if(!Array.isArray(a))throw Error();d=K(a);if(d&64)return a;d|=64;if(c&&(d|=512,c!==a[0]))throw Error();a:{c=a;var e=c.length;if(e){var f=e-1;if(Da(c[f])){d|=256;b=f-(+!!(d&512)-1);if(1024<=b)throw Error();d=d&-16760833|(b&1023)<<14;break a}}if(b){b=Math.max(b,e-(+!!(d&512)-1));if(1024<b)throw Error();d=d&-16760833|(b&1023)<<14}}}M(a,d);return a};function Ga(a){switch(typeof a){case "number":return isFinite(a)?a:String(a);case "boolean":return a?1:0;case "object":if(a)if(Array.isArray(a)){if(P(a,void 0,0))return}else if(ra&&null!=a&&a instanceof Uint8Array){if(sa){for(var b="",c=0,d=a.length-10240;c<d;)b+=String.fromCharCode.apply(null,a.subarray(c,c+=10240));b+=String.fromCharCode.apply(null,c?a.subarray(c):a);a=btoa(b)}else{void 0===b&&(b=0);if(!F){F={};c="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".split("");d=["+/=",
+"+/","-_=","-_.","-_"];for(var e=0;5>e;e++){var f=c.concat(d[e].split(""));qa[e]=f;for(var g=0;g<f.length;g++){var h=f[g];void 0===F[h]&&(F[h]=g)}}}b=qa[b];c=Array(Math.floor(a.length/3));d=b[64]||"";for(e=f=0;f<a.length-2;f+=3){var l=a[f],p=a[f+1];h=a[f+2];g=b[l>>2];l=b[(l&3)<<4|p>>4];p=b[(p&15)<<2|h>>6];h=b[h&63];c[e++]=g+l+p+h}g=0;h=d;switch(a.length-f){case 2:g=a[f+1],h=b[(g&15)<<2]||d;case 1:a=a[f],c[e]=b[a>>2]+b[(a&3)<<4|g>>4]+h+d}a=c.join("")}return a}}return a};function Ha(a,b,c){a=Array.prototype.slice.call(a);var d=a.length,e=b&256?a[d-1]:void 0;d+=e?-1:0;for(b=b&512?1:0;b<d;b++)a[b]=c(a[b]);if(e){b=a[b]={};for(var f in e)Object.prototype.hasOwnProperty.call(e,f)&&(b[f]=c(e[f]))}return a}function Ia(a,b,c,d,e){if(null!=a){if(Array.isArray(a))a=P(a,void 0,0)?void 0:e&&K(a)&2?a:Ja(a,b,c,void 0!==d,e);else if(Da(a)){var f={},g;for(g in a)Object.prototype.hasOwnProperty.call(a,g)&&(f[g]=Ia(a[g],b,c,d,e));a=f}else a=b(a,d);return a}}
+function Ja(a,b,c,d,e){var f=d||c?K(a):0;d=d?!!(f&32):void 0;a=Array.prototype.slice.call(a);for(var g=0;g<a.length;g++)a[g]=Ia(a[g],b,c,d,e);c&&c(f,a);return a}function Ka(a){return a.s===N?a.toJSON():Ga(a)};function La(a,b,c){c=void 0===c?za:c;if(null!=a){if(ra&&a instanceof Uint8Array)return b?a:new Uint8Array(a);if(Array.isArray(a)){var d=K(a);if(d&2)return a;b&&(b=0===d||!!(d&32)&&!(d&64||!(d&16)));return b?M(a,(d|34)&-12293):Ja(a,La,d&4?za:c,!0,!0)}a.s===N&&(c=a.h,d=L(c),a=d&2?a:Fa(a.constructor,Ma(c,d,!0)));return a}}function Ma(a,b,c){var d=c||b&2?za:ya,e=!!(b&32);a=Ha(a,b,function(f){return La(f,e,d)});xa(a,32|(c?2:0));return a};function Na(a,b){a=a.h;return Oa(a,L(a),b)}function Oa(a,b,c,d){if(-1===c)return null;if(c>=Aa(b)){if(b&256)return a[a.length-1][c]}else{var e=a.length;if(d&&b&256&&(d=a[e-1][c],null!=d))return d;b=c+(+!!(b&512)-1);if(b<e)return a[b]}}function Pa(a,b,c,d,e){var f=Aa(b);if(c>=f||e){var g=b;if(b&256)e=a[a.length-1];else{if(null==d)return;e=a[f+(+!!(b&512)-1)]={};g|=256}e[c]=d;c<f&&(a[c+(+!!(b&512)-1)]=void 0);g!==b&&M(a,g)}else a[c+(+!!(b&512)-1)]=d,b&256&&(a=a[a.length-1],c in a&&delete a[c])}
+function Qa(a,b){var c=Ra;var d=void 0===d?!1:d;var e=a.h;var f=L(e),g=Oa(e,f,b,d);if(null!=g&&"object"===typeof g&&g.s===N)c=g;else if(Array.isArray(g)){var h=K(g),l=h;0===l&&(l|=f&32);l|=f&2;l!==h&&M(g,l);c=new c(g)}else c=void 0;c!==g&&null!=c&&Pa(e,f,b,c,d);e=c;if(null==e)return e;a=a.h;f=L(a);f&2||(g=e,c=g.h,h=L(c),g=h&2?Fa(g.constructor,Ma(c,h,!1)):g,g!==e&&(e=g,Pa(a,f,b,e,d)));return e}function Sa(a,b){a=Na(a,b);return null==a||"string"===typeof a?a:void 0}
+function Ta(a,b){var c=void 0===c?0:c;a=Na(a,b);if(null!=a)if(b=typeof a,"number"===b?Number.isFinite(a):"string"!==b?0:Ea.test(a))if("number"===typeof a){if(a=Math.trunc(a),!Number.isSafeInteger(a)){ta(a);b=H;var d=I;if(a=d&2147483648)b=~b+1>>>0,d=~d>>>0,0==b&&(d=d+1>>>0);b=4294967296*d+(b>>>0);a=a?-b:b}}else if(b=Math.trunc(Number(a)),Number.isSafeInteger(b))a=String(b);else{if(b=a.indexOf("."),-1!==b&&(a=a.substring(0,b)),!("-"===a[0]?20>a.length||20===a.length&&-922337<Number(a.substring(0,7)):
+19>a.length||19===a.length&&922337>Number(a.substring(0,6)))){if(16>a.length)ta(Number(a));else if(G())a=BigInt(a),H=Number(a&BigInt(4294967295))>>>0,I=Number(a>>BigInt(32)&BigInt(4294967295));else{b=+("-"===a[0]);I=H=0;d=a.length;for(var e=b,f=(d-b)%6+b;f<=d;e=f,f+=6)e=Number(a.slice(e,f)),I*=1E6,H=1E6*H+e,4294967296<=H&&(I+=Math.trunc(H/4294967296),I>>>=0,H>>>=0);b&&(b=m(ua(H,I)),a=b.next().value,b=b.next().value,H=a,I=b)}a=H;b=I;b&2147483648?G()?a=""+(BigInt(b|0)<<BigInt(32)|BigInt(a>>>0)):(b=
+m(ua(a,b)),a=b.next().value,b=b.next().value,a="-"+va(a,b)):a=va(a,b)}}else a=void 0;return null!=a?a:c}function S(a,b){a=Sa(a,b);return null!=a?a:""};function T(a,b,c){this.h=R(a,b,c)}T.prototype.toJSON=function(){return Ua(this,Ja(this.h,Ka,void 0,void 0,!1),!0)};T.prototype.s=N;T.prototype.toString=function(){return Ua(this,this.h,!1).toString()};
+function Ua(a,b,c){var d=a.constructor.v,e=L(c?a.h:b);a=b.length;if(!a)return b;var f;if(Da(c=b[a-1])){a:{var g=c;var h={},l=!1,p;for(p in g)if(Object.prototype.hasOwnProperty.call(g,p)){var u=g[p];if(Array.isArray(u)){var jb=u;if(P(u,d,+p)||Ca(u)&&0===u.size)u=null;u!=jb&&(l=!0)}null!=u?h[p]=u:l=!0}if(l){for(var O in h){g=h;break a}g=null}}g!=c&&(f=!0);a--}for(p=+!!(e&512)-1;0<a;a--){O=a-1;c=b[O];O-=p;if(!(null==c||P(c,d,O)||Ca(c)&&0===c.size))break;var kb=!0}if(!f&&!kb)return b;b=Array.prototype.slice.call(b,
+0,a);g&&b.push(g);return b};function Va(a){return function(b){if(null==b||""==b)b=new a;else{b=JSON.parse(b);if(!Array.isArray(b))throw Error(void 0);xa(b,32);b=Fa(a,b)}return b}};function Wa(a){this.h=R(a)}r(Wa,T);var Xa=Va(Wa);var U;function V(a){this.g=a}V.prototype.toString=function(){return this.g+""};var Ya={};function Za(a){if(void 0===U){var b=null;var c=t.trustedTypes;if(c&&c.createPolicy){try{b=c.createPolicy("goog#html",{createHTML:v,createScript:v,createScriptURL:v})}catch(d){t.console&&t.console.error(d.message)}U=b}else U=b}a=(b=U)?b.createScriptURL(a):a;return new V(a,Ya)};function $a(){return Math.floor(2147483648*Math.random()).toString(36)+Math.abs(Math.floor(2147483648*Math.random())^Date.now()).toString(36)};function ab(a,b){b=String(b);"application/xhtml+xml"===a.contentType&&(b=b.toLowerCase());return a.createElement(b)}function bb(a){this.g=a||t.document||document};/*
+
+ SPDX-License-Identifier: Apache-2.0
+*/
+function cb(a,b){a.src=b instanceof V&&b.constructor===V?b.g:"type_error:TrustedResourceUrl";var c,d;(c=(b=null==(d=(c=(a.ownerDocument&&a.ownerDocument.defaultView||window).document).querySelector)?void 0:d.call(c,"script[nonce]"))?b.nonce||b.getAttribute("nonce")||"":"")&&a.setAttribute("nonce",c)};function db(a){a=void 0===a?document:a;return a.createElement("script")};function eb(a,b,c,d,e,f){try{var g=a.g,h=db(g);h.async=!0;cb(h,b);g.head.appendChild(h);h.addEventListener("load",function(){e();d&&g.head.removeChild(h)});h.addEventListener("error",function(){0<c?eb(a,b,c-1,d,e,f):(d&&g.head.removeChild(h),f())})}catch(l){f()}};var fb=t.atob("aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vaW1hZ2VzL2ljb25zL21hdGVyaWFsL3N5c3RlbS8xeC93YXJuaW5nX2FtYmVyXzI0ZHAucG5n"),gb=t.atob("WW91IGFyZSBzZWVpbmcgdGhpcyBtZXNzYWdlIGJlY2F1c2UgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlIGlzIGludGVyZmVyaW5nIHdpdGggdGhpcyBwYWdlLg=="),hb=t.atob("RGlzYWJsZSBhbnkgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlLCB0aGVuIHJlbG9hZCB0aGlzIHBhZ2Uu");function ib(a,b,c){this.i=a;this.u=b;this.o=c;this.g=null;this.j=[];this.m=!1;this.l=new bb(this.i)}
+function lb(a){if(a.i.body&&!a.m){var b=function(){mb(a);t.setTimeout(function(){nb(a,3)},50)};eb(a.l,a.u,2,!0,function(){t[a.o]||b()},b);a.m=!0}}
+function mb(a){for(var b=W(1,5),c=0;c<b;c++){var d=X(a);a.i.body.appendChild(d);a.j.push(d)}b=X(a);b.style.bottom="0";b.style.left="0";b.style.position="fixed";b.style.width=W(100,110).toString()+"%";b.style.zIndex=W(2147483544,2147483644).toString();b.style.backgroundColor=ob(249,259,242,252,219,229);b.style.boxShadow="0 0 12px #888";b.style.color=ob(0,10,0,10,0,10);b.style.display="flex";b.style.justifyContent="center";b.style.fontFamily="Roboto, Arial";c=X(a);c.style.width=W(80,85).toString()+
+"%";c.style.maxWidth=W(750,775).toString()+"px";c.style.margin="24px";c.style.display="flex";c.style.alignItems="flex-start";c.style.justifyContent="center";d=ab(a.l.g,"IMG");d.className=$a();d.src=fb;d.alt="Warning icon";d.style.height="24px";d.style.width="24px";d.style.paddingRight="16px";var e=X(a),f=X(a);f.style.fontWeight="bold";f.textContent=gb;var g=X(a);g.textContent=hb;Y(a,e,f);Y(a,e,g);Y(a,c,d);Y(a,c,e);Y(a,b,c);a.g=b;a.i.body.appendChild(a.g);b=W(1,5);for(c=0;c<b;c++)d=X(a),a.i.body.appendChild(d),
+a.j.push(d)}function Y(a,b,c){for(var d=W(1,5),e=0;e<d;e++){var f=X(a);b.appendChild(f)}b.appendChild(c);c=W(1,5);for(d=0;d<c;d++)e=X(a),b.appendChild(e)}function W(a,b){return Math.floor(a+Math.random()*(b-a))}function ob(a,b,c,d,e,f){return"rgb("+W(Math.max(a,0),Math.min(b,255)).toString()+","+W(Math.max(c,0),Math.min(d,255)).toString()+","+W(Math.max(e,0),Math.min(f,255)).toString()+")"}function X(a){a=ab(a.l.g,"DIV");a.className=$a();return a}
+function nb(a,b){0>=b||null!=a.g&&0!==a.g.offsetHeight&&0!==a.g.offsetWidth||(pb(a),mb(a),t.setTimeout(function(){nb(a,b-1)},50))}function pb(a){for(var b=m(a.j),c=b.next();!c.done;c=b.next())(c=c.value)&&c.parentNode&&c.parentNode.removeChild(c);a.j=[];(b=a.g)&&b.parentNode&&b.parentNode.removeChild(b);a.g=null};function qb(a,b,c,d,e){function f(l){document.body?g(document.body):0<l?t.setTimeout(function(){f(l-1)},e):b()}function g(l){l.appendChild(h);t.setTimeout(function(){h?(0!==h.offsetHeight&&0!==h.offsetWidth?b():a(),h.parentNode&&h.parentNode.removeChild(h)):a()},d)}var h=rb(c);f(3)}function rb(a){var b=document.createElement("div");b.className=a;b.style.width="1px";b.style.height="1px";b.style.position="absolute";b.style.left="-10000px";b.style.top="-10000px";b.style.zIndex="-10000";return b};function Ra(a){this.h=R(a)}r(Ra,T);function sb(a){this.h=R(a)}r(sb,T);var tb=Va(sb);function ub(a){var b=la.apply(1,arguments);if(0===b.length)return Za(a[0]);for(var c=a[0],d=0;d<b.length;d++)c+=encodeURIComponent(b[d])+a[d+1];return Za(c)};function vb(a){if(!a)return null;a=Sa(a,4);var b;null===a||void 0===a?b=null:b=Za(a);return b};var wb=ea([""]),xb=ea([""]);function yb(a,b){this.m=a;this.o=new bb(a.document);this.g=b;this.j=S(this.g,1);this.u=vb(Qa(this.g,2))||ub(wb);this.i=!1;b=vb(Qa(this.g,13))||ub(xb);this.l=new ib(a.document,b,S(this.g,12))}yb.prototype.start=function(){zb(this)};
+function zb(a){Ab(a);eb(a.o,a.u,3,!1,function(){a:{var b=a.j;var c=t.btoa(b);if(c=t[c]){try{var d=Xa(t.atob(c))}catch(e){b=!1;break a}b=b===Sa(d,1)}else b=!1}b?Z(a,S(a.g,14)):(Z(a,S(a.g,8)),lb(a.l))},function(){qb(function(){Z(a,S(a.g,7));lb(a.l)},function(){return Z(a,S(a.g,6))},S(a.g,9),Ta(a.g,10),Ta(a.g,11))})}function Z(a,b){a.i||(a.i=!0,a=new a.m.XMLHttpRequest,a.open("GET",b,!0),a.send())}function Ab(a){var b=t.btoa(a.j);a.m[b]&&Z(a,S(a.g,5))};(function(a,b){t[a]=function(){var c=la.apply(0,arguments);t[a]=function(){};b.call.apply(b,[null].concat(c instanceof Array?c:fa(m(c))))}})("__h82AlnkH6D91__",function(a){"function"===typeof window.atob&&(new yb(window,tb(window.atob(a)))).start()});}).call(this);
+
+window.__h82AlnkH6D91__("WyJwdWItODY4Mzk2MzY0NjI2NjMxNiIsW251bGwsbnVsbCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9iL3B1Yi04NjgzOTYzNjQ2MjY2MzE2Il0sbnVsbCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9lbC9BR1NLV3hVUUJobmVuMDcxVzQ0V3ZOYU5ZNEpqU1F4Q0pXWlN2cUkwbm1TWTdGT1VqeGlZbVpFS0V1UVoyaHE2SzBYQ2xQaHZiWW40bXY4el9MZ1U4S1BFcEVFWnZRXHUwMDNkXHUwMDNkP3RlXHUwMDNkVE9LRU5fRVhQT1NFRCIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFg1TjMxT1p6Tjh3aHRCVVAyLU5SMVpQaWE0c0hmUTB4cG84a3JURnlJMXU5Um5ma1NIei0tNTRRNmxXUVltMnluV2ZadzNxMG5xcHdMWGpEXzJsZFAwNGdcdTAwM2RcdTAwM2Q/YWJcdTAwM2QxXHUwMDI2c2JmXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFZyR0xJWnFsMkR6X2xkampqVkVrdHgxTU5EWDkxclJIOWhlNUw3bENZbnUzeHpndUY3akRxYlp1ZEF6eXdLVVhvbWZHRkQ5RVVCZ0hLd19YZWVnV1JwLWdcdTAwM2RcdTAwM2Q/YWJcdTAwM2QyXHUwMDI2c2JmXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFdJZ2MtU2dGbXdYUlhNbGhoalZ5VURRdEU3ZHFxX194R2lEa0hueTR0Mm9JSkVvdlNwMFpaTmQxcTNhNmxYRTB5VWctRW9GaE5rS3g3R2pOVnpueWFvaGdcdTAwM2RcdTAwM2Q/c2JmXHUwMDNkMiIsImRpdi1ncHQtYWQiLDIwLDEwMCwiY0hWaUxUZzJPRE01TmpNMk5EWXlOall6TVRZXHUwMDNkIixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vd3d3LmdzdGF0aWMuY29tLzBlbW4vZi9wL3B1Yi04NjgzOTYzNjQ2MjY2MzE2LmpzP3VzcXBcdTAwM2RDQkEiXSwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vZWwvQUdTS1d4WGZBRWtMbHAxLVNVR2tpYmI2dzVMVkZYODVUeG9xR3hxUDFUcEF2MWhEWHN5bTBqM1hKcnF4RzdiUHQ3d3dzU1RHRkFZdjZMRGwzd1pvY1dBNGpYNGNod1x1MDAzZFx1MDAzZCJd");</script>
+<!-- End Google AdSense Ad Blocking Recovery Error Protection snippet added by Site Kit -->
+<link data-minify="1" rel='stylesheet' id='7.11.0-1767147268' href='https://qaseda.com/wp-content/cache/background-css/1/qaseda.com/wp-content/cache/min/1/wp-content/bs-booster-cache/26457a6a9726157289e3ff998782fa14.css?ver=1767208379&wpr_t=1767356470' type='text/css' media='all' />
+<link rel="icon" href="https://qaseda.com/wp-content/uploads/2023/06/qaseda-logo-icon.svg" sizes="32x32" />
+<link rel="icon" href="https://qaseda.com/wp-content/uploads/2023/06/qaseda-logo-icon.svg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://qaseda.com/wp-content/uploads/2023/06/qaseda-logo-icon.svg" />
+<meta name="msapplication-TileImage" content="https://qaseda.com/wp-content/uploads/2023/06/qaseda-logo-icon.svg" />
+<style>
+		.poem-contaienr {
+			text-align: center;
+			width: 100%;
+		}
+		.poem-item {
+			font-size: inherit;
+			font-family: inherit;
+		}
+	 	</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>	<style id="rocket-lazyrender-inline-css">[data-wpr-lazyrender] {content-visibility: auto;}</style><style id="wpr-lazyload-bg-container"></style><style id="wpr-lazyload-bg-exclusion">.site-header.header-style-1,.site-header.header-style-2,.site-header.header-style-3,.site-header.header-style-4,.site-header.header-style-5.full-width,.site-header.header-style-5.boxed>.content-wrap>.container,.site-header.header-style-5 .bs-pinning-wrapper.bspw-header-style-5>.bs-pinning-block,.site-header.header-style-6.full-width,.site-header.header-style-6.boxed>.content-wrap>.container,.site-header.header-style-6 .bs-pinning-wrapper.bspw-header-style-6>.bs-pinning-block,.site-header.header-style-7,.site-header.header-style-8.full-width,.site-header.header-style-8.boxed>.content-wrap>.container,.site-header.header-style-8 .bs-pinning-wrapper.bspw-header-style-8>.bs-pinning-block{--wpr-bg-f4063337-40b8-45c3-847a-c6f572df14c8: url('https://qaseda.com/wp-content/uploads/2023/05/the-online-post-header-bg.png');}</style>
+<noscript>
+<style id="wpr-lazyload-bg-nostyle">div.pp_default .pp_loaderIcon{--wpr-bg-e6671a76-51ae-4352-bc2e-1048abaa6c5f: url('https://qaseda.com/wp-content/themes/publisher/includes/libs/better-framework/assets/img/pretty-photo-loader.gif');}.site-footer{--wpr-bg-2d7f101a-e4db-48cc-bdff-444e173084aa: url('https://qaseda.com/wp-content/uploads/2023/05/the-online-post-header-bg-1.png');}.rll-youtube-player .play{--wpr-bg-92a31903-85fa-4647-85e2-05660da360e7: url('https://qaseda.com/wp-content/plugins/wp-rocket/assets/img/youtube.png');}</style>
+</noscript>
+<script type="application/javascript">const rocket_pairs = [{"selector":"div.pp_default .pp_loaderIcon","style":"div.pp_default .pp_loaderIcon{--wpr-bg-e6671a76-51ae-4352-bc2e-1048abaa6c5f: url('https:\/\/qaseda.com\/wp-content\/themes\/publisher\/includes\/libs\/better-framework\/assets\/img\/pretty-photo-loader.gif');}","hash":"e6671a76-51ae-4352-bc2e-1048abaa6c5f","url":"https:\/\/qaseda.com\/wp-content\/themes\/publisher\/includes\/libs\/better-framework\/assets\/img\/pretty-photo-loader.gif"},{"selector":".site-footer","style":".site-footer{--wpr-bg-2d7f101a-e4db-48cc-bdff-444e173084aa: url('https:\/\/qaseda.com\/wp-content\/uploads\/2023\/05\/the-online-post-header-bg-1.png');}","hash":"2d7f101a-e4db-48cc-bdff-444e173084aa","url":"https:\/\/qaseda.com\/wp-content\/uploads\/2023\/05\/the-online-post-header-bg-1.png"},{"selector":".rll-youtube-player .play","style":".rll-youtube-player .play{--wpr-bg-92a31903-85fa-4647-85e2-05660da360e7: url('https:\/\/qaseda.com\/wp-content\/plugins\/wp-rocket\/assets\/img\/youtube.png');}","hash":"92a31903-85fa-4647-85e2-05660da360e7","url":"https:\/\/qaseda.com\/wp-content\/plugins\/wp-rocket\/assets\/img\/youtube.png"}]; const rocket_excluded_pairs = [{"selector":".site-header.header-style-1,.site-header.header-style-2,.site-header.header-style-3,.site-header.header-style-4,.site-header.header-style-5.full-width,.site-header.header-style-5.boxed>.content-wrap>.container,.site-header.header-style-5 .bs-pinning-wrapper.bspw-header-style-5>.bs-pinning-block,.site-header.header-style-6.full-width,.site-header.header-style-6.boxed>.content-wrap>.container,.site-header.header-style-6 .bs-pinning-wrapper.bspw-header-style-6>.bs-pinning-block,.site-header.header-style-7,.site-header.header-style-8.full-width,.site-header.header-style-8.boxed>.content-wrap>.container,.site-header.header-style-8 .bs-pinning-wrapper.bspw-header-style-8>.bs-pinning-block","style":".site-header.header-style-1,.site-header.header-style-2,.site-header.header-style-3,.site-header.header-style-4,.site-header.header-style-5.full-width,.site-header.header-style-5.boxed>.content-wrap>.container,.site-header.header-style-5 .bs-pinning-wrapper.bspw-header-style-5>.bs-pinning-block,.site-header.header-style-6.full-width,.site-header.header-style-6.boxed>.content-wrap>.container,.site-header.header-style-6 .bs-pinning-wrapper.bspw-header-style-6>.bs-pinning-block,.site-header.header-style-7,.site-header.header-style-8.full-width,.site-header.header-style-8.boxed>.content-wrap>.container,.site-header.header-style-8 .bs-pinning-wrapper.bspw-header-style-8>.bs-pinning-block{--wpr-bg-f4063337-40b8-45c3-847a-c6f572df14c8: url('https:\/\/qaseda.com\/wp-content\/uploads\/2023\/05\/the-online-post-header-bg.png');}","hash":"f4063337-40b8-45c3-847a-c6f572df14c8","url":"https:\/\/qaseda.com\/wp-content\/uploads\/2023\/05\/the-online-post-header-bg.png"}];</script><meta name="generator" content="WP Rocket 3.19.3" data-wpr-features="wpr_lazyload_css_bg_img wpr_delay_js wpr_defer_js wpr_minify_js wpr_lazyload_images wpr_lazyload_iframes wpr_preconnect_external_domains wpr_automatic_lazy_rendering wpr_oci wpr_image_dimensions wpr_minify_css wpr_preload_links wpr_desktop" /></head>
+
+<body class="rtl wp-singular post-template-default single single-post postid-265350 single-format-standard wp-theme-publisher bs-theme bs-publisher bs-publisher-the-online-post active-light-box bs-vc-rtl-grid close-rh page-layout-2-col page-layout-2-col-right full-width active-sticky-sidebar main-menu-sticky-smart main-menu-full-width single-prim-cat-990 single-cat-990  wpb-js-composer js-comp-ver-6.7.0 vc_responsive bs-ll-a elementor-default elementor-kit-301" dir="rtl">
+		<div  class="main-wrap content-main-wrap">
+			<header  id="header" class="site-header header-style-1 full-width" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+		<section  class="topbar topbar-style-1 hidden-xs hidden-xs">
+	<div  class="content-wrap">
+		<div class="container">
+			<div class="topbar-inner clearfix">
+
+				
+				<div class="section-menu">
+						<div id="menu-top" class="menu top-menu-wrapper" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+		<nav class="top-menu-container">
+
+			<ul id="top-navigation" class="top-menu menu clearfix bsm-pure">
+									<li id="topbar-date" class="menu-item menu-item-date">
+					<span
+						class="topbar-date">الجمعة, يناير 2, 2026</span>
+					</li>
+					<li id="menu-item-531" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-531"><a href="https://qaseda.com/%d8%b9%d9%86-%d9%85%d9%88%d9%82%d8%b9-%d9%82%d8%b5%d9%8a%d8%af%d8%a9/">عن قصيدة</a></li>
+<li id="menu-item-163" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-163"><a href="https://qaseda.com/%d8%a7%d8%aa%d8%b5%d9%84-%d8%a8%d9%86%d8%a7/">اتصل بنا</a></li>
+			</ul>
+
+		</nav>
+	</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+		<div  class="header-inner">
+			<div  class="content-wrap">
+				<div class="container">
+					<div id="site-branding" class="site-branding">
+	<p  id="site-title" class="logo h1 img-logo">
+	<a href="https://qaseda.com/" itemprop="url" rel="home">
+					<img width="150" height="150" id="site-logo" src="https://qaseda.com/wp-content/uploads/qaseda_logo-white-2.png"
+			     alt="موقع قصيدة"  />
+
+			<span class="site-title">موقع قصيدة - استكشف عالم الشعر العربي في موقع قصيدة، حيث تجد أروع القصائد وأعذب الأبيات.</span>
+				</a>
+</p>
+</div><!-- .site-branding -->
+				</div>
+
+			</div>
+		</div>
+		<div  id="menu-main" class="menu main-menu-wrapper show-search-item menu-actions-btn-width-1" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+	<div class="main-menu-inner">
+		<div  class="content-wrap">
+			<div class="container">
+
+				<nav class="main-menu-container">
+					<ul id="main-navigation" class="main-menu menu bsm-pure clearfix">
+						<li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home better-anim-fade menu-item-366"><a href="https://qaseda.com/">الرئيسية</a></li>
+<li id="menu-item-418" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-418"><a href="https://qaseda.com/%d8%a7%d9%84%d8%a8%d8%ad%d9%88%d8%b1-%d8%a7%d9%84%d8%b4%d8%b9%d8%b1%d9%8a%d8%a9/">البحور الشعرية​</a></li>
+<li id="menu-item-419" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-419"><a href="https://qaseda.com/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d9%81%d9%8a-%d8%a7%d9%84%d8%b4%d8%b9%d8%b1%d9%8a%d8%a9/">القوافي الشعرية​</a></li>
+<li id="menu-item-420" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-420"><a href="https://qaseda.com/%d9%85%d9%88%d8%b6%d9%88%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d8%b5%d9%8a%d8%af%d8%a9/">موضوعات القصيدة​</a></li>
+					</ul><!-- #main-navigation -->
+											<div class="menu-action-buttons width-1">
+															<div class="search-container close">
+									<span class="search-handler"><i class="fa fa-search"></i></span>
+
+									<div class="search-box clearfix">
+										<form role="search" method="get" class="search-form clearfix" action="https://qaseda.com">
+	<input type="search" class="search-field"
+	       placeholder="بحث..."
+	       value="" name="s"
+	       title="البحث عن:"
+	       autocomplete="off">
+	<input type="submit" class="search-submit" value="بحث">
+</form><!-- .search-form -->
+									</div>
+								</div>
+														</div>
+										</nav><!-- .main-menu-container -->
+
+			</div>
+		</div>
+	</div>
+</div><!-- .menu -->	</header><!-- .header -->
+	<div  class="rh-header clearfix dark deferred-block-exclude">
+		<div  class="rh-container clearfix">
+
+			<div class="menu-container close">
+				<span class="menu-handler"><span class="lines"></span></span>
+			</div><!-- .menu-container -->
+
+			<div class="logo-container rh-img-logo">
+				<a href="https://qaseda.com/" itemprop="url" rel="home">
+											<img width="225" height="65" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20225%2065'%3E%3C/svg%3E"
+						     alt="موقع قصيدة"  data-lazy-src="https://qaseda.com/wp-content/uploads/logo-m.webp" /><noscript><img width="225" height="65" src="https://qaseda.com/wp-content/uploads/logo-m.webp"
+						     alt="موقع قصيدة"  /></noscript>				</a>
+			</div><!-- .logo-container -->
+		</div><!-- .rh-container -->
+	</div><!-- .rh-header -->
+<nav role="navigation" aria-label="Breadcrumbs" class="bf-breadcrumb clearfix bc-top-style"><div class="container bf-breadcrumb-container"><ul class="bf-breadcrumb-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="3" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="bf-breadcrumb-item bf-breadcrumb-begin"><a itemprop="item" href="https://qaseda.com" rel="home"><span itemprop="name">الصفحة الرئيسية</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="bf-breadcrumb-item"><a itemprop="item" href="https://qaseda.com/c/%d8%b3%d9%88%d8%b1%d9%8a%d8%a7/" ><span itemprop="name">سوريا</span></a><meta itemprop="position" content="2" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="bf-breadcrumb-item bf-breadcrumb-end"><span itemprop="name">العين الخضراء</span><meta itemprop="item" content="https://qaseda.com/nizarqabbani/%d8%a7%d9%84%d8%b9%d9%8a%d9%86-%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7%d8%a1/"/><meta itemprop="position" content="3" /></li></ul></div></nav><div  class="container adcontainer"><div  class="tpek tpek-after-header tpek-pubadban tpek-show-desktop tpek-show-tablet-portrait tpek-show-tablet-landscape tpek-show-phone tpek-loc-header_after tpek-align-center tpek-column-1 tpek-clearfix no-bg-box-model"><div id="tpek-28-1724070070" class="tpek-container tpek-type-code " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="28" data-type="code"><div id="tpek-28-1724070070-place"></div><script type="rocketlazyloadscript" data-rocket-src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" data-rocket-defer defer></script><script type="rocketlazyloadscript" data-rocket-type="text/javascript">var betterads_screen_width = document.body.clientWidth;betterads_el = document.getElementById('tpek-28-1724070070');             if (betterads_el.getBoundingClientRect().width) {     betterads_el_width_raw = betterads_el_width = betterads_el.getBoundingClientRect().width;    } else {     betterads_el_width_raw = betterads_el_width = betterads_el.offsetWidth;    }        var size = ["125", "125"];    if ( betterads_el_width >= 728 )      betterads_el_width = ["728", "90"];    else if ( betterads_el_width >= 468 )     betterads_el_width = ["468", "60"];    else if ( betterads_el_width >= 336 )     betterads_el_width = ["336", "280"];    else if ( betterads_el_width >= 300 )     betterads_el_width = ["300", "250"];    else if ( betterads_el_width >= 250 )     betterads_el_width = ["250", "250"];    else if ( betterads_el_width >= 200 )     betterads_el_width = ["200", "200"];    else if ( betterads_el_width >= 180 )     betterads_el_width = ["180", "150"]; if ( betterads_screen_width >= 1140 ) { document.getElementById('tpek-28-1724070070-place').innerHTML = '<ins class="adsbygoogle" style="display:block;"  data-ad-client="ca-pub-8683963646266316"  data-ad-slot="6248245314"  data-full-width-responsive="true"  data-ad-format="auto" ></ins>';         (adsbygoogle = window.adsbygoogle || []).push({});}else if ( betterads_screen_width >= 1019  && betterads_screen_width < 1140 ) { document.getElementById('tpek-28-1724070070-place').innerHTML = '<ins class="adsbygoogle" style="display:block;"  data-ad-client="ca-pub-8683963646266316"  data-ad-slot="6248245314"  data-full-width-responsive="true"  data-ad-format="auto" ></ins>';         (adsbygoogle = window.adsbygoogle || []).push({});}else if ( betterads_screen_width >= 768  && betterads_screen_width < 1019 ) { document.getElementById('tpek-28-1724070070-place').innerHTML = '<ins class="adsbygoogle" style="display:block;"  data-ad-client="ca-pub-8683963646266316"  data-ad-slot="6248245314"  data-full-width-responsive="true"  data-ad-format="auto" ></ins>';         (adsbygoogle = window.adsbygoogle || []).push({});}else if ( betterads_screen_width < 768 ) { document.getElementById('tpek-28-1724070070-place').innerHTML = '<ins class="adsbygoogle" style="display:block;"  data-ad-client="ca-pub-8683963646266316"  data-ad-slot="6248245314"  data-full-width-responsive="true"  data-ad-format="auto" ></ins>';         (adsbygoogle = window.adsbygoogle || []).push({});}</script><p class='tpek-caption tpek-caption-below'>- Advertisement -</p></div></div></div><div class="content-wrap">
+		<main  id="content" class="content-container">
+
+		<div class="container layout-2-col layout-2-col-1 layout-right-sidebar layout-bc-before post-template-1">
+			<div class="row main-section">
+										<div class="col-sm-8 content-column">
+								<div class="single-container">
+		<article id="post-265350" class="post-265350 post type-post status-publish format-standard has-post-thumbnail  category-990 tag-857 single-post-content has-thumbnail">
+						<div class="post-header post-tp-1-header">
+									<h1 class="single-post-title">
+						<span class="post-title" itemprop="headline">العين الخضراء</span></h1>
+										<div class="post-meta-wrap clearfix">
+						<div class="term-badges "><span class="term-badge term-990"><a href="https://qaseda.com/c/%d8%b3%d9%88%d8%b1%d9%8a%d8%a7/">سوريا</a></span></div><div class="post-meta single-post-meta">
+			<a href="https://qaseda.com/author/nizarqabbani/"
+		   title="تصفح كاتب القصائد"
+		   class="post-author-a post-author-avatar">
+			<img alt="Avatar of نزار قباني"  data-src="https://secure.gravatar.com/avatar/b64a1d3200396c2226f0da1cc319d4c8de66ab0f54dc3999e60d7a5dcb16107f?s=26&amp;d=https%3A%2F%2Fqaseda.com%2Fwp-content%2Fuploads%2F2023%2F06%2FUser-Avatar-Qaseda-150x150.png&amp;r=g" class="avatar avatar-26 photo avatar-default" height="26" width="26"><span class="post-author-name">بواسطة <b>نزار قباني</b></span>		</a>
+		</div>
+					</div>
+									<div class="single-featured">
+					<figure><img fetchpriority="high"  width="750" height="430" alt="قصيدة العين الخضراء" data-src="https://qaseda.com/wp-content/uploads/العين-الخضراء-1-750x430.webp">							<figcaption class="wp-caption-text">العين الخضراء,قصائد غزل,شعر غزل,شعر عن الغزل</figcaption>
+							</figure>
+											</div>
+			</div>
+						<div class="entry-content clearfix single-post-content">
+				<div class="poem-contaienr">
+<h3 class="poem-item">&#8220;جاءت وفي يدها دفتر صغير&#8230; </h3>
+<h3 class="poem-item"> ورغبت إلى الشاعر أن يكتب شعراً </h3>
+<h3 class="poem-item"> في عينيها&#8230; </h3>
+<h3 class="poem-item"> فإلى صباح عينيها الخضراوين </h3>
+<h3 class="poem-item"> هذه الحروف&#8230;&#8221; </h3>
+<h3 class="poem-item"> قالت: ألا تكتب في محجري ؟ </h3>
+<h3 class="poem-item"> وانشق لي حرجٌ .. ودربٌ ثري </h3>
+<h3 class="poem-item"> إنهض لأقلامك .. لا تعتذر </h3>
+<h3 class="poem-item"> من يعص قلب امرأةٍ .. يكفر .. </h3>
+<h3 class="poem-item"> يلذ لي .. يلذ لي .. أن أرى </h3>
+<h3 class="poem-item"> خضرة عيني .. على دفتري </h3>
+<h3 class="poem-item"> *** </h3>
+<h3 class="poem-item"> وارتعشت جزيرةٌ في مدىً </h3>
+<h3 class="poem-item"> مزغردٍ .. معطرٍ .. أنور </h3>
+<h3 class="poem-item"> خضراء ، بين الغيم مزروعةٌ </h3>
+<h3 class="poem-item"> في خاطر العبير لم تخطر .. </h3>
+<h3 class="poem-item"> يروون لي أخبار صفصافةٍ </h3>
+<h3 class="poem-item"> تغسل رجليها على الأنهر .. </h3>
+<h3 class="poem-item"> لا تسبلي ستارةً غضةً </h3>
+<h3 class="poem-item"> دمي .. لشباك هوىً أخضر </h3>
+<h3 class="poem-item"> خلي مسافاتي .. على طولها </h3>
+<h3 class="poem-item"> بالله .. لا تحطمي منظري .. </h3>
+<h3 class="poem-item"> *** </h3>
+<h3 class="poem-item"> جاءت مع الصباح لي غابةٌ </h3>
+<h3 class="poem-item"> تقول : من نتف لي مئزري ؟ </h3>
+<h3 class="poem-item"> حشدت أوراق الربى كلها </h3>
+<h3 class="poem-item"> ضمن إطارٍ .. بارعٍ .. أشقر </h3>
+<h3 class="poem-item"> يا عين .. يا خضراء .. يا واحةً </h3>
+<h3 class="poem-item"> خضراء ترتاح على المرمر.. </h3>
+<h3 class="poem-item"> أفدي اندفاق الصيف من مقلةٍ </h3>
+<h3 class="poem-item"> خيرةٍ .. كالموسم الخير </h3>
+<h3 class="poem-item"> يا صحو .. أطعمتك من صحتي </h3>
+<h3 class="poem-item"> لا يوجد الشتاء في أشهري.. </h3>
+<h3 class="poem-item"> *** </h3>
+<h3 class="poem-item"> في عينها .. لون مشاويرنا </h3>
+<h3 class="poem-item"> نشرد بين الكرم والبيدر </h3>
+<h3 class="poem-item"> والشمس .. والحصاد.. والمنحنى </h3>
+<h3 class="poem-item"> إذ نهدك الصبي لم ينفر.. </h3>
+<h3 class="poem-item"> أي صباحٍ لبلادي غفا </h3>
+<h3 class="poem-item"> وراء هدبٍ ، مطمئنٍ ، طري.. </h3>
+<h3 class="poem-item"> عيناك .. يا دنيا بلا آخرٍ </h3>
+<h3 class="poem-item"> حدودها .. دنيا بلا آخر </h3>
+<h3 class="poem-item"> كسرت .. آلاف النجوم على </h3>
+<h3 class="poem-item"> دربٍ ستجتازينه .. فكري..</h3>
+</div>
+<div class="tpek tpek-post-bottom tpek-float-center tpek-align-center tpek-column-1 tpek-clearfix no-bg-box-model"><div id="tpek-28-41721193" class="tpek-container tpek-type-code " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="28" data-type="code"><div id="tpek-28-41721193-place"></div><script type="rocketlazyloadscript" data-rocket-type="text/javascript">var betterads_screen_width = document.body.clientWidth;betterads_el = document.getElementById('tpek-28-41721193');             if (betterads_el.getBoundingClientRect().width) {     betterads_el_width_raw = betterads_el_width = betterads_el.getBoundingClientRect().width;    } else {     betterads_el_width_raw = betterads_el_width = betterads_el.offsetWidth;    }        var size = ["125", "125"];    if ( betterads_el_width >= 728 )      betterads_el_width = ["728", "90"];    else if ( betterads_el_width >= 468 )     betterads_el_width = ["468", "60"];    else if ( betterads_el_width >= 336 )     betterads_el_width = ["336", "280"];    else if ( betterads_el_width >= 300 )     betterads_el_width = ["300", "250"];    else if ( betterads_el_width >= 250 )     betterads_el_width = ["250", "250"];    else if ( betterads_el_width >= 200 )     betterads_el_width = ["200", "200"];    else if ( betterads_el_width >= 180 )     betterads_el_width = ["180", "150"]; if ( betterads_screen_width >= 1140 ) { document.getElementById('tpek-28-41721193-place').innerHTML = '<ins class="adsbygoogle" style="display:block;"  data-ad-client="ca-pub-8683963646266316"  data-ad-slot="6248245314"  data-full-width-responsive="true"  data-ad-format="auto" ></ins>';         (adsbygoogle = window.adsbygoogle || []).push({});}else if ( betterads_screen_width >= 1019  && betterads_screen_width < 1140 ) { document.getElementById('tpek-28-41721193-place').innerHTML = '<ins class="adsbygoogle" style="display:block;"  data-ad-client="ca-pub-8683963646266316"  data-ad-slot="6248245314"  data-full-width-responsive="true"  data-ad-format="auto" ></ins>';         (adsbygoogle = window.adsbygoogle || []).push({});}else if ( betterads_screen_width >= 768  && betterads_screen_width < 1019 ) { document.getElementById('tpek-28-41721193-place').innerHTML = '<ins class="adsbygoogle" style="display:block;"  data-ad-client="ca-pub-8683963646266316"  data-ad-slot="6248245314"  data-full-width-responsive="true"  data-ad-format="auto" ></ins>';         (adsbygoogle = window.adsbygoogle || []).push({});}else if ( betterads_screen_width < 768 ) { document.getElementById('tpek-28-41721193-place').innerHTML = '<ins class="adsbygoogle" style="display:block;"  data-ad-client="ca-pub-8683963646266316"  data-ad-slot="6248245314"  data-full-width-responsive="true"  data-ad-format="auto" ></ins>';         (adsbygoogle = window.adsbygoogle || []).push({});}</script><p class='tpek-caption tpek-caption-below'>- Advertisement -</p></div></div>			</div>
+
+					<div class="entry-terms post-tags clearfix style-17">
+		<span class="terms-label"><i class="fa fa-tags"></i></span>
+		<a href="https://qaseda.com/t/%d9%82%d8%b5%d8%a7%d8%a6%d8%af-%d8%ba%d8%b2%d9%84/" rel="tag">قصائد غزل</a>	</div>
+		<div class="post-share single-post-share bottom-share clearfix style-9">
+			<div class="post-share-btn-group">
+							</div>
+						<div class="share-handler-wrap ">
+				<span class="share-handler post-share-btn rank-default">
+					<i class="bf-icon  fa fa-share-alt"></i>						<b class="text">شارك</b>
+										</span>
+				<span class="social-item facebook"><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fqaseda.com%2F%3Fp%3D265350" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-facebook','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-facebook"></i></span></a></span><span class="social-item twitter"><a href="https://twitter.com/share?text=العين الخضراء @QasedaCom&url=https%3A%2F%2Fqaseda.com%2F%3Fp%3D265350" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-twitter','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-twitter"></i></span></a></span><span class="social-item whatsapp"><a href="whatsapp://send?text=العين الخضراء %0A%0A https%3A%2F%2Fqaseda.com%2F%3Fp%3D265350" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-whatsapp','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-whatsapp"></i></span></a></span><span class="social-item email"><a href="/cdn-cgi/l/email-protection#6e511d1b0c040b0d1a53b6c9b7eab6d7b7e4b7e84eb6c9b7eab6c0b6d8b6dfb6c9b6cf480c010a1753061a1a1e1d4b5d2f4b5c284b5c281f0f1d0b0a0f400d01034b5c284b5d281e4b5d2a5c585b5d5b5e" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-email','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-envelope-open"></i></span></a></span><span class="social-item facebook-messenger"><a href="https://www.facebook.com/dialog/send?link=https%3A%2F%2Fqaseda.com%2F%3Fp%3D265350&app_id=521270401588372&redirect_uri=https%3A%2F%2Fqaseda.com%2F%3Fp%3D265350" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-facebook-messenger','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon bsfi-facebook-messenger"></i></span></a></span><span class="social-item linkedin"><a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fqaseda.com%2F%3Fp%3D265350&title=العين الخضراء" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-linkedin','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-linkedin"></i></span></a></span><span class="social-item telegram"><a href="https://telegram.me/share/url?url=https%3A%2F%2Fqaseda.com%2F%3Fp%3D265350&text=العين الخضراء" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-telegram','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-send"></i></span></a></span><span class="social-item pinterest"><a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fqaseda.com%2F%3Fp%3D265350&media=https://qaseda.com/wp-content/uploads/العين-الخضراء-1.webp&description=العين الخضراء" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-pinterest','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-pinterest"></i></span></a></span><span class="social-item print"><a href="#" target="_blank" rel="nofollow noreferrer" class="bs-button-el" ><span class="icon"><i class="bf-icon fa fa-print"></i></span></a></span><span class="social-item tumblr"><a href="https://www.tumblr.com/share/link?url=https%3A%2F%2Fqaseda.com%2F%3Fp%3D265350&name=العين الخضراء" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-tumblr','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-tumblr"></i></span></a></span><span class="social-item line"><a href="https://line.me/R/msg/text/?العين الخضراء%0D%0Ahttps%3A%2F%2Fqaseda.com%2F%3Fp%3D265350" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-line','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon bsfi-line"></i></span></a></span><span class="social-item viber"><a href="viber://forward?text=العين الخضراء https%3A%2F%2Fqaseda.com%2F%3Fp%3D265350" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-viber','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon bsfi-viber"></i></span></a></span></div>		</div>
+				</article>
+		<section class="post-author clearfix">
+		<a href="https://qaseda.com/author/nizarqabbani/"
+	   title="تصفح كاتب القصائد">
+		<span class="post-author-avatar" itemprop="image"><img alt="Avatar of نزار قباني"  data-src="https://secure.gravatar.com/avatar/b64a1d3200396c2226f0da1cc319d4c8de66ab0f54dc3999e60d7a5dcb16107f?s=80&amp;d=https%3A%2F%2Fqaseda.com%2Fwp-content%2Fuploads%2F2023%2F06%2FUser-Avatar-Qaseda-150x150.png&amp;r=g" class="avatar avatar-80 photo avatar-default" height="80" width="80"></span>
+	</a>
+
+	<div class="author-title heading-typo">
+		<a class="post-author-url" href="https://qaseda.com/author/nizarqabbani/"><span class="post-author-name">نزار قباني</span></a>
+
+					<span class="title-counts">484 مادة</span>
+		
+			</div>
+
+	<div class="author-links">
+				<ul class="author-social-icons">
+					</ul>
+			</div>
+
+	<div class="post-author-bio" itemprop="description">
+		<p>نزار بن توفيق القباني (1342 - 1419 هـ / 1923 - 1998 م) ديبلوماسي وشاعر سوري معاصر، ولد في 21 مارس 1923 من أسرة دمشقية عريقة إذ يعتبر جده أبو خليل القباني رائد المسرح العربي. درس الحقوق في الجامعة السورية وفور تخرجه منها عام 1945 انخرط في السلك الدبلوماسي متنقلاً بين عواصم مختلفة حتى قدّم استقالته عام 1966؛ أصدر أولى دواوينه عام 1944 بعنوان "قالت لي السمراء" وتابع عملية التأليف والنشر التي بلغت خلال نصف قرن 35 ديوانًا أبرزها "طفولة نهد" و"الرسم بالكلمات"، وقد أسس دار نشر لأعماله في بيروت باسم "منشورات نزار قباني" وكان لدمشق وبيروت حيزًا خاصًا في أشعاره لعل أبرزهما "القصيدة الدمشقية" و"يا ست الدنيا يا بيروت" أحدثت حرب 1967 والتي أسماها العرب "النكسة" مفترقًا حاسمًا في تجربته، إذ أخرجته من نمطه التقليدي بوصفه "شاعر الحب والمرأة" لتدخله معترك السياسة، وقد أثارت قصيدته "هوامش على دفتر النكسة" عاصفة في الوطن العربي وصلت إلى حد منع أشعاره في وسائل الإعلام. على الصعيد الشخصي، عرف قبّاني مآسي عديدة في حياته، منها انتحار شقيقته لما كان طفلاً ومقتل زوجته بلقيس خلال تفجير انتحاري في بيروت، وصولاً إلى وفاة ابنه توفيق الذي رثاه في قصيدته "الأمير الخرافي توفيق قباني"وقد عاش السنوات الأخيرة من حياته في لندن يكتب الشعر السياسي ومن قصائده الأخيرة "متى يعلنون وفاة العرب؟" و"أم كلثوم على قائمة التطبيع"، وقد وافته المنية في 30 أبريل 1998 ودفن في مسقط رأسه، دمشق.</p>
+	</div>
+
+</section>
+	<section class="next-prev-post clearfix">
+
+					<div class="prev-post">
+				<p class="pre-title heading-typo"><i
+							class="fa fa-arrow-right"></i> السابق				</p>
+				<p class="title heading-typo"><a href="https://qaseda.com/nizarqabbani/%d8%a7%d9%84%d8%b3%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%b0%d8%a7%d8%aa%d9%8a%d8%a9-%d9%84%d8%b3%d9%8a%d8%a7%d9%81-%d8%b9%d8%b1%d8%a8%d9%8a/" rel="prev">السيرة الذاتية لسياف عربي</a></p>
+			</div>
+		
+					<div class="next-post">
+				<p class="pre-title heading-typo">التالي <i
+							class="fa fa-arrow-left"></i></p>
+				<p class="title heading-typo"><a href="https://qaseda.com/butruskarama/%d8%b3%d9%84%d8%aa-%d8%a3%d8%b3%d8%a7%d8%a8%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d8%b2%d8%a7%d8%a9-%d9%85%d8%ae%d8%a7%d9%84%d8%a8%d8%a7/" rel="next">سلت أسابرة البزاة مخالبا</a></p>
+			</div>
+		
+	</section>
+	</div>
+<div class="post-related">
+
+	<div class="section-heading sh-t3 sh-s1 multi-tab">
+
+					<a href="#relatedposts_748853051_1" class="main-link active"
+			   data-toggle="tab">
+				<span
+						class="h-text related-posts-heading">قد يعجبك ايضا</span>
+			</a>
+			<a href="#relatedposts_748853051_2" class="other-link" data-toggle="tab"
+			   data-deferred-event="shown.bs.tab"
+			   data-deferred-init="relatedposts_748853051_2">
+				<span
+						class="h-text related-posts-heading">المزيد عن المؤلف</span>
+			</a>
+		
+	</div>
+
+		<div class="tab-content">
+		<div class="tab-pane bs-tab-anim bs-tab-animated active"
+		     id="relatedposts_748853051_1">
+			
+					<div class="bs-pagination-wrapper main-term-none more_btn ">
+			<div class="listing listing-thumbnail listing-tb-2 clearfix  scolumns-3 simple-grid include-last-mobile">
+	<div  class="post-267926 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-2 main-term-990">
+<div class="item-inner clearfix">
+			<div class="featured featured-type-featured-image">
+			<div class="term-badges floated"><span class="term-badge term-990"><a href="https://qaseda.com/c/%d8%b3%d9%88%d8%b1%d9%8a%d8%a7/">سوريا</a></span></div>			<a  alt="قصيدة تبارك من حبا حنا غلاما" title="تبارك من حبا حنا غلاما" data-src="https://qaseda.com/wp-content/uploads/تبارك-من-حبا-حنا-غلاما-210x136.webp" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/qaseda.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;\u062a\u0628\u0627\u0631\u0643-\u0645\u0646-\u062d\u0628\u0627-\u062d\u0646\u0627-\u063a\u0644\u0627\u0645\u0627-86x64.webp&quot;,&quot;210&quot;:&quot;\u062a\u0628\u0627\u0631\u0643-\u0645\u0646-\u062d\u0628\u0627-\u062d\u0646\u0627-\u063a\u0644\u0627\u0645\u0627-210x136.webp&quot;,&quot;279&quot;:&quot;\u062a\u0628\u0627\u0631\u0643-\u0645\u0646-\u062d\u0628\u0627-\u062d\u0646\u0627-\u063a\u0644\u0627\u0645\u0627-279x220.webp&quot;,&quot;357&quot;:&quot;\u062a\u0628\u0627\u0631\u0643-\u0645\u0646-\u062d\u0628\u0627-\u062d\u0646\u0627-\u063a\u0644\u0627\u0645\u0627-357x210.webp&quot;,&quot;750&quot;:&quot;\u062a\u0628\u0627\u0631\u0643-\u0645\u0646-\u062d\u0628\u0627-\u062d\u0646\u0627-\u063a\u0644\u0627\u0645\u0627-750x430.webp&quot;,&quot;1200&quot;:&quot;\u062a\u0628\u0627\u0631\u0643-\u0645\u0646-\u062d\u0628\u0627-\u062d\u0646\u0627-\u063a\u0644\u0627\u0645\u0627.webp&quot;}}"					class="img-holder" href="https://qaseda.com/suleimanalsawla/%d8%aa%d8%a8%d8%a7%d8%b1%d9%83-%d9%85%d9%86-%d8%ad%d8%a8%d8%a7-%d8%ad%d9%86%d8%a7-%d8%ba%d9%84%d8%a7%d9%85%d8%a7/"></a>
+					</div>
+	<p class="title">	<a class="post-url" href="https://qaseda.com/suleimanalsawla/%d8%aa%d8%a8%d8%a7%d8%b1%d9%83-%d9%85%d9%86-%d8%ad%d8%a8%d8%a7-%d8%ad%d9%86%d8%a7-%d8%ba%d9%84%d8%a7%d9%85%d8%a7/" title="تبارك من حبا حنا غلاما">
+			<span class="post-title">
+				تبارك من حبا حنا غلاما			</span>
+	</a>
+	</p></div>
+</div >
+<div  class="post-267927 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-2 main-term-990">
+<div class="item-inner clearfix">
+			<div class="featured featured-type-featured-image">
+			<div class="term-badges floated"><span class="term-badge term-990"><a href="https://qaseda.com/c/%d8%b3%d9%88%d8%b1%d9%8a%d8%a7/">سوريا</a></span></div>			<a  alt="قصيدة يا أمير الملاح من كل مله" title="يا أمير الملاح من كل مله" data-src="https://qaseda.com/wp-content/uploads/يا-أمير-الملاح-من-كل-مله-1-210x136.webp" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/qaseda.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;\u064a\u0627-\u0623\u0645\u064a\u0631-\u0627\u0644\u0645\u0644\u0627\u062d-\u0645\u0646-\u0643\u0644-\u0645\u0644\u0647-1-86x64.webp&quot;,&quot;210&quot;:&quot;\u064a\u0627-\u0623\u0645\u064a\u0631-\u0627\u0644\u0645\u0644\u0627\u062d-\u0645\u0646-\u0643\u0644-\u0645\u0644\u0647-1-210x136.webp&quot;,&quot;279&quot;:&quot;\u064a\u0627-\u0623\u0645\u064a\u0631-\u0627\u0644\u0645\u0644\u0627\u062d-\u0645\u0646-\u0643\u0644-\u0645\u0644\u0647-1-279x220.webp&quot;,&quot;357&quot;:&quot;\u064a\u0627-\u0623\u0645\u064a\u0631-\u0627\u0644\u0645\u0644\u0627\u062d-\u0645\u0646-\u0643\u0644-\u0645\u0644\u0647-1-357x210.webp&quot;,&quot;750&quot;:&quot;\u064a\u0627-\u0623\u0645\u064a\u0631-\u0627\u0644\u0645\u0644\u0627\u062d-\u0645\u0646-\u0643\u0644-\u0645\u0644\u0647-1-750x430.webp&quot;,&quot;1200&quot;:&quot;\u064a\u0627-\u0623\u0645\u064a\u0631-\u0627\u0644\u0645\u0644\u0627\u062d-\u0645\u0646-\u0643\u0644-\u0645\u0644\u0647-1.webp&quot;}}"					class="img-holder" href="https://qaseda.com/suleimanalsawla/%d9%8a%d8%a7-%d8%a3%d9%85%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d9%84%d8%a7%d8%ad-%d9%85%d9%86-%d9%83%d9%84-%d9%85%d9%84%d9%87/"></a>
+					</div>
+	<p class="title">	<a class="post-url" href="https://qaseda.com/suleimanalsawla/%d9%8a%d8%a7-%d8%a3%d9%85%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d9%84%d8%a7%d8%ad-%d9%85%d9%86-%d9%83%d9%84-%d9%85%d9%84%d9%87/" title="يا أمير الملاح من كل مله">
+			<span class="post-title">
+				يا أمير الملاح من كل مله			</span>
+	</a>
+	</p></div>
+</div >
+<div  class="post-267921 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-2 main-term-990">
+<div class="item-inner clearfix">
+			<div class="featured featured-type-featured-image">
+			<div class="term-badges floated"><span class="term-badge term-990"><a href="https://qaseda.com/c/%d8%b3%d9%88%d8%b1%d9%8a%d8%a7/">سوريا</a></span></div>			<a  alt="قصيدة توارت بالحجاب فما ثناها" title="توارت بالحجاب فما ثناها" data-src="https://qaseda.com/wp-content/uploads/توارت-بالحجاب-فما-ثناها-210x136.webp" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/qaseda.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;\u062a\u0648\u0627\u0631\u062a-\u0628\u0627\u0644\u062d\u062c\u0627\u0628-\u0641\u0645\u0627-\u062b\u0646\u0627\u0647\u0627-86x64.webp&quot;,&quot;210&quot;:&quot;\u062a\u0648\u0627\u0631\u062a-\u0628\u0627\u0644\u062d\u062c\u0627\u0628-\u0641\u0645\u0627-\u062b\u0646\u0627\u0647\u0627-210x136.webp&quot;,&quot;279&quot;:&quot;\u062a\u0648\u0627\u0631\u062a-\u0628\u0627\u0644\u062d\u062c\u0627\u0628-\u0641\u0645\u0627-\u062b\u0646\u0627\u0647\u0627-279x220.webp&quot;,&quot;357&quot;:&quot;\u062a\u0648\u0627\u0631\u062a-\u0628\u0627\u0644\u062d\u062c\u0627\u0628-\u0641\u0645\u0627-\u062b\u0646\u0627\u0647\u0627-357x210.webp&quot;,&quot;750&quot;:&quot;\u062a\u0648\u0627\u0631\u062a-\u0628\u0627\u0644\u062d\u062c\u0627\u0628-\u0641\u0645\u0627-\u062b\u0646\u0627\u0647\u0627-750x430.webp&quot;,&quot;1200&quot;:&quot;\u062a\u0648\u0627\u0631\u062a-\u0628\u0627\u0644\u062d\u062c\u0627\u0628-\u0641\u0645\u0627-\u062b\u0646\u0627\u0647\u0627.webp&quot;}}"					class="img-holder" href="https://qaseda.com/suleimanalsawla/%d8%aa%d9%88%d8%a7%d8%b1%d8%aa-%d8%a8%d8%a7%d9%84%d8%ad%d8%ac%d8%a7%d8%a8-%d9%81%d9%85%d8%a7-%d8%ab%d9%86%d8%a7%d9%87%d8%a7/"></a>
+					</div>
+	<p class="title">	<a class="post-url" href="https://qaseda.com/suleimanalsawla/%d8%aa%d9%88%d8%a7%d8%b1%d8%aa-%d8%a8%d8%a7%d9%84%d8%ad%d8%ac%d8%a7%d8%a8-%d9%81%d9%85%d8%a7-%d8%ab%d9%86%d8%a7%d9%87%d8%a7/" title="توارت بالحجاب فما ثناها">
+			<span class="post-title">
+				توارت بالحجاب فما ثناها			</span>
+	</a>
+	</p></div>
+</div >
+<div  class="post-267923 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-2 main-term-990">
+<div class="item-inner clearfix">
+			<div class="featured featured-type-featured-image">
+			<div class="term-badges floated"><span class="term-badge term-990"><a href="https://qaseda.com/c/%d8%b3%d9%88%d8%b1%d9%8a%d8%a7/">سوريا</a></span></div>			<a  alt="قصيدة يا قمرا أقبل من ديره" title="يا قمرا أقبل من ديره" data-src="https://qaseda.com/wp-content/uploads/يا-قمرا-أقبل-من-ديره-210x136.webp" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/qaseda.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;\u064a\u0627-\u0642\u0645\u0631\u0627-\u0623\u0642\u0628\u0644-\u0645\u0646-\u062f\u064a\u0631\u0647-86x64.webp&quot;,&quot;210&quot;:&quot;\u064a\u0627-\u0642\u0645\u0631\u0627-\u0623\u0642\u0628\u0644-\u0645\u0646-\u062f\u064a\u0631\u0647-210x136.webp&quot;,&quot;279&quot;:&quot;\u064a\u0627-\u0642\u0645\u0631\u0627-\u0623\u0642\u0628\u0644-\u0645\u0646-\u062f\u064a\u0631\u0647-279x220.webp&quot;,&quot;357&quot;:&quot;\u064a\u0627-\u0642\u0645\u0631\u0627-\u0623\u0642\u0628\u0644-\u0645\u0646-\u062f\u064a\u0631\u0647-357x210.webp&quot;,&quot;750&quot;:&quot;\u064a\u0627-\u0642\u0645\u0631\u0627-\u0623\u0642\u0628\u0644-\u0645\u0646-\u062f\u064a\u0631\u0647-750x430.webp&quot;,&quot;1200&quot;:&quot;\u064a\u0627-\u0642\u0645\u0631\u0627-\u0623\u0642\u0628\u0644-\u0645\u0646-\u062f\u064a\u0631\u0647.webp&quot;}}"					class="img-holder" href="https://qaseda.com/suleimanalsawla/%d9%8a%d8%a7-%d9%82%d9%85%d8%b1%d8%a7-%d8%a3%d9%82%d8%a8%d9%84-%d9%85%d9%86-%d8%af%d9%8a%d8%b1%d9%87/"></a>
+					</div>
+	<p class="title">	<a class="post-url" href="https://qaseda.com/suleimanalsawla/%d9%8a%d8%a7-%d9%82%d9%85%d8%b1%d8%a7-%d8%a3%d9%82%d8%a8%d9%84-%d9%85%d9%86-%d8%af%d9%8a%d8%b1%d9%87/" title="يا قمرا أقبل من ديره">
+			<span class="post-title">
+				يا قمرا أقبل من ديره			</span>
+	</a>
+	</p></div>
+</div >
+	</div>
+	
+	</div><div class="bs-pagination bs-ajax-pagination more_btn main-term-none clearfix">
+			<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="rocketlazyloadscript">var bs_ajax_paginate_219932788 = '{"query":{"paginate":"more_btn","count":4,"post_type":"post","posts_per_page":4,"post__not_in":[265350],"ignore_sticky_posts":1,"post_status":["publish","private"],"category__in":[990],"tag__in":[857],"_layout":{"state":"1|1|0","page":"2-col-right"}},"type":"wp_query","view":"Publisher::fetch_related_posts","current_page":1,"ajax_url":"\/wp-admin\/admin-ajax.php","remove_duplicates":"0","paginate":"more_btn","_layout":{"state":"1|1|0","page":"2-col-right"},"_bs_pagin_token":"685da5d"}';</script>				<a  rel="next" class="btn-bs-pagination" data-id="219932788"
+				   title="تحميل المزيد من القصائد">
+			<span class="loading" style="display: none;">
+				<i class="fa fa-refresh fa-spin fa-fw"></i>
+			</span>
+					<span class="loading" style="display: none;">
+				جار التحميل ...			</span>
+
+					<span class="loaded txt">
+				تحميل المزيد من القصائد			</span>
+
+					<span class="loaded icon">
+				<i class="fa fa-angle-down" aria-hidden="true"></i>
+			</span>
+
+					<span class="no-more" style="display: none;">
+				لا مزيد من القصائد 
+			</span>
+
+				</a>
+
+				</div>
+		</div>
+
+		<div class="tab-pane bs-tab-anim bs-tab-animated bs-deferred-container"
+		     id="relatedposts_748853051_2">
+					<div class="bs-pagination-wrapper main-term-none more_btn ">
+				<div class="bs-deferred-load-wrapper" id="bsd_relatedposts_748853051_2">
+			<script type="rocketlazyloadscript">var bs_deferred_loading_bsd_relatedposts_748853051_2 = '{"query":{"paginate":"more_btn","count":4,"author":1720,"post_type":"post","_layout":{"state":"1|1|0","page":"2-col-right"}},"type":"wp_query","view":"Publisher::fetch_other_related_posts","current_page":1,"ajax_url":"\/wp-admin\/admin-ajax.php","remove_duplicates":"0","paginate":"more_btn","_layout":{"state":"1|1|0","page":"2-col-right"},"_bs_pagin_token":"0380969"}';</script>
+		</div>
+		
+	</div>		</div>
+	</div>
+</div>
+<div class="tpek tpek-after-related tpek-pubadban tpek-show-desktop tpek-show-tablet-portrait tpek-show-tablet-landscape tpek-show-phone tpek-loc-post_after_related tpek-align-center tpek-column-1 tpek-clearfix no-bg-box-model"><div id="tpek-28-1451052982" class="tpek-container tpek-type-code " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="28" data-type="code"><div id="tpek-28-1451052982-place"></div><script type="rocketlazyloadscript" data-rocket-type="text/javascript">var betterads_screen_width = document.body.clientWidth;betterads_el = document.getElementById('tpek-28-1451052982');             if (betterads_el.getBoundingClientRect().width) {     betterads_el_width_raw = betterads_el_width = betterads_el.getBoundingClientRect().width;    } else {     betterads_el_width_raw = betterads_el_width = betterads_el.offsetWidth;    }        var size = ["125", "125"];    if ( betterads_el_width >= 728 )      betterads_el_width = ["728", "90"];    else if ( betterads_el_width >= 468 )     betterads_el_width = ["468", "60"];    else if ( betterads_el_width >= 336 )     betterads_el_width = ["336", "280"];    else if ( betterads_el_width >= 300 )     betterads_el_width = ["300", "250"];    else if ( betterads_el_width >= 250 )     betterads_el_width = ["250", "250"];    else if ( betterads_el_width >= 200 )     betterads_el_width = ["200", "200"];    else if ( betterads_el_width >= 180 )     betterads_el_width = ["180", "150"]; if ( betterads_screen_width >= 1140 ) { document.getElementById('tpek-28-1451052982-place').innerHTML = '<ins class="adsbygoogle" style="display:block;"  data-ad-client="ca-pub-8683963646266316"  data-ad-slot="6248245314"  data-full-width-responsive="true"  data-ad-format="auto" ></ins>';         (adsbygoogle = window.adsbygoogle || []).push({});}else if ( betterads_screen_width >= 1019  && betterads_screen_width < 1140 ) { document.getElementById('tpek-28-1451052982-place').innerHTML = '<ins class="adsbygoogle" style="display:block;"  data-ad-client="ca-pub-8683963646266316"  data-ad-slot="6248245314"  data-full-width-responsive="true"  data-ad-format="auto" ></ins>';         (adsbygoogle = window.adsbygoogle || []).push({});}else if ( betterads_screen_width >= 768  && betterads_screen_width < 1019 ) { document.getElementById('tpek-28-1451052982-place').innerHTML = '<ins class="adsbygoogle" style="display:block;"  data-ad-client="ca-pub-8683963646266316"  data-ad-slot="6248245314"  data-full-width-responsive="true"  data-ad-format="auto" ></ins>';         (adsbygoogle = window.adsbygoogle || []).push({});}else if ( betterads_screen_width < 768 ) { document.getElementById('tpek-28-1451052982-place').innerHTML = '<ins class="adsbygoogle" style="display:block;"  data-ad-client="ca-pub-8683963646266316"  data-ad-slot="6248245314"  data-full-width-responsive="true"  data-ad-format="auto" ></ins>';         (adsbygoogle = window.adsbygoogle || []).push({});}</script><p class='tpek-caption tpek-caption-below'>- Advertisement -</p></div></div>	<section class="comments-template ajaxified-comments-container">
+		<a href="#" class="comment-ajaxified-placeholder" data-comment-post-id="265350">
+			<i class="fa fa-comments"></i> اترك تعليقا		</a>
+	</section>
+
+						</div><!-- .content-column -->
+												<div class="col-sm-4 sidebar-column sidebar-column-primary">
+							<aside id="sidebar-primary-sidebar" class="sidebar" role="complementary" aria-label="Primary Sidebar Sidebar" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+	<div id="bs-thumbnail-listing-1-2" class=" h-ni w-t primary-sidebar-widget widget widget_bs-thumbnail-listing-1"><div class=" bs-listing bs-listing-listing-thumbnail-1 bs-listing-single-tab pagination-animate">		<p class="section-heading sh-t3 sh-s1 main-term-none">
+
+		
+							<span class="h-text main-term-none main-link">
+						 أقراء ايضا					</span>
+			
+		
+		</p>
+				<div class="bs-pagination-wrapper main-term-none next_prev bs-slider-first-item">
+			<div class="listing listing-thumbnail listing-tb-1 clearfix columns-1">
+		<div class="post-356056 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-980">
+	<div class="item-inner clearfix">
+					<div class="featured featured-type-featured-image">
+				<a  alt="الشاعر الجاهلي عمرو بن كلثوم أحد أصحاب المعلقات" title="عمرو بن كلثوم | صاحب معلقة الا هبي بصحنك" data-src="https://qaseda.com/wp-content/uploads/الشاعر-الجاهلي-عمرو-بن-كلثوم-أحد-أصحاب-المعلقات-86x64.webp" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/qaseda.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;\u0627\u0644\u0634\u0627\u0639\u0631-\u0627\u0644\u062c\u0627\u0647\u0644\u064a-\u0639\u0645\u0631\u0648-\u0628\u0646-\u0643\u0644\u062b\u0648\u0645-\u0623\u062d\u062f-\u0623\u0635\u062d\u0627\u0628-\u0627\u0644\u0645\u0639\u0644\u0642\u0627\u062a-86x64.webp&quot;,&quot;210&quot;:&quot;\u0627\u0644\u0634\u0627\u0639\u0631-\u0627\u0644\u062c\u0627\u0647\u0644\u064a-\u0639\u0645\u0631\u0648-\u0628\u0646-\u0643\u0644\u062b\u0648\u0645-\u0623\u062d\u062f-\u0623\u0635\u062d\u0627\u0628-\u0627\u0644\u0645\u0639\u0644\u0642\u0627\u062a-210x136.webp&quot;,&quot;1200&quot;:&quot;\u0627\u0644\u0634\u0627\u0639\u0631-\u0627\u0644\u062c\u0627\u0647\u0644\u064a-\u0639\u0645\u0631\u0648-\u0628\u0646-\u0643\u0644\u062b\u0648\u0645-\u0623\u062d\u062f-\u0623\u0635\u062d\u0627\u0628-\u0627\u0644\u0645\u0639\u0644\u0642\u0627\u062a.webp&quot;}}"						class="img-holder" href="https://qaseda.com/media-masr/%d8%b9%d9%85%d8%b1%d9%88-%d8%a8%d9%86-%d9%83%d9%84%d8%ab%d9%88%d9%85-%d8%b5%d8%a7%d8%ad%d8%a8-%d9%85%d8%b9%d9%84%d9%82%d8%a9-%d8%a7%d9%84%d8%a7-%d9%87%d8%a8%d9%8a-%d8%a8%d8%b5%d8%ad%d9%86%d9%83/"></a>
+							</div>
+		<p class="title">		<a href="https://qaseda.com/media-masr/%d8%b9%d9%85%d8%b1%d9%88-%d8%a8%d9%86-%d9%83%d9%84%d8%ab%d9%88%d9%85-%d8%b5%d8%a7%d8%ad%d8%a8-%d9%85%d8%b9%d9%84%d9%82%d8%a9-%d8%a7%d9%84%d8%a7-%d9%87%d8%a8%d9%8a-%d8%a8%d8%b5%d8%ad%d9%86%d9%83/" class="post-url post-title">
+			عمرو بن كلثوم | صاحب معلقة الا هبي بصحنك		</a>
+		</p>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2024-12-30T20:00:00+00:00">ديسمبر 30, 2024</time></span>
+						</div>
+			</div>
+	</div >
+	<div class="post-356000 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-980">
+	<div class="item-inner clearfix">
+					<div class="featured featured-type-featured-image">
+				<a  alt="أبو نواس شاعر الخمر التائب" title="أشعار أبو نواس: سيرة شاعر الخمر التائب" data-src="https://qaseda.com/wp-content/uploads/أبو-نواس-شاعر-الخمر-التائب-86x64.webp" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/qaseda.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;\u0623\u0628\u0648-\u0646\u0648\u0627\u0633-\u0634\u0627\u0639\u0631-\u0627\u0644\u062e\u0645\u0631-\u0627\u0644\u062a\u0627\u0626\u0628-86x64.webp&quot;,&quot;210&quot;:&quot;\u0623\u0628\u0648-\u0646\u0648\u0627\u0633-\u0634\u0627\u0639\u0631-\u0627\u0644\u062e\u0645\u0631-\u0627\u0644\u062a\u0627\u0626\u0628-210x136.webp&quot;,&quot;1200&quot;:&quot;\u0623\u0628\u0648-\u0646\u0648\u0627\u0633-\u0634\u0627\u0639\u0631-\u0627\u0644\u062e\u0645\u0631-\u0627\u0644\u062a\u0627\u0626\u0628.webp&quot;}}"						class="img-holder" href="https://qaseda.com/media-masr/%d8%a3%d8%b4%d8%b9%d8%a7%d8%b1-%d8%a3%d8%a8%d9%88-%d9%86%d9%88%d8%a7%d8%b3-%d8%b3%d9%8a%d8%b1%d8%a9-%d8%b4%d8%a7%d8%b9%d8%b1-%d8%a7%d9%84%d8%ae%d9%85%d8%b1-%d8%a7%d9%84%d8%aa%d8%a7%d8%a6%d8%a8/"></a>
+							</div>
+		<p class="title">		<a href="https://qaseda.com/media-masr/%d8%a3%d8%b4%d8%b9%d8%a7%d8%b1-%d8%a3%d8%a8%d9%88-%d9%86%d9%88%d8%a7%d8%b3-%d8%b3%d9%8a%d8%b1%d8%a9-%d8%b4%d8%a7%d8%b9%d8%b1-%d8%a7%d9%84%d8%ae%d9%85%d8%b1-%d8%a7%d9%84%d8%aa%d8%a7%d8%a6%d8%a8/" class="post-url post-title">
+			أشعار أبو نواس: سيرة شاعر الخمر التائب		</a>
+		</p>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2024-12-29T20:00:00+00:00">ديسمبر 29, 2024</time></span>
+						</div>
+			</div>
+	</div >
+	<div class="post-356031 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-980">
+	<div class="item-inner clearfix">
+					<div class="featured featured-type-featured-image">
+				<a  alt="الشاعر الجاهلي الحارث بن حلزة اليشكري" title="معلقة الحارث بن حلزة: شاعر بكر في مواجهة تغلب" data-src="https://qaseda.com/wp-content/uploads/الشاعر-الجاهلي-الحارث-بن-حلزة-اليشكري-86x64.webp" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/qaseda.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;\u0627\u0644\u0634\u0627\u0639\u0631-\u0627\u0644\u062c\u0627\u0647\u0644\u064a-\u0627\u0644\u062d\u0627\u0631\u062b-\u0628\u0646-\u062d\u0644\u0632\u0629-\u0627\u0644\u064a\u0634\u0643\u0631\u064a-86x64.webp&quot;,&quot;210&quot;:&quot;\u0627\u0644\u0634\u0627\u0639\u0631-\u0627\u0644\u062c\u0627\u0647\u0644\u064a-\u0627\u0644\u062d\u0627\u0631\u062b-\u0628\u0646-\u062d\u0644\u0632\u0629-\u0627\u0644\u064a\u0634\u0643\u0631\u064a-210x136.webp&quot;,&quot;1200&quot;:&quot;\u0627\u0644\u0634\u0627\u0639\u0631-\u0627\u0644\u062c\u0627\u0647\u0644\u064a-\u0627\u0644\u062d\u0627\u0631\u062b-\u0628\u0646-\u062d\u0644\u0632\u0629-\u0627\u0644\u064a\u0634\u0643\u0631\u064a.webp&quot;}}"						class="img-holder" href="https://qaseda.com/media-masr/%d9%85%d8%b9%d9%84%d9%82%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d8%ab-%d8%a8%d9%86-%d8%ad%d9%84%d8%b2%d8%a9-%d8%b4%d8%a7%d8%b9%d8%b1-%d8%a8%d9%83%d8%b1/"></a>
+							</div>
+		<p class="title">		<a href="https://qaseda.com/media-masr/%d9%85%d8%b9%d9%84%d9%82%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d8%ab-%d8%a8%d9%86-%d8%ad%d9%84%d8%b2%d8%a9-%d8%b4%d8%a7%d8%b9%d8%b1-%d8%a8%d9%83%d8%b1/" class="post-url post-title">
+			معلقة الحارث بن حلزة: شاعر بكر في مواجهة تغلب		</a>
+		</p>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2024-12-28T20:00:00+00:00">ديسمبر 28, 2024</time></span>
+						</div>
+			</div>
+	</div >
+	<div class="post-356008 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-980">
+	<div class="item-inner clearfix">
+					<div class="featured featured-type-featured-image">
+				<a  alt="زهير بن أبي سلمى حكيم الشعراء" title="معلقة زهير بن أبي سلمى: سيرة حكيم الشعراء" data-src="https://qaseda.com/wp-content/uploads/زهير-بن-أبي-سلمى-حكيم-الشعراء-1-86x64.webp" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/qaseda.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;\u0632\u0647\u064a\u0631-\u0628\u0646-\u0623\u0628\u064a-\u0633\u0644\u0645\u0649-\u062d\u0643\u064a\u0645-\u0627\u0644\u0634\u0639\u0631\u0627\u0621-1-86x64.webp&quot;,&quot;210&quot;:&quot;\u0632\u0647\u064a\u0631-\u0628\u0646-\u0623\u0628\u064a-\u0633\u0644\u0645\u0649-\u062d\u0643\u064a\u0645-\u0627\u0644\u0634\u0639\u0631\u0627\u0621-1-210x136.webp&quot;,&quot;1200&quot;:&quot;\u0632\u0647\u064a\u0631-\u0628\u0646-\u0623\u0628\u064a-\u0633\u0644\u0645\u0649-\u062d\u0643\u064a\u0645-\u0627\u0644\u0634\u0639\u0631\u0627\u0621-1.webp&quot;}}"						class="img-holder" href="https://qaseda.com/media-masr/%d9%85%d8%b9%d9%84%d9%82%d8%a9-%d8%b2%d9%87%d9%8a%d8%b1-%d8%a8%d9%86-%d8%a3%d8%a8%d9%8a-%d8%b3%d9%84%d9%85%d9%89-%d8%b3%d9%8a%d8%b1%d8%a9-%d8%ad%d9%83%d9%8a%d9%85-%d8%a7%d9%84%d8%b4%d8%b9%d8%b1%d8%a7/"></a>
+							</div>
+		<p class="title">		<a href="https://qaseda.com/media-masr/%d9%85%d8%b9%d9%84%d9%82%d8%a9-%d8%b2%d9%87%d9%8a%d8%b1-%d8%a8%d9%86-%d8%a3%d8%a8%d9%8a-%d8%b3%d9%84%d9%85%d9%89-%d8%b3%d9%8a%d8%b1%d8%a9-%d8%ad%d9%83%d9%8a%d9%85-%d8%a7%d9%84%d8%b4%d8%b9%d8%b1%d8%a7/" class="post-url post-title">
+			معلقة زهير بن أبي سلمى: سيرة حكيم الشعراء		</a>
+		</p>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2024-12-20T16:30:00+00:00">ديسمبر 20, 2024</time></span>
+						</div>
+			</div>
+	</div >
+	<div class="post-356016 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-980">
+	<div class="item-inner clearfix">
+					<div class="featured featured-type-featured-image">
+				<a  alt="طرفة بن العبد الجاهلي أحد شعراء المعلقات" title="لخولة أطلال ببرقة ثهمد: سيرة طرفة بن العبد" data-src="https://qaseda.com/wp-content/uploads/طرفة-بن-العبد-الجاهلي-أحد-شعراء-المعلقات-86x64.webp" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/qaseda.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;\u0637\u0631\u0641\u0629-\u0628\u0646-\u0627\u0644\u0639\u0628\u062f-\u0627\u0644\u062c\u0627\u0647\u0644\u064a-\u0623\u062d\u062f-\u0634\u0639\u0631\u0627\u0621-\u0627\u0644\u0645\u0639\u0644\u0642\u0627\u062a-86x64.webp&quot;,&quot;210&quot;:&quot;\u0637\u0631\u0641\u0629-\u0628\u0646-\u0627\u0644\u0639\u0628\u062f-\u0627\u0644\u062c\u0627\u0647\u0644\u064a-\u0623\u062d\u062f-\u0634\u0639\u0631\u0627\u0621-\u0627\u0644\u0645\u0639\u0644\u0642\u0627\u062a-210x136.webp&quot;,&quot;1200&quot;:&quot;\u0637\u0631\u0641\u0629-\u0628\u0646-\u0627\u0644\u0639\u0628\u062f-\u0627\u0644\u062c\u0627\u0647\u0644\u064a-\u0623\u062d\u062f-\u0634\u0639\u0631\u0627\u0621-\u0627\u0644\u0645\u0639\u0644\u0642\u0627\u062a.webp&quot;}}"						class="img-holder" href="https://qaseda.com/media-masr/%d9%84%d8%ae%d9%88%d9%84%d8%a9-%d8%a3%d8%b7%d9%84%d8%a7%d9%84-%d8%a8%d8%a8%d8%b1%d9%82%d8%a9-%d8%ab%d9%87%d9%85%d8%af-%d8%b3%d9%8a%d8%b1%d8%a9-%d8%b7%d8%b1%d9%81%d8%a9-%d8%a8%d9%86-%d8%a7%d9%84%d8%b9/"></a>
+							</div>
+		<p class="title">		<a href="https://qaseda.com/media-masr/%d9%84%d8%ae%d9%88%d9%84%d8%a9-%d8%a3%d8%b7%d9%84%d8%a7%d9%84-%d8%a8%d8%a8%d8%b1%d9%82%d8%a9-%d8%ab%d9%87%d9%85%d8%af-%d8%b3%d9%8a%d8%b1%d8%a9-%d8%b7%d8%b1%d9%81%d8%a9-%d8%a8%d9%86-%d8%a7%d9%84%d8%b9/" class="post-url post-title">
+			لخولة أطلال ببرقة ثهمد: سيرة طرفة بن العبد		</a>
+		</p>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2024-12-19T04:30:00+00:00">ديسمبر 19, 2024</time></span>
+						</div>
+			</div>
+	</div >
+	<div class="post-356107 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-980">
+	<div class="item-inner clearfix">
+					<div class="featured featured-type-featured-image">
+				<a  alt="عنترة بن شداد | أبو الفوارس" title="قصة عنترة بن شداد | شاعر الحرب والحب" data-src="https://qaseda.com/wp-content/uploads/عنترة-بن-شداد-أبو-الفوارس-86x64.webp" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/qaseda.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;\u0639\u0646\u062a\u0631\u0629-\u0628\u0646-\u0634\u062f\u0627\u062f-\u0623\u0628\u0648-\u0627\u0644\u0641\u0648\u0627\u0631\u0633-86x64.webp&quot;,&quot;210&quot;:&quot;\u0639\u0646\u062a\u0631\u0629-\u0628\u0646-\u0634\u062f\u0627\u062f-\u0623\u0628\u0648-\u0627\u0644\u0641\u0648\u0627\u0631\u0633-210x136.webp&quot;,&quot;1200&quot;:&quot;\u0639\u0646\u062a\u0631\u0629-\u0628\u0646-\u0634\u062f\u0627\u062f-\u0623\u0628\u0648-\u0627\u0644\u0641\u0648\u0627\u0631\u0633.webp&quot;}}"						class="img-holder" href="https://qaseda.com/media-masr/%d9%82%d8%b5%d8%a9-%d8%b9%d9%86%d8%aa%d8%b1%d8%a9-%d8%a8%d9%86-%d8%b4%d8%af%d8%a7%d8%af-%d8%b4%d8%a7%d8%b9%d8%b1-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d9%88%d8%a7%d9%84%d8%ad%d8%a8/"></a>
+							</div>
+		<p class="title">		<a href="https://qaseda.com/media-masr/%d9%82%d8%b5%d8%a9-%d8%b9%d9%86%d8%aa%d8%b1%d8%a9-%d8%a8%d9%86-%d8%b4%d8%af%d8%a7%d8%af-%d8%b4%d8%a7%d8%b9%d8%b1-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d9%88%d8%a7%d9%84%d8%ad%d8%a8/" class="post-url post-title">
+			قصة عنترة بن شداد | شاعر الحرب والحب		</a>
+		</p>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2024-12-18T04:30:00+00:00">ديسمبر 18, 2024</time></span>
+						</div>
+			</div>
+	</div >
+	<div class="post-297033 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-995">
+	<div class="item-inner clearfix">
+					<div class="featured featured-type-featured-image">
+				<a  alt="قصيدة تبدي الغرام وأهل العشق تكتمه" title="تبدي الغرام وأهل العشق تكتمه" data-src="https://qaseda.com/wp-content/uploads/تبدي-الغرام-وأهل-العشق-تكتمه-1-86x64.webp" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/qaseda.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;\u062a\u0628\u062f\u064a-\u0627\u0644\u063a\u0631\u0627\u0645-\u0648\u0623\u0647\u0644-\u0627\u0644\u0639\u0634\u0642-\u062a\u0643\u062a\u0645\u0647-1-86x64.webp&quot;,&quot;210&quot;:&quot;\u062a\u0628\u062f\u064a-\u0627\u0644\u063a\u0631\u0627\u0645-\u0648\u0623\u0647\u0644-\u0627\u0644\u0639\u0634\u0642-\u062a\u0643\u062a\u0645\u0647-1-210x136.webp&quot;,&quot;1200&quot;:&quot;\u062a\u0628\u062f\u064a-\u0627\u0644\u063a\u0631\u0627\u0645-\u0648\u0623\u0647\u0644-\u0627\u0644\u0639\u0634\u0642-\u062a\u0643\u062a\u0645\u0647-1.webp&quot;}}"						class="img-holder" href="https://qaseda.com/rifaaaltahtawi/%d8%aa%d8%a8%d8%af%d9%8a-%d8%a7%d9%84%d8%ba%d8%b1%d8%a7%d9%85-%d9%88%d8%a3%d9%87%d9%84-%d8%a7%d9%84%d8%b9%d8%b4%d9%82-%d8%aa%d9%83%d8%aa%d9%85%d9%87-2/"></a>
+							</div>
+		<p class="title">		<a href="https://qaseda.com/rifaaaltahtawi/%d8%aa%d8%a8%d8%af%d9%8a-%d8%a7%d9%84%d8%ba%d8%b1%d8%a7%d9%85-%d9%88%d8%a3%d9%87%d9%84-%d8%a7%d9%84%d8%b9%d8%b4%d9%82-%d8%aa%d9%83%d8%aa%d9%85%d9%87-2/" class="post-url post-title">
+			تبدي الغرام وأهل العشق تكتمه		</a>
+		</p>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2024-03-23T21:25:10+00:00">مارس 23, 2024</time></span>
+						</div>
+			</div>
+	</div >
+	<div class="post-297032 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-995">
+	<div class="item-inner clearfix">
+					<div class="featured featured-type-featured-image">
+				<a  alt="قصيدة عرضت على ذات الدلال صبابتي" title="عرضت على ذات الدلال صبابتي" data-src="https://qaseda.com/wp-content/uploads/عرضت-على-ذات-الدلال-صبابتي-86x64.webp" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/qaseda.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;\u0639\u0631\u0636\u062a-\u0639\u0644\u0649-\u0630\u0627\u062a-\u0627\u0644\u062f\u0644\u0627\u0644-\u0635\u0628\u0627\u0628\u062a\u064a-86x64.webp&quot;,&quot;210&quot;:&quot;\u0639\u0631\u0636\u062a-\u0639\u0644\u0649-\u0630\u0627\u062a-\u0627\u0644\u062f\u0644\u0627\u0644-\u0635\u0628\u0627\u0628\u062a\u064a-210x136.webp&quot;,&quot;1200&quot;:&quot;\u0639\u0631\u0636\u062a-\u0639\u0644\u0649-\u0630\u0627\u062a-\u0627\u0644\u062f\u0644\u0627\u0644-\u0635\u0628\u0627\u0628\u062a\u064a.webp&quot;}}"						class="img-holder" href="https://qaseda.com/hifninasif/%d8%b9%d8%b1%d8%b6%d8%aa-%d8%b9%d9%84%d9%89-%d8%b0%d8%a7%d8%aa-%d8%a7%d9%84%d8%af%d9%84%d8%a7%d9%84-%d8%b5%d8%a8%d8%a7%d8%a8%d8%aa%d9%8a-2/"></a>
+							</div>
+		<p class="title">		<a href="https://qaseda.com/hifninasif/%d8%b9%d8%b1%d8%b6%d8%aa-%d8%b9%d9%84%d9%89-%d8%b0%d8%a7%d8%aa-%d8%a7%d9%84%d8%af%d9%84%d8%a7%d9%84-%d8%b5%d8%a8%d8%a7%d8%a8%d8%aa%d9%8a-2/" class="post-url post-title">
+			عرضت على ذات الدلال صبابتي		</a>
+		</p>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2024-03-23T21:25:10+00:00">مارس 23, 2024</time></span>
+						</div>
+			</div>
+	</div >
+	</div>
+	
+	</div><div class="bs-pagination bs-ajax-pagination next_prev main-term-none clearfix">
+			<script type="rocketlazyloadscript">var bs_ajax_paginate_269414776 = '{"query":{"category":"","tag":"","taxonomy":"","post_ids":"","post_type":"","count":"8","order_by":"date","order":"DESC","time_filter":"","offset":"","style":"listing-thumbnail-1","cats-tags-condition":"and","cats-condition":"in","tags-condition":"in","featured_image":"0","ignore_sticky_posts":"1","author_ids":"","disable_duplicate":"0","ad-active":0,"paginate":"next_prev","pagination-show-label":"1","columns":1,"listing-settings":{"thumbnail-type":"featured-image","title-limit":"55","subtitle":"0","subtitle-limit":"0","subtitle-location":"before-meta","show-ranking":"0","meta":{"show":"1","author":"0","date":"1","date-format":"standard","view":"0","share":"0","comment":"0","review":"1"}},"override-listing-settings":"0","_layout":{"state":"1|1|0","page":"2-col-right"}},"type":"bs_post_listing","view":"Publisher_Thumbnail_Listing_1_Shortcode","current_page":1,"ajax_url":"\/wp-admin\/admin-ajax.php","remove_duplicates":"0","paginate":"next_prev","pagination-show-label":"1","override-listing-settings":"0","listing-settings":{"thumbnail-type":"featured-image","title-limit":"55","subtitle":"0","subtitle-limit":"0","subtitle-location":"before-meta","show-ranking":"0","meta":{"show":"1","author":"0","date":"1","date-format":"standard","view":"0","share":"0","comment":"0","review":"1"}},"columns":1,"ad-active":false,"_layout":{"state":"1|1|0","page":"2-col-right"},"_bs_pagin_token":"3e0706c","data":{"vars":{"post-ranking-offset":8}}}';</script>				<a class="btn-bs-pagination prev disabled" rel="prev" data-id="269414776"
+				   title="السابق">
+					<i class="fa fa-angle-right"
+					   aria-hidden="true"></i> السابق				</a>
+				<a  rel="next" class="btn-bs-pagination next"
+				   data-id="269414776" title="التالي">
+					التالي <i
+							class="fa fa-angle-left" aria-hidden="true"></i>
+				</a>
+								<span class="bs-pagination-label label-light">1 من 13٬790</span>
+			</div></div></div></aside>
+						</div><!-- .primary-sidebar-column -->
+									</div><!-- .main-section -->
+		</div><!-- .container -->
+
+	</main><!-- main -->
+	</div><!-- .content-wrap -->
+		</div><!-- .main-wrap -->
+		<div data-wpr-lazyrender="1" class="container adcontainer"><div  class="tpek tpek-before-footer tpek-pubadban tpek-show-desktop tpek-show-tablet-portrait tpek-show-tablet-landscape tpek-show-phone tpek-loc-footer_before tpek-align-center tpek-column-1 tpek-clearfix no-bg-box-model"><div  id="tpek-28-1815438959" class="tpek-container tpek-type-code " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="28" data-type="code"><div id="tpek-28-1815438959-place"></div><script type="rocketlazyloadscript" data-rocket-type="text/javascript">var betterads_screen_width = document.body.clientWidth;betterads_el = document.getElementById('tpek-28-1815438959');             if (betterads_el.getBoundingClientRect().width) {     betterads_el_width_raw = betterads_el_width = betterads_el.getBoundingClientRect().width;    } else {     betterads_el_width_raw = betterads_el_width = betterads_el.offsetWidth;    }        var size = ["125", "125"];    if ( betterads_el_width >= 728 )      betterads_el_width = ["728", "90"];    else if ( betterads_el_width >= 468 )     betterads_el_width = ["468", "60"];    else if ( betterads_el_width >= 336 )     betterads_el_width = ["336", "280"];    else if ( betterads_el_width >= 300 )     betterads_el_width = ["300", "250"];    else if ( betterads_el_width >= 250 )     betterads_el_width = ["250", "250"];    else if ( betterads_el_width >= 200 )     betterads_el_width = ["200", "200"];    else if ( betterads_el_width >= 180 )     betterads_el_width = ["180", "150"]; if ( betterads_screen_width >= 1140 ) { document.getElementById('tpek-28-1815438959-place').innerHTML = '<ins class="adsbygoogle" style="display:block;"  data-ad-client="ca-pub-8683963646266316"  data-ad-slot="6248245314"  data-full-width-responsive="true"  data-ad-format="auto" ></ins>';         (adsbygoogle = window.adsbygoogle || []).push({});}else if ( betterads_screen_width >= 1019  && betterads_screen_width < 1140 ) { document.getElementById('tpek-28-1815438959-place').innerHTML = '<ins class="adsbygoogle" style="display:block;"  data-ad-client="ca-pub-8683963646266316"  data-ad-slot="6248245314"  data-full-width-responsive="true"  data-ad-format="auto" ></ins>';         (adsbygoogle = window.adsbygoogle || []).push({});}else if ( betterads_screen_width >= 768  && betterads_screen_width < 1019 ) { document.getElementById('tpek-28-1815438959-place').innerHTML = '<ins class="adsbygoogle" style="display:block;"  data-ad-client="ca-pub-8683963646266316"  data-ad-slot="6248245314"  data-full-width-responsive="true"  data-ad-format="auto" ></ins>';         (adsbygoogle = window.adsbygoogle || []).push({});}else if ( betterads_screen_width < 768 ) { document.getElementById('tpek-28-1815438959-place').innerHTML = '<ins class="adsbygoogle" style="display:block;"  data-ad-client="ca-pub-8683963646266316"  data-ad-slot="6248245314"  data-full-width-responsive="true"  data-ad-format="auto" ></ins>';         (adsbygoogle = window.adsbygoogle || []).push({});}</script><p class='tpek-caption tpek-caption-below'>- Advertisement -</p></div></div></div>	<footer data-wpr-lazyrender="1" id="site-footer" class="site-footer full-width">
+		<div  class="footer-widgets light-text">
+	<div class="content-wrap">
+		<div class="container">
+			<div class="row">
+										<div class="col-sm-3">
+							<aside id="sidebar-footer-1" class="sidebar" role="complementary" aria-label="Footer - Column 1 Sidebar" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+								<div id="block-8" class=" h-ni w-nt footer-widget footer-column-1 widget widget_block widget_media_image">
+<figure class="wp-block-image size-full is-resized">
+    <img fetchpriority="high" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20127%20116'%3E%3C/svg%3E" alt="شعار موقع قصيدة" class="wp-image-523" width="127" height="116" fetchpriority="high" data-lazy-src="https://qaseda.com/wp-content/uploads/qaseda-logo-icon.webp"/><noscript><img loading="lazy" fetchpriority="high" decoding="async" src="https://qaseda.com/wp-content/uploads/qaseda-logo-icon.webp" alt="شعار موقع قصيدة" class="wp-image-523" width="127" height="116" loading="lazy" fetchpriority="high"/></noscript>
+    <figcaption class="wp-element-caption" style="font-weight: bold; font-size: 1.1em;">قصيدة: منصة إبداعية للشعر والشعراء</figcaption>
+</figure>
+</div>							</aside>
+						</div>
+						<div class="col-sm-3">
+							<aside id="sidebar-footer-2" class="sidebar" role="complementary" aria-label="Footer - Column 2 Sidebar" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+								<div id="block-47" class=" h-ni w-nt footer-widget footer-column-2 widget widget_block">
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+    
+    <p class="has-white-color has-text-color has-medium-font-size" style="font-weight: bold; font-size: 1.1em;">الوصول السريع</p>
+    
+
+    
+    <ul class="wp-block-list" style="font-weight: bold; font-size: 1.1em;">
+        
+        <li><a href="https://qaseda.com/" data-type="URL" data-id="https://qaseda.com/">الرئيسية</a></li>
+        
+
+        
+        <li><a href="https://qaseda.com/البحور-الشعرية/" data-type="URL" data-id="https://qaseda.com/البحور-الشعرية/">البحور الشعرية​</a></li>
+        
+
+        
+        <li><a href="https://qaseda.com/القوافي-الشعرية/" data-type="URL" data-id="https://qaseda.com/القوافي-الشعرية/">القوافي الشعرية​</a></li>
+        
+
+        
+        <li><a href="https://qaseda.com/موضوعات-القصيدة/" data-type="URL" data-id="https://qaseda.com/موضوعات-القصيدة/">موضوعات القصيدة​</a></li>
+        
+    </ul>
+    
+</div></div>
+</div>							</aside>
+						</div>
+						<div class="col-sm-3">
+							<aside id="sidebar-footer-3" class="sidebar" role="complementary" aria-label="Footer - Column 3 Sidebar" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+								<div id="block-40" class=" h-ni w-nt footer-widget footer-column-3 widget widget_block widget_text">
+<p class="has-white-color has-text-color has-medium-font-size" style="font-weight: bold; font-size: 1.1em;">صوتيات</p>
+
+
+
+<ul class="wp-block-list" style="font-weight: bold; font-size: 1.1em;">
+    
+    <li><a href="https://www.youtube.com/">المتون العلمية والأدبية</a></li>
+    
+
+    
+    <li><a href="https://www.youtube.com/">ترنيم القصيد</a></li>
+    
+
+    
+    <li><a href="https://www.youtube.com/">قصائد صوتية</a></li>
+    
+</ul>
+</div>							</aside>
+						</div>
+						<div class="col-sm-3">
+							<aside id="sidebar-footer-4" class="sidebar" role="complementary" aria-label="Footer - Column 4 Sidebar" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+								<div id="block-44" class=" h-ni w-nt footer-widget footer-column-4 widget widget_block widget_text">
+<p class="has-white-color has-text-color has-medium-font-size" style="font-weight: bold; font-size: 1.1em;">مواقع صديقة</p>
+
+
+
+<ul class="wp-block-list" style="font-weight: bold; font-size: 1.1em;">
+    
+    <li><a href="#" data-type="URL" data-id="https://quran.com/">القران الكريم</a></li>
+    
+
+    
+    <li><a href="#" data-type="URL" data-id="https://mediamasr.net/">ميديا مصر</a></li>
+    
+</ul>
+</div><div id="block-45" class=" h-ni w-nt footer-widget footer-column-4 widget widget_block"></div>							</aside>
+						</div>
+									</div>
+		</div>
+	</div>
+</div>
+		<div  class="copy-footer">
+			<div class="content-wrap">
+				<div class="container">
+						<div class="row">
+		<div class="col-lg-12">
+			<div id="menu-footer" class="menu footer-menu-wrapper" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+				<nav class="footer-menu-container">
+					<ul id="footer-navigation" class="footer-menu menu clearfix">
+						<li id="menu-item-529" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-529"><a href="https://qaseda.com/%d8%b9%d9%86-%d9%85%d9%88%d9%82%d8%b9-%d9%82%d8%b5%d9%8a%d8%af%d8%a9/">عن قصيدة</a></li>
+<li id="menu-item-520" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-520"><a href="https://qaseda.com/%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%84%d8%b7%d8%a8%d8%b9-%d9%88%d8%a7%d9%84%d9%86%d8%b4%d8%b1/">حقوق الطبع والنشر</a></li>
+<li id="menu-item-521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy better-anim-fade menu-item-521"><a href="https://qaseda.com/%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%ae%d8%b5%d9%88%d8%b5%d9%8a%d8%a9/">سياسة الخصوصية</a></li>
+<li id="menu-item-519" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-519"><a href="https://qaseda.com/%d8%a7%d8%aa%d8%b5%d9%84-%d8%a8%d9%86%d8%a7/">اتصل بنا</a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</div>
+					<div class="row footer-copy-row">
+						<div class="copy-1 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+							<strong style="color: white;">حقوق النشر والتأليف محفوظه لأصحابها تبعاَ لأسماءهم وتصنيفاتهم</strong>
+						</div>
+						<div class="copy-2 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+							<p style="color: white;">
+    تنفيذ وتصميم شركة 
+    <a href="https://mediamasr.net/" style="color: white; text-decoration: none;">
+        <strong>ميديا مصر</strong>
+    </a>
+</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer><!-- .footer -->
+	<span class="back-top"><i class="fa fa-arrow-up"></i></span>
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/publisher/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!-- Google Tag Manager -->
+<script type="rocketlazyloadscript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WZDKJ4TD');</script>
+<!-- End Google Tag Manager -->			<script type="rocketlazyloadscript">
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+					<div class="rh-cover noscroll  no-login-icon" >
+			<span class="rh-close"></span>
+			<div  class="rh-panel rh-pm">
+				<div  class="rh-p-h">
+									</div>
+
+				<div  class="rh-p-b">
+										<div class="rh-c-m clearfix"></div>
+
+											<form role="search" method="get" class="search-form" action="https://qaseda.com">
+							<input type="search" class="search-field"
+							       placeholder="بحث..."
+							       value="" name="s"
+							       title="البحث عن:"
+							       autocomplete="off">
+							<input type="submit" class="search-submit" value="">
+						</form>
+								<div  class="  better-studio-shortcode bsc-clearfix better-social-counter style-button not-colored in-4-col">
+						<ul class="social-list bsc-clearfix"><li class="social-item facebook"><a href = "https://www.facebook.com/QasedaCom" target = "_blank" > <i class="item-icon bsfi-facebook" ></i><span class="item-title" > Likes </span> </a> </li> <li class="social-item twitter"><a href = "https://twitter.com/QasedaCom" target = "_blank" > <i class="item-icon bsfi-twitter" ></i><span class="item-title" > Followers </span> </a> </li> <li class="social-item youtube"><a href = "https://youtube.com/channel/@QasedaCom" target = "_blank" > <i class="item-icon bsfi-youtube" ></i><span class="item-title" > Subscribers </span> </a> </li> <li class="social-item instagram"><a href = "https://instagram.com/QasedaCom" target = "_blank" > <i class="item-icon bsfi-instagram" ></i><span class="item-title" > Followers </span> </a> </li> <li class="social-item pinterest"><a href="https://www.pinterest.com/QasedaCom" target = "_blank"> <i class="item-icon bsfi-pinterest" ></i><span class="item-title" > Followers </span> </a> </li> 			</ul>
+		</div>
+						</div>
+			</div>
+					</div>
+		<script type="text/javascript" id="ce4wp_form_submit-js-extra">
+/* <![CDATA[ */
+var ce4wp_form_submit_data = {"siteUrl":"https://qaseda.com","url":"https://qaseda.com/wp-admin/admin-ajax.php","nonce":"177aaf67cc","listNonce":"b0b1263e32","activatedNonce":"653032a668"};
+//# sourceURL=ce4wp_form_submit-js-extra
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://qaseda.com/wp-content/cache/min/1/wp-content/plugins/creative-mail-by-constant-contact/assets/js/block/submit.js?ver=1758656636" id="ce4wp_form_submit-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://qaseda.com/wp-content/themes/publisher/includes/libs/better-framework/assets/js/element-query.min.js?ver=3.15.0" id="element-query-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://qaseda.com/wp-content/plugins/better-social-counter/js/script.min.js?ver=1.13.2" id="better-social-counter-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="rocket-browser-checker-js-after">
+/* <![CDATA[ */
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+//# sourceURL=rocket-browser-checker-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-extra">
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"/(?:.+/)?feed(?:/(?:.+/?)?)?$|/(?:.+/)?embed/|/(index.php/)?(.*)wp-json(/.*|$)|/refer/|/go/|/recommend/|/recommends/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https://qaseda.com","onHoverDelay":"100","rateThrottle":"3"};
+//# sourceURL=rocket-preload-links-js-extra
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="rocket-preload-links-js-after">
+/* <![CDATA[ */
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+
+//# sourceURL=rocket-preload-links-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket_lazyload_css-js-extra">
+/* <![CDATA[ */
+var rocket_lazyload_css_data = {"threshold":"300"};
+//# sourceURL=rocket_lazyload_css-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket_lazyload_css-js-after">
+/* <![CDATA[ */
+!function o(n,c,a){function u(t,e){if(!c[t]){if(!n[t]){var r="function"==typeof require&&require;if(!e&&r)return r(t,!0);if(s)return s(t,!0);throw(e=new Error("Cannot find module '"+t+"'")).code="MODULE_NOT_FOUND",e}r=c[t]={exports:{}},n[t][0].call(r.exports,function(e){return u(n[t][1][e]||e)},r,r.exports,o,n,c,a)}return c[t].exports}for(var s="function"==typeof require&&require,e=0;e<a.length;e++)u(a[e]);return u}({1:[function(e,t,r){"use strict";{const c="undefined"==typeof rocket_pairs?[]:rocket_pairs,a=(("undefined"==typeof rocket_excluded_pairs?[]:rocket_excluded_pairs).map(t=>{var e=t.selector;document.querySelectorAll(e).forEach(e=>{e.setAttribute("data-rocket-lazy-bg-"+t.hash,"excluded")})}),document.querySelector("#wpr-lazyload-bg-container"));var o=rocket_lazyload_css_data.threshold||300;const u=new IntersectionObserver(e=>{e.forEach(t=>{t.isIntersecting&&c.filter(e=>t.target.matches(e.selector)).map(t=>{var e;t&&((e=document.createElement("style")).textContent=t.style,a.insertAdjacentElement("afterend",e),t.elements.forEach(e=>{u.unobserve(e),e.setAttribute("data-rocket-lazy-bg-"+t.hash,"loaded")}))})})},{rootMargin:o+"px"});function n(){0<(0<arguments.length&&void 0!==arguments[0]?arguments[0]:[]).length&&c.forEach(t=>{try{document.querySelectorAll(t.selector).forEach(e=>{"loaded"!==e.getAttribute("data-rocket-lazy-bg-"+t.hash)&&"excluded"!==e.getAttribute("data-rocket-lazy-bg-"+t.hash)&&(u.observe(e),(t.elements||=[]).push(e))})}catch(e){console.error(e)}})}n(),function(){const r=window.MutationObserver;return function(e,t){if(e&&1===e.nodeType)return(t=new r(t)).observe(e,{attributes:!0,childList:!0,subtree:!0}),t}}()(document.querySelector("body"),n)}},{}]},{},[1]);
+//# sourceURL=rocket_lazyload_css-js-after
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://qaseda.com/wp-content/themes/publisher/includes/libs/bs-theme-core/lazy-load/assets/js/blazy.min.js?ver=1.12.0" id="blazy-js" data-rocket-defer defer></script>
+<script type="text/javascript" id="publisher-theme-pagination-js-extra">
+/* <![CDATA[ */
+var bs_pagination_loc = {"loading":"\u003Cdiv class=\"bs-loading\"\u003E\u003Cdiv\u003E\u003C/div\u003E\u003Cdiv\u003E\u003C/div\u003E\u003Cdiv\u003E\u003C/div\u003E\u003Cdiv\u003E\u003C/div\u003E\u003Cdiv\u003E\u003C/div\u003E\u003Cdiv\u003E\u003C/div\u003E\u003Cdiv\u003E\u003C/div\u003E\u003Cdiv\u003E\u003C/div\u003E\u003Cdiv\u003E\u003C/div\u003E\u003C/div\u003E"};
+//# sourceURL=publisher-theme-pagination-js-extra
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://qaseda.com/wp-content/themes/publisher/includes/libs/bs-theme-core/listing-pagin/assets/js/bs-ajax-pagination.min.js?ver=7.11.0" id="publisher-theme-pagination-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://qaseda.com/wp-content/themes/publisher/includes/libs/better-framework/assets/js/slick.min.js?ver=3.15.0" id="bf-slick-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://qaseda.com/wp-content/themes/publisher/js/theme-libs.min.js?ver=7.11.0" id="theme-libs-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://qaseda.com/wp-content/themes/publisher/includes/libs/better-framework/assets/js/pretty-photo.min.js?ver=3.15.0" id="pretty-photo-js" data-rocket-defer defer></script>
+<script type="text/javascript" id="publisher-js-extra">
+/* <![CDATA[ */
+var publisher_theme_global_loc = {"page":{"boxed":"full-width"},"header":{"style":"style-1","boxed":"full-width"},"ajax_url":"https://qaseda.com/wp-admin/admin-ajax.php","loading":"\u003Cdiv class=\"bs-loading\"\u003E\u003Cdiv\u003E\u003C/div\u003E\u003Cdiv\u003E\u003C/div\u003E\u003Cdiv\u003E\u003C/div\u003E\u003Cdiv\u003E\u003C/div\u003E\u003Cdiv\u003E\u003C/div\u003E\u003Cdiv\u003E\u003C/div\u003E\u003Cdiv\u003E\u003C/div\u003E\u003Cdiv\u003E\u003C/div\u003E\u003Cdiv\u003E\u003C/div\u003E\u003C/div\u003E","translations":{"tabs_all":"\u0627\u0644\u0643\u0644","tabs_more":"\u0627\u0644\u0645\u0632\u064a\u062f","lightbox_expand":"\u062a\u0648\u0633\u064a\u0639 \u0627\u0644\u0635\u0648\u0631\u0629","lightbox_close":"\u0642\u0631\u064a\u0628"},"lightbox":{"not_classes":""},"main_menu":{"more_menu":"enable"},"top_menu":{"more_menu":"enable"},"skyscraper":{"sticky_gap":30,"sticky":false,"position":""},"share":{"more":true},"refresh_googletagads":"1","get_locale":"ar","notification":{"subscribe_msg":"\u0645\u0646 \u062e\u0644\u0627\u0644 \u0627\u0644\u0646\u0642\u0631 \u0639\u0644\u0649 \u0632\u0631 \u0627\u0644\u0627\u0634\u062a\u0631\u0627\u0643 \u060c \u0644\u0646 \u062a\u0641\u0648\u062a\u0643 \u0627\u0644\u0645\u0648\u0627\u062f \u0627\u0644\u062c\u062f\u064a\u062f\u0629!","subscribed_msg":"\u0623\u0646\u062a \u0645\u0634\u062a\u0631\u0643 \u0641\u064a \u0627\u0644\u0625\u062e\u0637\u0627\u0631\u0627\u062a","subscribe_btn":"\u0627\u0644\u0627\u0634\u062a\u0631\u0627\u0643","subscribed_btn":"\u0625\u0644\u063a\u0627\u0621 \u0627\u0644\u0627\u0634\u062a\u0631\u0627\u0643"}};
+var publisher_theme_ajax_search_loc = {"ajax_url":"https://qaseda.com/wp-admin/admin-ajax.php","previewMarkup":"\u003Cdiv class=\"ajax-search-results-wrapper ajax-search-no-product ajax-search-fullwidth\"\u003E\n\t\u003Cdiv class=\"ajax-search-results\"\u003E\n\t\t\u003Cdiv class=\"ajax-ajax-posts-list\"\u003E\n\t\t\t\u003Cdiv class=\"clean-title heading-typo\"\u003E\n\t\t\t\t\u003Cspan\u003E\u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0627\u062a\u003C/span\u003E\n\t\t\t\u003C/div\u003E\n\t\t\t\u003Cdiv class=\"posts-lists\" data-section-name=\"posts\"\u003E\u003C/div\u003E\n\t\t\u003C/div\u003E\n\t\t\u003Cdiv class=\"ajax-taxonomy-list\"\u003E\n\t\t\t\u003Cdiv class=\"ajax-categories-columns\"\u003E\n\t\t\t\t\u003Cdiv class=\"clean-title heading-typo\"\u003E\n\t\t\t\t\t\u003Cspan\u003E\u0627\u0644\u062a\u0635\u0646\u064a\u0641\u0627\u062a\u003C/span\u003E\n\t\t\t\t\u003C/div\u003E\n\t\t\t\t\u003Cdiv class=\"posts-lists\" data-section-name=\"categories\"\u003E\u003C/div\u003E\n\t\t\t\u003C/div\u003E\n\t\t\t\u003Cdiv class=\"ajax-tags-columns\"\u003E\n\t\t\t\t\u003Cdiv class=\"clean-title heading-typo\"\u003E\n\t\t\t\t\t\u003Cspan\u003E\u0627\u0644\u0648\u0633\u0648\u0645\u003C/span\u003E\n\t\t\t\t\u003C/div\u003E\n\t\t\t\t\u003Cdiv class=\"posts-lists\" data-section-name=\"tags\"\u003E\u003C/div\u003E\n\t\t\t\u003C/div\u003E\n\t\t\u003C/div\u003E\n\t\u003C/div\u003E\n\u003C/div\u003E","full_width":"1"};
+//# sourceURL=publisher-js-extra
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://qaseda.com/wp-content/themes/publisher/js/theme.min.js?ver=7.11.0" id="publisher-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://qaseda.com/wp-includes/js/comment-reply.min.js?ver=6.9" id="comment-reply-js" async="async" data-wp-strategy="async" fetchpriority="low"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://qaseda.com/wp-content/plugins/better-adsmanager/js/advertising.min.js?ver=1.21.0" id="better-advertising-js" data-rocket-defer defer></script>
+
+<script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {
+var tpek=function(t){"use strict";return{init:function(){0==tpek.ads_state()&&tpek.blocked_ads_fallback()},ads_state:function(){return void 0!==window.better_ads_adblock},blocked_ads_fallback:function(){var a=[];t(".tpek-container").each(function(){if("image"==t(this).data("type"))return 0;a.push({element_id:t(this).attr("id"),ad_id:t(this).data("adid")})}),a.length<1||jQuery.ajax({url:'https://qaseda.com/wp-admin/admin-ajax.php',type:"POST",data:{action:"better_ads_manager_blocked_fallback",ads:a},success:function(a){var e=JSON.parse(a);t.each(e.ads,function(a,e){t("#"+e.element_id).html(e.code)})}})}}}(jQuery);jQuery(document).ready(function(){tpek.init()});
+
+});</script>
+<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://qaseda.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script><script>function lazyLoadThumb(e,alt,l){var t='<img data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<button class="play" aria-label="Play Youtube video"></button>';if(l){t=t.replace('data-lazy-','');t=t.replace('loading="lazy"','');t=t.replace(/<noscript>.*?<\/noscript>/g,'');}t=t.replace('alt=""','alt="'+alt+'"');return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.parentNode.dataset.query.length?"":"&"+this.parentNode.dataset.query;e.setAttribute("src",t.replace("ID",this.parentNode.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow","accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.parentNode.replaceChild(e,this.parentNode)}document.addEventListener("DOMContentLoaded",function(){var exclusions=["-750x430.webp","single-featured","avatar","avatar-default","post-author-avatar","User-Avatar-Qaseda"];var e,t,p,u,l,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)(e=document.createElement("div")),(u='https://i.ytimg.com/vi/ID/hqdefault.jpg'),(u=u.replace('ID',a[t].dataset.id)),(l=exclusions.some(exclusion=>u.includes(exclusion))),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query",a[t].dataset.query),e.setAttribute("data-src",a[t].dataset.src),(e.innerHTML=lazyLoadThumb(a[t].dataset.id,a[t].dataset.alt,l)),a[t].appendChild(e),(p=e.querySelector(".play")),(p.onclick=lazyLoadYoutubeIframe)});</script>
+<script>(()=>{class RocketElementorPreload{constructor(){this.deviceMode=document.createElement("span"),this.deviceMode.id="elementor-device-mode-wpr",this.deviceMode.setAttribute("class","elementor-screen-only"),document.body.appendChild(this.deviceMode)}t(){let t=getComputedStyle(this.deviceMode,":after").content.replace(/"/g,"");this.animationSettingKeys=this.i(t),document.querySelectorAll(".elementor-invisible[data-settings]").forEach((t=>{const e=t.getBoundingClientRect();if(e.bottom>=0&&e.top<=window.innerHeight)try{this.o(t)}catch(t){}}))}o(t){const e=JSON.parse(t.dataset.settings),i=e.m||e.animation_delay||0,n=e[this.animationSettingKeys.find((t=>e[t]))];if("none"===n)return void t.classList.remove("elementor-invisible");t.classList.remove(n),this.currentAnimation&&t.classList.remove(this.currentAnimation),this.currentAnimation=n;let o=setTimeout((()=>{t.classList.remove("elementor-invisible"),t.classList.add("animated",n),this.l(t,e)}),i);window.addEventListener("rocket-startLoading",(function(){clearTimeout(o)}))}i(t="mobile"){const e=[""];switch(t){case"mobile":e.unshift("_mobile");case"tablet":e.unshift("_tablet");case"desktop":e.unshift("_desktop")}const i=[];return["animation","_animation"].forEach((t=>{e.forEach((e=>{i.push(t+e)}))})),i}l(t,e){this.i().forEach((t=>delete e[t])),t.dataset.settings=JSON.stringify(e)}static run(){const t=new RocketElementorPreload;requestAnimationFrame(t.t.bind(t))}}document.addEventListener("DOMContentLoaded",RocketElementorPreload.run)})();</script></body>
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1767356470 -->

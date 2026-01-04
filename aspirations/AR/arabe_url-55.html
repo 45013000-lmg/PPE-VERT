@@ -1,0 +1,1695 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="aliImg/logo.png" type="image/x-icon">
+    <!-- ملفات CSS -->
+    <link rel="stylesheet" href="aliCss/navBar1.css">
+    <link rel="stylesheet" href="aliCss/css24.1.7.css">
+    <link rel="stylesheet" href="aliCss/css25.0.0.4.css">
+	<link rel="stylesheet" href="aliCss/nightMode.0.0.0.css">
+    <link rel="stylesheet" href="aliCss/screen-resize.0.0.2.css">
+    <link rel="stylesheet" href="aliCss/font/font.css">
+    <link rel="stylesheet" href="aliCss/marquee.css">
+
+    <!-- ملفات JavaScript -->
+    <script src="aliJs/jquery-3.3.1.min.js"></script>
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0C5CWLLYW6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0C5CWLLYW6');
+</script>
+<!-- End Google Analytics -->
+
+
+<title> اللون الأخضـر ودلالته </title>
+
+      <meta charset="utf-8"> 
+      <meta property="og:url"                content="http://almerja.com/more.php?idm=231533" />
+      <meta property="og:type"               content="الأخبار" />
+      <meta property="og:title"              content="اللون الأخضـر ودلالته" />
+      <meta property="og:description"        content="اللون الأخضـر ودلالته" />
+      <meta property="og:image"              content="https://almerja.com/aliImg/logo.png" />
+
+</head>
+<body dir="rtl" data-mode="light">
+    
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PDR2RZQH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->    
+    
+<div id="setting" style="top: 160px;">
+	<img id="setting-icon" src="aliImg/setting.png" />
+	<div id="list">
+		<div style="display: flex;align-items: center;justify-content: space-around;">
+			الوضع الليلي
+			<div class="web_mode">
+				<img src="aliImg/moon.svg" />
+			</div>
+		</div>
+		<div>
+			انماط الصفحة الرئيسية 
+			<img src="aliImg/left_ddd.png" />
+				<p onClick="indexMode(1)"><a href="index1.php">النمط الأول</a></p>
+				<p onClick="indexMode(2)"><a href="index2.php">النمط الثاني</a></p>			
+		</div>
+	</div>
+</div>
+	<div id="intNightMode">0</div>	
+	
+	
+	
+<div id="loader">
+  <div class="spinner"></div>
+</div>
+<div id="content" style="display: none;">
+			
+<style>
+#header{
+	position: sticky;
+	top: 0;
+	z-index: 10;
+	background-color: rgba(0,96,151,1);
+	border-bottom: 3px solid #008ec5;
+	padding: 0px 20px;
+	display: flex;
+	align-items: center;
+	justify-content:space-around;
+	color: #fff;
+	user-select: none;
+}
+#header #h_r{
+	display: flex;
+	align-items: center;
+	padding: 5px;
+}
+#header #h_r p:nth-child(1){
+	width: 35px;
+	height: 35px;
+	background-color: #fff;
+	border-radius: 50%;
+	margin-left: 10px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+}
+#header #h_r p a{
+	display: flex;
+	align-items: center;
+	text-align: center;		
+}
+#header #h_r p:nth-child(1) img{
+	width: 35px;
+	height: auto;
+}
+#header #h_r p:nth-child(2){
+	display: flex;
+	align-items: center;
+}
+#header #h_r p:nth-child(2) img{
+	width: 200px;
+	height: auto;
+}
+.h_c{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+.h_c a{text-decoration: none;}
+.h_c p{
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	position: relative;
+	text-align: center;
+	min-width: 60px;
+	min-height: 28px;
+	max-height: 35px;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	font-family: aliMath;
+}
+.h_c p span{
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);	
+	transition: all 0.2s ease;
+	bottom: -40px;
+	color: #eee;
+	font-weight: bold;
+}
+.h_c img{
+	position: relative;
+	transition: all 0.2s ease;
+	width: 30px;
+}
+.h_c p{
+	transition: all 0.1s ease;
+	border-radius: 10px;
+}
+	#header .h_c p:hover{
+		color: rgba(0,96,151,1);
+		background-color: #fff;
+	}
+#header .h_c p:hover img{
+	transform: translateY(-130%) scale(0);
+}
+#header .h_c p:hover span{
+	color: rgba(0,96,151,1);
+	bottom: -50%;
+	transform: translate(-50%,-65%);
+}
+.h_l{
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+}
+.h_l span{
+	position: relative;
+	background: -webkit-linear-gradient(290deg, rgb(233, 222, 250) 0%, rgb(251, 252, 219) 100%);
+	background: -o-linear-gradient(290deg, rgb(233, 222, 250) 0%, rgb(251, 252, 219) 100%);
+	background: linear-gradient(20deg, rgb(233, 222, 250) 0%, rgb(251, 252, 219) 100%);
+	color: rgba(0,96,151,0.9);
+	padding: 2.5px 6px;
+	border-radius: 10px;
+	margin-top: 2px;
+	font-family: tahoma;
+	font-size: 14px;
+	font-weight: bold;
+	transition: all 0.3s ease;
+}
+.h_l span:hover{
+	transform: scale(1.2);
+}
+.h_l a{
+	text-decoration: none;
+	color: #fff;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.h_l a:hover{
+	color: #FFDE4D;
+}
+.h_l img{
+	width: 23px;
+	height: auto;
+	margin: 0 5px;
+	position: relative;
+	transition: all 0.3s ease;
+}
+.h_l img:hover{
+	transform: scale(1.2);
+}
+.hiddenList{
+	transform: scale(0.1) rotate(45deg);
+	opacity: 0;
+	min-width: 180px;
+	padding: 20px 10px;
+	position: fixed;
+	z-index: 3;
+	transition: all 0.3s ease;
+	top: 60px;
+	left: -210px;
+	background: linear-gradient(109.6deg, rgb(69, 179, 224) 11.2%, rgb(102, 51, 153) 100.2%);
+	background-size: cover;
+	border-radius: 10px;
+	border: 1px solid #ddd;
+}
+	.hiddenList_action{
+		transform: translateX(220px) scale(1);
+		opacity: 0.8;
+	}
+	.hiddenList .h_l{		
+		justify-content: center;
+		padding: 5px;
+		border-radius: 20px;
+		border: 2px solid rgba(255,255,255,0.2);
+	}
+	.hiddenList .h_c{
+		margin-top: 20px;
+		display: block;
+	}
+	.hiddenList .h_c p{
+		width: auto;
+		justify-content: flex-start;
+		position: relative;
+		transition: all 0.3s ease;
+		margin-top: 2px;
+	}
+	.hiddenList .h_c p:hover{
+		padding-right: 10px;
+	}
+	.hiddenList .h_c span{
+		position:static;
+	}
+	.hiddenList .h_c p a{
+		display: flex;	
+		align-items: center;
+	}	
+	/*Nav Icon */
+.nav-icon-5{
+  width: 35px;
+  height: 30px;
+  margin: 0px 10px;
+  position: fixed;
+  z-index: 999;
+  left: 10px;
+  top: 9px;
+  cursor: pointer;
+  display: none;
+}
+.nav-icon-5 span{
+  background-color: #fff;
+  position: absolute;
+  border-radius: 2px;
+  transition: .3s cubic-bezier(.8, .5, .2, 1.4);
+  width:100%;
+  height: 4px;
+  transition-duration: 500ms
+}
+.nav-icon-5:hover span{
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+.nav-icon-5 span:nth-child(1){
+  top:0px;
+  left: 0px;
+}
+.nav-icon-5 span:nth-child(2){
+  top:10px;
+  left: 0px;
+  opacity:1;
+}
+.nav-icon-5 span:nth-child(3){
+  bottom:6px;
+  left: 0px;
+}
+.web_mode{
+	width: 40px;height: 40px;border-radius:50%;background-color:#006097;display: flex;align-items: center;justify-content:center;
+}
+.web_mode img{
+	max-width:25px;height: auto;
+}
+@media only screen and (max-width: 1150px) {
+	#header{
+		justify-content: flex-start;
+	}
+	#header .h_l{
+		display: none;
+	}
+	.nav-icon-5{
+		display: block;
+	}
+}
+@media only screen and (max-width: 1000px) {
+	#header .h_c{
+		display: none;
+	}
+}		
+</style>	
+	
+  <div class="icon nav-icon-5">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+
+	
+	
+	
+<div id="header">
+	<div id="h_r">
+		<p>
+			<a href="https://almerja.com/">
+				<img style="margin-left: 10px;" src="https://almerja.com/aliImg/img24/logo.png" />
+			</a>
+		</p>
+		<p>
+			<a href="https://almerja.com/">
+				<img src="https://almerja.com/aliImg/img24/webName.png" />
+			</a>
+		</p>
+	</div>
+	<div class="h_c">
+		<p>
+			<a href="index.php">
+				<img src="https://almerja.com/aliImg/img24/home.svg" />
+				<span> الرئيسية </span>
+			</a>
+		</p>		
+		<p>
+			<a href="https://www.almerja.com/almerjaNews.php">
+				<img src="https://almerja.com/aliImg/img24/news.svg" />
+				<span> الأخبار </span>
+			</a>
+		</p>		
+		<p>
+			<a href="https://almerja.com/ph">
+				<img src="https://almerja.com/aliImg/img24/ph.svg" />
+				<span> صور </span>
+			</a>
+		</p>
+		<p>
+			<a href="https://almerja.com/video/">
+				<img src="https://almerja.com/aliImg/img24/video.svg" />
+				<span> فيديو </span>
+			</a>
+		</p>
+		<p>
+			<a href="https://almerja.com/sound/">
+				<img src="https://almerja.com/aliImg/img24/sound.svg" />
+				<span> صوت </span>
+			</a>
+		</p>	
+		<p>
+			<a href="https://www.almerja.com/aklam/index.php">
+				<img src="https://almerja.com/aliImg/img24/aklam.png" />
+				<span> أقلام </span>
+			</a>
+		</p>
+		<p>
+			<a href="https://www.almerja.com/key/index.php">
+				<img src="https://www.almerja.com/aliImg/img24/key.svg" />
+				<span> مفتاح </span>
+			</a>
+		</p>		
+		<p>
+			<a href="https://almerja.com/reshafat/">
+				<img src="https://almerja.com/aliImg/img24/rashafat.svg" />
+				<span> رشفات </span>
+			</a>
+		</p>		
+		<p>
+			<a href="https://www.almerja.com/mshkat/">
+				<img src="https://almerja.com/aliImg/img24/mshkat.svg" />
+				<span> المشكاة </span>
+			</a>
+		</p>
+		<p>
+			<a href="https://almerja.com/leaflet/index.php">
+				<img src="https://almerja.com/aliImg/img24/mnshoor_w.png" />
+				<span> منشور </span>
+			</a>
+		</p>
+		<p>
+			<a href="https://www.almerja.com/azaat/index.php">
+				<img src="https://almerja.com/aliImg/img24/idea.svg" />
+				<span> اضاءات </span>
+			</a>
+		</p>		
+		<p>
+			<a href="https://www.almerja.com/thaqef/index.php">
+				<img src="https://almerja.com/aliImg/img24/thaqef.png" />
+				<span> ثقف </span>
+			</a>
+		</p>
+		<p>
+			<a href="https://www.almerja.com/story.php">
+				<img src="https://almerja.com/aliImg/story.png" />
+				<span> قصص </span>
+			</a>
+		</p>		
+	</div>
+	<div class="h_l">
+		<a href="https://www.youtube.com/@almerja"><img src="https://almerja.com/aliImg/img24/youtube.svg" /></a>
+		<a href="https://www.facebook.com/almerjawebsite"><img src="https://almerja.com/aliImg/img24/facebook.svg" /></a>
+		<a href="https://t.me/almerjaweb"><img src="https://almerja.com/aliImg/img24/telegram.svg" /></a>
+		<a href="https://www.tiktok.com/@almerja"><img src="https://almerja.com/aliImg/img24/tiktok.svg" /></a>
+		<a href="https://almerja.com/en/">
+			<span>EN</span>
+		</a>
+	</div>
+</div>
+<!--	<div id="en" style="display: flex;">
+		<div class="enGo" alt="en">
+			<span><a href="en/">EN</a></span>
+		</div>	
+	</div> -->
+
+
+
+
+<div class="hiddenList">
+	<div class="h_l">1</div>
+	<div class="h_c"></div>	
+</div>	
+
+
+
+<script>
+
+	var SoHiddenList = $('#header .h_l').html();
+	var webSec = $('#header .h_c').html();
+	$('.hiddenList .h_l').html(SoHiddenList);
+	$('.hiddenList .h_c').html(webSec);
+	
+	
+
+
+	$('.nav-icon-5').click(function(){
+		$('.hiddenList').fadeIn().toggleClass('hiddenList_action');
+	})
+
+$(window).resize(function() {
+    //do something
+
+    var width = $(document).width();
+    if(width>930){
+		$('.hiddenList').removeClass('hiddenList_action');
+	}
+});	
+	
+	
+	
+</script>		
+
+			<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>المرجع الالكتروني للمعلوماتية</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="images/ico.png" type="image/x-icon">
+<script src="images/icon_serch/jquery-3.6.0.min.js"></script>
+<link rel="stylesheet" href="images/icon_serch/style_serch2024.css">
+</head>
+<body dir="rtl"  style="font-family: 'rasol01';">
+ <center> 
+ <form id="search-form"  method="POST"  dir="rtl" style="font-family: rasol02" > 
+ <input id="textarea-from" name="search" autocomplete="off" type="text"  style="height:50px;  margin-top: 5px;border: 1px solid #025f94 ;background: #e5f4fd; color: #025f94; width: 95%; border-radius: 20px; padding: 5px; font-size: 20px"  autocomplet="false" />  
+<div id="typ" style="display:none; margin-top:10px ; background: #006097; color: #FFFFFF ; min-width:200px ;max-width: 520px; padding: 10px; border-radius: 10px;margin-top: 10px;font-size: 14px; ">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" dir="rtl">
+      <tbody>
+        <tr>
+          <td> بحث بواسطة :</td>
+          <td>نوع البحث :</td>
+        </tr>
+        <tr>
+          <td>
+			  <input type="radio"  id="field-tt" name="ch" value="1" checked="checked"><span class="rad_chis"> بحث في الفهارس  </span>
+		  </td>
+          <td><input type="radio" checked="checked"  id="type-flexible" name="chc" value="1"><span class="rad_chis">  جميع الكلمات  </span></td>
+        </tr>
+        <tr>
+          <td><input type="radio" id="field-ff" name="ch" value="2"><span class="rad_chis">   بحث في اسماء الكتب  </span></td>
+          <td><input type="radio" id="chc" name="chc" value="2"><span class="rad_chis">  بحث مطابق  </span></td>
+        </tr>
+        <tr>
+          <td><input type="radio" id="field-kk" name="ch" value="3"><span class="rad_chis">  بحث في اسماء المؤلفين  </span></td>
+          <td></td>
+        </tr>
+		  <tr>
+          <td id="mhtowa"> </td>
+          <td></td>
+        </tr>
+		  
+		   
+      </tbody>
+    </table>
+ </div>
+ 
+<div style="font-weight: bold" >
+	<div class="row"> 
+	 <input class="node2" type="submit" id="ulmenlispan" style="width:150px ; display:none ; margin-top:10px" value="بحث في قسم"  /> 
+     <nav id="cbp-hrmenu" class="cbp-hrmenu row"  style="font-weight: bold" >
+	 <div id="stop_btn-convert-voice" onClick="Stop_serch_mic()"  style="display: none ; margin-top:10px ">
+		<img src="images/mic.gif" width="30"  height="30" style="cursor:pointer; margin:0px 10px -5px 0px; " />
+		تحدث الان 
+	 </div> 
+	 <img class="srch_set_icon" src="images/index4_15.png" width="25" height="25" style="cursor:pointer; margin:0px 10px -5px 0px;" onclick="typ()"/>
+	 <!-- sound 
+	 <img src="images/mic.png" width="25" height="25" style="cursor:pointer; margin:0px 10px -5px 0px;" id="btn-convert-voice"/>
+     <select class="search-button" id="convert-from" style="display: inline-block; margin-top:5px ;  border-style: none;  font-family: 'rasol01'; font-weight:bold">
+        <option>en (English)</option>
+        <option>ar (العربية)</option>
+     </select>
+       -->
+	 <bottom class="node search-button"  onclick="performSearch(1)" style="display: inline-block; margin-top:10px ;  border-style: none;  font-weight: bold" />بحث</bottom> 
+     <input   onClick="onclv()" type="button"  class="node1 search-button" id="bottbloy" style="display: inline-block; margin-top:10px ;  border-style: none;  font-family: 'rasol01'; font-weight:bold"    value="بحث في الاقسام" />
+	</nav>
+	</div>	 
+	<div class="row"> 
+     <div id="aos-demo" class=" row aos-all " style="display:none ; width: 100%;    border:1px solid #08467f; border-radius: 10px ;border-style: none; color: #fff;font-weight: bold; " align="center" >
+      <div class="cat_slect" onclick="stsm(99999999)" id="tix99999999" >كل الأقسام</div>
+             <div class="cat_slect" onclick="stsm(1)" id="tix1" >القرآن الكريم وعلومه</div>
+		     <div class="cat_slect" onclick="stsm(240)" id="tix240" >العقائد الاسلامية </div>
+		     <div class="cat_slect" onclick="stsm(703)" id="tix703" >الفقه الاسلامي واصوله</div>
+		     <div class="cat_slect" onclick="stsm(242)" id="tix242" >الحديث والرجال والتراجم</div>
+		     <div class="cat_slect" onclick="stsm(241)" id="tix241" >سيرة الرسول وآله</div>
+		     <div class="cat_slect" onclick="stsm(2089)" id="tix2089" >الاخلاق و الادعية </div>
+		     <div class="cat_slect" onclick="stsm(109)" id="tix109" > الاسرة و المجتمع</div>
+		     <div class="cat_slect" onclick="stsm(244)" id="tix244" >علوم اللغة العربية </div>
+		     <div class="cat_slect" onclick="stsm(556)" id="tix556" > الأدب الــعربــي</div>
+		     <div class="cat_slect" onclick="stsm(899)" id="tix899" >التاريخ</div>
+		     <div class="cat_slect" onclick="stsm(1845)" id="tix1845" >الجغرافية</div>
+		     <div class="cat_slect" onclick="stsm(900)" id="tix900" >الإدارة و الاقتصاد</div>
+		     <div class="cat_slect" onclick="stsm(973)" id="tix973" > القانون</div>
+		     <div class="cat_slect" onclick="stsm(10000239)" id="tix10000239" >الإعلام</div>
+		     <div class="cat_slect" onclick="stsm(706)" id="tix706" >الزراعة</div>
+		     <div class="cat_slect" onclick="stsm(705)" id="tix705" >علم الفيزياء</div>
+		     <div class="cat_slect" onclick="stsm(704)" id="tix704" >علم الكيمياء</div>
+		     <div class="cat_slect" onclick="stsm(708)" id="tix708" >علم الاحياء</div>
+		     <div class="cat_slect" onclick="stsm(707)" id="tix707" >الرياضيات</div>
+		     <div class="cat_slect" onclick="stsm(21)" id="tix21" >الهندسة المدنية</div>
+		     <div class="cat_slect" onclick="stsm(809)" id="tix809" >الاخبار</div>
+		     <div class="cat_slect" onclick="stsm(7633)" id="tix7633" >English Language</div>
+      </div>
+	</div>
+       
+	
+     <select name="ida"  style="display:none "><option class="no" value="99999999"></option></select> 
+	 <input type="hidden" value="2" name="ip">
+</div>	
+	 
+	 
+ </form>  
+     <div id="results_sr" class="result-container"></div>
+
+    <script>
+ 
+         $(document).ready(function() {
+            $('#search-form').on('keypress', function(event) {
+                if (event.which === 13) {  
+                    event.preventDefault();  
+                    performSearch(1);  
+                }
+            });
+        });
+ function performSearch(page) {
+        const formData = $("#search-form").serializeArray();
+        const form = document.createElement("form");
+        form.method = "POST";
+        form.action = "search_app.php";
+
+        formData.forEach(item => {
+            const input = document.createElement("input");
+            input.type = "hidden";
+            input.name = item.name;
+            input.value = item.value;
+            form.appendChild(input);
+        });
+
+        const pageInput = document.createElement("input");
+        pageInput.type = "hidden";
+        pageInput.name = "page";
+        pageInput.value = page;
+        form.appendChild(pageInput);
+
+        document.body.appendChild(form);
+        form.submit();
+      }
+    function goToPage(page) {
+        performSearch(page);
+    } 
+		
+	
+
+ 
+    </script>
+
+	 
+	</center>
+    <script src="css/Translator.js"></script>
+    <script type="text/javascript">
+      function stsm(x) {
+		 $('.no').val(x);
+		 $('.aos-all').fadeOut();
+		 $('.bgraundcat').hide();
+		 $('#field-tt').prop('checked', true);
+		 $('#mhtowa').load('images/icon_serch/m_load_mhtowselect.php?id='+x) ;
+		 $('.node1').val($('#tix'+x).text());
+		 $('.node').val('بحث في قسم')
+	 }
+	   function showdiv(){
+		   $('.aos-all').show();
+		   $('.bgraundcat').show();
+		  }
+         function typ(){
+	      $('#typ').toggle(1500);
+         }
+ 
+		     
+			 function Stop_serch_mic(){
+				mySpeechRecognition.stop();
+				var imjf=document.getElementById('stop_btn-convert-voice');
+			 this.style.display = "block";
+			 imjf.style.display = "none";
+			}
+
+		
+	 var translator = new Translator();
+
+        function getOption(language) {
+            var option = document.createElement('option');
+            option.value = language.language;
+            if(language.name) {
+                option.innerHTML = language.name + ' (' + language.language + ')'
+            }
+            else {
+                option.innerHTML = language.language;
+            }
+
+            if(language.language == 'en') {
+                option.selected = true;
+            }
+
+            return option;
+        }
+
+        var convertFrom = document.getElementById('convert-from');
+        
+
+        translator.getListOfLanguages(function(languages) {
+            if(!(languages instanceof Array)) return;
+
+            convertFrom.innerHTML = '';
+             
+
+            languages.forEach(function(language) {
+                var option = getOption(language);
+                convertFrom.appendChild(option);
+
+                var option2 = getOption(language);
+                convertInto.appendChild(option2);
+            });
+
+            //localStorageGetItem();
+
+            var blockquote = document.getElementById('blockquote');
+            blockquote.style.display = 'block';
+            blockquote.innerHTML = 'يمكنك ترجمة صوتك ونصوصك بين ملفات <strong class="highlight">' + languages.length + '</strong> ';
+        });
+        
+        var textareaFrom = document.getElementById('textarea-from');
+        
+        
+        function getLanguages() {
+            var from = document.getElementById('convert-from').value.split(' (')[0];
+            
+            
+            return {
+                from: from,
+                 
+            };
+        }
+        
+        document.getElementById('btn-convert-voice').onclick = function() {
+             var imjf=document.getElementById('stop_btn-convert-voice');
+			 this.style.display = "none";
+			 imjf.style.display = "block";
+            var languages = getLanguages();
+            
+            translator.voiceToText(function(text) {
+                textareaFrom.value = text; 
+				performSearch(1)
+                mySpeechRecognition.stop();
+                document.getElementById('btn-convert-text').onclick(true);
+            }, languages.from);
+        };
+        
+        document.getElementById('convert-from').onchange = function() {
+            localStorage.setItem('convert-from', this.value);
+        };
+        textareaFrom.onchange = function() {
+            localStorage.setItem('textarea-from', this.value);
+        };
+        
+        function localStorageGetItem() {
+            if(localStorage.getItem('convert-from')) {
+                document.getElementById('convert-from').value = localStorage.getItem('convert-from');
+            }
+             if(localStorage.getItem('textarea-from')) {
+                textareaFrom.value = localStorage.getItem('textarea-from');
+            }
+            
+           
+        }
+ 
+		
+			$(function() {
+				cbpHorizontalMenu.init();
+			});
+		    function onclv(){
+	          $("#aos-demo").show();
+            } ;
+	    
+            $(".hover").mouseleave(
+              function () {
+                $(this).removeClass("hover");
+              }
+            );
+        </script>	
+
+</body>
+</html> 
+
+ 
+
+<style>
+	.web_mode_night_blackBg  p:hover{
+		color: red
+	}
+	.archive-p .web_mode_night_color1 a:hover{
+		color: #f9cc83 !important;
+	}
+</style>
+<div class="Mcontainer">
+	<div class="rNews-content">
+		
+		<div>	
+            <div>
+				<div class="fTitle"><img src="aliImg/z.png"><p><a href="archive.php?fid=1">علوم القرآن</a></p></div><div class="archive-list">
+				<div class="list" onclick="drop(2)" ><p><img class="plus2 list_p" src="aliImg/plus.png" /><img class="minus2 list_m" src="aliImg/minus.png" /></p><p>تأملات قرآنية</p></div><div class="drop2 mainDiv"><div class="list" onclick="pagination(1,10,'مصطلحات قرآنية ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>مصطلحات قرآنية </p></div><div class="list" onclick="pagination(1,11,'هل تعلم ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>هل تعلم </p></div></div><div class="list" onclick="drop(3)" ><p><img class="plus3 list_p" src="aliImg/plus.png" /><img class="minus3 list_m" src="aliImg/minus.png" /></p><p>علوم القرآن</p></div><div class="drop3 mainDiv"><div class="list" onclick="pagination(1,12,'أسباب النزول  ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>أسباب النزول  </p></div><div class="list" onclick="drop(13)" ><p><img class="plus13 list_p" src="aliImg/plus.png" /><img class="minus13 list_m" src="aliImg/minus.png" /></p><p>التفسير والمفسرون</p></div><div class="drop13 mainDiv"><div class="list" onclick="drop(49)" ><p><img class="plus49 list_p" src="aliImg/plus.png" /><img class="minus49 list_m" src="aliImg/minus.png" /></p><p>التفسير</p></div><div class="drop49 mainDiv"><div class="list" onclick="pagination(1,53,'مفهوم التفسير')"><p><img class="list_l" src="aliImg/left.png" /></p><p>مفهوم التفسير</p></div><div class="list" onclick="pagination(1,54,'التفسير الموضوعي')"><p><img class="list_l" src="aliImg/left.png" /></p><p>التفسير الموضوعي</p></div></div><div class="list" onclick="pagination(1,50,'التأويل')"><p><img class="list_l" src="aliImg/left.png" /></p><p>التأويل</p></div><div class="list" onclick="drop(51)" ><p><img class="plus51 list_p" src="aliImg/plus.png" /><img class="minus51 list_m" src="aliImg/minus.png" /></p><p>مناهج التفسير</p></div><div class="drop51 mainDiv"><div class="list" onclick="pagination(1,56,'منهج تفسير القرآن بالقرآن ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>منهج تفسير القرآن بالقرآن </p></div><div class="list" onclick="pagination(1,57,'منهج التفسير الفقهي ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>منهج التفسير الفقهي </p></div><div class="list" onclick="pagination(1,58,'منهج التفسير الأثري أو الروائي ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>منهج التفسير الأثري أو الروائي </p></div><div class="list" onclick="pagination(1,59,'منهج التفسير الإجتهادي')"><p><img class="list_l" src="aliImg/left.png" /></p><p>منهج التفسير الإجتهادي</p></div><div class="list" onclick="pagination(1,60,'منهج التفسير الأدبي')"><p><img class="list_l" src="aliImg/left.png" /></p><p>منهج التفسير الأدبي</p></div><div class="list" onclick="pagination(1,61,'منهج التفسير اللغوي')"><p><img class="list_l" src="aliImg/left.png" /></p><p>منهج التفسير اللغوي</p></div><div class="list" onclick="pagination(1,62,'منهج التفسير العرفاني')"><p><img class="list_l" src="aliImg/left.png" /></p><p>منهج التفسير العرفاني</p></div><div class="list" onclick="pagination(1,63,'منهج التفسير بالرأي')"><p><img class="list_l" src="aliImg/left.png" /></p><p>منهج التفسير بالرأي</p></div><div class="list" onclick="pagination(1,64,'منهج التفسير العلمي')"><p><img class="list_l" src="aliImg/left.png" /></p><p>منهج التفسير العلمي</p></div><div class="list" onclick="pagination(1,65,'مواضيع عامة في المناهج')"><p><img class="list_l" src="aliImg/left.png" /></p><p>مواضيع عامة في المناهج</p></div></div><div class="list" onclick="drop(52)" ><p><img class="plus52 list_p" src="aliImg/plus.png" /><img class="minus52 list_m" src="aliImg/minus.png" /></p><p>التفاسير وتراجم مفسريها</p></div><div class="drop52 mainDiv"><div class="list" onclick="pagination(1,76,'التفاسير')"><p><img class="list_l" src="aliImg/left.png" /></p><p>التفاسير</p></div><div class="list" onclick="pagination(1,77,'تراجم المفسرين')"><p><img class="list_l" src="aliImg/left.png" /></p><p>تراجم المفسرين</p></div></div></div><div class="list" onclick="drop(14)" ><p><img class="plus14 list_p" src="aliImg/plus.png" /><img class="minus14 list_m" src="aliImg/minus.png" /></p><p>القراء والقراءات</p></div><div class="drop14 mainDiv"><div class="list" onclick="pagination(1,78,'القرآء')"><p><img class="list_l" src="aliImg/left.png" /></p><p>القرآء</p></div><div class="list" onclick="pagination(1,79,'رأي المفسرين في القراءات')"><p><img class="list_l" src="aliImg/left.png" /></p><p>رأي المفسرين في القراءات</p></div></div><div class="list" onclick="pagination(1,15,'تحليل النص القرآني')"><p><img class="list_l" src="aliImg/left.png" /></p><p>تحليل النص القرآني</p></div><div class="list" onclick="pagination(1,16,'أحكام التلاوة ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>أحكام التلاوة </p></div><div class="list" onclick="drop(17)" ><p><img class="plus17 list_p" src="aliImg/plus.png" /><img class="minus17 list_m" src="aliImg/minus.png" /></p><p>تاريخ القرآن</p></div><div class="drop17 mainDiv"><div class="list" onclick="pagination(1,22,'جمع وتدوين القرآن')"><p><img class="list_l" src="aliImg/left.png" /></p><p>جمع وتدوين القرآن</p></div><div class="list" onclick="pagination(1,45,'التحريف ونفيه عن القرآن')"><p><img class="list_l" src="aliImg/left.png" /></p><p>التحريف ونفيه عن القرآن</p></div><div class="list" onclick="pagination(1,46,'نزول القرآن')"><p><img class="list_l" src="aliImg/left.png" /></p><p>نزول القرآن</p></div></div><div class="list" onclick="pagination(1,18,'الناسخ والمنسوخ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الناسخ والمنسوخ</p></div><div class="list" onclick="pagination(1,19,'المحكم والمتشابه ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>المحكم والمتشابه </p></div><div class="list" onclick="pagination(1,20,'المكي والمدني')"><p><img class="list_l" src="aliImg/left.png" /></p><p>المكي والمدني</p></div><div class="list" onclick="pagination(1,23,'الأمثال في القرآن')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الأمثال في القرآن</p></div><div class="list" onclick="pagination(1,24,'فضائل السور')"><p><img class="list_l" src="aliImg/left.png" /></p><p>فضائل السور</p></div><div class="list" onclick="pagination(1,25,'مواضيع عامة في علوم القرآن')"><p><img class="list_l" src="aliImg/left.png" /></p><p>مواضيع عامة في علوم القرآن</p></div><div class="list" onclick="pagination(1,80,'فضائل اهل البيت القرآنية')"><p><img class="list_l" src="aliImg/left.png" /></p><p>فضائل اهل البيت القرآنية</p></div><div class="list" onclick="pagination(1,108,'الشفاء في القرآن')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الشفاء في القرآن</p></div><div class="list" onclick="pagination(1,346,'رسم وحركات القرآن')"><p><img class="list_l" src="aliImg/left.png" /></p><p>رسم وحركات القرآن</p></div><div class="list" onclick="pagination(1,456,'القسم في القرآن')"><p><img class="list_l" src="aliImg/left.png" /></p><p>القسم في القرآن</p></div><div class="list" onclick="pagination(1,7854,'اشباه ونظائر')"><p><img class="list_l" src="aliImg/left.png" /></p><p>اشباه ونظائر</p></div><div class="list" onclick="pagination(1,7855,'آداب قراءة القرآن')"><p><img class="list_l" src="aliImg/left.png" /></p><p>آداب قراءة القرآن</p></div></div><div class="list" onclick="drop(4)" ><p><img class="plus4 list_p" src="aliImg/plus.png" /><img class="minus4 list_m" src="aliImg/minus.png" /></p><p>الإعجاز القرآني</p></div><div class="drop4 mainDiv"><div class="list" onclick="pagination(1,26,'الوحي القرآني ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الوحي القرآني </p></div><div class="list" onclick="pagination(1,27,'الصرفة وموضوعاتها ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الصرفة وموضوعاتها </p></div><div class="list" onclick="pagination(1,28,'الإعجاز الغيبي ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الإعجاز الغيبي </p></div><div class="list" onclick="pagination(1,29,'الإعجاز العلمي والطبيعي ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الإعجاز العلمي والطبيعي </p></div><div class="list" onclick="pagination(1,30,'الإعجاز البلاغي والبياني')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الإعجاز البلاغي والبياني</p></div><div class="list" onclick="pagination(1,31,'الإعجاز العددي')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الإعجاز العددي</p></div><div class="list" onclick="pagination(1,32,'مواضيع إعجازية عامة  ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>مواضيع إعجازية عامة  </p></div></div><div class="list" onclick="drop(5)" ><p><img class="plus5 list_p" src="aliImg/plus.png" /><img class="minus5 list_m" src="aliImg/minus.png" /></p><p>قصص قرآنية</p></div><div class="drop5 mainDiv"><div class="list" onclick="drop(33)" ><p><img class="plus33 list_p" src="aliImg/plus.png" /><img class="minus33 list_m" src="aliImg/minus.png" /></p><p>قصص الأنبياء</p></div><div class="drop33 mainDiv"><div class="list" onclick="pagination(1,86,'قصة النبي ابراهيم وقومه')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قصة النبي ابراهيم وقومه</p></div><div class="list" onclick="pagination(1,87,'قصة النبي إدريس وقومه')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قصة النبي إدريس وقومه</p></div><div class="list" onclick="pagination(1,88,'قصة النبي اسماعيل')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قصة النبي اسماعيل</p></div><div class="list" onclick="pagination(1,89,'قصة النبي ذو الكفل')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قصة النبي ذو الكفل</p></div><div class="list" onclick="pagination(1,91,'قصة النبي لوط وقومه')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قصة النبي لوط وقومه</p></div><div class="list" onclick="pagination(1,92,'قصة النبي موسى وهارون وقومهم')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قصة النبي موسى وهارون وقومهم</p></div><div class="list" onclick="pagination(1,94,'قصة النبي داوود وقومه')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قصة النبي داوود وقومه</p></div><div class="list" onclick="pagination(1,95,'قصة النبي زكريا وابنه يحيى')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قصة النبي زكريا وابنه يحيى</p></div><div class="list" onclick="pagination(1,96,'قصة النبي شعيب وقومه')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قصة النبي شعيب وقومه</p></div><div class="list" onclick="pagination(1,97,'قصة النبي سليمان وقومه')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قصة النبي سليمان وقومه</p></div><div class="list" onclick="pagination(1,98,'قصة النبي صالح وقومه')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قصة النبي صالح وقومه</p></div><div class="list" onclick="pagination(1,100,'قصة النبي نوح وقومه')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قصة النبي نوح وقومه</p></div><div class="list" onclick="pagination(1,101,'قصة النبي هود وقومه')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قصة النبي هود وقومه</p></div><div class="list" onclick="pagination(1,102,'قصة النبي إسحاق ويعقوب ويوسف')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قصة النبي إسحاق ويعقوب ويوسف</p></div><div class="list" onclick="pagination(1,103,'قصة النبي يونس وقومه')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قصة النبي يونس وقومه</p></div><div class="list" onclick="pagination(1,104,'قصة النبي إلياس واليسع')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قصة النبي إلياس واليسع</p></div><div class="list" onclick="pagination(1,105,'قصة ذي القرنين وقصص أخرى')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قصة ذي القرنين وقصص أخرى</p></div><div class="list" onclick="pagination(1,106,'قصة نبي الله آدم')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قصة نبي الله آدم</p></div><div class="list" onclick="pagination(1,107,'قصة نبي الله عيسى وقومه')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قصة نبي الله عيسى وقومه</p></div><div class="list" onclick="pagination(1,347,'قصة النبي أيوب وقومه')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قصة النبي أيوب وقومه</p></div><div class="list" onclick="pagination(1,7875,'قصة النبي محمد صلى الله عليه وآله')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قصة النبي محمد صلى الله عليه وآله</p></div></div><div class="list" onclick="drop(34)" ><p><img class="plus34 list_p" src="aliImg/plus.png" /><img class="minus34 list_m" src="aliImg/minus.png" /></p><p>سيرة النبي والائمة </p></div><div class="drop34 mainDiv"><div class="list" onclick="pagination(1,82,'سيرة الإمام المهدي ـ عليه السلام')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سيرة الإمام المهدي ـ عليه السلام</p></div><div class="list" onclick="pagination(1,83,'سيرة الامام علي ـ عليه السلام')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سيرة الامام علي ـ عليه السلام</p></div><div class="list" onclick="pagination(1,84,'سيرة النبي محمد صلى الله عليه وآله')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سيرة النبي محمد صلى الله عليه وآله</p></div><div class="list" onclick="pagination(1,85,'مواضيع عامة في سيرة النبي  والأئمة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>مواضيع عامة في سيرة النبي  والأئمة</p></div></div><div class="list" onclick="drop(36)" ><p><img class="plus36 list_p" src="aliImg/plus.png" /><img class="minus36 list_m" src="aliImg/minus.png" /></p><p>حضارات</p></div><div class="drop36 mainDiv"><div class="list" onclick="pagination(1,73,'مقالات عامة من التاريخ الإسلامي')"><p><img class="list_l" src="aliImg/left.png" /></p><p>مقالات عامة من التاريخ الإسلامي</p></div><div class="list" onclick="pagination(1,74,'العصر الجاهلي قبل الإسلام')"><p><img class="list_l" src="aliImg/left.png" /></p><p>العصر الجاهلي قبل الإسلام</p></div><div class="list" onclick="pagination(1,75,'اليهود')"><p><img class="list_l" src="aliImg/left.png" /></p><p>اليهود</p></div></div><div class="list" onclick="pagination(1,37,'مواضيع عامة في القصص القرآنية')"><p><img class="list_l" src="aliImg/left.png" /></p><p>مواضيع عامة في القصص القرآنية</p></div></div><div class="list" onclick="drop(6)" ><p><img class="plus6 list_p" src="aliImg/plus.png" /><img class="minus6 list_m" src="aliImg/minus.png" /></p><p>العقائد في القرآن</p></div><div class="drop6 mainDiv"><div class="list" onclick="drop(38)" ><p><img class="plus38 list_p" src="aliImg/plus.png" /><img class="minus38 list_m" src="aliImg/minus.png" /></p><p>أصول</p></div><div class="drop38 mainDiv"><div class="list" onclick="pagination(1,66,'التوحيد')"><p><img class="list_l" src="aliImg/left.png" /></p><p>التوحيد</p></div><div class="list" onclick="pagination(1,67,'النبوة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>النبوة</p></div><div class="list" onclick="pagination(1,68,'العدل')"><p><img class="list_l" src="aliImg/left.png" /></p><p>العدل</p></div><div class="list" onclick="pagination(1,69,'الامامة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الامامة</p></div><div class="list" onclick="pagination(1,70,'المعاد')"><p><img class="list_l" src="aliImg/left.png" /></p><p>المعاد</p></div></div><div class="list" onclick="pagination(1,39,'سؤال وجواب')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سؤال وجواب</p></div><div class="list" onclick="pagination(1,40,'شبهات وردود')"><p><img class="list_l" src="aliImg/left.png" /></p><p>شبهات وردود</p></div><div class="list" onclick="pagination(1,41,'فرق واديان ومذاهب')"><p><img class="list_l" src="aliImg/left.png" /></p><p>فرق واديان ومذاهب</p></div><div class="list" onclick="pagination(1,71,'الشفاعة والتوسل')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الشفاعة والتوسل</p></div><div class="list" onclick="pagination(1,72,'مقالات عقائدية عامة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>مقالات عقائدية عامة</p></div></div><div class="list" onclick="pagination(1,8,'قضايا أخلاقية في القرآن الكريم')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قضايا أخلاقية في القرآن الكريم</p></div><div class="list" onclick="pagination(1,9,'قضايا إجتماعية في القرآن الكريم')"><p><img class="list_l" src="aliImg/left.png" /></p><p>قضايا إجتماعية في القرآن الكريم</p></div><div class="list" onclick="pagination(1,44,'مقالات قرآنية')"><p><img class="list_l" src="aliImg/left.png" /></p><p>مقالات قرآنية</p></div><div class="list" onclick="drop(7135)" ><p><img class="plus7135 list_p" src="aliImg/plus.png" /><img class="minus7135 list_m" src="aliImg/minus.png" /></p><p>التفسير الجامع</p></div><div class="drop7135 mainDiv"><div class="list" onclick="drop(7136)" ><p><img class="plus7136 list_p" src="aliImg/plus.png" /><img class="minus7136 list_m" src="aliImg/minus.png" /></p><p>حرف الألف</p></div><div class="drop7136 mainDiv"><div class="list" onclick="pagination(1,7161,'سورة آل عمران')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة آل عمران</p></div><div class="list" onclick="pagination(1,7162,'سورة الأنعام')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الأنعام</p></div><div class="list" onclick="pagination(1,7163,'سورة الأعراف')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الأعراف</p></div><div class="list" onclick="pagination(1,7164,'سورة الأنفال                                                      ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الأنفال                                                      </p></div><div class="list" onclick="pagination(1,7165,'سورة إبراهيم')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة إبراهيم</p></div><div class="list" onclick="pagination(1,7166,'سورة الإسراء')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الإسراء</p></div><div class="list" onclick="pagination(1,7167,'سورة الأنبياء')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الأنبياء</p></div><div class="list" onclick="pagination(1,7168,'سورة الأحزاب')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الأحزاب</p></div><div class="list" onclick="pagination(1,7169,'سورة الأحقاف')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الأحقاف</p></div><div class="list" onclick="pagination(1,7170,'سورة الإنسان')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الإنسان</p></div><div class="list" onclick="pagination(1,7171,'سورة الانفطار')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الانفطار</p></div><div class="list" onclick="pagination(1,7172,'سورة الإنشقاق')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الإنشقاق</p></div><div class="list" onclick="pagination(1,7174,'سورة الأعلى')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الأعلى</p></div><div class="list" onclick="pagination(1,7175,'سورة الإخلاص')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الإخلاص</p></div></div><div class="list" onclick="drop(7137)" ><p><img class="plus7137 list_p" src="aliImg/plus.png" /><img class="minus7137 list_m" src="aliImg/minus.png" /></p><p>حرف الباء</p></div><div class="drop7137 mainDiv"><div class="list" onclick="pagination(1,7176,'سورة البقرة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة البقرة</p></div><div class="list" onclick="pagination(1,7177,'سورة البروج')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة البروج</p></div><div class="list" onclick="pagination(1,7178,'سورة البلد')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة البلد</p></div><div class="list" onclick="pagination(1,7179,'سورة البينة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة البينة</p></div></div><div class="list" onclick="drop(7138)" ><p><img class="plus7138 list_p" src="aliImg/plus.png" /><img class="minus7138 list_m" src="aliImg/minus.png" /></p><p>حرف التاء</p></div><div class="drop7138 mainDiv"><div class="list" onclick="pagination(1,7180,'سورة التوبة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة التوبة</p></div><div class="list" onclick="pagination(1,7181,'سورة التغابن')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة التغابن</p></div><div class="list" onclick="pagination(1,7182,'سورة التحريم')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة التحريم</p></div><div class="list" onclick="pagination(1,7183,'سورة التكوير')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة التكوير</p></div><div class="list" onclick="pagination(1,7184,'سورة التين')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة التين</p></div><div class="list" onclick="pagination(1,7185,'سورة التكاثر')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة التكاثر</p></div></div><div class="list" onclick="drop(7139)" ><p><img class="plus7139 list_p" src="aliImg/plus.png" /><img class="minus7139 list_m" src="aliImg/minus.png" /></p><p>حرف الجيم</p></div><div class="drop7139 mainDiv"><div class="list" onclick="pagination(1,7186,'سورة الجاثية')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الجاثية</p></div><div class="list" onclick="pagination(1,7187,'سورة الجمعة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الجمعة</p></div><div class="list" onclick="pagination(1,7188,'سورة الجن')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الجن</p></div></div><div class="list" onclick="drop(7140)" ><p><img class="plus7140 list_p" src="aliImg/plus.png" /><img class="minus7140 list_m" src="aliImg/minus.png" /></p><p>حرف الحاء </p></div><div class="drop7140 mainDiv"><div class="list" onclick="pagination(1,7189,'سورة الحجر')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الحجر</p></div><div class="list" onclick="pagination(1,7190,'سورة الحج')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الحج</p></div><div class="list" onclick="pagination(1,7191,'سورة الحديد')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الحديد</p></div><div class="list" onclick="pagination(1,7192,'سورة الحشر')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الحشر</p></div><div class="list" onclick="pagination(1,7193,'سورة الحاقة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الحاقة</p></div><div class="list" onclick="pagination(1,7437,'الحجرات')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الحجرات</p></div></div><div class="list" onclick="drop(7141)" ><p><img class="plus7141 list_p" src="aliImg/plus.png" /><img class="minus7141 list_m" src="aliImg/minus.png" /></p><p>حرف الدال</p></div><div class="drop7141 mainDiv"><div class="list" onclick="pagination(1,7194,'سورة الدخان')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الدخان</p></div></div><div class="list" onclick="drop(7142)" ><p><img class="plus7142 list_p" src="aliImg/plus.png" /><img class="minus7142 list_m" src="aliImg/minus.png" /></p><p>حرف الذال</p></div><div class="drop7142 mainDiv"><div class="list" onclick="pagination(1,7195,'سورة الذاريات')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الذاريات</p></div></div><div class="list" onclick="drop(7143)" ><p><img class="plus7143 list_p" src="aliImg/plus.png" /><img class="minus7143 list_m" src="aliImg/minus.png" /></p><p>حرف الراء</p></div><div class="drop7143 mainDiv"><div class="list" onclick="pagination(1,7196,'سورة الرعد')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الرعد</p></div><div class="list" onclick="pagination(1,7197,'سورة الروم')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الروم</p></div><div class="list" onclick="pagination(1,7198,'سورة الرحمن')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الرحمن</p></div></div><div class="list" onclick="drop(7144)" ><p><img class="plus7144 list_p" src="aliImg/plus.png" /><img class="minus7144 list_m" src="aliImg/minus.png" /></p><p>حرف الزاي</p></div><div class="drop7144 mainDiv"><div class="list" onclick="pagination(1,7199,'سورة الزمر                ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الزمر                </p></div><div class="list" onclick="pagination(1,7200,'سورة الزخرف')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الزخرف</p></div><div class="list" onclick="pagination(1,7201,'سورة الزلزلة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الزلزلة</p></div></div><div class="list" onclick="drop(7145)" ><p><img class="plus7145 list_p" src="aliImg/plus.png" /><img class="minus7145 list_m" src="aliImg/minus.png" /></p><p>حرف السين</p></div><div class="drop7145 mainDiv"><div class="list" onclick="pagination(1,7202,'سورة السجدة  ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة السجدة  </p></div><div class="list" onclick="pagination(1,7203,'سورة سبأ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة سبأ</p></div></div><div class="list" onclick="drop(7146)" ><p><img class="plus7146 list_p" src="aliImg/plus.png" /><img class="minus7146 list_m" src="aliImg/minus.png" /></p><p>حرف الشين</p></div><div class="drop7146 mainDiv"><div class="list" onclick="pagination(1,7204,'سورة الشعراء')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الشعراء</p></div><div class="list" onclick="pagination(1,7205,'سورة الشورى')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الشورى</p></div><div class="list" onclick="pagination(1,7206,'سورة الشمس')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الشمس</p></div><div class="list" onclick="pagination(1,7207,'سورة الشرح')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الشرح</p></div></div><div class="list" onclick="drop(7147)" ><p><img class="plus7147 list_p" src="aliImg/plus.png" /><img class="minus7147 list_m" src="aliImg/minus.png" /></p><p>حرف الصاد</p></div><div class="drop7147 mainDiv"><div class="list" onclick="pagination(1,7208,'سورة الصافات')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الصافات</p></div><div class="list" onclick="pagination(1,7209,'سورة ص                                         ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة ص                                         </p></div><div class="list" onclick="pagination(1,7210,'سورة الصف')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الصف</p></div></div><div class="list" onclick="drop(7148)" ><p><img class="plus7148 list_p" src="aliImg/plus.png" /><img class="minus7148 list_m" src="aliImg/minus.png" /></p><p>حرف الضاد</p></div><div class="drop7148 mainDiv"><div class="list" onclick="pagination(1,7211,'سورة الضحى')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الضحى</p></div></div><div class="list" onclick="drop(7149)" ><p><img class="plus7149 list_p" src="aliImg/plus.png" /><img class="minus7149 list_m" src="aliImg/minus.png" /></p><p>حرف الطاء</p></div><div class="drop7149 mainDiv"><div class="list" onclick="pagination(1,7212,'سورة طه')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة طه</p></div><div class="list" onclick="pagination(1,7213,'سورة الطور')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الطور</p></div><div class="list" onclick="pagination(1,7214,'سورة الطلاق')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الطلاق</p></div><div class="list" onclick="pagination(1,7215,'سورة الطارق')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الطارق</p></div></div><div class="list" onclick="drop(7150)" ><p><img class="plus7150 list_p" src="aliImg/plus.png" /><img class="minus7150 list_m" src="aliImg/minus.png" /></p><p>حرف العين</p></div><div class="drop7150 mainDiv"><div class="list" onclick="pagination(1,7216,'سورة العنكبوت')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة العنكبوت</p></div><div class="list" onclick="pagination(1,7217,'سورة عبس')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة عبس</p></div><div class="list" onclick="pagination(1,7218,'سورة العلق')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة العلق</p></div><div class="list" onclick="pagination(1,7219,'سورة العاديات')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة العاديات</p></div><div class="list" onclick="pagination(1,7220,'سورة العصر')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة العصر</p></div></div><div class="list" onclick="drop(7151)" ><p><img class="plus7151 list_p" src="aliImg/plus.png" /><img class="minus7151 list_m" src="aliImg/minus.png" /></p><p>حرف الغين</p></div><div class="drop7151 mainDiv"><div class="list" onclick="pagination(1,7221,'سورة غافر')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة غافر</p></div><div class="list" onclick="pagination(1,7222,'سورة الغاشية')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الغاشية</p></div></div><div class="list" onclick="drop(7152)" ><p><img class="plus7152 list_p" src="aliImg/plus.png" /><img class="minus7152 list_m" src="aliImg/minus.png" /></p><p>حرف الفاء</p></div><div class="drop7152 mainDiv"><div class="list" onclick="pagination(1,7223,'سورة الفاتحة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الفاتحة</p></div><div class="list" onclick="pagination(1,7224,'سورة الفرقان')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الفرقان</p></div><div class="list" onclick="pagination(1,7225,'سورة فاطر')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة فاطر</p></div><div class="list" onclick="pagination(1,7226,'سورة فصلت')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة فصلت</p></div><div class="list" onclick="pagination(1,7227,'سورة الفتح')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الفتح</p></div><div class="list" onclick="pagination(1,7228,'سورة الفجر')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الفجر</p></div><div class="list" onclick="pagination(1,7229,'سورة الفيل')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الفيل</p></div><div class="list" onclick="pagination(1,7230,'سورة الفلق')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الفلق</p></div></div><div class="list" onclick="drop(7153)" ><p><img class="plus7153 list_p" src="aliImg/plus.png" /><img class="minus7153 list_m" src="aliImg/minus.png" /></p><p>حرف القاف</p></div><div class="drop7153 mainDiv"><div class="list" onclick="pagination(1,7231,'سورة القصص')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة القصص</p></div><div class="list" onclick="pagination(1,7232,'سورة ق')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة ق</p></div><div class="list" onclick="pagination(1,7233,'سورة القمر')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة القمر</p></div><div class="list" onclick="pagination(1,7234,'سورة القلم')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة القلم</p></div><div class="list" onclick="pagination(1,7235,'سورة القيامة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة القيامة</p></div><div class="list" onclick="pagination(1,7236,'سورة القدر')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة القدر</p></div><div class="list" onclick="pagination(1,7237,'سورة القارعة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة القارعة</p></div><div class="list" onclick="pagination(1,7238,'سورة قريش')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة قريش</p></div></div><div class="list" onclick="drop(7154)" ><p><img class="plus7154 list_p" src="aliImg/plus.png" /><img class="minus7154 list_m" src="aliImg/minus.png" /></p><p>حرف الكاف</p></div><div class="drop7154 mainDiv"><div class="list" onclick="pagination(1,7239,'سورة الكهف')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الكهف</p></div><div class="list" onclick="pagination(1,7240,'سورة الكوثر')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الكوثر</p></div><div class="list" onclick="pagination(1,7241,'سورة الكافرون')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الكافرون</p></div></div><div class="list" onclick="drop(7155)" ><p><img class="plus7155 list_p" src="aliImg/plus.png" /><img class="minus7155 list_m" src="aliImg/minus.png" /></p><p>حرف اللام</p></div><div class="drop7155 mainDiv"><div class="list" onclick="pagination(1,7242,'سورة لقمان')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة لقمان</p></div><div class="list" onclick="pagination(1,7243,'سورة الليل')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الليل</p></div></div><div class="list" onclick="drop(7156)" ><p><img class="plus7156 list_p" src="aliImg/plus.png" /><img class="minus7156 list_m" src="aliImg/minus.png" /></p><p>حرف الميم</p></div><div class="drop7156 mainDiv"><div class="list" onclick="pagination(1,7244,'سورة المائدة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة المائدة</p></div><div class="list" onclick="pagination(1,7245,'سورة مريم')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة مريم</p></div><div class="list" onclick="pagination(1,7246,'سورة المؤمنين')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة المؤمنين</p></div><div class="list" onclick="pagination(1,7247,'سورة محمد')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة محمد</p></div><div class="list" onclick="pagination(1,7248,'سورة المجادلة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة المجادلة</p></div><div class="list" onclick="pagination(1,7249,'سورة الممتحنة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الممتحنة</p></div><div class="list" onclick="pagination(1,7250,'سورة المنافقين')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة المنافقين</p></div><div class="list" onclick="pagination(1,7251,'سورة المُلك')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة المُلك</p></div><div class="list" onclick="pagination(1,7252,'سورة المعارج')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة المعارج</p></div><div class="list" onclick="pagination(1,7253,'سورة المزمل')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة المزمل</p></div><div class="list" onclick="pagination(1,7254,'سورة المدثر')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة المدثر</p></div><div class="list" onclick="pagination(1,7255,'سورة المرسلات')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة المرسلات</p></div><div class="list" onclick="pagination(1,7256,'سورة المطففين')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة المطففين</p></div><div class="list" onclick="pagination(1,7257,'سورة الماعون')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الماعون</p></div><div class="list" onclick="pagination(1,7258,'سورة المسد')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة المسد</p></div></div><div class="list" onclick="drop(7157)" ><p><img class="plus7157 list_p" src="aliImg/plus.png" /><img class="minus7157 list_m" src="aliImg/minus.png" /></p><p>حرف النون</p></div><div class="drop7157 mainDiv"><div class="list" onclick="pagination(1,7259,'سورة النساء')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة النساء</p></div><div class="list" onclick="pagination(1,7260,'سورة النحل')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة النحل</p></div><div class="list" onclick="pagination(1,7261,'سورة النور')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة النور</p></div><div class="list" onclick="pagination(1,7262,'سورة النمل')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة النمل</p></div><div class="list" onclick="pagination(1,7263,'سورة النجم')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة النجم</p></div><div class="list" onclick="pagination(1,7264,'سورة نوح')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة نوح</p></div><div class="list" onclick="pagination(1,7265,'سورة النبأ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة النبأ</p></div><div class="list" onclick="pagination(1,7266,'سورة النازعات')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة النازعات</p></div><div class="list" onclick="pagination(1,7267,'سورة النصر')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة النصر</p></div><div class="list" onclick="pagination(1,7268,'سورة الناس')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الناس</p></div></div><div class="list" onclick="drop(7158)" ><p><img class="plus7158 list_p" src="aliImg/plus.png" /><img class="minus7158 list_m" src="aliImg/minus.png" /></p><p>حرف الهاء</p></div><div class="drop7158 mainDiv"><div class="list" onclick="pagination(1,7269,'سورة هود')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة هود</p></div><div class="list" onclick="pagination(1,7270,'سورة الهمزة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الهمزة</p></div></div><div class="list" onclick="drop(7159)" ><p><img class="plus7159 list_p" src="aliImg/plus.png" /><img class="minus7159 list_m" src="aliImg/minus.png" /></p><p>حرف الواو</p></div><div class="drop7159 mainDiv"><div class="list" onclick="pagination(1,7271,'سورة الواقعة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة الواقعة</p></div></div><div class="list" onclick="drop(7160)" ><p><img class="plus7160 list_p" src="aliImg/plus.png" /><img class="minus7160 list_m" src="aliImg/minus.png" /></p><p>حرف الياء</p></div><div class="drop7160 mainDiv"><div class="list" onclick="pagination(1,7272,'سورة يونس')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة يونس</p></div><div class="list" onclick="pagination(1,7273,'سورة يوسف')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة يوسف</p></div><div class="list" onclick="pagination(1,7274,'سورة يس ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سورة يس </p></div></div></div><div class="list" onclick="drop(7856)" ><p><img class="plus7856 list_p" src="aliImg/plus.png" /><img class="minus7856 list_m" src="aliImg/minus.png" /></p><p>آيات الأحكام</p></div><div class="drop7856 mainDiv"><div class="list" onclick="pagination(1,7857,'العبادات')"><p><img class="list_l" src="aliImg/left.png" /></p><p>العبادات</p></div><div class="list" onclick="pagination(1,7858,'المعاملات')"><p><img class="list_l" src="aliImg/left.png" /></p><p>المعاملات</p></div></div>				
+
+				
+			</div>
+
+
+
+
+
+
+
+
+
+
+
+
+			</div>									
+		</div>				
+				
+		<div id="nArchive">		
+<div id="archiveTitle">   <a>علوم القرآن : </a> <a>تأملات قرآنية : </a> <a target='_blank' href='archive.php?fid=10'>مصطلحات قرآنية  : </a></div>			
+			
+			
+
+			<div id="postTitle">
+				<div id="title">
+					<p>
+						<img style="transform: rotate(30deg);" src="aliImg/title.svg">
+					</p>
+					<p class="col2">
+						اللون الأخضـر ودلالته					</p>
+				</div>
+				<div id="details"  style="padding:5px 25px;padding-top:10px;">
+					<p style="align-items: center;">
+						<img id="user" style="width: 20px;position:relative;top:-2px;" src="aliImg/user.svg" />
+						<span> المؤلف:&nbsp; </span>
+						 الدكتور ضرغام كريم الموسوي					</p>
+					<p style="align-items: center;">
+						<img id="book" style="width: 20px;position:relative;top:-2px;" src="aliImg/book.svg" />
+						<span> المصدر:&nbsp; </span>
+						بحوث قرآنية على ضوء الكتاب والعترة					</p>
+					<p style="align-items: center;">
+						<img id="page" style="width: 20px;position:relative;top:-2px;" src="aliImg/page.svg" />
+						<span> الجزء والصفحة:&nbsp; </span>
+						190 - 195					</p>					
+
+					<p>
+						<img class="calender_b" style="width: 20px;position:relative;" src="aliImg/calenderr.svg" />
+						<span>2024-05-29</span>
+					</p>
+					<p>
+						<img class="eye_b" style="width: 30px;position:relative;top: -2px;" src="aliImg/eyee.svg" />
+						1889					</p>
+				</div>
+				
+				
+				
+				
+				<div id="share">
+					<img title="طباعة المحتوى" src="aliImg/print.png" value='Print' onclick='printDiv();' />
+					 <a style="text-decoration: none;" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://almerja.com/more.php?idm=231533">
+						<img class="social-media" src="aliImg/fc.png" />
+					</a>
+					<a href="https://telegram.me/share/url?url=http://almerja.com/more.php?idm=231533" target="_blank">
+						<img class="social-media" src="aliImg/telegram.png" />
+					</a>
+					<a target="_blank" class="twitter-share-button"  href="https://twitter.com/intent/tweet?text=http://almerja.com/more.php?idm=231533"
+  						data-size="large">
+						<img class="social-media" src="aliImg/twitter.png" />
+					</a>
+					
+					<style>
+						#fontSizer{							
+							display: flex;
+						}
+						#fontSizer p{
+							width: 40px;
+							height: 40px;
+							border-radius:50%;
+							background-color: #eee;
+							color: #006097;
+							margin: 0 3px;
+							font-size: 40px;
+							position: relative;
+							transition: all 0.2s ease-out;
+							user-select: none;
+						}
+						#fontSizer p:hover{
+							cursor: pointer;
+							background-color: #dfdfdf;
+						}
+						#fontSizer p span{
+							position: absolute;
+							top: 50%;
+							left: 50%;
+							transform: translate(-50%,-50%);
+						}
+						#fontSizer p:nth-child(3){
+							display: none;
+						}
+						#postContent ul li::marker,#postContent ol li::marker{
+							color: #c19e65 !important;
+						}
+					</style>
+					<div id="fontSizer">
+						<p onClick="changeFontSize(2)" class="bg9 col2" id="plus"><span>+</span></p>
+						<p onClick="changeFontSize(-2)" class="bg9 col2" id="min"><span style="margin-top: 3px;">-</span></p>
+						<p id="sizer">20</p>
+					</div>
+					
+					
+				</div>
+				
+<script>	
+function changeFontSize(delta) {
+    let sizer = parseInt($('#sizer').text()) + delta;
+    if (sizer >= 10 && sizer <= 38) {
+        $('#sizer').text(sizer);
+        $('#postContent')
+            .find('h1,h2,h3,h4,h5,div,p,span,li')
+            .css('font-size', sizer);
+    }
+}
+
+$('#plus').click(() => changeFontSize(2));
+$('#min').click(() => changeFontSize(-2));
+function printDiv() 
+{
+
+  var divToPrint=document.getElementById('postContent');
+
+  var newWin=window.open('','Print-Window');
+
+  newWin.document.open();
+
+  newWin.document.write('<html><body onload="window.print()">'+divToPrint.innerHTML+'</body></html>');
+
+  newWin.document.close();
+
+  setTimeout(function(){newWin.close();},10);
+
+}			
+</script>				
+				
+				
+			</div>
+			
+			<div id="postContent" style="padding:0 25px;color: #000;">
+
+				
+				<h1 dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><span style="color:#B22222"><strong>اللون الأخضـر ودلالته:</strong></span></span></span>
+
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; الخضـرة : لون الأخضـر، واخضـر الشـيء اخضـراراً، و اخضوضـر واخضـره غيره تخضيراً ، وربما سمي الأسود اخضـرا، وسميت ارض العراق سواداً لكثرة شجرها ، وفي الحديث قام رسول الله (صلى الله عليه واله وسلم) خطيبا فقال: ( <strong>يا أيها الناس إي</strong><strong>اكم و خضـراء الدمن ، قيل: يا رسول الله وما خضـراء الدمن؟ قال: المرأة الحسناء في منبت السوء</strong>)<sup> <a href="#_ftn1" name="_ftnref1" title=""><span dir="LTR">[1]</span></a>)</sup>وهو كناية عن المرأة الحسناء ذات الخلق السيئ<a href="#_ftn2" name="_ftnref2" title=""><span dir="LTR">[2]</span></a>.</span></span></p>
+
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ولقد ورد ذكر هذا اللون في القرآن في ثمانية مواضع ، تختلف دلالته من موقع إلى آخر بحسب يقتضيه المقام ، وابرز المعاني التي خرج إليها هذا اللون هي :</span></span></p>
+
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; الأول :</strong> قال تعالى <span dir="LTR">:</span><span style="font-family:arial;">{</span> وَهُوَ الَّذِي أَنزَلَ مِنْ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ نَبَاتَ كُلِّ شَيْءٍ فَأَخْرَجْنَا مِنْهُ خَضـرا نُخْرِجُ مِنْهُ حَبًّا مُتَرَاكِبًا وَمِنْ النَّخْلِ مِنْ طَلْعِهَا قِنْوَانٌ دَانِيَةٌ وَجَنَّاتٍ مِنْ أَعْنَابٍ وَالزَّيْتُونَ وَالرُّمَّانَ مُشْتَبِهًا وَغَيْرَ مُتَشَابِهٍ انظُرُوا إِلَى ثَمَرِهِ إِذَا أَثْمَرَ وَيَنْعِهِ إِنَّ فِي ذَلِكُمْ لآياتٍ لِقَوْمٍ يُؤْمِنُونَ<span style="font-family:arial;">}</span><a href="#_ftn3" name="_ftnref3" title=""><span dir="LTR">[3]</span></a>.</span></span></p>
+
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; قال الزجاج : معنى خضـر ، كمعنى أخضـر يقال اخضـر، فهو أخضـر ، وخضـر ، مثل أعور فهو أعور وعور ، وقال الليث الخضـر في كتاب الله عز وجل الزرع كل نبات من الخضـرة ، ويقول الرازي: (إن الله سبحانه وتعالى حصـر النبت في الآية في قسمين حيث قال:&nbsp; <span style="font-family:arial;">{</span>إِنَّ اللَّهَ فَالِقُ الْـحَبِّ وَالنَّوَى<span style="font-family:arial;">}</span>، فالذي ينبت من الحب هو الزارع ، والذي ينبت من النوى فهو الشجر)<sup> <a href="#_ftn4" name="_ftnref4" title=""><span dir="LTR">[4]</span></a></sup>.</span></span></p>
+
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; لقد سيقت هذه الآية بهذا الإطناب لغرض التفصيل والإيضاح، وبيان قدرة الله تعالى في إنزال الماء من السماء المختص بالله عز وجل والخارج عن قدرة البشـر ، وكذا إخراج الزرع وهو اللون الأخضـر ، الذي يمثل الحياة فهذه آلاء الله، التي اخرجها لعباده لطفاً بهم ، فهي رسول صامت يتكلم عن قدرة الله عز وجل ، وكيف أن أمره بين الكاف والنون ، إذ قال تعالى : <span style="font-family:arial;">{</span>أَفَرَأَيْتُمْ مَا تَحْرُثُونَ * أَأَنْتُمْ تَزْرَعُونَهُ أَمْ نَحْنُ الزَّارِعُونَ * لَوْ نَشَاءُ لَجَعَلْنَاهُ حُطَامًا فَظَلَلْتُمْ تَتَفَكَّهُونَ<span style="font-family:arial;">}</span><a href="#_ftn5" name="_ftnref5" title=""><span dir="LTR">[5]</span></a> ، ومثله قوله تعالى:<span style="font-family:arial;">{</span>أَلَمْ تَرَى أَنَّ اللَّهَ أَنزَلَ مِنْ السَّمَاءِ مَاءً فَتُصْبِحُ الأَرْضُ مُخْضـرةً إِنَّ اللَّهَ لَطِيفٌ خَبِيرٌ<span style="font-family:arial;">}</span><a href="#_ftn6" name="_ftnref6" title=""><span dir="LTR">[6]</span></a>.</span></span></p>
+
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; وهنا نكتة دقيقة جدا وهو ان الله عز وجل جاء بلفظة (الاخضـر) على صيغة (فَعِل). وهو صفة مشبهة من فعل خضر يخضر باب فرح وزنه فعل بفتح فكسـر، إذ فيه اشارة الى مسألة مهمة إذ (أكد القرآن أن تشكل المادة الخضــراء يتم أولاً ثم يتم إخراج الثمار والحبوب منها)<a href="#_ftn7" name="_ftnref7" title=""><span dir="LTR">[7]</span></a>، (فإن المواد العضوية تتخلق بدءا من المواد الخضـراء: الكلوروفيل و الكلوروبلاست من خلال عملية التمثيل الضوئي، .. كما أثبته العلم الحديث و كما أشارت إليه الآيات القرآنية. و الإشارة إلى هذه المادة هو إعجاز بحد ذاته؛ لأن هذه المادة الخضـراء غير مرئية)<a href="#_ftn8" name="_ftnref8" title=""><span dir="LTR">[8]</span></a>.</span></span></p>
+
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; فالمراد من هذا النص وغيره ، هو العلم والتفكير في هذه الآيات الكونية التي تدل على أنَّ هناك يد مدبرة ومسيطرة على هذا النظام العجيب.</span></span></p>
+
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><strong>الثاني :</strong> قال تعالى:<span style="font-family:arial;">{</span>الَّذِي جَعَلَ لَكُمْ مِنْ الشَّجَرِ الأَخْضـر نَارًا فَإِذَا أَنْتُمْ مِنْهُ تُوقِدُونَ <span style="font-family:arial;">}</span><a href="#_ftn9" name="_ftnref9" title=""><span dir="LTR">[9]</span></a>.</span></span></p>
+
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; من دلائل عظيم خلق الله أنه يوجد في الجزيرة العربية شجر يعرف بالمرخ والعفار إذا سحق المرخ على العفار - وهما خضـراوان يقطر منهما الماء- إنقدحت النار منهما<a href="#_ftn10" name="_ftnref10" title=""><span dir="LTR">[10]</span></a>، وهذه الآية جاءت رداً على منكر البعث والنشور ، فقال: إن النار في الشجر الأخضـر الذي يقطر منه الماء أعجب وأغرب ، (فَعَرَّفَكُمْ أَنَّهُ عَلَى إِعَادَةِ مَا بَلِيَ أَقْدَر)<a href="#_ftn11" name="_ftnref11" title=""><span dir="LTR">[11]</span></a>. وإن استبعدتم خلق جسمه ، فخلق السماوات والأرض أكبر من خلق أنفسكم ، فلا تستبعدوه ، فإن الله على كل شيء قدير<a href="#_ftn12" name="_ftnref12" title=""><span dir="LTR">[12]</span></a>، وهذا ضـرب من الإعجاز؛ لأن اللون الأخضـر يفيد البرودة والرطوبة أي الماء ، والنار تفيد الحرارة واليبس ، فالخضـرة في هذه الآية قرينة تفيد إجتماع النقيضين ، وهذا خلاف ما يقره العقل ؛ لأن النقيضين لا يجتمعان بحال<a href="#_ftn13" name="_ftnref13" title=""><span dir="LTR">[13]</span></a>إلا بأمر الله عز وجل .</span></span></p>
+
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; الثالث :</strong> قوله تعالى:<span style="font-family:arial;">{</span> أُوْلَئِكَ لَهُمْ جَنَّاتُ عَدْنٍ تَجْرِي مِنْ تَحْتِهِمُ الأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِنْ ذَهَبٍ وَيَلْبَسُونَ ثِيَابًا خُضـرا مِنْ سُندُسٍ وَإِسْتَبْرَقٍ مُتَّكِئِينَ فِيهَا عَلَى الأَرَائِكِ نِعْمَ الثَّوَابُ وَحَسُنَتْ مُرْتَفَقًا<span style="font-family:arial;">}</span><a href="#_ftn14" name="_ftnref14" title=""><span dir="LTR">[14]</span></a>، وقوله تعالى:<span style="font-family:arial;">{</span>عَالِيَهُمْ ثِيَابُ سُندُسٍ خُضـر وَإِسْتَبْرَقٌ وَحُلُّوا أَسَاوِرَ مِنْ فِضَّةٍ وَسَقَاهُمْ رَبُّهُمْ شـرابًا طَهُورًا<span style="font-family:arial;">}</span><a href="#_ftn15" name="_ftnref15" title=""><span dir="LTR">[15]</span></a>.</span></span></p>
+
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; هنا سؤال يطرح ما الفائدة في ذكر اللون الأخضـر إذ وصف الله تعالى ثياب أهل الجنة به ؟</span></span></p>
+
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; الجواب : هو ميل الناس إلى اللون الأخضـر في الدنيا أكثر ، وسبب الميل إليه هو من الألوان الأساس الثلاثة: وهي الأبيض، وخاصيته تفريق البصـر، والأسود يختص بجمع النظر ، ولهذا كره النظر إلى الأشياء المعتمة كالدم ، والأخضـر الذي اجتمع فيه الأمران ،ودفع بعضهما أذى بعض وحصل اللون الممتزج على ميل النفوس إليه<a href="#_ftn16" name="_ftnref16" title=""><span dir="LTR">[16]</span></a>، واشار الى الامام الصادق <span dir="LTR"></span> الى هذا بقوله: ( <strong>إِنَّ مِنْ صِفَاتِ الْأَطِبَّاءِ لِمَنْ أَصَابَهُ شَيْ&rlm;ءٌ أَضَرَّ بِبَصَـرِهِ إِدْمَانَ النَّظَرِ إِلَى الْخُضْــرَةِ وَ مَا قَرُبَ مِنْهَا إِلَى السَّوَادِ وَ قَدْ وَصَفَ الْحُذَّاقُ مِنْهُمْ لِمَنْ كَلَّ بَصَــرُهُ الِاطِّلَاعَ فِي إِجَّانَةٍ</strong><a href="#_ftn17" name="_ftnref17" title=""><span dir="LTR">[17]</span></a><strong>خَضْـرَاءَ مَمْلُوءَةٍ مَاء</strong>) <a href="#_ftn18" name="_ftnref18" title=""><span dir="LTR">[18]</span></a>.</span></span></p>
+
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; وقيل إن ما خص الله ذكر اللون الأخضـر لثياب أهل الجنة؛ لأنه أوفق الألوان للبصـر<a href="#_ftn19" name="_ftnref19" title=""><span dir="LTR">[19]</span></a>.</span></span></p>
+
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; وأرى أن اللون الأخضـر يفيد الحداثة وكثرة الخير ، كقولهم شاب أخضـر، وفلان أخضـر أي كثير الخير ، والأمر بيننا أخضـر : جديد لم يخلق والمودة بيننا خضـراء؛ قال ذو الرمة :</span></span></p>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" dir="rtl">
+	<tbody>
+		<tr>
+			<td style="width:210px">
+			<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;">وقد يرى فيها لعين منظر</span></span></p>
+			</td>
+			<td style="width:210px">
+			<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;">أَتْرَابُ مَيٍّ وَالْوِصَالُ أَخْضَرُ <a href="#_ftn20" name="_ftnref20" title=""><span dir="LTR">[20]</span></a></span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; فعلى هذا المعنى يكون اختيار اللون الأخضـر سببا لإضفائه جوًا من الحيوية، والحداثة، وكثرة الخير، وبقاء الأشياء على حداثتها وعدم تغيرها، قال تعالى :<span style="font-family:arial;">{</span> فَأَخْرَجْنَا بِهِ نَبَاتَ كُلِّ شَىْءٍ فَأَخْرَجْنَا مِنْهُ خَضـرا... <span style="font-family:arial;">}</span><a href="#_ftn21" name="_ftnref21" title=""><span dir="LTR">[21]</span></a>، أي ما كان من النبات غضاً ناضـراً طرياً بخلاف صفته عند بذره .</span></span></p>
+
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; أما العلم الحديث فقد وجد أن اللون الأخضـر يترك أثراً طيباً في النفس، فهو يدخل السكينة عليها ويشيع روح التفاؤل ، وقد ذكر صاحب كتاب كيف تتعلم الرسم أن طبيبا يدعى (بوتر) قام بإجراء تجارب على هذا اللون فاستعمله مع الضوء الأخضـر في حالات الأمراض العصبية وعقب إجراء العمليات الجراحية فلاحظ على المريض :</span></span></p>
+
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;">1ـ زوال الصداع الناشئ عن التوتر العصبي .</span></span></p>
+
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;">2ـ الارتياح النفسي.</span></span></p>
+
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;">3ـ تخفيف التهيج الناشئ عن ارتفاع الحرارة.</span></span></p>
+
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;">4ـ النوم الهادئ<a href="#_ftn22" name="_ftnref22" title=""><span dir="LTR">[22]</span></a>.</span></span></p>
+
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ولهذا استخدم الأطباء اللون الأخضـر في الشـراشف وزيهم أثناء العمليات الجراحية .</span></span></p>
+
+<p dir="RTL">&nbsp;</p>
+
+<div>&nbsp;
+<hr />
+<div id="ftn1">
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><a href="#_ftnref1" name="_ftn1" title=""><span dir="LTR">[1]</span></a>الكليني: محمد بن يعقوب: الكافي 5 : 332.</span></span></p>
+</div>
+
+<div id="ftn2">
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><a href="#_ftnref2" name="_ftn2" title=""><span dir="LTR">[2]</span></a>الرازي: &nbsp;مختار الصحاح : 178-179 .</span></span></p>
+</div>
+
+<div id="ftn3">
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><a href="#_ftnref3" name="_ftn3" title=""><span dir="LTR">[3]</span></a>سورة الأنعام:99.</span></span></p>
+</div>
+
+<div id="ftn4">
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><a href="#_ftnref4" name="_ftn4" title=""><span dir="LTR">[4]</span></a>ظ: الفخر الرازي: مفاتيح الغيب 13 : 38 .</span></span></p>
+</div>
+
+<div id="ftn5">
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><a href="#_ftnref5" name="_ftn5" title=""><span dir="LTR">[5]</span></a>سورة الواقعة: 63 &ndash; 65.</span></span></p>
+</div>
+
+<div id="ftn6">
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><a href="#_ftnref6" name="_ftn6" title=""><span dir="LTR">[6]</span></a>سورة الحج :63.</span></span></p>
+</div>
+
+<div id="ftn7">
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><a href="#_ftnref7" name="_ftn7" title=""><span dir="LTR">[7]</span></a>الكحيل: عبد الدائم: كنوز الإعجاز العلمي في القرآن الكريم: 40.</span></span></p>
+</div>
+
+<div id="ftn8">
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><a href="#_ftnref8" name="_ftn8" title=""><span dir="LTR">[8]</span></a>الأغر: نجيب&rlm; كريم: إعجاز القرآن في ما تخفيه الأرحام&rlm;، ط1- 1425هـ. ق ،الناشر: دار المعرفة، بيروت&rlm;: 60.</span></span></p>
+</div>
+
+<div id="ftn9">
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><a href="#_ftnref9" name="_ftn9" title=""><span dir="LTR">[9]</span></a>سورة يس:80.</span></span></p>
+</div>
+
+<div id="ftn10">
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><a href="#_ftnref10" name="_ftn10" title=""><span dir="LTR">[10]</span></a>ظ: تفسير القمي &rlm;2: 218، حاشية الشهاب على تفسير البيضاوي 7 : 254 .</span></span></p>
+</div>
+
+<div id="ftn11">
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><a href="#_ftnref11" name="_ftn11" title=""><span dir="LTR">[11]</span></a>التفسير الإمام الحسن العسكري <span dir="LTR">%</span> : 529.</span></span></p>
+</div>
+
+<div id="ftn12">
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><a href="#_ftnref12" name="_ftn12" title=""><span dir="LTR">[12]</span></a>ظ: الفخر الرازي: مفاتيح الغيب 23 : 221 .</span></span></p>
+</div>
+
+<div id="ftn13">
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><a href="#_ftnref13" name="_ftn13" title=""><span dir="LTR">[13]</span></a>ظ: المظفر: المنطق: 328.</span></span></p>
+</div>
+
+<div id="ftn14">
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><a href="#_ftnref14" name="_ftn14" title=""><span dir="LTR">[14]</span></a>سورة الكهف:31.</span></span></p>
+</div>
+
+<div id="ftn15">
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><a href="#_ftnref15" name="_ftn15" title=""><span dir="LTR">[15]</span></a>سورة الانسان:21.</span></span></p>
+</div>
+
+<div id="ftn16">
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><a href="#_ftnref16" name="_ftn16" title=""><span dir="LTR">[16]</span></a>ظ: الفخر الرازي: مفاتيح الغيب 29 :136-137 .</span></span></p>
+</div>
+
+<div id="ftn17">
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><a href="#_ftnref17" name="_ftn17" title=""><span dir="LTR">[17]</span></a>الاجانة- بكسـر فتشديد- إناء تغسل فيه الثياب و الجمع أجاجين.</span></span></p>
+</div>
+
+<div id="ftn18">
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><a href="#_ftnref18" name="_ftn18" title=""><span dir="LTR">[18]</span></a>توحيد المفضل : 127.</span></span></p>
+</div>
+
+<div id="ftn19">
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><a href="#_ftnref19" name="_ftn19" title=""><span dir="LTR">[19]</span></a>ظ: الخطيب: عبد الكريم: التفسير القرآني للقرآن الكريم 8 : 126 .</span></span></p>
+</div>
+
+<div id="ftn20">
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><a href="#_ftnref20" name="_ftn20" title=""><span dir="LTR">[20]</span></a>الزمخشري: أساس البلاغة :166 .</span></span></p>
+</div>
+
+<div id="ftn21">
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><a href="#_ftnref21" name="_ftn21" title=""><span dir="LTR">[21]</span></a>سورة الأنعام:99.</span></span></p>
+</div>
+
+<div id="ftn22">
+<p dir="RTL"><span style="font-family:aliMath"><span style="font-size: 20px;font-weight: 100;"><a href="#_ftnref22" name="_ftn22" title=""><span dir="LTR">[22]</span></a>ظ: كيف تتعلم الرسم وتعلمه : 122.</span></span></p>
+</div>
+</div>
+				<style>
+					.more{
+						margin-top: 15px;
+					}
+					.more .web_mode_night_color3:hover{
+						color: #f9cc83 !important ;
+					}
+					.more h3{
+						display: inline-block;
+						padding: 2px 10px;
+						border-radius: 0 10px;
+						color: #006097ba;
+						display: inline-flex;
+						flex-direction: row;
+						align-items: center
+					}
+					.more h3 img{
+						width: 30px;
+						padding-left: 3px;
+						margin-left: 8px;
+						border-left: 3px dashed #006097ba;
+					}
+					.more #moreSeenContent{
+						display: flex;
+						flex-direction: row;
+						flex-wrap: wrap;
+						justify-content: center;
+					}
+					.more #moreSeenContent div{
+						min-width: 180px;
+						display: flex;
+						flex-direction: row;
+						margin:0 5px;
+						margin-bottom: 10px;
+						/*background-color: #fafafa;*/
+						
+					}
+					.more #moreSeenContent div p{
+						line-height: normal;
+					}
+					.more #moreSeenContent div p:nth-child(1){
+						position: relative;
+						width: 10px;				
+					}
+					.more #moreSeenContent div p:nth-child(1) span{
+						position: absolute;
+						bottom:-7.5px;
+						right: 0px;
+						transform: translate(-50%,-50%) rotate(-45deg);
+						width: 8px;
+						height: 8px;
+						border-radius: 0 4px;
+					}
+					.more #moreSeenContent div p:nth-child(2){
+						width: 100%;
+						text-align: center;
+						padding:1px 5px;
+						padding-right: 13px;
+						color: #006097;
+						font-size: 15px;
+					}
+					
+					/*0000000000000000000*/
+					
+
+					.more #moreSeenContent div:nth-child(odd) p:nth-child(1) span{
+						background-color:#006097; 
+					}
+					.more #moreSeenContent div:nth-child(odd) p:nth-child(2){
+						color: #006097;
+						border-bottom: 1px dashed #006097;
+					}					
+
+					.more #moreSeenContent div:nth-child(even) p:nth-child(1) span{
+						background-color:#006097ba; 
+					}
+					.more #moreSeenContent div:nth-child(even) p:nth-child(2){
+						color: #006097;
+						border-bottom: 1px dashed #006097ba;
+					}
+					.more #newss{
+						margin-top: 25px;
+						display: flex;
+						flex-direction: row;
+						flex-wrap: wrap;
+						align-items: flex-start;
+						justify-content: space-around;
+					}
+					.more #newss .n-container{
+						margin-bottom: 20px;
+						width: 32%;
+						background-color: #fff;
+						box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+						min-width: 250px;
+						padding: 20px;
+						position: relative;
+						border-radius: 15px;
+						align-self: stretch;
+						display: flex;
+						flex-direction: column;
+						justify-content: space-around;
+					}
+					.more-button a{
+						position: relative;
+						display: flex;
+						align-items: center;
+					}
+					.more-button a img{
+						width: 22px;
+					}
+					.more #newss div h5{
+						color: #006097;
+					}
+					.more #newss div .new{
+						background-color:#fff;
+						box-shadow: 0 4px 10px rgba(0,0,0,0.09);
+						border-radius: 5px;
+						padding: 5px 10px;
+						margin-bottom: 3px;
+						display: flex;
+						flex-direction: row;
+						flex-wrap: wrap;	
+						position: relative;
+					}
+					.more #newss div .new:hover{
+						background: #006097;
+						color: #fafafa;
+					}
+					.more #newss div .new p{
+						font-size: 14px;
+					}
+					.more #newss div .new p{
+						line-height: 1.2;
+					}
+					@media only screen and (max-width: 590px) {
+						.more #newss .n-container{
+							width: 95%;
+							min-width: 95%;
+						}
+					}
+				</style>
+				<div class="more">
+					<h3 class="col2">
+					<img src="aliImg/filter.png" />
+					 الاكثر قراءة في <span style="color:red;padding-right:5px;"> مصطلحات قرآنية </span>					</h3>
+					<div id="moreSeenContent">
+						
+						<div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=14008">تعريف التفسير لغة واصطلاحا</a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=32786">معنى كلمة نجد‌</a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=29118">معنى كلمة عير</a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=15586">معنى كلمة دبر  </a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=2539">تعريف الأُسس لغة واصطلاحا</a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=8471">التفسير لغة واصطلاحا</a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=28463">معنى كلمة كهل‌</a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=32845">معنى كلمة نكح‌</a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=24868">معنى كلمة سقم‌</a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=37709">معنى كلمة ودق</a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=27900">معنى كلمة قسط‌</a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=29060">معنى كلمة علق</a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=5169">ما هو معنى كلوة (الآصال) ؟</a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=40658">تعريف التفسير اصطلاحا </a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=15589">معنى كلمة دحض  </a></p></div>					</div>
+				</div>
+				
+				<div class="more">
+					<h3 class="col2">
+					<img src="aliImg/newss.png" />
+						اخر الاخبار
+					</h3>
+					<div id="newss">
+						<div class="n-container bg9">
+							<h5>  اخبار العتبة العباسية المقدسة  </h5>
+							<div>
+								<img src="https://almerja.com/ph/img/small/1729170148-3098.jpg" />
+							</div>
+							<div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288162">سماحة السيد الصافي يكرم عددًا من عوائل الشهداء ضمن فعاليات مهرجان روح النبوة النسوي العالمي الثامن</a></p></div><div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288161">إحدى أمهات الشهداء: نعتز بتضحيات أبنائنا ونفتخر بشهادتهم دفاعًا عن الدين والمقدسات</a></p></div><div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288160">ضمن فعاليات مهرجان روح النبوة… عرض فيلم يوثق نشاطات الشعب النسوية في العتبة العباسية المقدسة</a></p></div><div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288157">فعاليات مهرجان روح النبوة الثقافي تشهد تقديم أوبريت الثقلين القرآني</a></p></div>							<div class="more-button">
+								<a class="col2" style="float: left" href="almerjaNews.php?fid=1188&page=1">
+									<img src="aliImg/left.png" />
+									<span>المزيد</span> 
+								</a>
+							</div>
+						</div>
+						
+						<div class="n-container bg9">
+							<h5>  الآخبار الصحية  </h5>
+							<div>
+								<img src="aliImg/health1.png" />
+							</div>
+							<div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288222">طبيب يكشف أفضل مكمل غذائي لتحسين المزاج ودعم الصحة النفسية</a></p></div><div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288221">دراسة جديدة تكشف أضرار الأطعمة الجاهزة على القلب ؟</a></p></div><div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288220">6 أطعمة طبيعية تهدئ الزكام دون أدوية.. تعرف عليهم </a></p></div><div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288219">ماذا يحدث لأعراض الزكام عند تناول الثوم بانتظام؟</a></p></div>	
+							<div class="more-button">
+								<a class="col2" style="float: left" href="almerjaNews.php?fid=813&page=1">
+									<img src="aliImg/left.png" />
+									<span>المزيد</span> 
+								</a>
+							</div>							
+							
+						</div>
+						
+						<div class="n-container bg9">
+							<h5>  الآخبار التكنلوجية  </h5>
+							<div>
+								<img src="aliImg/technology.png" />
+							</div>
+							<div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288226">ابتكار ثوري في بطاريات السيارات الكهربائية.. سعة أعلى 4 مرات </a></p></div><div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288225">ماذا يحدث لجسمك عند شرب الماء الساخن يوميا؟ </a></p></div><div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288224">7 فوائد "خفية" لشرب شاي الكركديه كل يوم </a></p></div><div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288092">دراسة تكشف قدرة الحيتان على سماع الأصوات منخفضة وعالية التردد من مسافة بعيدة </a></p></div>	
+							<div class="more-button">
+								<a class="col2" style="float: left" href="almerjaNews.php?fid=812&page=1">
+									<img src="aliImg/left.png" />
+									<span>المزيد</span> 
+								</a>
+							</div>									
+						</div>			
+						
+						
+						
+						
+						
+					</div>
+				</div>
+	
+			</div>
+			
+	
+		</div>
+		<div>
+									<div id="f-div" style="position: sticky;top: 80px;z-index:2;">
+							<h1 style="color: rgba(0, 96, 151,1);"> مواضيع ذات صلة  </h1>
+							<hr style="height: 6px;background-color: #FFF;width: 60px;position: relative;margin: auto;border: 0;;top: -5px;">
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=283410">سبب تسمية ام القرى</a></div>
+
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=281967">معنى كوثر وانحر والابتر  </a></div>
+
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=278887">مفهوم الاستقامة</a></div>
+
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=277899">معنى فَسَاهَمَ</a></div>
+
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=277564">معنى الارجاف (المرجفون)</a></div>
+
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=277561">معنى صلاة و التسليم</a></div>
+
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=276069">تسمية الفرقان فرقانا</a></div>
+
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=268491">مفهوم النسخ عند الصحابة</a></div>
+
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=268485">التعريف الاصطلاحي للنسخ عند الأصوليين</a></div>
+
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=268484">تعريف النسخ لغة</a></div>
+
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=268258">السعي ولقاء الله</a></div>
+
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=266993">تعريف علوم القرآن</a></div>
+
+
+							
+
+						</div>	
+			
+						
+
+		</div>
+				
+		
+		
+		
+	</div>
+</div>
+
+<script>
+	$('#postContent img').css({'max-width':'100%'});
+	
+	function pagination(page,fid,fName){
+		const intNightMode = $('#intNightMode').text();
+		$('title').text(fName);
+      $.ajax({
+       type: 'GET',
+        url: 'archiveMore.php',
+       data: {page:page , fid : fid , intNigh:intNightMode},
+       beforeSend: function(){
+		   var imgLoading = '<img style="position:relative;margin:auto;width:100%;max-width:30px;" src="aliImg/img24/loading.gif" />';
+          $('#nArchive').html(imgLoading); 
+       },
+       success: function(data){	
+		  $('html, body').stop().animate({scrollTop: $('#nArchive').offset().top-120}, 1000);
+          $('#nArchive').html(data);                              
+       }
+       });
+	}
+	function drop(ida){
+		var drop='.drop'+ida;
+		var plus='.plus'+ida;
+		var min='.minus'+ida;
+		$(drop).slideToggle();
+		$(plus).toggle();
+		$(min).toggle();
+	}
+</script>
+
+
+
+
+<style>
+#vMode{
+	display: grid;
+	grid-template-columns: 1fr 240px 1fr;
+	align-items: center;
+	margin: 20px 0;
+}
+#vMode p:nth-child(odd){
+	height: 3px;
+	background-color: #eee;
+}
+#vMode p:nth-child(1){
+	position: relative;
+	left: -5px;
+	z-index: 0;
+}
+#vMode p:nth-child(3){
+	position: relative;
+	right:-5px;
+	z-index: 0;
+}	
+#vMode p:nth-child(2){
+	border-radius: 20px;
+	display: inline-block;background-color: #eee;padding: 2px 20px;position: relative;margin: auto;
+}
+#vMode:hover p{
+background-color: #fff;
+}
+#go-to-top{
+	position: fixed;
+	bottom: 60px;
+	left: 10px;
+	width: 35px;
+	height: 35px;
+	border-radius: 30%;
+	border: 1px solid #006097;
+	background-color: #fff;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	z-index: 100;
+	cursor: pointer;
+	display: none;
+	transition: all 0.5s ease;
+}
+#go-to-top:hover{
+	background-color: #006097;
+}
+#go-to-top img{
+	width: 30px;
+	position: relative;
+	margin: auto;
+}
+.m-c {
+    position: relative;
+    margin: auto;
+    max-width: 1920px;
+}
+.m-c .footer24{
+	padding: 30px 10px;
+	max-width: 1320px;
+	position: relative;
+	margin: auto;
+	display: grid;
+	grid-template-columns: 1fr 70px;
+	align-items: center;		
+}	
+.m-c .footer24 #footer24R #h3{
+	font-size: 30px;
+	margin-bottom: 20px;
+	width: 100%;
+	text-align: center;
+	font-weight: solid;
+	color: #f9cc83;
+}
+	.m-c .footer24 #footer24R .f-fourm{
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.m-c .footer24 #footer24R .f-fourm div{	
+		padding: 2px 5px;
+		padding-right: 5px;
+		margin: 5px;
+		margin-bottom: 8px;
+		min-width: 200px;
+		width: 24%;
+		border-right: 3px solid #fff;
+		display: flex;
+		align-items: center;
+	}
+	.m-c .footer24 #footer24R .f-fourm div:hover{
+		background-color: #F9CC83;
+	}
+	.m-c .footer24 #footer24R .f-fourm div p{
+		padding-top: 3px;
+		color: #FFF;
+	}
+	.m-c .footer24 #footer24R .f-fourm div img , .m-c .footer24 #footer24R .f-fourm div svg{
+		width: 25px;
+		margin-left: 5px;
+		
+	}
+	.m-footer24{
+		background-color:#006097;padding: 10px 5px;margin-top:10px;
+	}
+	.m-c .footer24 #footer24L{
+		color: #fff;
+		font-size: 22px;
+	}
+	.m-c .footer24 #footer24L div{
+		display: flex;
+		align-items: center;
+	}
+	.m-c .footer24 #footer24L div img{
+		width: 30px;
+		height: auto;
+		margin-right: 8px;
+		position: relative;
+		top: -3px;
+	}
+	.choose{
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.choose div{
+		width: 33%;
+		max-width: 400px;
+		min-width: 250px;
+		margin: 5px 10px;
+	}
+</style>
+                            <div class="m-c choose" style="margin:5px;margin-top: 50px;display: none;">
+								<h3>  </h3>
+	                            								<div>
+									<a href="https://almerja.com/aklam/indexv2.php?id=343" style="text-decoration:none; color:#272525 ;font-family: a1;  text-align: center" >
+								   <img src="https://almerja.com/medea/aklam/R2/u17591347076291438687.jpg" width="100%"  alt="صورة موضوع : قسم الشؤون الفكرية يصدر كتاباً يوثق تاريخ السدانة في العتبة العباسية المقدسة" align="center" style=" margin: 10px 0px 10px 0px; -webkit-box-shadow: 0 0 5px 0 #d7d7d7;box-shadow: 0 0 5px 0 #d7d7d7; height: 70% ; border-radius: 5px ; "  />  
+									قسم الشؤون الفكرية يصدر كتاباً يوثق تاريخ السدانة في العتبة العباسية المقدسة</a>
+                                </div>
+                               								<div>
+									<a href="https://almerja.com/aklam/indexv2.php?id=339" style="text-decoration:none; color:#272525 ;font-family: a1;  text-align: center" >
+								   <img src="https://almerja.com/medea/aklam/R2/g17537770271381795447.jpg" width="100%"  alt="صورة موضوع : "المهمة".. إصدار قصصي يوثّق القصص الفائزة في مسابقة فتوى الدفاع المقدسة للقصة القصيرة" align="center" style=" margin: 10px 0px 10px 0px; -webkit-box-shadow: 0 0 5px 0 #d7d7d7;box-shadow: 0 0 5px 0 #d7d7d7; height: 70% ; border-radius: 5px ; "  />  
+									"المهمة".. إصدار قصصي يوثّق القصص الفائزة في مسابقة فتوى الدفاع المقدسة للقصة القصيرة</a>
+                                </div>
+                               								<div>
+									<a href="https://almerja.com/aklam/indexv2.php?id=333" style="text-decoration:none; color:#272525 ;font-family: a1;  text-align: center" >
+								   <img src="https://almerja.com/medea/aklam/R2/j17506640579654456423.jpg" width="100%"  alt="صورة موضوع : (نوافذ).. إصدار أدبي يوثق القصص الفائزة في مسابقة الإمام العسكري (عليه السلام)" align="center" style=" margin: 10px 0px 10px 0px; -webkit-box-shadow: 0 0 5px 0 #d7d7d7;box-shadow: 0 0 5px 0 #d7d7d7; height: 70% ; border-radius: 5px ; "  />  
+									(نوافذ).. إصدار أدبي يوثق القصص الفائزة في مسابقة الإمام العسكري (عليه السلام)</a>
+                                </div>
+                                
+						    </div>
+
+
+<div class="m-c">
+				<a href="https://t.me/almerjaweb">
+					<div style="padding: 20px;margin-top:20px;background-color: aqua;width: 100%;background-image: url('aliImg/telBgBlue.jpg');background-size: cover;background-position: bottom;display: flex;flex-wrap: wrap;flex-direction: row;align-items: center;justify-content: space-around;font-size:35px;color: #fff;">
+						<p style="min-width:150px;" class="col1"> اشترك بقناتنا على التلجرام ليصلك كل ما هو جديد  </p>
+						<img style="min-width:150px;" src="aliImg/tel.png" />
+					</div>
+				</a>	
+</div>
+<div class="m-c m-footer24"  style="position: relative;margin: auto;">
+	<div class="footer24">
+		<div id="footer24R">
+			 <div id="h3">تصفح أقسام الموقع</div>
+			 <div class="f-fourm">
+				 <div>
+					 <img src="aliImg/quraan_w.png" />
+					 <p><a href="archive.php?fid=1">القرآن الكريم و علومه</a></p>
+				 </div>                 
+				 <div>
+					 <img src="aliImg/allah.png" />
+					 <p><a href="archive.php?fid=240">العقائد الاسلامية</a></p>
+				 </div>				                  
+				 <div>
+<svg class="svg-inline--fa fa-kaaba fa-w-18" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="kaaba" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="#fff" d="M554.12 83.51L318.36 4.93a95.962 95.962 0 0 0-60.71 0L21.88 83.51A32.006 32.006 0 0 0 0 113.87v49.01l265.02-79.51c15.03-4.5 30.92-4.5 45.98 0l265 79.51v-49.01c0-13.77-8.81-26-21.88-30.36zm-279.9 30.52L0 196.3v228.38c0 15 10.42 27.98 25.06 31.24l242.12 53.8a95.937 95.937 0 0 0 41.65 0l242.12-53.8c14.64-3.25 25.06-16.24 25.06-31.24V196.29l-274.2-82.26c-9.04-2.72-18.59-2.72-27.59 0zM128 230.11c0 3.61-2.41 6.77-5.89 7.72l-80 21.82C37.02 261.03 32 257.2 32 251.93v-16.58c0-3.61 2.41-6.77 5.89-7.72l80-21.82c5.09-1.39 10.11 2.44 10.11 7.72v16.58zm144-39.28c0 3.61-2.41 6.77-5.89 7.72l-96 26.18c-5.09 1.39-10.11-2.44-10.11-7.72v-16.58c0-3.61 2.41-6.77 5.89-7.72l96-26.18c5.09-1.39 10.11 2.44 10.11 7.72v16.58zm176 22.7c0-5.28 5.02-9.11 10.11-7.72l80 21.82c3.48.95 5.89 4.11 5.89 7.72v16.58c0 5.28-5.02 9.11-10.11 7.72l-80-21.82a7.997 7.997 0 0 1-5.89-7.72v-16.58zm-144-39.27c0-5.28 5.02-9.11 10.11-7.72l96 26.18c3.48.95 5.89 4.11 5.89 7.72v16.58c0 5.28-5.02 9.11-10.11 7.72l-96-26.18a7.997 7.997 0 0 1-5.89-7.72v-16.58z"></path></svg>
+					 <p><a href="archive.php?fid=703">الفقه الاسلامي واصوله</a></p>
+				 </div>				                  
+				 <div>
+					 <img src="aliImg/mohammed.png" />
+					 <p><a href="archive.php?fid=241">سيرة الرسول وآله</a></p>
+				 </div>				                  
+				 <div>
+					 <img src="aliImg/men.png" />
+					 <p><a href="archive.php?fid=242">الحديث والرجال والتراجم</a></p>
+				 </div>                
+				 <div>
+					 <img src="aliImg/hand.png" />
+					 <p><a href="archive.php?fid=2089">الأخلاق والادعية</a></p>
+				 </div>				                  
+				 <div>
+<svg class="svg-inline--fa fa-users fa-w-20" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="users" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="#fff" d="M96 224c35.3 0 64-28.7 64-64s-28.7-64-64-64-64 28.7-64 64 28.7 64 64 64zm448 0c35.3 0 64-28.7 64-64s-28.7-64-64-64-64 28.7-64 64 28.7 64 64 64zm32 32h-64c-17.6 0-33.5 7.1-45.1 18.6 40.3 22.1 68.9 62 75.1 109.4h66c17.7 0 32-14.3 32-32v-32c0-35.3-28.7-64-64-64zm-256 0c61.9 0 112-50.1 112-112S381.9 32 320 32 208 82.1 208 144s50.1 112 112 112zm76.8 32h-8.3c-20.8 10-43.9 16-68.5 16s-47.6-6-68.5-16h-8.3C179.6 288 128 339.6 128 403.2V432c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48v-28.8c0-63.6-51.6-115.2-115.2-115.2zm-223.7-13.4C161.5 263.1 145.6 256 128 256H64c-35.3 0-64 28.7-64 64v32c0 17.7 14.3 32 32 32h65.9c6.3-47.4 34.9-87.3 75.2-109.4z"></path></svg>
+					 <p><a href="archive.php?fid=109">الاسرة والمجتمع</a></p>
+				 </div>
+				 <div>
+					 <img src="aliImg/arabic.png" />
+					 <p><a href="archive.php?fid=244">علوم اللغة العربية</a></p>
+				 </div>				                  
+				 <div>
+					 <img src="aliImg/adaab.png" />
+					 <p><a href="archive.php?fid=556">الادب العربي</a></p>
+				 </div>
+				 <div>
+					 <img src="aliImg/history.png" />
+					 <p><a href="archive.php?fid=899">التأريخ</a></p>
+				 </div>				 
+				 <div>
+					 <img src="aliImg/geo.png" />
+					 <p><a href="archive.php?fid=1845">الجغرافية</a></p>
+				 </div>				 	 
+				 <div>
+					 <img src="aliImg/eco.png" />
+					 <p><a href="archive.php?fid=900">الادارة والاقتصاد</a></p>
+				 </div>				 				 
+				 <div>
+					 <img src="aliImg/law.png" />
+					 <p><a href="archive.php?fid=973">القانون</a></p>
+				 </div>				 
+				 <div>
+					 <img src="aliImg/aalam.png" />
+					 <p><a href="archive.php?fid=10000239">الاعلام</a></p>
+				 </div>				 				 
+				 <div>
+					 <p style="text-align: center;margin-left: 5px;">EN</p>
+					 <p><a href="archive.php?fid=7633">English Language</a></p>
+				 </div>				 				 
+				 <div>
+					 <img src="aliImg/zraa.png" />
+					 <p><a href="archive.php?fid=706">الزراعة</a></p>
+				 </div>				 				 				 
+				 <div>
+					 <img src="aliImg/phisic.png" />
+					 <p><a href="archive.php?fid=705"></a>علم الفيزياء</p>
+				 </div>
+				 <div>
+					 <img src="aliImg/chime.png" />
+					 <p><a href="archive.php?fid=704">علم الكيمياء</a></p>
+				 </div>				 
+				 <div>
+					 <img src="aliImg/dna.png" />
+					 <p><a href="archive.php?fid=708">علم الأحياء</a></p>
+				 </div>				 
+				 <div>
+					 <img src="aliImg/math.png" />
+					 <p><a href="archive.php?fid=707">الرياضيات</a></p>
+				 </div>				 
+				 <div>
+					 <img src="aliImg/eng.png" />
+					 <p><a href="archive.php?fid=21">الهندسة</a></p>
+				 </div>				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+			 </div>
+		</div>
+		<div id="footer24L">
+			<div>
+				<a href="en/index.php" style="font-family: a1;">EN</a>
+				<img src="https://almerja.com/footer/img_2023/language.png" />				
+			</div>
+		</div>
+	</div>
+
+	
+	
+	
+
+</div>
+
+
+
+
+
+<div id="go-to-top">
+	<img src="aliImg/top.svg" />
+</div>
+
+
+
+ 
+<script>
+	$('#go-to-top').click(function(){
+		$("html, body").animate({scrollTop: 0}, 100);
+	});
+</script>
+
+
+
+
+
+<script src="aliJs/js.0.0.0.js"></script>
+<script src="aliJs/js24/cookie.js"></script>
+<script src="aliJs/js24/nightMode.0.0.4.js"></script>
+
+	<script>		
+		$('#cbp-hrmenu').css({'display':'flex','align-items':'center','justify-content':'center'});
+		$('#textarea-from').css({'background-color':'#fff','border':'2px solid #025f94','max-width':'650px','outline':'none'});
+		$('#bottbloy').css({'padding':'11px 10px'});
+	</script>
+
+
+</div>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.getElementById("loader").style.display = "none";
+    document.getElementById("content").style.display = "block";
+	$('html, body').stop().animate({scrollTop: $('#nArchive').offset().top}, 1000);
+  });
+	
+</script>
+
+</body>
+</html>

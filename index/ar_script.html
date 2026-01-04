@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Script — Captures & Explications</title>
+
+  <link rel="stylesheet" href="../assets/css/base.css">
+  <link rel="stylesheet" href="../assets/css/components.css">
+  <link rel="stylesheet" href="../assets/css/pages/script.css">
+</head>
+
+<body>
+
+  <main class="script-section">
+
+    <div class="script-block">
+      <div class="glass-container">
+        <img src="../script_image/ar/tableau1.png">
+        <img src="../script_image/ar/tableau2.png">
+        <img src="../script_image/ar/tableau3.png">
+      </div>
+
+      <div class="script-caption">
+        <strong>Explication :</strong>
+
+        <p>
+          Ce premier script a pour mission de créer une <em>base de données textuelle</em> structurée à partir d'un ensemble d'<em>URLs</em> préalablement sélectionnées.
+        </p>
+
+        <p>
+          Pour ce faire, il analyse chaque adresse de la liste afin d'en extraire les informations essentielles, à savoir le <em>code HTTP</em> et le <em>type d'encodage</em>.
+        </p>
+
+        <p>
+          Il procède ensuite au téléchargement du <em>code HTML</em> de chaque page. Grâce à l'outil <em>lynx</em>, il transforme ce code complexe en un <em>texte brut</em> épuré, appelé <em>dump</em>, qui est totalement débarrassé des éléments parasites comme les balises, les scripts ou les menus de navigation.
+        </p>
+
+        <p>
+          Une fois ce texte propre obtenu, le but principal est de dénombrer les apparitions de notre <em>mot cible</em> au sein d'une variable de <em>compte</em>. Pour optimiser cette recherche, le script utilise une variable <em>mot</em> définie par une expression régulière (<em>regex</em>).
+        </p>
+
+        <p>
+          Cette dernière est particulièrement efficace car elle inclut le terme écrit avec ou sans ses <em>diacritiques arabes</em>, permettant ainsi d'élargir la détection même aux mots <em>vocalisés</em>. À partir de ce <em>dump</em>, le programme génère des fichiers de <em>contexte</em> où chaque phrase contenant le mot est isolée sur une ligne distincte.
+        </p>
+
+        <p>
+          Enfin, le script produit un <em>concordancier HTML</em> conçu spécifiquement pour la langue arabe. En utilisant l'attribut <em>dir="rtl"</em>, il garantit un affichage correct du sens de lecture de <em>droite à gauche</em>. Ce concordancier se présente sous la forme d'un tableau à trois colonnes où sont soigneusement alignés le <em>contexte gauche</em>, le <em>contexte droit</em> et le <em>mot cible</em> au centre.
+        </p>
+
+        <p>
+          Toutes ces données finales sont regroupées dans un <em>tableau HTML</em> récapitulatif, offrant une ligne pour chaque <em>URL</em> et une colonne pour chaque type d'<em>information</em> récoltée.
+        </p>
+      </div>
+    </div>
+
+    <div class="script-block">
+      <div class="glass-container">
+        <img src="../script_image/ar/conversion.png">
+        <img src="../script_image/ar/corpus.png">
+        <img src="../script_image/ar/avec_conversion.png">
+        <img src="../script_image/ar/sans_conversion.png">
+      </div>
+
+      <div class="script-caption">
+        <strong>Explication :</strong>
+
+        <p>
+          Afin de garantir la lisibilité du texte arabe, un script de <em>normalisation</em> est indispensable. Il utilise la commande <em>file -bi</em> pour détecter l'<em>encodage</em> d'origine de chaque fichier (souvent de l'<em>ISO-8859</em>) et applique l'outil <em>iconv</em> pour les convertir uniformément en <em>UTF-8</em>. Cette étape technique est celle qui corrige les erreurs d'affichage majeures.
+        </p>
+
+        <p>
+          Comme on peut le constater sur les captures d'écran fournies, le fichier <em>dump sans conversion</em> affiche des caractères corrompus et illisibles, tandis que le second fichier, après l'exécution du script de <em>conversion</em>, révèle un contenu arabe parfaitement clair et structuré.
+        </p>
+
+        <p>
+          Enfin, un script de <em>concaténation</em> fusionne l'ensemble de ces données propres avec la commande <em>cat</em> pour créer le fichier <em>corpus_arabe.txt</em>, servant de base finale à nos analyses.
+        </p>
+      </div>
+    </div>
+
+    <div class="script-block">
+      <div class="glass-container">
+        <img src="../script_image/ar/nuagepy1.png">
+        <img src="../script_image/ar/nuagepy2.png">
+      </div>
+
+      <div class="script-caption">
+        <strong>Explication :</strong>
+
+        <p>
+          Ce script Python a pour fonction de générer un <em>nuage de mots</em>. Il commence par : le script importe les bibliothèques nécessaires pour manipuler les images (PIL, numpy), traiter la langue arabe (arabic_reshaper), gérer les fichiers (os) et effectuer des recherches complexes (re). Il les configure, ensuite il importe le fichier de données <em>tsv</em> contenant les fréquences, un <em>mask</em> d'image pour définir la forme du nuage, et une police de caractères spécifique, <em>Amiri-Regular.ttf</em>. Cette police est essentielle pour le rendu correct des glyphes arabes.
+        </p>
+
+        <p>
+          Il procède ensuite au filtrage du fichier avec une liste de <em>stopwords</em> qui est définie pour écarter les mots outils, tels que les prépositions et les pronoms... De même, par la suite du programme, il enlève aussi le "wa" de coordination ; sans cette étape, le nuage serait dominé par cette lettre, masquant ainsi les véritables concepts clés.
+        </p>
+
+        <p>
+          En complément de ce filtrage, le script utilise une <em>expression régulière</em> (<em>regex</em>) spécifique pour s'assurer que seuls les mots composés de caractères appartenant  à l'<em>alphabet arabe</em> sont conservés. Pour éviter qu'un terme trés fréquent n'écrase visuellement tous les autres, la variable <em>MAX_REPEAT_PER_WORD</em> limite la répétition d'un même mot à 200 occurrences. Ces deux contraintes garantissent que le nuage reste <em>homogène</em> et focalisé sur les mots pertinent.
+        </p>
+
+        <p>
+          Une fois les données filtrées, le script regroupe tous les mots conservés dans une seule chaîne de caractères, ensuite la bibliothèque <em>arabic_reshaper</em> transforme le texte pour que chaque lettre adopte sa <em>forme contextuelle</em> exacte (initiale, médiane ou finale). Cette étape est importante pour que les mots arabes ne s'affichent pas en lettres détachées et soient lisibles dans le rendu final.
+        </p>
+
+        <p>
+          Ensuite, le script passe à la <em>génération graphique</em> du nuage. Il utilise <em>NumPy</em> pour définir les zones où les mots peuvent apparaître comme dans le mask. Le nuage est ensuite configuré avec la police <em>Amiri</em>, un mode <em>RGBA</em> pour la transparence et un réglage <em>prefer_horizontal</em> à 0.95.
+        </p>
+
+        <p>
+          Enfin, le script applique une couleur blanche uniforme à tous les mots grâce à une fonction <em>lambda</em>, assurant ainsi une esthétique épurée. La bibliothèque <em>os</em> permet l'<em>exportation</em> finale du nuage au format <em>PNG</em>. Le processus se termine par l'affichage d'un message de succès dans la console, confirmant la création du nuage de mots.
+        </p>
+      </div>
+    </div>
+
+  </main>
+
+</body>
+</html>
